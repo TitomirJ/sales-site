@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-07 22:14:22">
+<shop>
+<name>eLook</name>
+<company>eLook</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="70918971" parentId="42028424">Резинові Чоботи</category>
+<category id="70910573" parentId="42028424">Балетки, Туфлі</category>
+<category id="42028424" parentId="19217065">Взуття Для Дівчаток</category>
+<category id="19217065">Взуття Для Дітей Та Підлітків</category>
+<category id="42028442" parentId="19217065">Взуття Для Хлопчиків</category>
+<category id="43492076" parentId="19217065">Кімнатні Тапки Дитячі</category>
+<category id="22057376" parentId="19564805">Чоловічі Сонцезахисні Окуляри</category>
+<category id="22062908" parentId="19564805">Жіночі Сонцезахисні Окуляри</category>
+<category id="29956001" parentId="19564805">Іміджеві Окуляри - Аксесуарні</category>
+<category id="62337085" parentId="19217065">Акватапки Для Дітей</category>
+<category id="42041546" parentId="19217065">Футбольне Взуття</category>
+<category id="70910400" parentId="70910394">Босоніжки, Сандалі</category>
+<category id="70910394" parentId="42028424">Літнє Взуття</category>
+<category id="70919010" parentId="19217065">Взуття Для Немовлят</category>
+<category id="70919544" parentId="42028442">Кросівки, Кеди</category>
+<category id="70919546" parentId="42028442">Резинові Чоботи</category>
+<category id="70919980" parentId="42028442">Класичне Взуття</category>
+<category id="70910401" parentId="70910394">Шльопки, Тапки, Сабо</category>
+<category id="70977873" parentId="19217065">Взуття Для Танців</category>
+<category id="19564805">Сонцезахисні Окуляря Для Всієї Родини</category>
+<category id="70910518" parentId="42028424">Кросівки, Кеди, Сліпони, Мокасини</category>
+<category id="70919205" parentId="42028442">Літнє Взуття</category>
+</categories>
+<offers>
+<offer available="true" id="953728704">
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>22062908</categoryId>
+<picture>https://images.ua.prom.st/2095714438_zhenskie-solntsezaschitnye-ochki.jpg</picture>
+<picture>https://images.ua.prom.st/2095714956_zhenskie-solntsezaschitnye-ochki.jpg</picture>
+<name>Женские Солнцезащитные очки &quot;Aras&quot; Цвет - коричневый</name>
+<vendorCode>2768 brown </vendorCode>
+<description><![CDATA[ширина с оправой 14 см, высота с оправой 6 см, длина дужки 14 см]]></description>
+<param name="Цвет">коричневый</param>
+<param name="Цвет линз">Коричневый</param>
+<param name="Размер">ширина с оправой 14 см, высота с оправой 6 см, длина дужки 14 см</param>
+<param name="Пол">женские</param>
+<param name="Состав">Материал линзы: поликарбонат. Материал оправы: пластик</param>
+<param name="Сезон">всесезон</param>
+<param name="Товар">Солнцезащитные очки</param>
+</offer>
+<offer available="true" id="953728706">
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>22062908</categoryId>
+<picture>https://images.ua.prom.st/1742528158_zhenskie-solntsezaschitnye-ochki.jpg</picture>
+<picture>https://images.ua.prom.st/1742528146_zhenskie-solntsezaschitnye-ochki.jpg</picture>
+<name>Женские Солнцезащитные очки &quot;Aras&quot; Цвет - коричневый</name>
+<vendorCode>1932 brown </vendorCode>
+<description><![CDATA[ширина с оправой 14 см, высота с оправой 6 см, длина дужки 14 см]]></description>
+<param name="Цвет">коричневый</param>
+<param name="Пол">женские</param>
+<param name="Цвет линз">Коричневый</param>
+<param name="Размер">ширина с оправой 14 см, высота с оправой 6 см, длина дужки 14 см</param>
+<param name="Состав">Материал линзы: поликарбонат. Материал оправы: нет оправы</param>
+<param name="Сезон">всесезон</param>
+<param name="Товар">Солнцезащитные очки</param>
+<param name="Оптическое покрытие"></param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

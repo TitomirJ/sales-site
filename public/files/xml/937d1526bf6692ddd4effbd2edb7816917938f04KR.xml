@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-02-13 18:02">
+  <shop>
+    <name>Интернет магазин  SALES GROUP</name>
+    <company>Интернет магазин  SALES GROUP</company>
+    <url>https://sales-group.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="21230251">Рюкзаки</category>
+      <category id="18608253">ТАКТИЧЕСКИЕ МАСКИ-БАЛАКЛАВЫ</category>
+      <category id="18587162" parentId="18587133">Свитшот FDR</category>
+      <category id="18587161" parentId="18587133">Шапки FDR</category>
+      <category id="18587160" parentId="18587133">Спортивные сумки FDR</category>
+      <category id="18587159" parentId="18587133">Баффы FDR</category>
+      <category id="18587158" parentId="18587133">Балаклавы FDR</category>
+      <category id="18587157" parentId="18587133">Поясные сумки</category>
+      <category id="18587155" parentId="18587133">Анораки fdr</category>
+      <category id="18587134">Одежда и Аксессуары Hard Voice</category>
+      <category id="15980093">Тактическая ручка / Кубатон / Явары </category>
+      <category id="70988788">Маски на лицо</category>
+      <category id="41219310">Телескопические дубинки</category>
+      <category id="30938756">Бейсбольные биты с логотипом автомобиля (АВТОБИТА)</category>
+      <category id="24093791">Досмотровые зеркала</category>
+      <category id="21227323">Фонарики тактические</category>
+      <category id="70988344">Нагрудные сумки Chest Rig / Броники «Stockton» Bad Monkey</category>
+      <category id="41965365" parentId="18587133">Комплект Шапка + Бафф FDR</category>
+      <category id="11195033">Перчатки тактические</category>
+      <category id="18587133">Одежда и Аксессуары ''Дядя Федор'', FDR WEAR™</category>
+      <category id="25339480">Футболки Поло и Регланы Yard</category>
+      <category id="18587163" parentId="18587133">Шорты fdr</category>
+      <category id="18587164" parentId="18587133">Панамы FDR</category>
+      <category id="18587165" parentId="18587133">Кепки</category>
+      <category id="18587166" parentId="18587133">Варежки</category>
+      <category id="18587153" parentId="18587133">Сумки на плече/мессенджер FDR</category>
+      <category id="18587154" parentId="18587133">Спортивные костюмы FDR</category>
+      <category id="18587156" parentId="18587133">Браслеты из паракорда</category>
+    </categories>
+  <offers>
+<offer available="true" id="612177743">
+    <url>https://sales-group.com.ua/p612177743-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009570228_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741394_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968768206_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741393_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741850_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968746833_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741414_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect Lighting Apple зарядка 2.4А  для iPhone / iPad (GunMetal)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AU</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет">Темно-серый</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="613791313">
+    <url>https://sales-group.com.ua/p613791313-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009626460_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972959199_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972971676_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741393_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972956945_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972955079_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741394_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect Lighting Apple зарядка 2.4А  для iPhone / iPad (Silver)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AS</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Серебряный</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="613797356">
+    <url>https://sales-group.com.ua/p613797356-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009632586_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/973000475_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972998578_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972996052_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972997081_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972997082_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972999741_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect Lighting Apple зарядка 2.4А  для iPhone / iPad (Gold)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AG</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Золотой</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="630115344">
+    <url>https://sales-group.com.ua/p630115344-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009689967_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009669292_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668219_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668220_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668221_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668224_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668233_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009669289_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009669290_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect microUSB Android зарядка 2.4А (Gold)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MG</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Android устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Золотой</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">micro-USB</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="630127370">
+    <url>https://sales-group.com.ua/p630127370-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009723407_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009723206_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721888_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721889_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009722884_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721054_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009723205_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721893_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect microUSB Android зарядка 2.4А (Silver) </name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MS</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка USB-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для micro USB устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Серебряный</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">mini-USB </param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="630136208">
+    <url>https://sales-group.com.ua/p630136208-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009737012_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736452_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741850_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009735352_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009735472_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009735770_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736085_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736086_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>⭐⭐⭐⭐⭐Магнитный кабель ASAP X-Connect microUSB Android зарядка 2.4А (GunMetal)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MU</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Android устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет">Темно-серый</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">micro-USB</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670887093">
+    <url>https://sales-group.com.ua/p670887093-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/968741394_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009570228_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164407748_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741393_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741850_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968746833_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164386884_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect Lighting (Apple) зарядка 2.4А  для iPhone / iPad (GunMetal)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AU</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет">Темно-серый</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670887190">
+    <url>https://sales-group.com.ua/p670887190-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/972959199_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164408088_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972971676_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009626460_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741393_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972956945_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972955079_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741394_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect Lighting (Apple) зарядка 2.4А  для iPhone / iPad (Silver)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AS</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Серебряный</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670887447">
+    <url>https://sales-group.com.ua/p670887447-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/972996052_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972997081_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/973000475_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009632586_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164408485_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972998578_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972997082_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968773384_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/972999741_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect Lighting (Apple) зарядка 2.4А  для iPhone / iPad (Gold)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1AG</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Apple устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: lighting
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+iPHONE
+
+
+
+iPhone X
+
+iPhone 8
+
+iPhone 8 Plus
+
+iPhone 7
+
+iPhone 7 Plus
+
+iPhone 6
+
+iPhone 6 Plus
+
+iPhone 6s
+
+iPhone 6s Plus
+
+iPhone 5
+
+iPhone 5с
+
+iPhone 5с
+
+iPhone SE
+
+iPhone 4С
+
+
+
+ 
+
+iPAD МОДЕЛИ
+
+
+
+IPad с дисплеем Retina
+
+IPad Mini
+
+IPad Mini-2
+
+IPad Air
+
+IPad 2 Air
+
+IPad Mini 3
+
+IPad Mini 4
+
+IPad Pro (9,7-дюймовый)
+
+IPad Pro (12,9-дюймовый)
+
+
+
+IPOD МОДЕЛИ
+
+Ipod Nano седьмого поколения
+
+Ipod Touch 5-го поколения 32GB / 64GB
+
+Ipod Touch 16GB 5-го поколения
+
+Ipod Touch 6-го поколения
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Золотой</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">Apple Lightning</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670887678">
+    <url>https://sales-group.com.ua/p670887678-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009669292_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668219_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164409455_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009689967_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668220_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668221_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009668224_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009669289_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009669290_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect microUSB (Android) зарядка 2.4А (Gold)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MG</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Android устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Золотой</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">micro-USB</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670887814">
+    <url>https://sales-group.com.ua/p670887814-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009723206_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009722884_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164409934_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009723407_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721888_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721889_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721054_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009723205_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009721893_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect microUSB (Android) зарядка 2.4А (Silver) </name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MS</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка USB-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+ 
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для micro USB устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет" unit="">Серебряный</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">mini-USB </param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+  <offer available="true" id="670888315">
+    <url>https://sales-group.com.ua/p670888315-magnitnyj-kabel-asap.html</url>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>25339480</categoryId>
+    <picture>https://images.ua.prom.st/1009735352_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1164409127_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009735472_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009737012_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736452_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968741413_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009735770_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736085_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/968742577_magnitnyj-kabel-asap.jpg</picture>
+    <picture>https://images.ua.prom.st/1009736086_magnitnyj-kabel-asap.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Магнитный кабель ASAP X-Connect  microUSB (Android) зарядка 2.4А (GunMetal)</name>
+    <vendor>ASAP TECHNOLOGIES</vendor>
+    <vendorCode>XCONS1MU</vendorCode>
+    <country_of_origin>Австралия</country_of_origin>
+    <description>
+
+ОБЗОР
+
+Магнитный usb кабель asap connect для зарядки apple и android устройств с запатентованной технологией магнитного соединения с 18К позолотой наконечников (750 проба). Заряжает мобильные устройства быстро, удобно и надёжно. Магнитный кабель состоит из двух частей . первая (коннектор) вставляется в мобильное устройство и, а вторая сам usb кабель который соединяется  с коннектором за счёт двух сильных неодимовых магнитов класса n52. Неодимовые магниты являются самыми сильными коммерческими магнитами
+
+в мире. Внешняя оболочка Usb-кабель  изготовлена из износостойкого нейлона. Обеспечивает максимальную прочность и устойчивость к перебиванию шнура. Кабель работает полноценно и не только заряжает телефон, но и синхронизирует его
+
+с компьютером. Магнитный кабель asap позволяет защитить ваше устройство от случайных рывков. Две стороны кабеля реверсивные и подключаются любой стороной, двухсторонний usb type-a и магнитный коннектор. Светящийся led индикатор синего цвета на алюминиевом корпусе коннектора показывает процесс зарядки вашего устройства. Кабель подключается даже одной рукой, Достаточно поднести устройство на расстоянии до 4х сантиметров как
+
+он моментально примагнитится и начнется процесс заряда.
+
+ 
+
+
+
+ 
+
+ОСОБЕННОСТИ
+
+
+	запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+	неодимовые магниты  класса n52
+	алюминиевый корпус с led индикатором синего цвета
+	функция заряда и синхронизации
+	двухсторонний usb type a
+	нейлоновый плетеный кабель
+
+
+
+
+
+
+
+
+ 
+
+ВЫ ЗАМЕТИЛИ
+
+запатентованная технология магнитного соединения с 18К позолотой наконечников (750 проба)
+
+ 
+
+
+
+
+
+ 
+
+ЧТО В КОРОБКЕ?
+
+
+	магнитный usb кабель asap connect (1.2м)
+	коннектор для Android устройств.
+	силиконовый ремешок для кабеля.
+
+
+ 
+
+ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
+
+Тип кабеля: usb type А
+
+Коннектор: micro USB
+
+Длинна кабеля: 1.2 м
+
+Зарядка: 2.1 а
+
+Сила магнита: 400 г.
+
+
+
+ИНФОРМАЦИЯ О ПРОИЗВОДИТЕЛЕ
+
+ASAP TECHNOLOGY / DESIGNED IN AUSTRALIA /  MADE IN P.R.C
+
+ 
+
+СОВМЕСТИМОСТЬ
+
+зарядка кабель для мобильного с micro USB , планшеты Android, геймпад PlayStation 4 / 4 PRO
+
+
+
+
+
+
+
+
+</description>
+    <param name="Состояние">Hовое</param>
+    <param name="Гарантийный срок" unit="мес">3</param>
+    <param name="Цвет">Темно-серый</param>
+    <param name="Тип" unit="">Магнитная зарядка</param>
+    <param name="Тип разъема" unit="">micro-USB</param>
+    <param name="Назначение" unit="">Универсальное</param>
+    <param name="Количество USB-портов" unit="">1</param>
+    <param name="Номинальная сила тока" unit="А">2.1</param>
+    <param name="Вид" unit="">Зарядное устройство</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

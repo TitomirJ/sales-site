@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-03 22:50:36">
+<shop>
+<name>бленда-шоп</name>
+<company>бленда-шоп</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="71318538" parentId="4544798">Нейтрально-серые фильтры диаметром 49 мм</category>
+<category id="66434741" parentId="4507759">CPL фильтры диаметром 37 мм</category>
+<category id="43754955" parentId="4422514">Металлические бленды под конус (угловые)</category>
+<category id="36698141" parentId="7013919">Чехлы и футляры для фотоаппаратов Olympus</category>
+<category id="32294183" parentId="4577569">Крышки передние для объективов Pentax </category>
+<category id="29853264" parentId="3888382">Батарейные блоки для фотовспышек</category>
+<category id="29126678" parentId="3890436">Защита LCD экранов для экшн-камер XIAOMI</category>
+<category id="28292224" parentId="7013919">Чехлы и футляры для фотоаппаратов Samsung</category>
+<category id="4657969" parentId="4488562">Кольцевые вспышки - для макро и видеосъемки</category>
+<category id="4657238" parentId="4489649">Адаптеры для фотокамер PENTAX</category>
+<category id="4657155" parentId="4489649">Адаптеры для фотокамер SONY</category>
+<category id="4657154" parentId="4489649">Адаптеры для фотокамер NIKON</category>
+<category id="4657153" parentId="4489649">Адаптеры для фотокамер CANON</category>
+<category id="4634883" parentId="3890719">Плечевые ремни для камер</category>
+<category id="4612826" parentId="4612805">Крышки задние для объективов с резьбой М42 и М39</category>
+<category id="4612808" parentId="4612805">Крышки передние для объективов - универсальные</category>
+<category id="4612806" parentId="4612805">Крышки передние для объективов - универсальные с внутренним зацепом и шнурком</category>
+<category id="4612801" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов PANASONIC</category>
+<category id="4612437" parentId="3888420">Наглазники для фотоаппаратов NIKON</category>
+<category id="4577970" parentId="4577567">Крышки задние для объективов и на тушки (body) SONY</category>
+<category id="4577784" parentId="4577567">Крышки передние для объективов SONY</category>
+<category id="4577727" parentId="4577564">Крышки задние для объективов и на тушки (body) NIKON</category>
+<category id="4577678" parentId="4577564">Крышки передние для объективов NIKON</category>
+<category id="4577583" parentId="3888394">Крышки передние для объективов CANON</category>
+<category id="4577571" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов OLYMPUS</category>
+<category id="4577569" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов PENTAX</category>
+<category id="4577567" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов SONY</category>
+<category id="4577564" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов NIKON</category>
+<category id="4575124" parentId="4563709">Классическая пластиковая защита экрана для камер NIKON</category>
+<category id="4575123" parentId="4563709">Защита LCD экрана для камер NIKON - актиническое стекло</category>
+<category id="4563710" parentId="3890436">Защита LCD экранов для фотокамер SONY</category>
+<category id="4561329" parentId="3888400">Пульты дистанционного управления для фотоаппаратов OLYMPUS</category>
+<category id="4561213" parentId="3888400">Пульты дистанционного управления для фотоаппаратов SAMSUNG</category>
+<category id="4561212" parentId="3888400">Пульты дистанционного управления для фотоаппаратов PENTAX</category>
+<category id="4561211" parentId="3888400">Пульты дистанционного управления для фотоаппаратов SONY</category>
+<category id="4561209" parentId="3888400">Пульты дистанционного управления для фотоаппаратов NIKON</category>
+<category id="4550470" parentId="4550464">Светофильтры CLOSE UP диаметром 67 мм</category>
+<category id="4550469" parentId="4550464">Светофильтры CLOSE UP диаметром 62 мм</category>
+<category id="4550468" parentId="4550464">Светофильтры CLOSE UP диаметром 58 мм</category>
+<category id="4550467" parentId="4550464">Светофильтры CLOSE UP диаметром 55 мм</category>
+<category id="4550466" parentId="4550464">Светофильтры CLOSE UP диаметром 52 мм</category>
+<category id="4550464" parentId="4488554">Макролинзы - CLOSE UP светофильтры</category>
+<category id="4544816" parentId="4544798">Нейтрально-серые фильтры диаметром 77 мм</category>
+<category id="4544814" parentId="4544798">Нейтрально-серые фильтры диаметром 67 мм</category>
+<category id="4544809" parentId="4544798">Нейтрально-серые фильтры диаметром 52 мм</category>
+<category id="4533569" parentId="4533558">STAR фильтры диаметром 77 мм</category>
+<category id="4533566" parentId="4533558">STAR фильтры диаметром 72 мм</category>
+<category id="4533565" parentId="4533558">STAR фильтры диаметром 67 мм</category>
+<category id="4533563" parentId="4533558">STAR фильтры диаметром 62 мм</category>
+<category id="4533562" parentId="4533558">STAR фильтры диаметром 58 мм</category>
+<category id="4533559" parentId="4533558">STAR фильтры диаметром 52 мм</category>
+<category id="4533558" parentId="4488554">Звездные светофильтры - STAR</category>
+<category id="4533297" parentId="4533287">Градиентные фильтры диаметром 77 мм</category>
+<category id="4533296" parentId="4533287">Градиентные фильтры диаметром 72 мм</category>
+<category id="4533295" parentId="4533287">Градиентные фильтры диаметром 67 мм</category>
+<category id="4533294" parentId="4533287">Градиентные фильтры диаметром 62 мм</category>
+<category id="4533293" parentId="4533287">Градиентные фильтры диаметром 58 мм</category>
+<category id="4533292" parentId="4533287">Градиентные фильтры диаметром 55 мм</category>
+<category id="4533290" parentId="4533287">Градиентные фильтры диаметром 52 мм</category>
+<category id="4533287" parentId="4488554">Градиентные (graduated) светофильтры</category>
+<category id="4533242" parentId="4507759">CPL фильтры диаметром 77 мм</category>
+<category id="4533241" parentId="4507759">CPL фильтры диаметром 72 мм</category>
+<category id="4533240" parentId="4507759">CPL фильтры диаметром 67 мм</category>
+<category id="4533239" parentId="4507759">CPL фильтры диаметром 62 мм</category>
+<category id="4533238" parentId="4507759">CPL фильтры диаметром 58 мм</category>
+<category id="4533237" parentId="4507759">CPL фильтры диаметром 55 мм</category>
+<category id="4533235" parentId="4507759">CPL фильтры диаметром 52 мм</category>
+<category id="4529871" parentId="3885471">Кольца штативные для объективов CANON</category>
+<category id="4529562" parentId="4488554">Инфракрасные светофильтры</category>
+<category id="4521169" parentId="4456312">Зарядные устройства для стандартных аккумуляторов</category>
+<category id="4516912" parentId="4439709">Стандартные аккумуляторы</category>
+<category id="4516896" parentId="4456312">Зарядные устройства для камер PANASONIC</category>
+<category id="4507759" parentId="4488554">Поляризационные (CPL) светофильтры</category>
+<category id="4507456" parentId="4490790">Светофильтры диаметром 82 мм</category>
+<category id="4507454" parentId="4490790">Светофильтры диаметром 43 мм</category>
+<category id="4506301" parentId="4490790">Светофильтры диаметром 77 мм</category>
+<category id="4506299" parentId="4490790">Светофильтры диаметром 72 мм</category>
+<category id="4506296" parentId="4490790">Светофильтры диаметром 67 мм</category>
+<category id="4506293" parentId="4490790">Светофильтры диаметром 62 мм</category>
+<category id="4491322" parentId="4490790">Светофильтры диаметром 58 мм</category>
+<category id="4491312" parentId="4490790">Светофильтры диаметром 55 мм</category>
+<category id="4491271" parentId="4490790">Светофильтры диаметром 52 мм</category>
+<category id="4491264" parentId="4490790">Светофильтры диаметром 49 мм</category>
+<category id="4491252" parentId="4490790">Светофильтры диаметром 46 мм</category>
+<category id="4491157" parentId="4490790">Светофильтры диаметром 40,5 мм</category>
+<category id="4490825" parentId="4490790">Светофильтры диаметром 37 мм</category>
+<category id="4490807" parentId="4490794">Светофильтры KENKO поляризационные CPL</category>
+<category id="4490795" parentId="4490794">Светофильтры KENKO защитные с мультипросветлением MC UV</category>
+<category id="4490794" parentId="4488554">Светофильтры KENKO</category>
+<category id="4490790" parentId="4488554">Ультрофиолетовые (UV и MC UV) защитные светофильтры</category>
+<category id="4490776" parentId="4439709">Аккумуляторы для камер OLYMPUS</category>
+<category id="4490525" parentId="4456312">Зарядные устройства для камер OLYMPUS</category>
+<category id="4490423" parentId="4456312">Зарядные устройства для камер SONY</category>
+<category id="4490417" parentId="4456312">Зарядные устройства для камер PENTAX</category>
+<category id="4488561">Накамерные и петличные микрофоны</category>
+<category id="4461379" parentId="4456312">Зарядные устройства для камер NIKON</category>
+<category id="4456314" parentId="4456312">Зарядные устройства для камер CANON</category>
+<category id="4456312">Зарядные устройства</category>
+<category id="4456246" parentId="4439709">Аккумуляторы для камер GoPro</category>
+<category id="4456210" parentId="4439709">Аккумуляторы для камер SAMSUNG</category>
+<category id="4456204" parentId="4439709">Аккумуляторы для камер PANASONIC</category>
+<category id="4445812" parentId="4439709">Аккумуляторы для камер SONY</category>
+<category id="4441485" parentId="4439709">Аккумуляторы для камер PENTAX</category>
+<category id="4441372" parentId="4439709">Аккумуляторы для камер NIKON</category>
+<category id="4439710" parentId="4439709">Аккумуляторы для камер CANON</category>
+<category id="4439687" parentId="3888382">Для фотокамер Pentax</category>
+<category id="4432915" parentId="3888382">Для фотокамер NIKON</category>
+<category id="4422572" parentId="4422514">Длиннофокусные металлические бленды</category>
+<category id="4422518" parentId="4422514">Стандартные металлические бленды</category>
+<category id="4422514" parentId="3888387">Универсальные металлические бленды</category>
+<category id="4383464" parentId="3888387">Для объективов SONY</category>
+<category id="4383463" parentId="3888387">Для объективов NIKON</category>
+<category id="3890726" parentId="3890719">Кистевые ремни</category>
+<category id="3890719">Ремни (кистевые и плечевые)</category>
+<category id="3890441" parentId="3890436">Защита LCD экранов для фотокамер CANON</category>
+<category id="3890436">Защита LCD экрана</category>
+<category id="3888421" parentId="3888420">Наглазники для фотоаппаратов CANON</category>
+<category id="3888420">Наглазники (окуляры)</category>
+<category id="3888401" parentId="3888400">Пульты дистанционного управления для камер CANON</category>
+<category id="3888400">Пульты ДУ (инфракрасные и проводные)</category>
+<category id="3888394" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов CANON  </category>
+<category id="3888393">Крышки</category>
+<category id="3888392" parentId="3888387">Для объективов CANON</category>
+<category id="3888387">Бленды</category>
+<category id="3888384" parentId="3888382">Для фотокамер CANON</category>
+<category id="3888382">Батареные блоки (бустеры)</category>
+<category id="3887902">Разное</category>
+<category id="3885645">Макрокольца, рельсы для макросъемки</category>
+<category id="3885471">Кольца штативные</category>
+<category id="17330544" parentId="4456312">Зарядные устройства для камер SJCAM</category>
+<category id="4516359" parentId="4456312">Зарядные устройства для камер GoPro</category>
+<category id="14251579" parentId="4456312">Зарядные устройства для камер CASIO</category>
+<category id="12613874" parentId="4456312">Зарядные устройства для камер JVC</category>
+<category id="6737687" parentId="4456312">Зарядные устройства для камер LEICA</category>
+<category id="6155978" parentId="4456312">Зарядные устройства для камер SAMSUNG</category>
+<category id="6719652" parentId="4456312">Зарядные устройства для камер FujiFilm</category>
+<category id="76354063" parentId="4456312">Зарядные устройства для DJI</category>
+<category id="4544815" parentId="4544798">Нейтрально-серые фильтры диаметром 72 мм</category>
+<category id="4544810" parentId="4544798">Нейтрально-серые фильтры диаметром 55 мм</category>
+<category id="4544813" parentId="4544798">Нейтрально-серые фильтры диаметром 62 мм</category>
+<category id="4544812" parentId="4544798">Нейтрально-серые фильтры диаметром 58 мм</category>
+<category id="73413575" parentId="4544798">Нейтрально-серые фильтры диаметром 43 мм</category>
+<category id="73415480" parentId="4544798">Нейтрально-серые фильтры диаметром 40.5 мм</category>
+<category id="73413326" parentId="4544798">Нейтрально-серые фильтры диаметром 46 мм</category>
+<category id="13678727" parentId="13678557">Стедикамы, моноподы, штативы для экшен камер</category>
+<category id="13678673" parentId="13678557">Зарядные устройства для экшен камер</category>
+<category id="23885887" parentId="13678557">Пульты для экшн-камер</category>
+<category id="22570327" parentId="13678557">Дисплеи для экшн камер и кабеля видеосигнала</category>
+<category id="21138743" parentId="13678557">Микрофоны для экшн камер</category>
+<category id="18434939" parentId="13678557">Кейсы, футляры и сумки для экшн-камер</category>
+<category id="29121536" parentId="13678557">Защита LCD дисплеев экшн-камер</category>
+<category id="17834314" parentId="13678557">Крышки для объективов экшн-камер</category>
+<category id="17831156" parentId="13678557">LED свет и подсветка для экшн-камер </category>
+<category id="17472037" parentId="13678557">Рамки, футляры и водонепроницаемые боксы для экшн камер</category>
+<category id="24105594" parentId="13678557">Подводные боксы - Dome Port</category>
+<category id="17829727" parentId="13678557">Маски для дайвинга (подводного плавания) с креплением для экшн-камер</category>
+<category id="71319940" parentId="13678557">Аксессуары к DJI камерам</category>
+<category id="8917517" parentId="4550464">Светофильтры CLOSE UP диаметром 49 мм</category>
+<category id="13516718" parentId="4550464">Светофильтры CLOSE UP диаметром 77 мм</category>
+<category id="13516716" parentId="4550464">Светофильтры CLOSE UP диаметром 72 мм</category>
+<category id="68653405" parentId="4550464">Светофильтры CLOSE UP диаметром 40,5</category>
+<category id="68629668" parentId="17782141">Резьбовые переходники (адаптеры)</category>
+<category id="68629622" parentId="11404206">Резьбовые адаптеры (переходники)</category>
+<category id="68498962" parentId="4533558">STAR фильтры диаметром 82 мм</category>
+<category id="28716383" parentId="4533558">STAR фильтры диаметром 49 мм</category>
+<category id="4533561" parentId="4533558">STAR фильтры диаметром 55 мм</category>
+<category id="68498178" parentId="4533558">STAR фильтры диаметром 40,5 мм</category>
+<category id="44577831" parentId="4488554">Светофильтры для квадрокоптеров</category>
+<category id="4546781" parentId="4488554">Нейтрально-серые фильтры ND с переменной плотностью</category>
+<category id="4544798" parentId="4488554">Нейтрально-серые светофильтры ND</category>
+<category id="68438948" parentId="4488554">Софт (soft) светофильтры</category>
+<category id="68163721" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 86 мм</category>
+<category id="68163718" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 82 мм</category>
+<category id="68163714" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 77 мм</category>
+<category id="68163704" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 72 мм</category>
+<category id="68163676" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 67 мм</category>
+<category id="68163670" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 62 мм</category>
+<category id="68163669" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 58 мм</category>
+<category id="68163629" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 55 мм</category>
+<category id="68163627" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 52 мм</category>
+<category id="68163488" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 49 мм</category>
+<category id="68163081" parentId="4546781">Нейтрально-серые светофильтры ND с переменной плотностью 46 мм</category>
+<category id="6641652" parentId="4507759">CPL фильтры диаметром 49 мм</category>
+<category id="66434772" parentId="4507759">CPL фильтры диаметром 46 мм</category>
+<category id="22611735" parentId="4507759">CPL фильтры диаметром 40,5 мм</category>
+<category id="16817132">Экшн-камеры (action cameras)</category>
+<category id="13678557">Аксессуары для GoPro и других экшен-камер</category>
+<category id="4488558">Карты памяти</category>
+<category id="6457832">Корпусные детали для фотоаппаратов, объективов, вспышек</category>
+<category id="7986982">USB и AV кабеля для камер</category>
+<category id="12622582">Стабилизаторы для фото и видеокамер (Steadycam)</category>
+<category id="22614647" parentId="4507759">CPL фильтры диаметром 82 мм</category>
+<category id="22613192" parentId="4507759">CPL фильтры диаметром 86 мм</category>
+<category id="21821876" parentId="3890436">Универсальные защиты LCD экрана с козырьком и шторками</category>
+<category id="17872410" parentId="13678557">Защитные и другие светофильтры для экшн-камер а также адаптеры для их установки</category>
+<category id="17847478" parentId="4456312">Зарядные устройства для камер XIAOMI</category>
+<category id="16120448" parentId="13678557">Держатели и крепления для экшин камер</category>
+<category id="15695660" parentId="7986982">Кабеля для камер SAMSUNG</category>
+<category id="13908724" parentId="4439709">Аккумуляторы для камер CASIO</category>
+<category id="13678572" parentId="13678557">Аккумуляторы для экшен-камер</category>
+<category id="12608277" parentId="6457832">Стекла основных и верхних LCD экранов для фотоаппаратов</category>
+<category id="11404206">Штативы, моноподы, штативные головки</category>
+<category id="10692611" parentId="6457832">Заглушки для контактов, разъемов USB и т.д.</category>
+<category id="10692569" parentId="6457832">Резинки синхроконтактов, левые боковые накладки</category>
+<category id="10328965" parentId="3888387">Бленды для видеокамер - прямоугольные</category>
+<category id="10253112" parentId="7013919">Чехлы и футляры для фотоаппаратов Sony</category>
+<category id="10253110" parentId="7013919">Чехлы и футляры для фотоаппаратов Nikon</category>
+<category id="10253108" parentId="7013919">Чехлы и футляры для фотоаппаратов Canon</category>
+<category id="9307731" parentId="3888394">Самооткрывающиеся крышки для CANON</category>
+<category id="8917520" parentId="6457832">Крышки слотов карт памяти для фотокамер</category>
+<category id="8147465" parentId="7986982">Кабеля для камер FujiFilm</category>
+<category id="7728289" parentId="4456312">Проффесиональные зарядные устройства для фотоаппаратов и видеокамер</category>
+<category id="7476935" parentId="4488554">Футляры и боксы для светофильтров</category>
+<category id="7013930" parentId="3885304">Чехлы для объективов</category>
+<category id="7013866" parentId="3885304">Сумки и фоторюкзаки для камер</category>
+<category id="6785856">Свет, осветители, накамерный свет</category>
+<category id="6683757" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов FujiFilm</category>
+<category id="6457837" parentId="6457832">Крышки батарейный отсеков для фотоаппаратов</category>
+<category id="6123866" parentId="3888387">Для объективов PENTAX</category>
+<category id="5901573" parentId="4967051">Вспышки для фотоаппаратов PANASONIC</category>
+<category id="5900853" parentId="4967051">Вспышки для фотоаппаратов PENTAX</category>
+<category id="5900850" parentId="4967051">Вспышки для фотоаппаратов NIKON</category>
+<category id="4967051" parentId="4488562">Вспышки</category>
+<category id="4731833" parentId="4488562">Софтбоксы (softbox) - рассеиватели</category>
+<category id="4723175" parentId="4489649">Адаптеры для фотокамер PANASONIC</category>
+<category id="4723093" parentId="4489649">Адаптеры для фотокамер OLYMPUS</category>
+<category id="4701482" parentId="4489650">Кольца понижающие (STEP DOWN)</category>
+<category id="4701455" parentId="4489650">Кольца повышающие (STEP UP)</category>
+<category id="4657975" parentId="4488562">Батарейные блоки для вспышек</category>
+<category id="23528183">Накамерные мониторы</category>
+<category id="31109032">Кольцевой LED свет для фото и визажа</category>
+<category id="4488562">Вспышки и аксеcсуары к ним</category>
+<category id="4488555">Средства для чистки и ухода за оптикой и камерами</category>
+<category id="4489650">Кольца повышающие и понижающее, реверсивные</category>
+<category id="4489649">Адаптеры - переходники</category>
+<category id="4597331">Крышки замера баланса белого WB</category>
+<category id="6720129">Видоискатели на ЖК дисплей</category>
+<category id="25410409">Широкоугольные насадки - оптические конвертеры</category>
+<category id="4439709">Аккумуляторы</category>
+<category id="66333799">Слайдеры</category>
+<category id="61421404" parentId="4967051">Вспышки для фотоаппаратов FujiFilm</category>
+<category id="5900851" parentId="4967051">Вспышки для фотоаппаратов OLYMPUS</category>
+<category id="6447619" parentId="4967051">Вспышки для фотоаппаратов SONY</category>
+<category id="4967053" parentId="4967051">Вспышки для фотоаппаратов CANON</category>
+<category id="5901574" parentId="4967051">Вспышки для фотоаппаратов SAMSUNG</category>
+<category id="36485496" parentId="3890436">Защита LCD экранов для фотокамер Casio</category>
+<category id="36485487" parentId="3890436">Защита LCD экранов для фотокамер Ricoh</category>
+<category id="29121557" parentId="3890436">Защита LCD экранов для экшн-камер GoPro</category>
+<category id="31129449" parentId="3890436">Защита LCD экранов для фотокамер Samsung</category>
+<category id="31128970" parentId="3890436">Защита LCD экранов для фотокамер Olympus</category>
+<category id="31129446" parentId="3890436">Защита LCD экранов для фотокамер Panasonic</category>
+<category id="27172468" parentId="3890436">Защита LCD экранов для фотокамер PENTAX</category>
+<category id="4563709" parentId="3890436">Защита LCD экранов для фотокамер NIKON</category>
+<category id="59192645" parentId="3890436">Защита LCD экранов для фотокамер LEICA</category>
+<category id="54155542" parentId="43970437">Аксессуары к Parrot</category>
+<category id="12485558" parentId="3888400">Пульты дистанционного управления для фотоаппаратов LEICA</category>
+<category id="12485557" parentId="3888400">Пульты дистанционного управления для фотоаппаратов PANASONIC</category>
+<category id="52136807" parentId="3888400">Пульты дистанционного управления для камер FujiFilm</category>
+<category id="46255844" parentId="6457832">Заглушки для контактов объективов</category>
+<category id="10691990" parentId="6457832">Противоскользящие нижние резинки для камер</category>
+<category id="13393392" parentId="6457832">Левые боковые резиновые накладки фотоаппаратов</category>
+<category id="10806522" parentId="6457832">Верхние части корпусов фотокамер</category>
+<category id="28065010" parentId="6457832">Шлейфы для объективов</category>
+<category id="10692727" parentId="6457832">Резиновые кольца фокусировки для объективов</category>
+<category id="13667298" parentId="6457832">Крышки батарейных отсеков для вспышек</category>
+<category id="7738410" parentId="6457832">Противоскользящаи передние резинки (под руку) для фотоаппаратов</category>
+<category id="51441992" parentId="6457832">Слоты для карт памяти</category>
+<category id="51354153" parentId="3888420">Наглазники для фотоаппаратов FujiFilm</category>
+<category id="17328765" parentId="16817132">Экшн-камеры ACMELL</category>
+<category id="51194311" parentId="16817132">Экшн-камеры SHOOT</category>
+<category id="45779996" parentId="3885304">Кейсы и футляры для квадрокоптеров</category>
+<category id="45779370" parentId="43970437">Аксессуары к DJI Spark</category>
+<category id="45779364" parentId="43970437">Аксессуары для DJI Mavic Air</category>
+<category id="45779359" parentId="43970437">Аксессуары к DJI Mavic Pro</category>
+<category id="43970437">Аксессуары к квадрокоптерам</category>
+<category id="17782141">Оборудование для фото студий, мини - студии</category>
+<category id="9180763">Отражатели, рефлекторы</category>
+<category id="43969473">Телесуфлеры - телепромтеры</category>
+<category id="43818839" parentId="11404206">Штативные головки и площадки</category>
+<category id="43818676" parentId="11404206">Моноподы</category>
+<category id="43818650" parentId="11404206">Упоры, кронштейны</category>
+<category id="43818645" parentId="11404206">Штативы 2 в 1 с моноподом</category>
+<category id="43818635" parentId="11404206">Классические штативы</category>
+<category id="43818616" parentId="11404206">Гибкие штативы</category>
+<category id="41555082" parentId="7714819">Объективы для фотоаппаратов Olympus</category>
+<category id="41555077" parentId="7714819">Объективы для фотоаппаратов Panasonic</category>
+<category id="41555073" parentId="7714819">Объективы для фотоаппаратов FujiFilm</category>
+<category id="41555033" parentId="7714819">Объективы для фотоаппаратов Sony</category>
+<category id="41555026" parentId="7714819">Объективы для фотоаппаратов Nikon</category>
+<category id="41554991" parentId="7714819">Объективы для фотоаппаратов Canon</category>
+<category id="41217101" parentId="17782141">Столы для предметной съемки</category>
+<category id="38410533" parentId="7013919">Чехлы и футляры для фотоаппаратов Ricoh</category>
+<category id="28989865" parentId="7013919">Чехлы и футляры для камер GoPro</category>
+<category id="10979889" parentId="3888387">Бленды универсальные (резиновые)</category>
+<category id="36686555" parentId="3888387">Для объективов YONGNUO</category>
+<category id="36686163" parentId="3888387">Для объективов SIGMA</category>
+<category id="4422495" parentId="3888387">Универсальные лепестковые бленды</category>
+<category id="7123784" parentId="3888387">Для объективов FujiFilm</category>
+<category id="6123891" parentId="3888387">Для объективов SAMSUNG</category>
+<category id="6123890" parentId="3888387">Для объективов OLYMPUS</category>
+<category id="4383467" parentId="3888387">Для объективов TAMRON</category>
+<category id="29121561" parentId="3890436">Защита LCD экранов для экшн-камер SJCAM</category>
+<category id="32294200" parentId="4577569">Крышки задние для объективов и на тушки (body) PENTAX</category>
+<category id="31138930" parentId="3890436">Защита LCD экранов для фотокамер FujiFilm</category>
+<category id="30832355" parentId="4456314">Профессиональные зарядные устройства</category>
+<category id="30834905" parentId="4461379">Профессиональные зарядные устройства</category>
+<category id="30834681" parentId="4461379">Зарядные устройства с USB разъемом одно и двух канальные</category>
+<category id="30834678" parentId="4461379">Зарядные устройства сетевое + автомобильный адаптер</category>
+<category id="30834643" parentId="4461379">Зарядные устройства (аналоги)</category>
+<category id="30834642" parentId="4461379">Классические зарядные устройства</category>
+<category id="30834538" parentId="4456314">Сетевые адаптеры для камер</category>
+<category id="30831194" parentId="4456314">Зарядные устройства (аналоги)</category>
+<category id="30830222" parentId="4456314">Зарядные устройства с USB разъемом одно и двух канальные </category>
+<category id="30829962" parentId="4456314">Зарядные устройства сетевое + автомобильный адаптер</category>
+<category id="30828322" parentId="4456314">Классические зарядные устройства</category>
+<category id="29127132" parentId="3888393">Передние крышки для экшн-камер SJCAM</category>
+<category id="29127131" parentId="3888393">Передние крышки для экшн-камер GoPro</category>
+<category id="27163825" parentId="7013866">Сумки для фото и видеокамер</category>
+<category id="27163186" parentId="7013866">Фоторюкзаки</category>
+<category id="24259450" parentId="17782141">Зонты для фотостудии</category>
+<category id="24075029" parentId="16817132">Экшн-камеры ACTIVEON</category>
+<category id="23731077" parentId="17782141">Вспышки студийные</category>
+<category id="23730986" parentId="4488562">Студийные вспышки</category>
+<category id="23528120" parentId="4488562">Патронные вспышки</category>
+<category id="5409442" parentId="4488562">Радиосинхронизаторы</category>
+<category id="23528130" parentId="17782141">Патронные студийные вспышки</category>
+<category id="13667304" parentId="4488562">Запасные части к вспышкам</category>
+<category id="23502262" parentId="4488562">Держатели для вспышек</category>
+<category id="23427702" parentId="17782141">Лайт боксы для предметной фотосъемки</category>
+<category id="23171319" parentId="17782141">Студийные стойки</category>
+<category id="23146702" parentId="17782141">Флуоресцентные лампы для студийной съемки</category>
+<category id="22810070" parentId="17782141">Студийные крепления фонов, вспышек, зонтов и т.д.</category>
+<category id="22081533" parentId="21904292">Силиконовые чехлы для фотоаппаратов Fuji</category>
+<category id="22081175" parentId="21904292">Силиконовые чехлы для фотоаппаратов Nikon</category>
+<category id="22080660" parentId="21904292">Силиконовые чехлы для фотоаппаратов Sony</category>
+<category id="22078281" parentId="17782141">Фоны</category>
+<category id="22077961" parentId="17782141">Свет, осветители, постоянный LED свет для фотостудий</category>
+<category id="22077821" parentId="17782141">Комплекты для фотостудий - наборы</category>
+<category id="22077816" parentId="17782141">Держатели фонов</category>
+<category id="4612805" parentId="3888393">Крышки передние и заднии для объективов - универсальные</category>
+<category id="22076479" parentId="3888393">Крышки передние, задние, на тушки для камер и объективов Samsung</category>
+<category id="21904301" parentId="21904292">Силиконовые чехлы для фотоаппаратов Canon</category>
+<category id="7477025" parentId="3885304">Футляры и боксы для светофильтров</category>
+<category id="21904292" parentId="3885304">Силиконовые чехлы-футляры для фотоаппаратов</category>
+<category id="21353741" parentId="3888420">Наглазники для фотоаппаратов OLYMPUS</category>
+<category id="18447769" parentId="3885304">Кейсы и сумки для экшн-камер</category>
+<category id="18447883" parentId="3885304">Силиконовые чехлы для экшн-камер</category>
+<category id="11485714" parentId="7013919">Чехлы и футляры для фотоаппаратов Panasonic</category>
+<category id="17848112" parentId="4490794">Светофильтры KENKO защитные UV</category>
+<category id="21819368" parentId="4490790">Светофильтры диаметром 86 мм</category>
+<category id="17328664" parentId="16817132">Экшн-камеры SOOCOO</category>
+<category id="7000652" parentId="3888393">Держатели для крышек</category>
+<category id="11793144" parentId="4489650">Реверсивные кольца для фотоаппаратов</category>
+<category id="11793147" parentId="11793144">Реверсивные оборачивающее кольца для камер CANON</category>
+<category id="13373871" parentId="12608277">Стекла основных и верхних LCD экранов для камер CANON</category>
+<category id="7986995" parentId="7986982">Кабеля для камер NIKON</category>
+<category id="7986996" parentId="7986982">Кабеля для камер CANON</category>
+<category id="7986997" parentId="7986982">Кабеля для камер SONY</category>
+<category id="7986998" parentId="7986982">Кабеля для камер PANASONIC</category>
+<category id="7986999" parentId="7986982">Кабеля для камер OLYMPUS</category>
+<category id="7013919" parentId="3885304">Чехлы и футляры для фотоаппаратов</category>
+<category id="7015791" parentId="3888420">Наглазники для фотоаппаратов SONY</category>
+<category id="6402845" parentId="4439709">Аккумуляторы для камер KONICA MINOLTA</category>
+<category id="6402872" parentId="4439709">Аккумуляторы для камер FujiFilm</category>
+<category id="10692031" parentId="6457832">Резинки под палец для фотокамер</category>
+<category id="21136963" parentId="3888382">Для фотокамер SONY</category>
+<category id="13908326" parentId="4439709">Аккумуляторы для камер JVC</category>
+<category id="8906338" parentId="4489649">Адаптеры для фотокамер FujiFilm</category>
+<category id="16817148" parentId="16817132">Экшн-камеры SJCAM</category>
+<category id="11795478" parentId="11793144">Реверсивные оборачивающее кольца для камер NIKON</category>
+<category id="11795481" parentId="11793144">Реверсивные оборачивающее кольца для камер SONY</category>
+<category id="11332250" parentId="4439710">Аккумуляторы для зеркальных фотоаппаратов CANON</category>
+<category id="10253115" parentId="7013919">Чехлы и футляры для фотоаппаратов FujiFilm</category>
+<category id="7714819">Объективы</category>
+<category id="11333279" parentId="4439710">Аккумуляторы для беззеркальных камер CANON</category>
+<category id="11333298" parentId="4439710">Аккумуляторы для прочих цифровых камер CANON</category>
+<category id="11336904" parentId="4439710">Аккумуляторы для видеокамер CANON</category>
+<category id="7988769" parentId="7986982">Кабеля для камер PENTAX</category>
+<category id="14421526" parentId="12608277">Стекла основных и верхних LCD экранов для камер SONY</category>
+<category id="17472877" parentId="4439709">Аккумуляторы для камер SJCAM</category>
+<category id="12608283" parentId="12608277">Стекла основных и верхних LCD экранов для камер NIKON</category>
+<category id="17473059" parentId="4439709">Аккумуляторы для камер XIAOMI</category>
+<category id="22077967" parentId="17782141">Софтбоксы, рассеиватели, диффузоры</category>
+<category id="10442292" parentId="6457837">Крышки батарейных отсеков для камер NIKON</category>
+<category id="10442289" parentId="6457837">Крышки батарейных отсеков для камер CANON</category>
+<category id="10443709" parentId="6457837">Крышки батарейных отсеков для камер FUJI</category>
+<category id="10970006" parentId="4422514">Бленды вентилируемые металлические</category>
+<category id="11426862" parentId="4441372">Аккумуляторы для зеркальных фотоаппаратов NIKON</category>
+<category id="11426865" parentId="4441372">Аккумуляторы для беззеркальных камер NIKON</category>
+<category id="11426866" parentId="4441372">Аккумуляторы для прочих цифровых камер NIKON</category>
+<category id="11429851">Сетевые адаптеры</category>
+<category id="11624747" parentId="3888394">Крышки передние для объективов CANON</category>
+<category id="11625603" parentId="3885471">Кольца штативные для объективов NIKON</category>
+<category id="14242605" parentId="4489649">Адаптеры для фотокамер SAMSUNG</category>
+<category id="3885304">Сумки, футляры, чехлы для камер и объективов</category>
+<category id="4488554">Светофильтры</category>
+<category id="4577606" parentId="3888394">Крышки передние для объективов CANON с внутренним зацепом</category>
+<category id="4577626" parentId="3888394">Крышки задние для объективов и на тушки (body) CANON</category>
+<category id="8078491" parentId="4439709">Аккумуляторы для камер LEICA</category>
+</categories>
+<offers>
+<offer available="true" id="224897473">
+<price>530</price>
+<currencyId>UAH</currencyId>
+<categoryId>4488558</categoryId>
+<name>Карта памяти CF 16 GB 300x</name>
+<description><![CDATA[Карта памяти CF 16 GB 300x
+
+ 
+
+
+	
+		
+			Объем памяти
+			16 Gb
+		
+		
+			Стандарт памяти
+			CF (Compact Flash)
+		
+		
+			 
+			 
+		
+		
+			 
+			 
+		
+	
+
+]]></description>
+<param name="Объем памяти">16</param>
+<param name="карта памяти">CF</param>
+<param name="объем">16</param>
+</offer>
+<offer available="true" id="1153759414">
+<price>2360</price>
+<currencyId>UAH</currencyId>
+<categoryId>22077821</categoryId>
+<picture>https://images.ua.prom.st/2303167070_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303167072_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303167073_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303167074_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303167076_derzhatel-sistema-otrazhatelej.jpg</picture>
+<name>Держатель (система) отражателей Micropro - на 3 отражателя</name>
+<description><![CDATA[Держатель (система) отражателей Micropro - тройной + 3 отражателя
+
+ 
+
+Система отражателей – студийная стойка-отражатель с тремя рефлекторами. Предназначен для рассеивания светового потока после вспышки и создания комфортных условий для создания снимков. Рефлекторы крепятся с помощью пружинных зажимов. Перемещаются по стойке с помощью обычного спигот-разъема. Разъем поставляется с поворотной головой, при желании фотограф может легко отрегулировать высоту и угол отражателей .
+
+Используется для студийной и выездной фотосъемки.
+
+Комплектация:
+
+рефлектор 2 в 1 (серебро-золото) 80 см - 2 шт
+
+рефлектор 2 в 1 (серебро-золото) 60 см - 1 шт
+
+стойка 2.5 м (толщина труб 30-25-22 мм) - 1 шт
+
+составная перекладина (в разложенном состоянии 2.6 м)
+
+спигот-разъем - 2 шт
+]]></description>
+<param name="Отражатель, размеры">60 х 90 см</param>
+<param name="особенности">5 в 1</param>
+</offer>
+<offer available="true" id="1153843457">
+<price>2360</price>
+<currencyId>UAH</currencyId>
+<categoryId>22077961</categoryId>
+<picture>https://images.ua.prom.st/2303381392_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303381398_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303381399_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303381416_derzhatel-sistema-otrazhatelej.jpg</picture>
+<picture>https://images.ua.prom.st/2303381435_derzhatel-sistema-otrazhatelej.jpg</picture>
+<name>Держатель (система) отражателей Micropro - на три отражателя</name>
+<description><![CDATA[Держатель (система) отражателей Micropro - тройной + 3 отражателя
+
+ 
+
+Система отражателей – студийная стойка-отражатель с тремя рефлекторами. Предназначен для рассеивания светового потока после вспышки и создания комфортных условий для создания снимков. Рефлекторы крепятся с помощью пружинных зажимов. Перемещаются по стойке с помощью обычного спигот-разъема. Разъем поставляется с поворотной головой, при желании фотограф может легко отрегулировать высоту и угол отражателей .
+
+Используется для студийной и выездной фотосъемки.
+
+Комплектация:
+
+рефлектор 2 в 1 (серебро-золото) 80 см - 2 шт
+
+рефлектор 2 в 1 (серебро-золото) 60 см - 1 шт
+
+стойка 2.5 м (толщина труб 30-25-22 мм) - 1 шт
+
+составная перекладина (в разложенном состоянии 2.6 м)
+
+спигот-разъем - 2 шт
+]]></description>
+<param name="Отражатель, размеры">60 х 90 см</param>
+<param name="особенности">5 в 1</param>
+</offer>
+<offer available="true" id="1153844285">
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>68629668</categoryId>
+<picture>https://images.ua.prom.st/2303427458_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303427451_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303427445_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303427449_perehodnik-adapter-na.jpg</picture>
+<name>Переходник (адаптер) на стойку (трубу) на резьбу 1/4</name>
+<description><![CDATA[Переходник (адаптер) на стойку (трубу) на резьбу 1/4
+
+Позволяет установить любое оборудование (вспышку, камеру и т.д.) с резьбой 1/4 на стойку или другую трубу как в вертикальном так и горизонтальном положении. Для фиксации имеется винт.
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Материал">Металл</param>
+<param name="Тип">универсальный зажим</param>
+</offer>
+<offer available="true" id="1153859322">
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>22810070</categoryId>
+<picture>https://images.ua.prom.st/2303440692_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303440704_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303440711_perehodnik-adapter-na.jpg</picture>
+<picture>https://images.ua.prom.st/2303440712_perehodnik-adapter-na.jpg</picture>
+<name>Переходник (адаптер) на стойку (трубу) на резьбу 1/4</name>
+<description><![CDATA[Переходник (адаптер) на стойку (трубу) на резьбу 1/4
+
+Позволяет установить любое оборудование (вспышку, камеру и т.д.) с резьбой 1/4 на стойку или другую трубу как в вертикальном так и горизонтальном положении. Для фиксации имеется винт.
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Материал">Металл</param>
+<param name="Тип">универсальный зажим</param>
+</offer>
+<offer available="true" id="1154047252">
+<price>160</price>
+<currencyId>UAH</currencyId>
+<categoryId>13393392</categoryId>
+<picture>https://images.ua.prom.st/2303923705_levaya-bokovaya-rezinovaya.jpg</picture>
+<name>Левая боковая резиновая накладка фотоаппарата Canon EOS 600D</name>
+<description><![CDATA[Левая боковая резиновая накладка фотоаппарата Canon EOS 600D
+
+имеет клейкую основу, перед наклейкой тщательно очистить поверхность камеры
+]]></description>
+<param name="Боковая резиновая накладка">Canon 600D</param>
+</offer>
+<offer available="true" id="1154048648">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442289</categoryId>
+<picture>https://images.ua.prom.st/2303932246_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303932245_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303932247_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для CANON EOS 6D Mark II</name>
+<description><![CDATA[Крышка аккумуляторного отсека CANON 6D Mark II]]></description>
+<param name="крышка батарейного отсека">Canon 6D Mark II</param>
+</offer>
+<offer available="true" id="1154050099">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442292</categoryId>
+<picture>https://images.ua.prom.st/2303942253_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для NIKON D750</name>
+<description><![CDATA[Крышка аккумуляторного отсека NIKON D750]]></description>
+<param name="крышка батарейного отсека">Nikon D750</param>
+</offer>
+<offer available="true" id="1154053629">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442289</categoryId>
+<picture>https://images.ua.prom.st/2303954346_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303954345_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для CANON EOS 7D Mark II</name>
+<description><![CDATA[Крышка аккумуляторного отсека CANON 7D Mark II]]></description>
+<param name="крышка батарейного отсека">Canon 7D Mark II</param>
+</offer>
+<offer available="true" id="1154056282">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442292</categoryId>
+<picture>https://images.ua.prom.st/2303963027_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303963026_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303963029_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для NIKON D3400</name>
+<description><![CDATA[Крышка аккумуляторного отсека NIKON D3400]]></description>
+<param name="крышка батарейного отсека">Nikon D3400</param>
+</offer>
+<offer available="true" id="1154058735">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442292</categoryId>
+<picture>https://images.ua.prom.st/2303969252_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303969239_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303969241_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для NIKON D3500, D5500, D5600</name>
+<description><![CDATA[Крышка аккумуляторного отсека NIKON D3500, D5500, D5600]]></description>
+<param name="крышка батарейного отсека">Nikon D5500|Nikon D5600|Nikon D3500</param>
+</offer>
+<offer available="true" id="1154060484">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442292</categoryId>
+<picture>https://images.ua.prom.st/2303973335_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303973334_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для NIKON D500</name>
+<description><![CDATA[Крышка аккумуляторного отсека NIKON D500]]></description>
+<param name="крышка батарейного отсека">NIKON D5000</param>
+</offer>
+<offer available="true" id="1154065569">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442289</categoryId>
+<picture>https://images.ua.prom.st/2303987882_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<picture>https://images.ua.prom.st/2303987881_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для CANON EOS 5D Mark IV</name>
+<description><![CDATA[Крышка аккумуляторного отсека для CANON EOS 5D Mark IV]]></description>
+<param name="крышка батарейного отсека">Canon 5D Mark IV</param>
+</offer>
+<offer available="true" id="1154074109">
+<price>170</price>
+<currencyId>UAH</currencyId>
+<categoryId>10442292</categoryId>
+<picture>https://images.ua.prom.st/2304003616_kryshka-akkumulyatornogo-otseka.jpg</picture>
+<name>Крышка аккумуляторного отсека для NIKON D850</name>
+<description><![CDATA[Крышка аккумуляторного отсека NIKON D850]]></description>
+<param name="крышка батарейного отсека">Nikon D850</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

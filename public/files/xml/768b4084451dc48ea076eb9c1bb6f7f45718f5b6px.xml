@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-28 19:07">
+  <shop>
+    <name>GazMax - магазин газобалонного оборудования</name>
+    <company>GazMax - магазин газобалонного оборудования</company>
+    <url>https://gazmax.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="50176115" parentId="50123031">Редуктора 2 поколения</category>
+      <category id="50175443">Комплекты 2 поколения </category>
+      <category id="50123031">Редуктора </category>
+      <category id="50122038" parentId="71990381">Ремкомплекты и комплектующие к форсункам</category>
+      <category id="50121521" parentId="50080378">Датчики сенсоры и другие комплектующие электроники</category>
+      <category id="72344428" parentId="72169982">Фильтра жидкой фазы (грубой очистки)</category>
+      <category id="72153249">Шланги, магистрали и фитинги</category>
+      <category id="72098984">Клапаны газа, бензина,  дозаторы и проставки в карб.</category>
+      <category id="72098983">Мультиклапаны и ВЗУ</category>
+      <category id="72098982">Баллоны</category>
+      <category id="50008361">Комплекты 4 поколения</category>
+      <category id="72169982">Фильтра паровой и жидкой фазы, картриджи</category>
+      <category id="72098980">Оборудование для СТО</category>
+      <category id="71990381">Ремкомплекты</category>
+      <category id="50080378">Электроника</category>
+      <category id="50075791">Форсунки</category>
+      <category id="72128700" parentId="50080378">ЭБУ</category>
+      <category id="72098659" parentId="50123031">Редуктора 4 поколение</category>
+      <category id="51746682" parentId="71990381">Ремонтные комплектующие для редукторов 4-го поколения</category>
+      <category id="50176199" parentId="71990381">Ремкомплекты и комплектующие</category>
+    </categories>
+  <offers>
+<offer available="true" id="857687833">
+    <url>https://gazmax.com.ua/p857687833-gazovye-forsunki-valtek.html</url>
+    <price>580</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50075791</categoryId>
+    <picture>https://images.ua.prom.st/1911343790_gazovye-forsunki-valtek.jpg</picture>
+    <picture>https://images.ua.prom.st/1896948198_gazovye-forsunki-valtek.jpg</picture>
+    <picture>https://images.ua.prom.st/1896948311_gazovye-forsunki-valtek.jpg</picture>
+    <picture>https://images.ua.prom.st/1896948339_gazovye-forsunki-valtek.jpg</picture>
+    <picture>https://images.ua.prom.st/1511343577_gazovye-forsunki-valtek.jpg</picture>
+    <picture>https://images.ua.prom.st/1511343664_gazovye-forsunki-valtek.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовые форсунки Valtek 4 цилиндра 3Om Type 30 Италия</name>
+    <vendor> Valtek SPA</vendor>
+    <vendorCode>30.EVG.47</vendorCode>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Форсунки Valtek Type 30 - это самые распространённые газовые форсунки в мире на сегодняшний день. В чём же причина такого успеха данной модели форсунок?
+
+
+	Ресурс который при правильном монтаже достигает 100 000км
+	Очень высокая степень ремонтопригодности, производитель поставляет любые запчасти
+	Универсальность - во всех системах 4-го поколения в настройках есть тип форсунок 30
+	Страна производитель - Италия, что говорит о высоких стандартах и качестве продукции.
+
+
+ 
+
+Форсунки Valtek type 30 – это самые распространённые форсунки для газобаллонного оборудования в мире. В чём же причина такого успеха?
+
+1.       Данные форсунки появились одними из первых и за всё это время компания Валтек довела «до ума» данную модель.
+
+2.       Продукт сделан в Италии, по Итальянским стандартам, а это для данной стоимости очень большое преимущество.
+
+3.       Газовые форсунки valtek имеют идеальный баланс между ценой и качеством
+
+4.       Ремкомплект форсунок valtek легко заменить и вообще данные форсунки ремонтопригодны.
+
+5.       Форсунки valtek легки в установке и настройке
+
+ 
+
+В комплект данных форсунок входит: 4 калибровочных штуцера (которые служат выходами газа на форсунки), 4 штуцера в коллектор, сами форсунки.
+
+При установке данных форсунок следует помнить, что штуцеры выхода газа должны располагаться вниз или если места для монтажа совсем мало, то горизонтально, но всё равно под небольшим наклоном выходами вниз. Это обусловлено принципом работы данных форсунок: при подаче напряжения на катушку она притягивает к себе шток, который перекрывает выход газа, по умолчанию шток опущен и выход газа перекрыт. Если использовать неправильный монтаж форсунок, то шток под действием силы тяжести будет приоткрыт, а значит работа форсунок, системы ГБО и двигателя в общем будут некорректными.
+
+Форсунки перед отправкой калибруются и проверяются на специальном стенде, поэтому в нашем интернет-магазине ГБО самый минимальный процент брака.
+
+Если при установке/замене или выборе данных форсунок у Вас возникли вопросы, то звоните нам, мы с радостью окажем Вам помощь.
+
+
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">TYPE 30</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+    <param name="Вход газа" unit="">12мм</param>
+    <param name="Сопротивление катушек" unit="">3Omh</param>
+    <param name="Количество цилиндров" unit="">4</param>
+  </offer>
+  <offer available="true" id="857720091">
+    <url>https://gazmax.com.ua/p857720091-map-sensor-stag.html</url>
+    <price>349</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1966241310_map-sensor-stag.jpg</picture>
+    <picture>https://images.ua.prom.st/1762156862_map-sensor-stag.jpg</picture>
+    <picture>https://images.ua.prom.st/1762156878_map-sensor-stag.jpg</picture>
+    <picture>https://images.ua.prom.st/1762157128_map-sensor-stag.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Мап сенсор Stag PS-02 plus Датчик давления разрежения газа ГБО4</name>
+    <vendor>Stag</vendor>
+    <vendorCode>PS-02 plus</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>3 причины Почему стоит купить этот датчик в GazMax?
+
+
+	Честная гарантия - 12 месяцев (а не 6 месяцев или 2 недели), ведь мы уверены в наших комплектующих.
+	Тест каждого датчика перед отправкой на работоспособность и стабильность работы.
+	Мы действительно знаем все тонкости замены мап датчика, его типичные причины выхода из строя и способны помочь Вам с самостоятельно установкой датчика, так что бы он служил долго и верно.
+
+
+
+Данный датчик является самым популярным датчиком давления и температуры для ГБО, поставляется в большинстве комплектов торговых марок STAG и Digitronic, совместим с огромным количеством газовых систем, так же совместим с предыдущей моделью PS-02 и PS-01 (через специальный переходник).
+
+
+Совместим с Stag-4 Plus; Stag-300 ISA2; Stag-300 Premium; Stag Q-BOX BASIC; Stag Q-BOX PLUS; Stag-200 GoFast; Stag QNEXT, Digitronic maxi2, Maxi2 Titan и многими другими, если сомневайтесь в совместимости, обязательно напишите или позвоните нам и мы обязательно подскажем.
+
+Датчик давления Stag PS-02 plus – это самая распространённая модель, в системах ГБО ЕВРО 4, датчика давления, разрежения и температуры на сегодняшний день. Свою распространённость сенсор получил благодаря популярности систем торговых марок STAG и DIGITRONIC на территории СНГ.
+
+Какие тонкости существуют тонкости и нюансы при установке мап сенсора PS-02 и всех ему подобных по конструктиву (проходных) сенсоров?
+
+1.       Установка изделия необходима надписью вверх, разъёмом к низу или если под капотом ну совсем нет места, то максимум на 90 градусов. Данное ограничение обусловлено тем, что сам датчик давления mpxhz6400 который измеряет давление имеет свойство «засоряться» некачественным газом, тяжёлыми фракциями и незначительно подвержен коррозии. Если PS-02 установить вверх ногами, то газ будет затекать в данный датчик и повышать его износ, а как следствие и срок службы изделия целиком.
+
+2.       В системе подачи газа датчик давления газа должен располагаться после фильтра паровой фазы (с отстойником или проточный) перед газовыми форсунками.  
+
+3.       При подключении разъёма 5-pin (который идёт к электронному блоку управления ЭБУ) необходимо помнить, что грубой силой можно согнуть или сломать «пины» - ножки подключения, поэтому если разъём не вставляется до конца, то лучше вынуть штекер и попробовать снова.
+
+4.       Не рекомендуется установка датчика в «горячих» местах под капотом, это может влиять на передаваемые параметры, а также выводить PS-02 plus из строя.
+
+Датчик давления PS 02 очень прост в установке и не требует совершенно никаких настроек системы ГБО. То есть достаточно ps 02 купить и заменить для продолжения работы двигателя на газе.
+
+Не редки запросы в интернете как PS-02 ремонт, однако, как показывает практика – это не рентабельно и не выгодно, так как стоимость работы + стоимость запчастей = цена нового датчика давления ps 02 и выходит, что его проще купить с гарантией 12 месяцев.
+
+Датчик давления газа PS 02 входил в состав всех комплектов электроники Stag и большинства комплектов электроники Digitronic, но сейчас в большинстве случаев в составе идёт PS-04 plus, который между прочим совместим с мап сенсором PS-02 (то есть один без труда можно заменить на второй)
+
+ 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">PS-02 plus</param>
+    <param name="Габаритные размеры" unit="">30 x 59 x 86</param>
+    <param name="Вес" unit="">45г</param>
+    <param name="Сопротивление датчика температуры " unit="">2,2 кОм</param>
+    <param name="Диаметр входа и выхода газа" unit="">12мм</param>
+    <param name="Гарантия" unit="">12 мес</param>
+  </offer>
+  <offer available="true" id="858144863">
+    <url>https://gazmax.com.ua/p858144863-montazhnyj-nabor-4tsil.html</url>
+    <price>214</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50122038</categoryId>
+    <picture>https://images.ua.prom.st/1512369995_montazhnyj-nabor-4tsil.jpg</picture>
+    <picture>https://images.ua.prom.st/1512369690_montazhnyj-nabor-4tsil.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Монтажный набор 4цил для форсунок Barracuda, Hana, Yeti, Concord, Rapido</name>
+    <vendor>Alex</vendor>
+    <vendorCode>ramp 4c lpg</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Монтажный набор для форсунок на 4 цилиндра. Данный набор выполнен из стали и пластика и идеально подходит для монтажа такого типа форснок как: Alex Barracuda, Hana rail, Torelli Rapido, GreenGas Fash, AstarGas Tornado, Yota Concord, Reagas solo, Lpgtech Yeti, Keihin, Hercules single, Dymco.
+В данный набор входит:
+
+4 уплотнительных кольца для более надёжного монтажа форсунок
+Вход на 12мм для газа
+Заглушка датчика температуры
+Непосредственно сама планка распределения
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Количество цилиндров" unit="">4</param>
+  </offer>
+  <offer available="true" id="858158933">
+    <url>https://gazmax.com.ua/p858158933-skorostnye-forsunki-reagas.html</url>
+    <price>391</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50075791</categoryId>
+    <picture>https://images.ua.prom.st/1512400814_skorostnye-forsunki-reagas.jpg</picture>
+    <picture>https://images.ua.prom.st/1512400400_skorostnye-forsunki-reagas.jpg</picture>
+    <picture>https://images.ua.prom.st/1512434437_skorostnye-forsunki-reagas.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Скоростные форсунки Reagas Solo</name>
+    <vendorCode>Rg Solo</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Фрсунки Reagas Solo - это новая модель форсунок от иментитого болгарского бренда. Данная модель предназначена для одиночного монтажа, что имеет такие преимущества как более близкое расположение к коллектору и как следтвие более точная дозировка топлива, уменьшеный расход и удобство монтажа.
+Технические характеристики:
+Время открытия: ＜1.9мс
+Время закрытия: ＜1.0мс
+Мощность на цилиндр: 40 л.с.
+Сопротивление катушки: 1.9 Ом
+Макс. рабочее давление: 4.5 Бар
+Максимальный расход газа: 115 л/м
+Гарантия 1 год</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">Solo</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="858402263">
+    <url>https://gazmax.com.ua/p858402263-reduktor-tomasetto-alaska.html</url>
+    <price>965</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1513013558_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1513013620_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1513013642_reduktor-tomasetto-at-09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT-09 Alaska 150л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <vendorCode>AT-09 </vendorCode>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Редуктор Tomasetto AT-09 Alaska Sper является старшей моделью редуктора AT-09 Alaska. Основные отличия - это:
+
+Увеличенный диаметр встроенного клапана газа
+Доработанный тосольный лабиринт, который даёт более качественный прогрев
+Более герметичные тосольные выходы
+Изменён цвет катушки и тосольных выходов
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="859311641">
+    <url>https://gazmax.com.ua/p859311641-remkomplekt-tosolnyh-kolen.html</url>
+    <price>100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50176199</categoryId>
+    <picture>https://images.ua.prom.st/1514756899_remkomplekt-tosolnyh-kolen.jpg</picture>
+    <picture>https://images.ua.prom.st/1514756907_remkomplekt-tosolnyh-kolen.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Ремкомплект тосольных колен редуктора BRC AT 90</name>
+    <vendorCode>02RR00990026</vendorCode>
+    <description>Оригинальный набор
+В набор входит:
+
+     два тосольных колена
+     четыре уплотнительных кольца на колена
+     2 стопорных кольца
+     Уплотнительная мембрана внутренней части тосольного отсека
+     Уплотнительная мембрана наружной части тосольного отсека
+</description>
+  </offer>
+  <offer available="true" id="876006154">
+    <url>https://gazmax.com.ua/p876006154-elektronika-nevo-plus.html</url>
+    <price>3244</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72169982</categoryId>
+    <picture>https://images.ua.prom.st/1555566132_elektronika-nevo-plus.jpg</picture>
+    <picture>https://images.ua.prom.st/1555566201_elektronika-nevo-plus.jpg</picture>
+    <picture>https://images.ua.prom.st/1555566316_elektronika-nevo-plus.jpg</picture>
+    <picture>https://images.ua.prom.st/1555566347_elektronika-nevo-plus.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника Nevo Plus 4 цил.</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Блок управления последовательного впрыска газа LPG/CNG в паровой фазе, спроектирован для применения в автомобилях, которые оборудованы развитыми системами диагностики питания бензином (OBD2, EOBD), - с катализатором и ламбда-зондами. Сохраняет нормы эмиссии выхлопных газов (до EURO5).
+
+Версия для двигателей 4, 6, 8 цилиндров
+Версия с дополнительными возможностями
+аналоговое -Версия x4 -Lambdy, PPO, датчики температуры
+Управляемый 12V вход
+Взаимодействует с OBD (с Адаптером OBDv2)
+Сердце системы, двухядерный микроконтролер, который используется в автомобилестроении.
+Небольшой корпус
+Однa версия эмулятора (EU, США)
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяце</param>
+  </offer>
+  <offer available="true" id="876008407">
+    <url>https://gazmax.com.ua/p876008407-elektronika-kme-nevo.html</url>
+    <price>2155</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50080378</categoryId>
+    <picture>https://images.ua.prom.st/1555571545_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555571576_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555571614_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555571615_elektronika-kme-nevo.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника KME Nevo 4ц.</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>KME представила новую систему последовательного впрыска газа для двигателей с непрямым впрыском топлива. 30.07.2011 была проведена официальная премьера газовой системы Нево.
+"Нево" система была создана на основе многолетнего опыта KME.
+"Нево" функции системы:
+
+Простой пользовательский интерфейс и простая система настройки и калибровки.
+Совершенно новые механизмы для управления дозировкой газа.
+Сердцем системы является новый двухъядерный микроконтроллер для автомобильной промышленности.
+Обновление драйверов программного обеспечения с использованием программного обеспечения на ПК
+Автоматический режим настройки системы
+Маленький герметичный корпус
+Новый драйвер панель со встроенным зуммером и автоматической регулировкой яркости светодиодов в зависимости от интенсивности света, коды отображения ошибок и время для переключения и много других полезных функций.
+Система диагностики и поиск неисправностей.
+Расширенные рекордер.
+Адаптация карт во всем диапазоне оборотов, с возможностью обучения шаблону
+Автоматическая определение типа двигателя
+Автоматическая калибровка обеспечивает полное выравнивание системы, принимая во внимание характеристики газовых форсунок и интеллектуальные интерпретации информации на холостом ходу
+Поправка на ускорение
+Добавление бензина при работе на газе
+Разогрева газовых инжекторов
+Полный спектр стратегий с автоматическим возвратом на газе.
+Возможность чрезвычайных запуска двигателя на газе.
+Считывание максимальной и текущей температуры внутри контроллера 
+Возможность установки действий для кодов ошибок
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876010571">
+    <url>https://gazmax.com.ua/p876010571-elektronika-kme-nevo.html</url>
+    <price>4370</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72128700</categoryId>
+    <picture>https://images.ua.prom.st/1555578064_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555578173_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555578209_elektronika-kme-nevo.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника KME Nevo Plus 6ц.</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Блок управления последовательного впрыска газа LPG/CNG в паровой фазе, спроектирован для применения в автомобилях, которые оборудованы развитыми системами диагностики питания бензином (OBD2, EOBD), - с катализатором и ламбда-зондами. Сохраняет нормы эмиссии выхлопных газов (до EURO5).
+
+Версия для двигателей 4, 6, 8 цилиндров
+Версия с дополнительными возможностями
+аналоговое -Версия x4 -Lambdy, PPO, датчики температуры
+Управляемый 12V вход
+Взаимодействует с OBD (с Адаптером OBDv2)
+Сердце системы, двухядерный микроконтролер, который используется в автомобилестроении.
+Небольшой корпус
+Однa версия эмулятора (EU, США)
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяце</param>
+  </offer>
+  <offer available="true" id="876012963">
+    <url>https://gazmax.com.ua/p876012963-elektronika-kme-nevo.html</url>
+    <price>5095</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50080378</categoryId>
+    <picture>https://images.ua.prom.st/1555583517_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555583562_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555583623_elektronika-kme-nevo.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника KME Nevo Plus 8ц.</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Блок управления последовательного впрыска газа LPG/CNG в паровой фазе, спроектирован для применения в автомобилях, которые оборудованы развитыми системами диагностики питания бензином (OBD2, EOBD), - с катализатором и ламбда-зондами. Сохраняет нормы эмиссии выхлопных газов (до EURO5).
+
+Версия для двигателей 4, 6, 8 цилиндров
+Версия с дополнительными возможностями
+аналоговое -Версия x4 -Lambdy, PPO, датчики температуры
+Управляемый 12V вход
+Взаимодействует с OBD (с Адаптером OBDv2)
+Сердце системы, двухядерный микроконтролер, который используется в автомобилестроении.
+Небольшой корпус
+Однa версия эмулятора (EU, США)
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876015610">
+    <url>https://gazmax.com.ua/p876015610-elektronika-kme-nevo.html</url>
+    <price>7790</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50080378</categoryId>
+    <picture>https://images.ua.prom.st/1555594004_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555594093_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555594123_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555594206_elektronika-kme-nevo.jpg</picture>
+    <picture>https://images.ua.prom.st/1555594239_elektronika-kme-nevo.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника KME Nevo Sky Direct 4ц. (непосредственный фпрыск FSI, TSI и т.д.)</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Новая линейка контроллеров NEVO-SKY была создана в результате действий, предпринятых в рамках реализации дальновидного проекта, целью которого было создание устройств по комплексному обслуживанию всех имеющихся видов транспортных средств. Линия включает в себя контроллеры для автомобилей, использующих систему непосредственного впрыска топлива (DIRECT) и контроллеры для автомобилей, использующих систему распределенного впрыска топлива (MAX). Это инновационная, универсальная платформа, предназначенная для всех типов двигателей (код и марка двигателя не имеет значения).
+ 
+NEVO automotive CPU
+Действие контроллера основано на использовании быстрого, двухъядерного процессора, используемого в автомобильной промышленности (Automotive). Это делает контроллеры точными и простыми в использовании, предлагая множество диагностических инструментов, предназначенных для калибровки современных двигателей. Используя элементы последнего поколения, контроллеры с легкостью обслуживают современные решения и алгоритмы контроллеров бензиновых двигателей.
+ 
+Система NEVO-SKY использует один, аналоговый датчик давления CCT6 (серый). Датчик имеет новый 5-контактный разъем, а его конструкция обеспечивает точное измерение давления и температуры газа. NEVO-SKY поддерживает три панели управления (водителя), в том числе новейшую, многоцветную панель DG7 RGB.
+ 
+NEVO-SKY software
+Линия продуктов NEVO-SKY имеет один новый, улучшенный софт, который был создан на базе действующей программы NEVO, что облегчает обслуживание контроллеров для специалистов, имеющих опыт работы с продуктами KME. Значительным преимуществом использования программного обеспечения является возможность его применение с целью обслуживания контроллеров, предназначенных как для автомобилей с двигателями как непосредственного, так и распределенного впрыска топлива.
+ 
+Контроллеры NEVO-SKY оснащены современной плотной крышкой корпуса и герметичным 48-контактным разъемом, предназначенным для автомобильной промышленности. Корпус выполнен по образцу современного 8 цил. силового блока. Недавно разработанная подвесная система оснащена новым разъемом, который позволяет расположить провода под углом 90 градусовs к оси разъема. Это облегчает сборку и установку в моторном отсеке.
+ 
+NEVO-SKY cechy
+Авторские решения KME, применяемые в семействе контроллеров NEVO – такие, как ОСА, MOSA и обслуживание автомобилей большой мощности – были сохранены и улучшены в новой линии NEVO-SKY. Кроме того, были встроены эмуляторы - уровня топлива и давления топлива - и автоматический сбрасыватель ошибок OBD, которые исключили необходимость подключения дополнительных устройств.
+ 
+В результате применения этих решений автомобиль, оснащенный двигателем с непосредственным впрыскоми системой с контроллером DIRECT или MAX, становится экологическим и экономическим, полностью сохраняя при этом оригинальные ходовые характеристик автомобиля (мощность и ускорение).
+ 
+Встроенный aдаптер OBD поддерживает следующие протоколы OBD:
+ 
+   ISO9141
+   KWP2000slow
+   KWP2000fast
+   CAN_11bitID_500kbps
+   CAN_29bitID_500kbps
+   CAN_11bitID_250kbps
+   CAN_29bitID_250kbps</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876017685">
+    <url>https://gazmax.com.ua/p876017685-klapan-reduktsionnyj-kme.html</url>
+    <price>320</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555601267_klapan-reduktsionnyj-kme.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Клапан Редукционный КМЕ 002 клапан для редуктора KME</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Клапан Редукционный КМЕ 002</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="876018170">
+    <url>https://gazmax.com.ua/p876018170-kolenko-tosolnoe-reduktora.html</url>
+    <price>30</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555604358_kolenko-tosolnoe-reduktora.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коленко Тосольное Редуктора Tomaseto тосольный выход</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Коленко Тосольное Редуктора Tomaseto</description>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="876018311">
+    <url>https://gazmax.com.ua/p876018311-kolenko-tosolnoe-reduktora.html</url>
+    <price>60</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555607835_kolenko-tosolnoe-reduktora.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Коленко Тосольное Редуктора КМЕ</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Коленко Тосольное Редуктора КМЕ</description>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="876018537">
+    <url>https://gazmax.com.ua/p876018537-reduktor-kme-extereme.html</url>
+    <price>3982</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555610773_reduktor-kme-extereme.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор КМЕ Extereme 408 Л.С.</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Редуктор КМЕ EXTREME предназначен для последовательной системой впрыска газа. Редуктор EXTREME питается от магистрали диаметром 8 мм, через внешний электроклапан газа. Из-за своей надежности и простоте конструкции гарантирует долгую и бесперебойною работу газовой системы. Редуктор имеет поворотные штуцера для подключения к охладительной системы автомобиля и два выхода газа. Самым большим преимуществом является отсутствие падения давления газа при высоких нагрузках, при чем производительность остается на самом высоком уровне. Редуктор КМЕ EXTREME поддерживает автомобили с мощностью до 300 кВт / 408Л.С.
+Технические характеристики:
+- Максимальная мощность: 300 кВт / 408KM
+- Рабочее давление: 0,9 - 1.6 бар
+- Подключение газа: 8мм
+- Диаметр выхода газа: 12 мм
+- Диаметр тосольных выходов: 16 мм
+- Диаметр вакуумного шланга: 5 мм
+ 
+В комплект входит:
+1. Редуктор KME RED1 EXTREME.
+2. Электроклапан OMB.
+3. Монтажная планка.
+4. Мелкие детали для монтажа.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876019060">
+    <url>https://gazmax.com.ua/p876019060-reduktor-kme-gold.html</url>
+    <price>2209</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555615637_reduktor-kme-gold.jpg</picture>
+    <picture>https://images.ua.prom.st/1555615717_reduktor-kme-gold.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор KME Gold вх. 8 (320 л.с.) + клапан газа ОМВ FZ8</name>
+    <vendor>K.M.E.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Пропановый редуктор KME Diego Gold служит в системе ГБО 4 поколения для понижения давления газа с 16 атмосфер до 1, а также преобразования газа из сжиженного состояния в газообразное.
+Редуктор KME Diego Gold предназначен для автомобилей с мощностью двигателя до 320 л. с. Он максимально прост в установке, обслуживании и эксплуатации, при этом надежен и долговечен в эксплуатации.
+В комплект входит клапан газа ОМВ.
+Польская компания КМЕ производит ГБО с 1992 года и с тех пор надежностью и высоким качеством каждой детали заработала доверие автовладельцев во всем мире. Все комплектующие газобаллонного оборудования от этой компании хорошо сочетаются с деталями от других производителей. Установка ГБО 4 поколения КМЕ и его эксплуатация отличается простотой и неприхотливостью.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876019691">
+    <url>https://gazmax.com.ua/p876019691-gazovyj-propanovyj-reduktor.html</url>
+    <price>1165</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555620330_gazovyj-propanovyj-reduktor.jpg</picture>
+    <picture>https://images.ua.prom.st/1555620434_gazovyj-propanovyj-reduktor.jpg</picture>
+    <picture>https://images.ua.prom.st/1555620495_gazovyj-propanovyj-reduktor.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовый пропановый редуктор SHARK 1200 mbar 112 kW 150 л.с. c ЭМК</name>
+    <vendor>Alex</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Газовый редуктор SHARK 1200 mbar создан для стабилизации давления и дальнейшей подачи газа к газовым инжекторам впрыска в двигатель внутреннего сгорания, разработана для автомобилей оснащенных системой поочередной подачи пропан-бутана в парообразной форме. Оборудование снижает давление газовой смеси из газового баллона и преобразовывает ее в газовую паровую форму со фиксированными значениями.
+Испаритель редуктор Alex Shark 1200 и его технических особенности
+Модернизированный технологически газовый пропановый редуктор SHARK 1200 позволяет:
+
+удерживать равномерное давление поступления газа и его подачи топлива и его точную дозировку во время поездки;
+технологически рациональное преобразование газовой смеси в летучий газ (парообразный), и в условиях сложных температурных режимах;
+поддерживать заданную ЭБУ температуру редуктора и газа во время езды.
+
+Конструкция газового редуктора Shark 1200 mb
+Структура строения газового редуктора SHARK 150 кВт для работы на сжиженном нефтяном газе модернизирован ЭМК и местом под фильтрующий элемент, где размещен вход для газовой магистрали диаметром 6 мм. В виду своей новизне, конструкторы постарались реализовать лучшие качества различных моделей редукторов ГБО 4 поколения, у пропанового редуктора ШАРК 1500 есть очень много схожего по внешнему виду с итальянским редуктором BRC Genius MB 1200 премиум класса - это можно заметить не только по внешним очертаниям, но и разобрав сами газовые испарители и сравнив газовые и тосольные каналы. Поэтому, можно с уверенностью утверждать, что газовый пропановый редуктор SHARK 1200 абсолютно готов к любому вызову и может справиться со всеми положенными на него задачами, при условиях высоких нагрузок на двигатель или других температурных режимах. Как и большинство современных редукторов 4 поколения, редуктор SHARK 150 kW имеет малый размер и возможность монтажа в 2 плоскостях упрощают процесс инсталляции ГБО. Редуктор SHARK 1200 атмосфер может быть частью любого ГБО 4 поколения с поочередным впрыском. Пропановый редуктор газовый SHARK 1200 - это без перебойная, стабильная и надежная работа вашего газового оборудования. Также представлена модель Shark 1500 атмосфер.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876020646">
+    <url>https://gazmax.com.ua/p876020646-gazovyj-reduktor-shark.html</url>
+    <price>1326</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1555629494_gazovyj-reduktor-shark.jpg</picture>
+    <picture>https://images.ua.prom.st/1555629688_gazovyj-reduktor-shark.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовый редуктор SHARK 1500 mbar 150 kW; 200 л.с. c ЭМК</name>
+    <vendor>Alex</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Газовый пропановый редуктор SHARK 1500 mbar используется для нормализации газового давления и испарения жидкой фазы в газообразующую. Далее редуктор поставляет газовую смесь к ГБО форсункам, прежде очистив с помощью газового фильтра тонкой очистки, смесь поступает в ДВС. Газовый редуктор Alex Shark 1500 минимизирует давление сжиженного нефтяного газа, получаемое из баллона ГБО и преобразует в пар со номинальным значением.
+Модернизированный ГБО редуктор Shark 1500 mb
+Современный газовый редуктор 1500 SHARK компании Alex может:
+
+сохранить равномерное давление получаемой газовой субстанции газа, переведя его в паровую стадию обеспечив тем самым фиксированную дозировку во время движения;
+технологически рационально преобразовывать сжиженный нефтяной газ в пар при допустимых температурных режимах;
+поддерживать конкретную температуру испарителя и контролировать температуру газа посредством электронного блока управления.
+
+Строение редуктора газа Shark 1500
+Структура строения газового редуктора SHARK 1500 улучшена электромагнитным клапаном и встроенным фильтром грубой очистки, возле штуцера входа под газовую трубку высокого давления D8 мм. Электромагнитный клапан с 8 миллиметровым диаметром входа, позволяет избежать ограничения в потреблении пропан-бутана из баллона ГБО, сложность с которой встречаются двигатели с малым объемом двигателя, используя клапан газа стандартных размеров. Новейшая конструкция мембраны под антифриз редуктора газа SHARK 1500 сохраняет нормальную и надежное функционирование всех параметров, в том числе в условиях высокой нагрузки.
+В виду своей современности, инженеры постарались воплотить в лучшие показатели передовых популярных и надежных моделей газовых редукторов четвертого поколения, у пропанового газового редуктора SHARK 1500 имеется ряд сходства по внешнему виду с итальянским редуктором BRC Genius MB 1500 атмосфер VIP класса - достаточно разобрать ГБО испарители и сравнить тосольные и газовые проходы. С уверенностью считаем, что пропановый ГБО испаритель SHARK 150 kW вполне подготовлен к разному виду сложностями и может справиться со всеми положенными на него задачами, при условиях высоких нагрузок на двигатель или различных температурных режимах. Редуктор 4 поколения SHARK 1500 , как и большинство новейших редукторов-испарителей газа, имеет небольшие габариты и возможность установки в двух площадях облегчают процесс инсталляции ГБО. Редуктор SHARK 1500 атмосфер может быть частью любого ГБО 4 поколения с поочередным впрыском. Пропановый газовый редуктор SHARK 150кВт - это стабильное и надежное функционирование ГБО в автомобиле. Также на сайте можете купить Shark 1200.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876021076">
+    <url>https://gazmax.com.ua/p876021076-reduktor-tomaseto-100hp.html</url>
+    <price>1504</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72098980</categoryId>
+    <picture>https://images.ua.prom.st/1555633751_reduktor-tomaseto-at-04.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomaseto AT-04 100HP</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Метановый редуктор Tomasetto, модель AT04, представляет собой трехступенчатый электронный редуктор для традиционных систем ГБО 2 поколения.
+Компактный и очень надежный, он был омологирован в соответствии с Европейскими Правилами ECE R110 и соответствует Стандартам Iso15500.
+Этот редуктор оборудован двойной системой регулировки, что гарантирует наилучшее качество регулировки.
+Подвижный штуцер входа редуктора предусматривает также присоединение манометра.</description>
+    <param name="Тип топлива">Метан</param>
+    <param name="Поколение ГБО">2</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="876022656">
+    <url>https://gazmax.com.ua/p876022656-reduktor-tomaseto-100.html</url>
+    <price>896</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50176115</categoryId>
+    <picture>https://images.ua.prom.st/1555636016_reduktor-tomaseto-at-07.jpg</picture>
+    <picture>https://images.ua.prom.st/1555636059_reduktor-tomaseto-at-07.jpg</picture>
+    <picture>https://images.ua.prom.st/1555636121_reduktor-tomaseto-at-07.jpg</picture>
+    <picture>https://images.ua.prom.st/1555636188_reduktor-tomaseto-at-07.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomaseto AT-07 100 Квт</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Описание Газовый редуктор Tomasetto AT-07 изготавливается для газобаллонного оборудования 2 поколения. Модель оснащена встроенным фильтром и электромагнитным клапаном, что отличает ее от предыдущих поколений редукторов. Решение купить редуктор Tomasetto AT-07 - правильное решение, ведь с ним ГБО оборудование монтируется на автомобиль в разы быстрее и проще. Технические параметры модели Основной корпус редуктора Tomasetto AT-07 изготовлен из литого алюминия. Давление, которое может выдерживать редуктор данной модели, составляет 3 МПа. Редуктор модели Томасетто 07 имеет компактный размер - 15х15х10 см. Весит данная модель 1,5 килограмма. Максимально напряжение редуктора составляет 12 Вольт. Входной поток газа осуществляется через трубку диаметром 6 миллиметров. Газовое топливо передается через выходной отсек диаметром 20 миллиметров. Составные части модели Томасетто АТ-07 Модель газового редуктора Tomasetto AT-07 состоит из нескольких необходимых для слаженной работы деталей: Штуцер для входящего потока газа диаметров 6 миллиметров. Встроенный электромагнитный клапан. Элемент для фильтрации газового топлива. Винт из пластика, который предназначен для регулировки чувствительности мембран. Винт из латуни, который нужен для регулировки газового потока в состоянии холостого хода автомобиля. Патрубки для транспортировки холодной жидкости. Штуцер для выходящего потока газа диаметром 19 миллиметров. Винт с заглушкой, который предназначен для выведения лишней жидкости конденсата. Две алюминиевые части корпуса, которые крепятся друг к другу с помощью болтов. Редуктор для газобаллонного оборудования Томасетто АТ-07 изготовлен по такой схеме, которая позволяет осуществлять максимально выгодный обмен тепла между двумя частями тела детали. Слаженная система работы редуктора Tomasetto АТ-07 гарантирует отсутствие газа в охлаждающей системе даже в том случае, если резиновая мембрана изнашивается. Максимальный пробег газового редуктора Tomasetto АТ-07 до первого ремонта составляет 150 000 километров.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">2</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882155916">
+    <url>https://gazmax.com.ua/p882155916-reduktor-tomasetto-at12.html</url>
+    <price>1495</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50175443</categoryId>
+    <picture>https://images.ua.prom.st/1570881176_reduktor-tomasetto-at12.jpg</picture>
+    <picture>https://images.ua.prom.st/1570881352_reduktor-tomasetto-at12.jpg</picture>
+    <picture>https://images.ua.prom.st/1570881227_reduktor-tomasetto-at12.jpg</picture>
+    <picture>https://images.ua.prom.st/1570881258_reduktor-tomasetto-at12.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор  Tomasetto AT12 Standart (метан) 4-е пок., 250 л.с. (до 185 кВт), вход D6 (M12x1), выход D14</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Редуктор  Tomasetto AT12 Standart (метан) 4-е пок., 250 л.с. (до 185 кВт), вход D6 (M12x1), выход D14.Главная задача данного газового редуктора,понижение давления газа метана для стабильной работы газовых форсунок.Редуктор Tomasetto AT12 Standart  имеет двух ступечнатую конструкцию,отличается долгим сроком службы и относительно не высокой стоимостью,как для метановых редукторов.</description>
+    <param name="Тип топлива">Метан</param>
+    <param name="Поколение ГБО">2</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяце</param>
+  </offer>
+  <offer available="true" id="882163073">
+    <url>https://gazmax.com.ua/p882163073-reduktor-tomasetto-alaska.html</url>
+    <price>896</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1570894920_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570895064_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570895092_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570895115_reduktor-tomasetto-at-09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT-09 ALASKA 136 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Этот газовый редуктор Tomasetto Alaska AT09 пожалуй самый популярный газовый редуктор 4-го поколения гбо в нашей стране и самой известной  фирмы газового оборудования Tomasetto.Преимущество данного редуктора состоит в том что он оборудован встроеным фильтром,клапаном подачи газа,удобство монтажа,неприхотливым,а самое главное недорогим обслуживанием и лучшей ценой/качество.Если у Вашего автомобиля мощность до 136 л.с.,то этот редуктор Вам прекрасно подойдёт.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882169290">
+    <url>https://gazmax.com.ua/p882169290-reduktor-tomasetto-alaska.html</url>
+    <price>950</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50008361</categoryId>
+    <picture>https://images.ua.prom.st/1570926611_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570926612_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570926613_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570926614_reduktor-tomasetto-at-09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT-09 ALASKA Super 150 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Этот газовый редуктор Tomasetto Alaska AT09 пожалуй самый популярный газовый редуктор 4-го поколения гбо в нашей стране и самой известной  фирмы газового оборудования Tomasetto.Преимущество данного редуктора состоит в том что он оборудован встроеным фильтром,клапаном подачи газа,удобство монтажа,неприхотливым,а самое главное недорогим обслуживанием и лучшей ценой/качество.Если у Вашего автомобиля мощность до 136 л.с.,то этот редуктор Вам прекрасно подойдёт.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882186978">
+    <url>https://gazmax.com.ua/p882186978-reduktor-tomasetto-alaska.html</url>
+    <price>950</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1570972413_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570972414_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570972415_reduktor-tomasetto-at-09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570972416_reduktor-tomasetto-at-09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT-09 ALASKA Super 150 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Этот газовый редуктор Tomasetto Alaska AT09 пожалуй самый популярный газовый редуктор 4-го поколения гбо в нашей стране и самой известной  фирмы газового оборудования Tomasetto.Преимущество данного редуктора состоит в том что он оборудован встроеным фильтром,клапаном подачи газа,удобство монтажа,неприхотливым,а самое главное недорогим обслуживанием и лучшей ценой/качество.Если у Вашего автомобиля мощность до 136 л.с.,то этот редуктор Вам прекрасно подойдёт.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882186979">
+    <url>https://gazmax.com.ua/p882186979-reduktor-tomasetto-at09.html</url>
+    <price>1152</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1570976887_reduktor-tomasetto-at09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570977043_reduktor-tomasetto-at09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570977106_reduktor-tomasetto-at09.jpg</picture>
+    <picture>https://images.ua.prom.st/1570977194_reduktor-tomasetto-at09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT09 Artic до 160 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Газовый редуктор Tomasetto Artic  AT09 используется для установки систем четвёртого поколения гбо,предназначен для работы на пропан-бутановой смеси,преобразуя из житкой в газообразное состояние,отлично держит давление,предназначен для двигателей мощностью до 160 л.с.Производство-Италия фирма Tomasetto поэтому о качестве не стоит безпокоиться.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882186980">
+    <url>https://gazmax.com.ua/p882186980-reduktor-tomasetto-at09.html</url>
+    <price>995</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1571006752_reduktor-tomasetto-at09.jpg</picture>
+    <picture>https://images.ua.prom.st/1571006782_reduktor-tomasetto-at09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT09 Nordic до 170 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Газовый редуктор TРедуктор Tomasetto AT09 Nordic до 170 л.с. используется для установки систем четвёртого поколения гбо,предназначен для работы на пропан-бутановой смеси,преобразуя из житкой в газообразное состояние,отлично держит давление,предназначен для двигателей мощностью до 170 л.с.Производство-Италия фирма Tomasetto поэтому о качестве не стоит безпокоиться.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882186981">
+    <url>https://gazmax.com.ua/p882186981-reduktor-tomasetto-at09.html</url>
+    <price>1344</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72153249</categoryId>
+    <picture>https://images.ua.prom.st/1571019536_reduktor-tomasetto-at09.jpg</picture>
+    <picture>https://images.ua.prom.st/1571019571_reduktor-tomasetto-at09.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор Tomasetto AT09 Nordic Super до 245 л.с.</name>
+    <vendor>Tomasetto</vendor>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Газовый редуктор Редуктор Tomasetto AT09 Nordic до 245 л.с. используется для установки систем четвёртого поколения гбо,предназначен для работы на пропан-бутановой смеси,преобразуя из житкой в газообразное состояние,отлично держит давление,предназначен для двигателей мощностью до 170 л.с.Производство-Италия фирма Tomasetto поэтому о качестве не стоит безпокоиться.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">AT-09</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882927468">
+    <url>https://gazmax.com.ua/p882927468-reduktor-kme-gold.html</url>
+    <price>2656</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72098984</categoryId>
+    <picture>https://images.ua.prom.st/1573157635_reduktor-kme-gold.jpg</picture>
+    <picture>https://images.ua.prom.st/1573157647_reduktor-kme-gold.jpg</picture>
+    <picture>https://images.ua.prom.st/1573157663_reduktor-kme-gold.jpg</picture>
+    <picture>https://images.ua.prom.st/1573157733_reduktor-kme-gold.jpg</picture>
+    <picture>https://images.ua.prom.st/1573157765_reduktor-kme-gold.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор KME Gold GT (до 340 л.с.)</name>
+    <vendor>KME</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Редуктор KME GOLD GT - устройство, предназначенное для испарения и снижения давления газа СНГ в установках IV поколения. Газовый клапан с жидкофазным фильтром марки OMB и монтажные принадлежности можно приобрести выбрав нужную опцию.
+
+
+
+Редуктор KME GOLD GT представляет собой модель избыточного давления с регулируемым рабочим давлением. Давление регулируется поворотом регулятора на шестигранном ключе, установленном на камере в центральной части редуктора.
+
+
+
+Может использоваться в любой последовательной инжекционной установке с использованием испарителей с аналогичными параметрами. Успешная конструкция обеспечивает высокую эффективность и исключает падение давления при высоких нагрузках системы.
+
+
+
+Модель GT была создана для работы с двигателями, которые требуют очень высокой эффективности. Он имеет два газовых выхода и может работать с двигателями мощностью не более 340 л.с. .
+
+
+
+Технические характеристики:
+
+    номер официального утверждения: E8 67R-013949
+
+    максимальная емкость: 340KM (250 кВт)
+
+    макс. давление подачи - 25 бар
+
+    рабочее давление - 0,9-1,7 бар
+
+    макс. выходное давление - 2,5 бар
+
+    подача медной трубы: Φ 8 мм
+
+    водяной шланг: Φ 16 мм
+
+    газовый выпускной шланг Φ 12 мм
+
+    размеры: приблизительно 120 мм / 65 мм</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882938529">
+    <url>https://gazmax.com.ua/p882938529-reduktor-kme-silver.html</url>
+    <price>1536</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1573163380_reduktor-kme-silver.jpg</picture>
+    <picture>https://images.ua.prom.st/1573163437_reduktor-kme-silver.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор KME SILVER S6 (217 л.с.) с ЭМК газа</name>
+    <vendor>KME</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Газовый редуктор-испаритель KME Silver (Польша), предназначен для монтажа систем 4-го поколения на сжиженном газе, пропан-бутане. Данный редуктор рассчитан на автомобили, мощностью до 150 кВт (204 л.с.). Одним из главных преимуществ данного редуктора являются стойкие динамические характеристики и устойчивое давление при впрыске газа даже, когда происходит резкое изменение нагрузки работы двигателя (от пикового режима нагрузки до торможения). Испарение газа в редукторе очень эффективное и обеспечивает стабильную температуру газа на рампе газовых форсунок. Высокое качество комплектующих способствует длительному сроку службы. 
+
+
+
+Дополнительные характеристики
+
+Катушка 12 вольт
+
+Мощность до 204 л.с. (150 кВт)
+
+Корпус Металлический 
+
+Диаметр штуцера входа газа 8 мм (M12x1)
+
+Диаметр штуцера выхода газа 12 мм
+
+Диаметр штуцера входа и выхода охлаждающей жидкости 16 пластик
+
+Наличие датчика температуры редуктора есть
+
+Наличие электромагнитного клапана газа есть
+
+Наличие фильтра жидкой фазы газа есть</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882941857">
+    <url>https://gazmax.com.ua/p882941857-reduktor-kme-tur.html</url>
+    <price>1525</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72098983</categoryId>
+    <picture>https://images.ua.prom.st/1573170063_reduktor-kme-tur.jpg</picture>
+    <picture>https://images.ua.prom.st/1573170108_reduktor-kme-tur.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор KME TUR 150 кВт (204 л.с.) с ЭМК газа</name>
+    <vendor>KME</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Он предназначен для последовательных систем впрыска сжиженного газа. В отличие от ранее выпущенного редуктора Silver имеет гораздо меньшие размеры: 142x130x82, мощность 150кВт .Достижение такой высокой производительности с его небольшими размерами достигается за счет новых каналов со стороны воды и газа. Еще одним преимуществом является введение клапана в виде вкладок. Решение обеспечивает высокую стойкость к загрязнению которое содержится в газе, что значительно увеличивает срок эксплуатации. TUR редуктор поддерживает стабильное давление газа на всех режимах вождения.
+
+ 
+
+Основные параметры:
+
+ 
+
+Moщность: 150кВт
+
+Темп. от -20 ⁰ C до 120 ⁰ C
+
+откидной клапан
+
+Дифференциальный клапан сброса давления
+
+Регулировка выходного давления газа: 0,9 ÷ 1,6 бар
+
+Внешний клапан с фильтром
+
+Внешние размеры: 142x130x82mm
+
+Соединение на выходе D12mm
+
+Всасывающий вакуум D 5mm
+
+LPG входе M10x1
+
+Вход газа D6mm 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882944856">
+    <url>https://gazmax.com.ua/p882944856-reduktor-kme-twin.html</url>
+    <price>3584</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72098982</categoryId>
+    <picture>https://images.ua.prom.st/1573172572_reduktor-kme-twin.jpg</picture>
+    <picture>https://images.ua.prom.st/1573172583_reduktor-kme-twin.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Редуктор KME Twin до 300 kW (до 411 л.с.)</name>
+    <vendor>KME</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Редуктор KME Twin V2 300 кВт (Польша) предназначен для преобразования жидкой фазы пропан-бутана в паровую в системах ГБО четвертого поколения. Обеспечивает стабильные показатели давления газа при резкой смене режима работы в широком диапазоне динамических нагрузок. Благодаря отличным техническим характеристикам и высокому качеству редукторы производства KME давно популярны среди потребителей и установщиков газобаллонного оборудования. Используется для автомобилей с двигателями большой мощности с мгновенным большим потреблением газа до 300 кВт. (400 л.с.).  Данная модель разработана на основе уже известной и популярной TUR6. Двойная система стабилизации давления  газа обеспечивает нужное количество газа со стабильными параметрами. Высокая производительность при сравнительно небольших размерах достигается разработке новых каналов воды и газового регулятора TWIN.  Подробнее: https://gbo-parts.prom.ua/p564924326-reduktor-kme-twin.html</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="882947453">
+    <url>https://gazmax.com.ua/p882947453-remkomplekt-reduktora-tomasetto.html</url>
+    <price>352</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>51746682</categoryId>
+    <picture>https://images.ua.prom.st/1573178628_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Ремкомплект Редуктора Tomasetto AT-04 (Метан)</name>
+    <vendor>Tomasetto</vendor>
+    <vendorCode>RMAT 2160</vendorCode>
+    <country_of_origin>Италия</country_of_origin>
+    <description>Ремкомплект для редуктора Томасетто метан набор от итальянского производителя, служит для замены всех изнашиваемых деталей редуктора. По сути, это комплект газовых мембран и резинок – уплотнителей.Ремкомплект для редуктора Tomasetto метан изготавливаются на современном оборудовании, с применением новейших технологий. При производстве применяют высококачественные материалы, что позволяет приобретать мембранам дополнительные улучшенные характеристики:
+
+ 
+
+Низкая проницаемость газа;
+
+Высокая чувствительность к газу;
+
+Увеличенная стойкость к бензину и маслу;
+
+Повышенный ресурс работы.
+
+ 
+
+Ремкомплекты Tomasetto снижают расход газа до 10%, и позволяют запускать двигатель автомобиля даже в холодную погоду. Также, они способствуют стабильной работе двигателя на холостом ходу. Имеют надежную и качественную упаковку.
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="924367363">
+    <url>https://gazmax.com.ua/p924367363-gazovyj-reduktor-pride.html</url>
+    <price>1189</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50123031</categoryId>
+    <picture>https://images.ua.prom.st/1664712717_gazovyj-reduktor-pride.jpg</picture>
+    <picture>https://images.ua.prom.st/1664712718_gazovyj-reduktor-pride.jpg</picture>
+    <picture>https://images.ua.prom.st/1664712719_gazovyj-reduktor-pride.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Газовый редуктор Pride Silver VR-L 150 kw до 200 л.с. versus vr-l standard</name>
+    <vendor>Versus</vendor>
+    <vendorCode>vr-l standard</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>
+Новейший редуктор VR-L Standard разработан с учетом современных технологических достижений. Благодаря этому фактору получают наиболее эффективные значения температурного обмена, а также оптимальные характеристики давления. Это было доказано тестированием в экстремальных условиях. Стандартный редуктор VR-L оснащен соленоидом для сжиженного нефтяного газа, поэтому нет необходимости устанавливать дополнительный клапан. Это помогает сэкономить место в моторном отсеке.
+
+Основные характеристики:
+​​​​​​​
+1. Корпус: литой под давлением из алюминиевого сплава 
+2. Рабочее давление: 1 бар (14,5 фунтов на кв. Дюйм)
+3. Максимальная мощность: 150 кВт (200 л.с.)
+4. Диапазон рабочих температур: -30 / + 120 ° C (-22 / + 250 ° F) 
+5. Внешний диаметр выпускного отверстия для сжиженного газа: 12 мм 
+6. Входной диаметр для сжиженного нефтяного газа: 6 мм 
+7. Выходной / выходной диаметр охлаждающей жидкости двигателя: 16 мм 
+8. Размеры: 135x190x130 мм / 5,3x7,5x5,1 дюйма 
+9. Диаметр корпуса: 100 мм / 4 дюйма I Сухой вес: 1,45 кг (3,2 фунта)
+10. Сертификация: ECE67R01</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">VRL - Standart</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="949599063">
+    <url>https://gazmax.com.ua/p949599063-datchik-davleniya-gaza.html</url>
+    <price>514</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1762168649_datchik-davleniya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1762168650_datchik-davleniya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1762168647_datchik-davleniya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1762168648_datchik-davleniya-gaza.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Датчик давления газа, мап сенсор Stag PS-04 plus (Польша) map sensor</name>
+    <vendor>stag</vendor>
+    <vendorCode>PS-04 plus</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Вашему вниманию предоставляется датчик давления и температуры, мап сенсор STAG PS-04 Plus
+
+
+
+7 причин купить PS-02 Plus в GazMax.com.ua
+
+1. Фотографии товара реальные, Вы получите действительно то изделие что на фото.
+
+2. Гарантия 12 месяцев по фирменной гарантийной пломбе на корпусе (а не на словах)
+
+3. Датчик произведен в ПОЛЬШЕ , есть соответствующие документы
+
+4. Наша сервисная служба проверяет каждый датчик перед отправкой
+
+5. Консультации по установке датчика от опытных установщиков ГБО Бесплатно, при покупке у нас
+
+6. Три варианта оплаты товара: покупка без риска prom.ua, оплата на карту банка, оплата при получении
+
+7. Отправка Новой Почтой ежедневно
+
+
+
+Есть ОПТ для торговых точек и СТО
+
+Применяется в системах впрыска:
+
+
+
+Stag-200 GoFast; Stag-4 Plus; Stag-300 ISA2; Stag-300 Premium; Stag Q-BOX BASIC; Stag Q-BOX PLUS; Stag QNEXT.
+
+Digitronic IQ; Digitronic Maxi2;Digitronic Maxi2 Titan; Digitronic IQ 3D; Atiker и многих других.
+
+ 
+
+Если у Вас вышел из строя датчик давления и температуры Stag PS-04 plus или Stag PS-02 plus, то Вы попали на нужный Вам сайт. Датчик давления и температуры или как его ещё называют MAP сенсор – это одна из самых уязвимых запчастей в составе газобаллонного оборудования.
+
+1.       Как устроен МАП сенсор
+
+2.       Как продлить срок службы PS-04 и PS-02
+
+3.       Советы по правильному монтажу изделия
+
+1
+
+ Датчик давления и температуры газа устроен следующим образом, в пластиковом, водонепроницаемом корпусе находиться плата, на которой установлены: разъем для подключения к электронному блоку управления ГБО (ЭБУ), датчик давления, датчик разрежения и датчик температуры(термопара) и всё это имеет электронную “обвязку” в виде конденсаторов, транзисторов и стабилизирующих микросхем.  В корпусе есть вакуумный выход и выход для газа. Вакуум и газ подаются через специальные переходники, которые между прочим, идут в комплекте в Нашем интернет магазине.
+
+2
+
+                Основные причины выхода из строя датчиков типа STAG PS-04 plus это: несвоевременная замена фильтров, некачественное газовое топливо, резкие скачки давления на редукторе ГБО, неправильный монтаж. Фильтра рекомендуется менять каждые 10 000км, особенно в Украине, принципиальную важность для мап сенсора ГБО имеет фильтр паровой фазы. Обращайте внимание на монтаж фильтра, у него есть направление, которое как правило указано стрелкой. Так же если неправильно подобран редуктор (по мощности автомобиля) или система ГБО неисправна, то резкий скачок «прорывает» мембрану которая установлена в мап сенсоре.
+
+3
+
+ Датчик давления и разрежения ГБО должен быть установлен только после фильтра паровой фазы и вход газа должен находиться либо на 90 градусов, либо смотреть в низ, так как в Пропане есть тяжёлые фракции, которые забивают датчик и ускоряют коррозию его элементов.
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">PS-04 plus</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1014415082">
+    <url>https://gazmax.com.ua/p1014415082-elektronika-stag-gofast.html</url>
+    <price>1910</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50080378</categoryId>
+    <picture>https://images.ua.prom.st/1911342613_elektronika-stag-gofast.jpg</picture>
+    <picture>https://images.ua.prom.st/1905451962_elektronika-stag-gofast.jpg</picture>
+    <picture>https://images.ua.prom.st/1905452101_elektronika-stag-gofast.jpg</picture>
+    <picture>https://images.ua.prom.st/1905452129_elektronika-stag-gofast.jpg</picture>
+    <picture>https://images.ua.prom.st/1905452214_elektronika-stag-gofast.jpg</picture>
+    <picture>https://images.ua.prom.st/1905452469_elektronika-stag-gofast.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Электроника Stag GoFast 200 4 цилиндра PS-04 plus</name>
+    <vendor>Stag</vendor>
+    <vendorCode>FAST_04</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Электроника торговой марки Stag модели GoFast 200 - это самая распространённая электроника для распределённого впрыска 4-го поколения ГБО на территории Украины и стран СНГ. Чем обусловлена данная популярность?
+
+
+	Надёжность данной модели очень высока, благодаря массовости продаж производителю, а это польский завод AC, удалось сделать эту модель максимально надёжной.
+	Соотношение цена-качество лучшее в своём сегменте так же благодаря массовости данной модели
+	Простота монтажа и настройки, в комплекте поставляется инструкция по подключения данного устройства к автомобилю, а настройка возможна при помощи инновационной автокалибровки. То есть присутствует функция автонастройки.
+	Электроника Stag 200 GoFast польского завода ГБО AC адаптирована под украинский газ и реалии нашего рынка ГБО
+	Гарантия 24 месяца с момента продажи электроники ГБО, против стандартных 12. (при условии правильной эксплуатации прописанной в гарантийной книге и сохранении гарантийных пломб)
+
+
+ 
+
+Что входит в комплект? 
+
+
+	ЭБУ (Электронный блок управления, сам газовый компьютер, с разъёмом на 32-pin)
+	Проводка к блоку управления Stag GoFast 200, выполненная из высококачественной резины в термостойкой оплётке, выходные провода разного цвета, что значительно облегчает монтаж (соответствующие цвета подписаны в инструкции установке блока)
+	Переключатель видов топлива Stag LED-200 со светодиодной индикацией и встроенным зуммером (динамик). На которой отображается уровень газового топлива в баллоне, индикатор активного топлива и индикатор неисправностей (check)
+	Мап-сенсор Stag PS-04 Plus - последняя модель и разработка среди газовых MAP сенсоров, прост в подключении и долговечен в эксплуатацию
+	Инструкция по установки, монтажу электроники ГБО на русском языке
+	Гарантийная книга
+	Полный монтажный набор
+
+
+     Почему стоит приобретать данную электронику именно в gazmax.com.ua ? Всё просто, фотографии товара реальные, а не загруженные из интернета, то есть Вы действительно получите тот комплект, который на фото, благодаря системе отзывов Вы можете быть уверены в нашей надёжности, а фирменный гарантийные пломбы с указанием даты продажи на товаре подтверждают, что мы профессионально подходим к гарантийным вопросам, так же отправка товара в день заказа.
+
+     Если у Вас остались какие-то вопросы, нужна техническая консультация и т.д. набирайте на номера указанные на сайте, мы всегда рады вашим звонкам и вопросам!
+
+ 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">GoFast 200</param>
+    <param name="Гарантия " unit="">24 месяца</param>
+  </offer>
+  <offer available="true" id="1015252440">
+    <url>https://gazmax.com.ua/p1015252440-remkomplekt-reduktora-tomasetto.html</url>
+    <price>214</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>51746682</categoryId>
+    <picture>https://images.ua.prom.st/1907637604_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <picture>https://images.ua.prom.st/1907968076_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <picture>https://images.ua.prom.st/1907637624_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Ремкомплект редуктора Tomasetto AT-09 Alaska Полная комплектация</name>
+    <vendor>Tomasetto</vendor>
+    <vendorCode>RGAT2090</vendorCode>
+    <description>     Ремкомплект редуктора Tomasetto AT-09 Alaska - это набор запасных частей для редуктора которые больше всего подвержены износу. Заводом изготовителем редуктора Tomasetto Achille рекомендуется замена ремкомплекта каждые 80-100 тыс. км. То есть на 8-10 раз  технического обслуживания. 
+
+     Данный ремкомплект наиболее полная версия, в составе:
+
+
+	Основная мембрана с взрывным клапаном
+	O-Ring 3056 2шт
+	O-Ring 2050 1шт
+	Клапан 2-й ступени
+	Тосольная мембрана
+	Газовая мембрана
+	Фильтр с армированием
+	Крышка фильтра
+	Болт крышки фильтра (3шт)
+	Набор уплотнителей для крышки фильтра Tomasetto    
+
+
+Замена ремкомплекта редуктора томасэтто аляска - это несложный процесс. Однако, стоит обратить внимание, на то что при разборе редуктора стоит качественно вымыть и вычистить его от тяжелых фракций и грязи которых в украинском газу предостаточно.
+
+Так же очень часто необходима замена ремкомплекта после запуска ГБО "в холодную", то  есть без предварительного прогрева редуктора, особенно это актуально в прохладное время года.
+
+ 
+
+Если Вам нужна консультация в замене ремкомплекта, подбора необходимого или любые другие вопросы, звоните нам, мы всегда рады Вашим звонкам и готовы помочь.
+</description>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1017084580">
+    <url>https://gazmax.com.ua/p1017084580-datchik-temperatury-reduktora.html</url>
+    <price>60</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1913156509_datchik-temperatury-reduktora.jpg</picture>
+    <picture>https://images.ua.prom.st/1913156518_datchik-temperatury-reduktora.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Датчик температуры редуктора Tomasetto, KME, Stag, Lpgtech 4,7 кОм</name>
+    <vendor>KME</vendor>
+    <vendorCode>4k7</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Датчик температуры редуктора. Подходит для большинства редукторов, выполнен из латуни (что повышает теплопроводность, а значит и качество показаний). Имеет сопротивление 4,7 кОм, резьба М5 (в 90% такая). В большинстве случаев это стандартный датчик температуры и либо стоит в настройках электроники ГБО по-умолчанию, либо можно выбрать его тип в настройках. </description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1017091928">
+    <url>https://gazmax.com.ua/p1017091928-datchik-temperatury-reduktora.html</url>
+    <price>60</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1913306856_datchik-temperatury-reduktora.jpg</picture>
+    <picture>https://images.ua.prom.st/1913306866_datchik-temperatury-reduktora.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Датчик температуры редуктора Stag, Tomasetto  2,2 кОм</name>
+    <vendor>stag</vendor>
+    <vendorCode>2k2</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Датчик температуры редуктора. Подходит для большинства редукторов, выполнен из латуни (что повышает теплопроводность, а значит и качество показаний). Имеет сопротивление 2,2 кОм, резьба М5 (в 90% такая). В большинстве случаев это стандартный датчик температуры для систем под брендами Stag и Digitronic. Так же подходит на большинство систем ГБО 4 поколения, в настройках электроники ГБО можно выбрать его тип (2,2 кОм)</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1017099544">
+    <url>https://gazmax.com.ua/p1017099544-datchik-urovnya-gaza.html</url>
+    <price>58</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1913313555_datchik-urovnya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1913313589_datchik-urovnya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1913313813_datchik-urovnya-gaza.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Датчик уровня газа 10-90 кОм (без проводки)</name>
+    <vendorCode>10-90</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Датчик уровня топлива 10-90, имеет сопротивление 90 кОм и применяется в большинстве систем 4-го поколения, так же возможна установка вместе с переключателем 2-го поколения (если переключатель поддерживает данную функцию).
+
+Устанавливается на мультиклапан и имеет подключение 2-pin.
+
+Возможен крупный ОПТ
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1017109916">
+    <url>https://gazmax.com.ua/p1017109916-remkomplekt-reduktora-tomasetto.html</url>
+    <price>214</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>71990381</categoryId>
+    <picture>https://images.ua.prom.st/1913347277_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <picture>https://images.ua.prom.st/1913347325_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <picture>https://images.ua.prom.st/1913348282_remkomplekt-reduktora-tomasetto.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Ремкомплект редуктора Tomasetto AT-07 Полная комплектация</name>
+    <vendor>Tomasetto</vendor>
+    <vendorCode>RGAT2060</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Ремкомплект редуктора Tomasetto AT-07 (2 поколение)  - это набор запасных частей для редуктора которые больше всего подвержены износу. Заводом изготовителем редуктора Tomasetto Achille рекомендуется замена ремкомплекта каждые 80-100 тыс. км. То есть на 8-10 раз  технического обслуживания. 
+
+     Данный ремкомплект наиболее полная версия, в составе:
+
+
+	Основная мембрана с взрывным клапаном
+	O-Ring 3168 2шт
+	O-Ring 3100 1шт
+	Клапан 2-й ступени
+	Тосольная мембрана
+	Мембрана 2-й ступени
+	Фильтр с армированием
+	Крышка фильтра
+	Болт крышки фильтра (3шт)
+	Набор уплотнителей для крышки фильтра Tomasetto    
+
+
+Замена ремкомплекта редуктора томасэтто АТ-07 - это несложный процесс. Однако, стоит обратить внимание, на то что при разборе редуктора стоит качественно вымыть и вычистить его от тяжелых фракций и грязи которых в украинском газу предостаточно.
+
+Так же очень часто необходима замена ремкомплекта после запуска ГБО "в холодную", то  есть без предварительного прогрева редуктора, особенно это актуально в прохладное время года.
+
+ 
+
+Если Вам нужна консультация в замене ремкомплекта, подбора необходимого или любые другие вопросы, звоните нам, мы всегда рады Вашим звонкам и готовы помочь.
+</description>
+    <param name="Поколение ГБО">2</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1017161349">
+    <url>https://gazmax.com.ua/p1017161349-blok-upravleniya-stag.html</url>
+    <price>1130</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72128700</categoryId>
+    <picture>https://images.ua.prom.st/1919607722_blok-upravleniya-stag.jpg</picture>
+    <picture>https://images.ua.prom.st/1913366760_blok-upravleniya-stag.jpg</picture>
+    <picture>https://images.ua.prom.st/1913366829_blok-upravleniya-stag.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Блок управления Stag GoFast 200 ЭБУ (электронный блок управления) мозги</name>
+    <vendor>stag</vendor>
+    <vendorCode>ECU200</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Блок управления Stag GoFast 200 ЭБУ (электронный блок управления) мозги
+
+Разьём на 32-пин и гарантийная наклейка. В комплекте поставки только сам блок.
+
+Замена блока производиться очень просто, достаточно отодвинуть крепёжный рычаг на проводке и вынуть разъём, повторить в обратном порядке. 
+
+Не разрешается монтаж блока разъёмом вверх. Это связанно с тем, что это повышает риски попадания влаги и конденсата, рекомендация производителя.
+
+ 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1017703237">
+    <url>https://gazmax.com.ua/p1017703237-map-sensor-aeb.html</url>
+    <price>630</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1914837275_map-sensor-aeb.jpg</picture>
+    <picture>https://images.ua.prom.st/1914836963_map-sensor-aeb.jpg</picture>
+    <picture>https://images.ua.prom.st/1914837090_map-sensor-aeb.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Мап сенсор AEB MP-12t MP-01 , Pride, King, Landi renzo, Reagas, Lovato, Digitronic</name>
+    <vendor>AEB</vendor>
+    <vendorCode>mp12t</vendorCode>
+    <country_of_origin>Италия</country_of_origin>
+    <description>3 причины Почему стоит купить этот датчик в GazMax?
+
+
+	Честная гарантия - 12 месяцев (а не 6 месяцев или 2 недели), ведь мы уверены в наших комплектующих.
+	Тест каждого датчика перед отправкой на работоспособность и стабильность работы.
+	Мы действительно знаем все тонкости замены мап датчика, его типичные причины выхода из строя и способны помочь Вам с самостоятельно установкой датчика, так что бы он служил долго и верно.
+
+
+ Используется в оборудовании таких торговых марок как: AEB, Landi Renzo, Lovato, Pride, King, Reagas, Digitronic EmmeGas и т.д. 
+
+Какие тонкости существуют тонкости и нюансы при установке мап сенсора mp12t и всех ему подобных по конструктиву (проходных) сенсоров?
+
+1.       Установка изделия необходима надписью вверх, разъёмом к низу или если под капотом ну совсем нет места, то максимум на 90 градусов. Данное ограничение обусловлено тем, что сам датчик давления mpxhz6400 который измеряет давление имеет свойство «засоряться» некачественным газом, тяжёлыми фракциями и незначительно подвержен коррозии. Если map aeb установить вверх ногами, то газ будет затекать в данный датчик и повышать его износ, а как следствие и срок службы изделия целиком.
+
+2.       В системе подачи газа датчик давления газа должен располагаться после фильтра паровой фазы (с отстойником или проточный) перед газовыми форсунками.  
+
+3.       При подключении разъёма 5-pin (который идёт к электронному блоку управления ЭБУ) необходимо помнить, что грубой силой можно согнуть или сломать «пины» - ножки подключения, поэтому если разъём не вставляется до конца, то лучше вынуть штекер и попробовать снова.
+
+4.       Не рекомендуется установка датчика в «горячих» местах под капотом, это может влиять на передаваемые параметры, а также выводить map mp-01 из строя.
+
+Датчик давления AEB MP-12t очень прост в установке и не требует совершенно никаких настроек системы ГБО. То есть достаточно MP-12t купить и заменить для продолжения работы двигателя на газе.
+
+ 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1018318258">
+    <url>https://gazmax.com.ua/p1018318258-filtr-gbo-dlya.html</url>
+    <price>8</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72344428</categoryId>
+    <picture>https://images.ua.prom.st/1916506130_filtr-gbo-dlya.jpg</picture>
+    <picture>https://images.ua.prom.st/1916506649_filtr-gbo-dlya.jpg</picture>
+    <picture>https://images.ua.prom.st/1916506676_filtr-gbo-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фильтр ГБО для редуктора Tomasetto, Alex</name>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Фильтр в редуктор Tomasetto и множество других (очень часто в редукторах других фирм используется такой же тип). Имеет надёжное внутреннее армирование, что помогает избежать сминания фильтра под давлением, а значит продлевает срок службы фильтра и повышает степень фильтрации. Для фильтрации используется бумага со специальной пропиткой, предназначенной для фильтрации именно пропан-бутана.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1019116857">
+    <url>https://gazmax.com.ua/p1019116857-filtr-alex-ultra.html</url>
+    <price>73</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72169982</categoryId>
+    <picture>https://images.ua.prom.st/1918630846_filtr-alex-ultra.jpg</picture>
+    <picture>https://images.ua.prom.st/1918630690_filtr-alex-ultra.jpg</picture>
+    <picture>https://images.ua.prom.st/1918631152_filtr-alex-ultra.jpg</picture>
+    <picture>https://images.ua.prom.st/1918690401_filtr-alex-ultra.jpg</picture>
+    <picture>https://images.ua.prom.st/1918690480_filtr-alex-ultra.jpg</picture>
+    <picture>https://images.ua.prom.st/1918690486_filtr-alex-ultra.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фильтр Alex Ultra 360 (картридж), сменный элемент, вкладыш</name>
+    <vendor>Alex sp z.o.o.</vendor>
+    <vendorCode>Wkład filtra Ultra</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Фильтрующий элемент, картридж для фильтра Alex Ultra 360. Подходит для любых версий фильтра алекс 360, комплектуется уплотнительным кольцом и талоном о замене картриджа. Поставляется в оригинальной заводской коробке. Скидка от 3-х штук.
+
+
+Внимание!  Выгодное предложение: Скидка от 3-х штук 13% от цены
+
+
+ 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1019565293">
+    <url>https://gazmax.com.ua/p1019565293-filtr-gbo-dlya.html</url>
+    <price>12</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72344428</categoryId>
+    <picture>https://images.ua.prom.st/1919733720_filtr-gbo-dlya.jpg</picture>
+    <picture>https://images.ua.prom.st/1919733536_filtr-gbo-dlya.jpg</picture>
+    <picture>https://images.ua.prom.st/1919733633_filtr-gbo-dlya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фильтр ГБО для редуктора Tomasetto, Alex c уплотнительными кольцами</name>
+    <vendorCode>RGAT2070</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Фильтр в редуктор Tomasetto и множество других (очень часто в редукторах других фирм используется такой же тип). Имеет надёжное внутреннее армирование, что помогает избежать сминания фильтра под давлением, а значит продлевает срок службы фильтра и повышает степень фильтрации. Для фильтрации используется бумага со специальной пропиткой, предназначенной для фильтрации именно пропан-бутана. Уплотнительные кольца изготовлены из высококачественной маслобензостойкой спец. резины (МБС). Что гарантирует герметичность и долговечность встроенного в редуктор Tomasetto газового клапана.</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1023986277">
+    <url>https://gazmax.com.ua/p1023986277-filtr-otstojnikom-alex.html</url>
+    <oldprice>205</oldprice>
+    <price>184.5</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72169982</categoryId>
+    <picture>https://images.ua.prom.st/1931059972_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931059866_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931060372_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931060387_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931060568_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931091597_filtr-c-otstojnikom.jpg</picture>
+    <picture>https://images.ua.prom.st/1931060561_filtr-c-otstojnikom.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фильтр c отстойником Alex Ultra 360 в сборе</name>
+    <vendor>Alex sp z.o.o.</vendor>
+    <vendorCode>GF1212</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>
+АКЦИЯ! Сэкономьте на доставке и на количестве, картридж для данного фильтра от   3-х штук всего 70грн (15% скидка) https://gazmax.com.ua/p1019116857-filtr-alex-ultra.html
+
+
+Фильтр с отстойником Alex ULTRA 360 - это высокотехнологичный и продвинутый продукт от польской компании ALEX Sp. z o. o. 
+
+В чём основные преимущество данного фильтра?
+
+
+	Функция сепарации масел и тяжёлых фракций, то есть все вещества которые не должны попадать в форсунки а потом и в коллектор не попадают туда, а остаются внутри отстойника (за счёт использования принципа турбины и наличия отстойника), а потом во время ТО (технического обслуживания ГБО) эти отходы, просто сливаются из колбы. Так же это в значительной (очень) продлевает жизнь форсункам в особенности скоростным по типу Hana, Barracuda и т.д. которые не разборные и их нельзя прочистить от загрязнения.
+	Ультра 360 - это значит, что газовые выходы для данного фильтра можно располагать на 360 градусов, что значительно упрощает монтаж, а так же снижает натяжение газовых патрубков, что продлевает их срок службы.
+	Визуальный контроль уровня загрязнения фильтра. В отличии стандартных проточных фильтров паровой фазы, которые невозможно разобрать что бы проверить пора ли менять фильтр, для фильтра Алекс Ультра 360 - это совершенно не является проблемой.
+
+
+Производитель рекомендует монтаж данного фильтра  вертикально, с наклоном +- 20% (изображено на упаковке, фото №6). Замена картриджа рекомендуется раз в 10 000 км - 15 000 км 
+
+В комплекте поставки: Фильтр с отстойником (картридж внутри), 2 крепёжных винта
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Выход/Выход газа" unit="">12 мм</param>
+    <param name="Фильтрующий материал" unit=""> полиэстер</param>
+    <param name="Размеры" unit="">60 x 60 x 106</param>
+    <param name="Рабочее давление" unit="">4,5 bar</param>
+    <param name="Рабочая температура" unit="">от -30 до +120°C</param>
+  </offer>
+  <offer available="true" id="1032501468">
+    <url>https://gazmax.com.ua/p1032501468-forsunki-alex-barracuda.html</url>
+    <price>359</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50075791</categoryId>
+    <picture>https://images.ua.prom.st/1958804919_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954389945_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954390035_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954390195_forsunki-alex-barracuda.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Форсунки Alex Barracuda Single Газовые скоростные форсунки</name>
+    <vendor>Alex sp z.o.o.</vendor>
+    <vendorCode>Baracuda_singl</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>     Форсунки Alex Barracuda - это идеальное сочетание качества и демократической цены. Данные форсунки являются скоростными, что позволяет их ставить на большинство автомобилей премиум класса. 
+
+     В чём основные преимущества форсунок Барракуда сингл?
+
+
+	Одиночное исполнение, позволяет совершить монтаж наиболее близко к впускному коллектору, за счёт этого, появляется максимальна точность впрыска.
+	Фотополимерное покрытие поверхностей, с которыми соприкасается шток форсунки. За счёт этого уменьшается трение, а значит увеличивается срок службы форсунки, снижается уровень шума, повышается скорость открытия/закрытия.
+	Уменьшенный расход газа по сравнению с другими форсунками за счёт конструктивных особенностей.
+	Точность дозировки топлива, что является одним из самых важных факторов для стабильной работы двигателя. 
+	Не нуждаются в регулировке, они изначально с завода откалиброваны.
+
+
+Мощность данных форсунок регулируется методом увеличение входного диаметра дюз.
+
+Производитель данных форсунок настоятельно рекомендует (рисунок фильтра есть на упаковке форсунок) их использование вместе с фильтром с функцией сепарации масел (того же производства).https://gazmax.com.ua/p1023986277-filtr-otstojnikom-alex.html 
+
+
+Так же обратите внимание, что форсунки оригинальные, на каждой форсунки есть гравировка и уникальный серийный номер производителя
+
+
+В комплектацию входит сама форсунка и дюза для регулировки выходного диаметра.
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">Bar_Single</param>
+    <param name="Сопротивление катушек" unit="">1,9 Ом</param>
+    <param name="Фотополимерное покрытие" unit="">Есть</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1032516057">
+    <url>https://gazmax.com.ua/p1032516057-forsunki-alex-barracuda.html</url>
+    <price>1635</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50075791</categoryId>
+    <picture>https://images.ua.prom.st/1954462036_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954463766_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954463799_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954464782_forsunki-alex-barracuda.jpg</picture>
+    <picture>https://images.ua.prom.st/1954464806_forsunki-alex-barracuda.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Форсунки Alex Barracuda 4 цилиндра Газовые скоростные форсунки</name>
+    <vendor>Alex sp z.o.o.</vendor>
+    <vendorCode>Baracuda_4cyl</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>     Форсунки Alex Barracuda в планке - это идеальное сочетание качества и демократической цены. Данные форсунки являются скоростными, что позволяет их ставить на большинство автомобилей премиум класса. 
+
+     В чём основные преимущества форсунок Барракуда в монтажном наборе?
+
+
+	Монтажный набор, позволяет совершить монтаж быстро и удобно, так же это немного повышает пропускную способность по сравнению с одиночными форсунками.
+	Фотополимерное покрытие поверхностей, с которыми соприкасается шток форсунки. За счёт этого уменьшается трение, а значит увеличивается срок службы форсунки, снижается уровень шума, повышается скорость открытия/закрытия.
+	Уменьшенный расход газа по сравнению с другими форсунками за счёт конструктивных особенностей.
+	Точность дозировки топлива, что является одним из самых важных факторов для стабильной работы двигателя. 
+	Не нуждаются в регулировке, они изначально с завода откалиброваны.
+
+
+Мощность данных форсунок регулируется методом увеличение входного диаметра дюз(таблица нанесена на коробку, есть на фото №5).
+
+Производитель данных форсунок настоятельно рекомендует (рисунок фильтра есть на упаковке форсунок) их использование вместе с фильтром с функцией сепарации масел (того же производства).https://gazmax.com.ua/p1023986277-filtr-otstojnikom-alex.html 
+
+
+Так же обратите внимание, что форсунки оригинальные, на каждой форсунки есть гравировка и уникальный серийный номер производителя
+
+
+В комплектацию входит 4 форсунки, 4 дюзы для регулировки выходного диаметра, монтажный набор, 4 штуцера в коллектор. (Форсунки уже собраны как на фото) 
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+    <param name="Модель" unit="">Bar_4C</param>
+    <param name="Сопротивление катушек" unit="">1,9 Ом</param>
+    <param name="Фотополимерное покрытие" unit="">Есть</param>
+    <param name="Гарантия " unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1038651798">
+    <url>https://gazmax.com.ua/p1038651798-datchik-urovnya-gaza.html</url>
+    <price>179</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50121521</categoryId>
+    <picture>https://images.ua.prom.st/1970038090_datchik-urovnya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1970038024_datchik-urovnya-gaza.jpg</picture>
+    <picture>https://images.ua.prom.st/1970038033_datchik-urovnya-gaza.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Датчик уровня газа STAG трехконтактный WPGH-1 WPG для ГБО</name>
+    <vendor>Stag</vendor>
+    <vendorCode>WPGH-1</vendorCode>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Данный датчик уровня подходит для любого ГБО 2,3,4 и 5-го поколения электроники (кроме BRC) и любого мультиклапана (кроме BRC). Является хитом продаж благодаря своей долговечности, высокой точности показаний.
+
+Такие высокие характеристики достигаются за счёт использование в работе принципа бесконтактного датчика  Hall'a. То есть физического контакта нет, по мере приближения магнитного показателя мультиклапана (который меняет своё положение в зависимости от высоты поплавка, а тот в свою очередь в зависимости от количества газа в баллоне) к сенсору датчика уровня Stag WPGH-1 растёт напряжённость магнитного поля а значит и выходное напряжение(от 0V если баллон пуст до +5V если полон), по которому электронный блок управления понимает уровень. Данная технология по сравнению со стандартной, где уровень заполненности передаются при помощи изменения сопротивления датчика уровня намного точнее и надёжнее.
+
+Производитель - именитый польский завод AC S.A. (который производит всё ГБО ТМ Stag). 
+
+В комплекте:
+
+
+	Сам датчик уровня 
+	Крепёжный винт (2шт)
+	Проводка в изоляции
+	Инструкция по установке и эксплуатации
+	Гарантия 12 месяцев
+
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Состояние">Новое</param>
+    <param name="Поколение ГБО" unit="">2,3,4,5</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1038708669">
+    <url>https://gazmax.com.ua/p1038708669-pereklyuchatel-stag2-karbyurator.html</url>
+    <price>179</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50080378</categoryId>
+    <picture>https://images.ua.prom.st/1970086088_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <picture>https://images.ua.prom.st/1970086127_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <picture>https://images.ua.prom.st/1970086160_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <picture>https://images.ua.prom.st/1970086196_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <picture>https://images.ua.prom.st/1970086228_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <picture>https://images.ua.prom.st/1970086466_pereklyuchatel-stag2-g-karbyurator.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Переключатель STAG2-G  (карбюратор) бензин-газ</name>
+    <vendor>Stag</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Переключатель Газ - бензин/ бензин - Газ от именитой компании  AC S.A. (которая производит всё ГБО ТМ Stag). Является самой популярной моделью на сегодняшний день. Имеет светодиодную индикацию на передней панели, 3-х позиционную кнопку ('||' -  газ, '0' - нейтраль для перехода, '|' - бензин). Подходит для всех автомобилей.
+
+Комплектация:
+
+
+	Сам переключатель видов топлива с индикацией уровня
+	Предохранитель 
+	Клеммы на предохранитель
+	Проводка для переключателя
+	Клеммы для проводки
+	Пластиковая защита для предохранителя и клемм
+	Крепёжная планка для монтажа кнопки в корпусе
+	Инструкция по установке и эксплуатации
+	Гарантия 12 месяцев без ограничения по пробегу
+
+</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Состояние">Новое</param>
+    <param name="Поколение ГБО" unit="">1,2,3</param>
+    <param name="Гарантия" unit="">12 месяцев</param>
+  </offer>
+  <offer available="true" id="1080365791">
+    <url>https://gazmax.com.ua/p1080365791-raspredelitelnaya-planka-tsilindra.html</url>
+    <price>60</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>50075791</categoryId>
+    <picture>https://images.ua.prom.st/2079216860_raspredelitelnaya-planka-na.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Распределительная планка на 3 цилиндра для одиночных форсунок</name>
+    <vendor>Alex sp z.o.o.</vendor>
+    <country_of_origin>Польша</country_of_origin>
+    <description>Распределительная планка на 3 цилиндра для одиночных форсунок, выполнена из пластика, температуростойкая, производиться исключительно для применения с газовым автомобильным топливом</description>
+    <param name="Тип топлива">Пропан-бутан</param>
+    <param name="Поколение ГБО">4</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer available="true" id="1084160400">
+    <url>https://gazmax.com.ua/p1084160400-tosolnoe-koleno-tomasetto.html</url>
+    <price>25</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>71990381</categoryId>
+    <picture>https://images.ua.prom.st/2089158102_tosolnoe-koleno-tomasetto.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Тосольное колено Tomasetto AT-07/ AT-09</name>
+    <description>Тосольное колено Tomasetto AT-07 AT-09</description>
+  </offer>
+  <offer available="true" id="1084893319">
+    <url>https://gazmax.com.ua/p1084893319-filtr-gbo-parovoj.html</url>
+    <price>29</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>72169982</categoryId>
+    <picture>https://images.ua.prom.st/2091129348_filtr-gbo-parovoj.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фильтр ГБО паровой фазы 12Х12 Zavoli</name>
+    <description>Фильтр ГБО паровой фазы 12Х12 Zavoli</description>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

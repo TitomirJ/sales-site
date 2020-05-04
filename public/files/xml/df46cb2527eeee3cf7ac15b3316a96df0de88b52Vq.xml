@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<yml_catalog date="2019-11-28 07:57">
+  <shop>
+    <currencies>
+      <currency code="UAH">1.0</currency>
+    </currencies>
+    <categories>
+      <category id="47779">Для iPhone</category>
+      <category id="47780" parentId="47779">iPhone 11 </category>
+      <category id="47781" parentId="47780">Чехлы для iPhone 11 </category>
+    </categories>
+    <offers>
+      <offer id="26805309" available="true">
+        <name>Спортивный чехол на пояс Mijilo Slim Green</name>
+        <categoryId>47781</categoryId>
+        <url>https://ukrapple.com.ua/product/sportivnyy-chekhol-na-poyas-mijilo-slim-green.html</url>
+        <price>299</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://ukrapple.com.ua/upload/iblock/51a/51a166875cfed367cf6cc59a7ea35acf.jpeg</picture>
+        <picture>https://ukrapple.com.ua/upload/iblock/2fd/2fd93327177ad6252b13e25cfb7567d6.jpeg</picture>
+        <picture>https://ukrapple.com.ua/upload/iblock/77c/77c1ad0218d84f9d97592258d14bab2f.jpeg</picture>
+        <param name="Цвет">Розовый</param>
+        <param name="Артикул">26805309</param>
+        <param name="Узоры и принты">Без узоров</param>
+        <param name="Совместимость с">Apple</param>
+        <param name="Назначение">Для телефона</param>
+        <param name="Наши предложения">Новинка</param>
+        <vendorCode>26805309</vendorCode>
+        <categoryId>47781</categoryId>
+        <description><![CDATA[Спортивный чехол на пояс Mijilo Slim Green]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

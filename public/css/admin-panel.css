@@ -1,0 +1,632 @@
+@charset "utf-8";
+
+/*fonts comfortaa*/
+@font-face {
+    font-family:"comfortaa";
+    src:url(../fonts/Comfortaa-Regular.ttf) format("truetype");
+    font-weight:normal;
+    font-style:normal;
+}
+/*fonts Montserrat Alternates*/
+@font-face {
+    font-family:'Montserrat Alternates';
+    src:url(../fonts/MontserratAlternates-Regular.ttf) format("truetype");
+    font-weight:normal;
+    font-style:normal;
+}
+
+body {
+    font-family:'Montserrat Alternates';
+}
+
+/*owerlay loader*/
+
+#overlay-loader {
+    overflow: hidden;
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2000;
+    cursor: pointer;
+}
+
+#loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 2001;
+    margin: -75px 0 0 -75px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+    }
+}
+
+/*end owerley loader*/
+
+/* СПЕЦИФИКАЦИИ */
+
+.link:hover, a:hover {
+    text-decoration: none
+}
+
+/*мобильное меню*/
+.navbar-collapse {
+    -webkit-overflow-scrolling: touch
+}
+/* цвет выделения активного элемента при тапе на нем */
+a, label{
+	-webkit-tap-highlight-color: transparent
+}
+/*end мобильное меню*/
+
+/* end СПЕЦИФИКАЦИИ */
+
+
+/* ОБЩИЕ СТИЛИ */
+/* content */
+.content-wrapper {
+    background: #e9ebf5
+}
+
+.content-wrapper1 {
+  background: #e9ebf5;
+  overflow-x: hidden;
+  padding-top: 1rem;
+}
+
+@media (min-width: 992px)  {
+  .content-wrapper1 {
+    margin-left: 95px;
+  }
+}
+
+.ovrfl-h {
+  overflow: hidden
+}
+/* content */
+
+/* Nav */
+/* общие стили */
+.navbar {
+  border-bottom: 1px solid #626771;
+  -webkit-box-shadow: 0px 2px 10px rgba(51, 49, 62, 0.61);
+          box-shadow: 0px 2px 10px rgba(51, 49, 62, 0.61);
+}
+/* маленький Текст под логотипом сайта */
+.logo-subtext {
+  font-size: 8px;
+}
+.badge-danger {
+  -webkit-box-shadow: 0px 0px 7px #ff7d7d;
+          box-shadow: 0px 0px 7px #ff7d7d
+}
+.badge-success {
+  -webkit-box-shadow: 0px 0px 7px #28a745;
+          box-shadow: 0px 0px 7px #28a745
+}
+/* увеличение лого в админке  */
+.logo-trans {
+  -webkit-transform: scale(1.2) translateX(11px);
+      -ms-transform: scale(1.2) translateX(11px);
+          transform: scale(1.2) translateX(11px);
+}
+/* Иконка меню гамбургер справа вверху */
+.hamburger-menu {
+    margin-left: 5px;
+    color: #75b6eb;
+}
+/* Иконки в выпадающем меню справа вверху */
+.hamburg-dropdown {
+    height: 20px;
+    width: 20px;
+}
+/* Блок выпадающего меню справа вверху */
+.cust-dropdown {
+    overflow-y: hidden;
+    border-radius: 1rem;
+    left: -220px;
+    width: 275px
+}
+/* end Nav */
+
+.shadow-custom {
+  -webkit-box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.19);
+          box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.19)
+}
+
+.shadow-custom-inset {
+  -webkit-box-shadow:inset -3px 3px 7px rgba(0, 0, 0, 0.49);
+          box-shadow:inset -3px 3px 7px rgba(0, 0, 0, 0.49);
+  -webkit-box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.19);
+          box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.19)
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 5px #5b5b5b
+}
+
+.c-point {
+  cursor: pointer
+}
+
+/* нижняя рамка для таблицы товары и заказы в будуйщем для всех таблицы скорее всего */
+.border-bot {
+  border-bottom: 2px solid #4f73fd
+}
+
+.border-radius {
+  border-radius: 15px
+}
+
+.border-radius-50 {
+  border-radius: 50px!important
+}
+
+.data-input {
+  border: 2px outset #a7a7a7
+}
+
+.btn:focus, .btn:active {
+  -webkit-box-shadow: none;
+          box-shadow: none
+}
+
+/* подсветка вкладки в навигации на
+какой странице находиться пользователь */
+.active-tab-nav {
+  background: #e9ebf5
+}
+
+.active-tab-nav-icon {
+  color: #33313e!important
+}
+/* end подсветка вкладки в навигации на
+какой странице находиться пользователь */
+
+/*scrollbar*/
+::-webkit-scrollbar {
+  width: 5px
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0)
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #75b6eb;
+  border-radius:3px
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #469fe8
+}
+/*end scrollbar*/
+
+/* end ОБЩИЕ СТИЛИ */
+
+/* Кнопки редактирования
+   в таблицах в админке
+   редактирование новостей
+   отзывов и сотрудников */
+.btn-edit {
+  display: inline-block;
+  -webkit-transform: scale(2);
+      -ms-transform: scale(2);
+          transform: scale(2)
+}
+/* end Кнопки редактирования */
+
+/* company/products товары*/
+.nav-link.active {
+  color: #33313e!important;
+  background-color: transparent!important;
+  border-bottom: 4px solid #4f73fd!important
+}
+
+/* кнопки */
+.square_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    color: #fff;
+    background: #2056d2;
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+            box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 2px #1546b1;
+    -webkit-transition:.4s;
+    transition: .4s
+  }
+
+.btn-light {
+    color: #000;
+    border: 2px solid #2056d259;
+}
+
+.square_btn:active{
+    border-bottom: solid 2px #2056d2
+}
+/* end кнопки  */
+
+/*теги в опциях товаров*/
+    /*крестик удаления*/
+    .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+        color: #f70000 !important;
+        float: right !important;
+    }
+    /*сами теги*/
+    .select2-container--default .select2-selection--multiple .select2-selection__choice{
+        background-color: #bee5eb;
+        color: #333;
+        border: 1px solid #aaaaaa;
+    }
+/*end теги в опциях товаров*/
+
+/*плагин добавления катринок при создании товара поставщиком*/
+.page-heading {
+    margin: 20px 0;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Segoe UI Light", "Arial", serif;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+#my-dropzone .message {
+    font-family: "Segoe UI Light", "Arial", serif;
+    font-weight: 600;
+    color: #0087F7;
+    font-size: 1.5em;
+    letter-spacing: 0.05em;
+}
+
+.dropzone {
+    border: 2px dashed #434548;
+    background: #c6d5e2;
+    border-radius: 5px;
+    min-height: 100px;
+    vertical-align: baseline;
+}
+/*end плагин добавления катринок при создании товара поставщиком*/
+.cu-select {
+  height: 41px
+}
+
+.btn-trans {
+  background: transparent;
+  border: none
+}
+
+.bor-bottom {
+  border-bottom: 2px solid #bed0dd!important
+}
+
+button:active,button:focus,
+input:active,input:focus {
+  outline: none
+}
+
+button {
+  cursor: pointer
+}
+
+.drop-menu-actions:hover {
+  background: #dee4f3
+}
+
+.products-tab {
+  -webkit-transition:.3s;
+  transition: .3s
+}
+
+.products-tab:hover {
+  background: #dee4f3
+}
+/* END company/products товары*/
+
+/*Левый navbar*/
+.navbar-brand {
+    margin-left: 90px;
+}
+
+.icon-zoom {
+    -webkit-transform: scale(2.6);
+        -ms-transform: scale(2.6);
+            transform: scale(2.6);
+}
+
+.icon-card {
+    -webkit-transform: scale(2);
+        -ms-transform: scale(2);
+            transform: scale(2);
+}
+
+.icon-down-zoom {
+    -webkit-transform: scale(3);
+        -ms-transform: scale(3);
+            transform: scale(3);
+}
+
+.balance-text {
+    margin-left: 12px;
+}
+
+.orders {
+    margin-left: 18px;
+}
+/*end Левый navbar*/
+
+/* footer */
+.footer-icons {
+    width: 225px
+}
+
+/* анимация иконок footer*/
+.footer-icons a:nth-child(1),
+.footer-icons a:nth-child(2),
+.footer-icons a:nth-child(3) {
+  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.4);
+  -webkit-transition:all ease-in-out .15s;
+  transition: all ease-in-out .15s;
+}
+
+.footer-icons a:nth-child(1):hover,
+.footer-icons a:nth-child(2):hover,
+.footer-icons a:nth-child(3):hover {
+  margin-top: -1px;
+  text-shadow: 0px 7px 4px rgba(0, 0, 0, 0.3);
+}
+/* end анимация иконок footer*/
+
+.sales-item {
+    line-height: 19px;
+    border-radius: 15px;
+}
+/*end footer */
+
+
+/*logo custom*/
+.wrapper-logotip {
+    width: 203px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: #fd2323;
+    font-size: 32px;
+    font-family:'comfortaa';
+}
+
+.white-block-logo {
+    height: 23px;
+    width: 56px;
+}
+
+.big {
+    line-height:  32px;
+    top: -2px;
+    left: 0;
+    color: #33313e;
+}
+.sales, .wrapper-logotip {
+    line-height:  32px;
+}
+
+.sales {
+    margin-left: 8px;
+    top: -2px;
+    right:  32px;
+}
+/*end logo custom*/
+
+
+
+/*pagination*/
+.pagination {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+
+.pagination span,
+.pagination a {
+    padding: 10px 15px;
+}
+
+.pagination li {
+    padding: 10px 5px;
+    border: 1px solid #e9ebf5;
+    -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.31);
+            box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.31);
+    background: #fff;
+    cursor: pointer;
+    -webkit-transition:.2s;
+    transition: .2s;
+}
+
+.pagination li:hover {
+    -webkit-perspective: 10px;
+            perspective: 10px;
+    -webkit-transform: translate3d(2px, -2px, 5px);
+            transform: translate3d(2px, -2px, 5px);
+}
+
+.pagination li:first-child {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.pagination li:last-child {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.pagination .active,
+.pagination .disabled,
+.pagination .active:hover,
+.pagination .disabled:hover {
+    background: #e9ecef;
+    transform: none;
+}
+/*end pagination*/
+
+/*заказы*/
+
+
+/*input type number*/
+.quantity::-webkit-inner-spin-button,
+.quantity::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/*end input type number*/
+
+/*кастомный селект*/
+label {
+    position: relative;
+    display: block;
+    width: auto;
+    padding: 0 15px 0 10px;
+}
+
+.view-select:after {
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    content: "\f078";
+    padding: 4px;
+    background: #fff;
+    position: absolute;
+    border-radius: 50%;
+    right: 0;
+    top: 5px;
+}
+
+select {
+    background: transparent!important;
+    letter-spacing: -0.4px;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    border: none;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 90%;
+    height: 30px;
+    padding-right: 10%;
+    position: relative;
+    z-index: 1;
+}
+/*end селект*/
+
+/* для таблиц */
+.tb-head th{
+    padding: 0;
+    border:none;
+    border-bottom: 0!important
+}
+
+.radius-top-left {
+    border-top-left-radius: 15px
+}
+
+.radius-top-right {
+    border-top-right-radius: 15px
+}
+
+.table thead th {
+    border: 0
+}
+
+td {
+  vertical-align: middle!important
+}
+
+.scroll_me{
+    /*-webkit-touch-callout: none;*/
+    /*-webkit-user-select: none;*/
+    /*-khtml-user-select: none;*/
+    /*-moz-user-select: none;*/
+    /*-ms-user-select: none;*/
+    /*user-select: none;*/
+}
+
+/*сообщение при копировании в буфер обмена*/
+.message-copy {
+    top: -50px;left:50%;transform: translateX(-50%);z-index: 100;
+}
+.message-copied {
+    left: 0;
+    top: -30px;
+}
+/*сообщение при копировании в буфер обмена*/
+/* для таблиц */
+
+/*end заказы*/
+
+.select2-dropdown.increasedzindexclass {
+  z-index: 999999;
+}
+
+/*instruction*/
+.instruction a {
+    color: #75b6eb;
+}
+.instruction a:hover {
+    color: #75b6eb;
+    text-decoration: underline;
+}
+/*End instruction*/
+
+/* sort buttons*/
+.sort-button{
+    cursor: pointer;
+    color: #000000;
+}
+.sort-button:hover{
+    color: #727272;
+}
+.cursor-p{
+    cursor: pointer;
+}
+.select-prot-search :hover{
+    color: white; !important;
+}
+/*(end)sort buttons*/

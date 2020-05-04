@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-21 16:52">
+  <shop>
+    <name>Интернет-магазин onStyles</name>
+    <company>Интернет-магазин onStyles</company>
+    <url>https://onstyles.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83454691">Одежда для девочек</category>
+      <category id="19217065">Обувь для детей и подростков</category>
+      <category id="27661590" parentId="83454691">Одежда для девочек</category>
+      <category id="73714725">Подушки Для Путешествий: ДЕТКАМ И ВЗРОСЛЫМ</category>
+      <category id="70918971" parentId="42028424">Резиновые Сапоги</category>
+      <category id="70910573" parentId="42028424">Балетки и Туфли</category>
+      <category id="59181214" parentId="42028424">Зимняя обувь </category>
+      <category id="43492076" parentId="19217065">Комнатные тапки для деток</category>
+      <category id="42028442" parentId="19217065">Обувь Для Мальчиков</category>
+      <category id="42028424" parentId="19217065">Обувь Для Девочек</category>
+      <category id="19564805">Солнцезащитные очки для всей семьи </category>
+      <category id="29956001" parentId="19564805">Имиджевые очки - Аксессуарные</category>
+      <category id="22062908" parentId="19564805">Женские солнцезащитные очки</category>
+      <category id="22057376" parentId="19564805">Мужские солнцезащитные очки</category>
+      <category id="70919205" parentId="42028442">Летняя Обувь</category>
+      <category id="70919793" parentId="42028442">Демисезонная Обувь: Ботинки, Полуботинки</category>
+      <category id="70918988" parentId="42028424">Демисезонная Обувь: Ботинки, Полуботинки, Сапоги</category>
+      <category id="70910518" parentId="42028424">Кроссовки, Кеды, Слипоны, Мокасины</category>
+      <category id="70910401" parentId="70910394">Шлепки, Тапки, Сабо</category>
+      <category id="70910400" parentId="70910394">Босоножки и Сандалии </category>
+      <category id="70919544" parentId="42028442">Кроссовки и Кеды</category>
+      <category id="70919980" parentId="42028442">Классическая Обувь</category>
+      <category id="70919546" parentId="42028442">Резиновые Сапоги</category>
+      <category id="62337085" parentId="19217065">Акватапки Для Детей</category>
+      <category id="42041546" parentId="19217065">Футбольная Обувь</category>
+      <category id="70919010" parentId="19217065">Обувь Для Младенцев</category>
+      <category id="59182404" parentId="42028442">Зимняя Обувь</category>
+      <category id="70910394" parentId="42028424">Летняя обувь </category>
+      <category id="27662470" parentId="27661590">Платья,туники,сарафаны</category>
+      <category id="27663657" parentId="27661590">Кофты, свитера, джемперы, пуловеры, кардиганы, батники, толстовки, свитшоты, гольфы</category>
+    </categories>
+  <offers>
+<offer available="" group_id="885395526" id="525606121">
+    <url>https://onstyles.com.ua/p525606121-kozhanye-detskie-sandali.html</url>
+    <price>385</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>42028442</categoryId>
+    <picture>https://images.ua.prom.st/770026991_kozhanye-detskie-sandali.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Кожаные детские сандали Clibee  20 размер-12 см;</name>
+    <vendor>Clibee</vendor>
+    <description><![CDATA[]]></description>
+    <param name="Размеры" unit="">20 размер-12 см;</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,10 @@
+.h-60 {
+  height: 60px
+}
+.scale {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+      -ms-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}

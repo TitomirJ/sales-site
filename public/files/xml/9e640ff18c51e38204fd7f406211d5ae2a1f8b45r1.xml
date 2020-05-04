@@ -1,0 +1,3873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-03-24 23:40:51">
+<shop>
+<name>garnitur.plus</name>
+<company>garnitur.plus</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="84097151" parentId="29555610">Тумбы для ванной</category>
+<category id="84027913" parentId="29555610">Пеналы для ванной</category>
+<category id="82461604" parentId="82461321">Мягкие кресла</category>
+<category id="82461321" parentId="60432540">Кресла</category>
+<category id="60432556" parentId="60432540">Зеркала</category>
+<category id="60432540" parentId="60432433">Мебель</category>
+<category id="67222975">Кухонные уголки</category>
+<category id="67222882" parentId="67222805">Кухонные уголки</category>
+<category id="67222805" parentId="67222797">Кухонные гарнитуры</category>
+<category id="67222797" parentId="60432540">Корпусная мебель</category>
+<category id="60432433">Товары для дома</category>
+<category id="38861706">Красота и здоровье</category>
+<category id="33206778">Бытовая техника</category>
+<category id="56752027" parentId="56752025">Комрессоры</category>
+<category id="56752025" parentId="56752023">Оборудование</category>
+<category id="56752023" parentId="56752019">Инструменты и оборудование</category>
+<category id="56752019">Инструменты и автотовары</category>
+<category id="50400063" parentId="29555591">Диван ортопедический</category>
+<category id="30425990">Стол обеденный</category>
+<category id="29815452">Полотенца</category>
+<category id="29555738">Складная мебель</category>
+<category id="29555726">Табуреты</category>
+<category id="29555682">Кровати</category>
+<category id="29555677">Детская комната</category>
+<category id="29555610">Мебель для ванных комнат</category>
+<category id="29555591">Диваны</category>
+<category id="38862682" parentId="38861746">Брашинг</category>
+<category id="38861750" parentId="38861746">Ножницы для стрижки</category>
+<category id="38861746" parentId="38861710">Акссесуары</category>
+<category id="38861710" parentId="38861706">Косметика и парфюмерия</category>
+<category id="34335665" parentId="33206787">Щипцы</category>
+<category id="33701808" parentId="33206787">Плойки</category>
+<category id="33206809" parentId="33206787">Машинки для стрижки и триммеры</category>
+<category id="33206793" parentId="33206787">Фены</category>
+<category id="33206787" parentId="33206778">Красота и здоровье</category>
+<category id="31944458">Стулья</category>
+<category id="10871414" parentId="29555677">Парты</category>
+<category id="19983042" parentId="29555610">Зеркальные шкафчики для ванной комнаты</category>
+<category id="26861253" parentId="29555591">Диван прямой</category>
+<category id="26861252" parentId="29555591">Диван угловой</category>
+</categories>
+<offers>
+<offer available="true" id="1107252577">
+<price>4411</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2150341640_penal-garniturplus-simpli.jpg</picture>
+<name>Пенал Garnitur.plus СИМПЛИ напольный правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-1</vendorCode>
+<description><![CDATA[Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. Если есть пространство для его установки, рекомендуем его приобрести. Если нет достаточного места, тогда мы предлагаем приобрести полу-пенал и разместить его над стиральной машиной или в другом месте.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">левостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1650.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1107287456">
+<price>4456</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2150387456_penal-garniturplus-simpli.jpg</picture>
+<name>Пенал Garnitur.plus СИМПЛИ напольный правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-2</vendorCode>
+<description><![CDATA[Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. 
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1650.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1107294634">
+<price>6218</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155210903_penal-garniturplus-greta.jpg</picture>
+<name>Пенал Garnitur.plus ГРЕТА AIR навесной правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-3</vendorCode>
+<description><![CDATA[Пенал навесной изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. 
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Навесная (настенная)</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1650.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109097271">
+<price>6018</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155218769_penal-garniturplus-di.jpg</picture>
+<name>Пенал Garnitur.plus ДИ АМО напольный белый левый 40 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-4</vendorCode>
+<description><![CDATA[
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками.
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">левостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">400.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109097456">
+<price>6018</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155220844_penal-garniturplus-di.jpg</picture>
+<name>Пенал Garnitur.plus ДИ АМО напольный белый правый 40 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-5</vendorCode>
+<description><![CDATA[
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. 
+
+Мебель оснащена системами мягкого закрывания и доводчиками.
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">400.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109097887">
+<price>6424</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155221976_penal-garniturplus-di.jpg</picture>
+<name>Пенал Garnitur.plus ДИ АМО напольный с корзиной белый правый 40 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-6</vendorCode>
+<description><![CDATA[
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. 
+
+Мебель оснащена системами мягкого закрывания и доводчиками.
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">400.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109107089">
+<price>7061</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155228159_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА напольный белый левый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-7</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен. 
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">левостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109107351">
+<price>7061</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155229347_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА напольный белый правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-8</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109112993">
+<price>7256</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155242695_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА напольный с корзиной белый правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-9</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109113520">
+<price>7256</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155244330_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА напольный с корзиной белый левый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-10</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">левостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109132335">
+<price>6566</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155268931_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА AIR навесной белый правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-11</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал навесной изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Навесная (настенная)</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1650.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109134204">
+<price>6566</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155272216_penal-garniturplus-era.jpg</picture>
+<name>Пенал Garnitur.plus ЭРА AIR навесной белый левый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-12</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал навесной изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Навесная (настенная)</param>
+<param name="Тип открывания дверки">левостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1650.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109145757">
+<price>7221</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155290466_penal-garniturplus-liga.jpg</picture>
+<name>Пенал Garnitur.plus ЛИГА напольный мессина правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-13</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+</offer>
+<offer available="true" id="1109156181">
+<price>7406</price>
+<currencyId>UAH</currencyId>
+<categoryId>84027913</categoryId>
+<picture>https://images.ua.prom.st/2155307963_penal-garniturplus-liga.jpg</picture>
+<name>Пенал Garnitur.plus ЛИГА с корзиной напольный мессина правый 35 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-P-14</vendorCode>
+<description><![CDATA[
+
+
+
+Пенал напольный изготовлен из высококачественного МДФ и окрашен краской итальянского производства Sayerlack. Данный элемент мебели очень вместителен.
+
+Мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия).
+
+
+
+
+]]></description>
+<param name="Форма пенала">прямой</param>
+<param name="Тип установки">Напольная</param>
+<param name="Тип открывания дверки">правостороннее</param>
+<param name="Влагоустойчивость">да</param>
+<param name="Ширина">350.0</param>
+<param name="Глубина">300.0</param>
+<param name="Высота">1900.0</param>
+<param name="Тип мебели">пенал</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109162048">
+<price>6311</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155333134_tumba-garniturplus-simpli.jpg</picture>
+<name>Тумба Garnitur.plus СИМПЛИ напольная с умывальником КАНТЕ венге 60 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-1</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">600.0</param>
+<param name="Глубина тумбы">450.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109174063">
+<price>6351</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155361533_tumba-garniturplus-simpli.jpg</picture>
+<name>Тумба Garnitur.plus СИМПЛИ напольная с умывальником КАНТЕ белая 60 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-2</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">600.0</param>
+<param name="Глубина тумбы">450.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109184468">
+<price>9696</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155375094_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА напольная с умывальником КАНТЕ белая 60 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-3</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">600.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109191307">
+<price>10551</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155392034_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА напольная с умывальником КАНТЕ белая 70 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-4</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">700.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109197848">
+<price>11231</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155398670_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА напольная с умывальником КАНТЕ белая 80 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-5</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">800.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109200758">
+<price>13756</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155402715_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА напольная с умывальником ПРИНЦ белая 100 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-6</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Напольная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 90 мм. Глубина умывальника 180 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">1000.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">850.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109206226">
+<price>9507</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155408143_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА AIR навесная с умывальником КАНТЕ белая 70 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-7</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Навесная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">700.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">600.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1109210352">
+<price>10131</price>
+<currencyId>UAH</currencyId>
+<categoryId>84097151</categoryId>
+<picture>https://images.ua.prom.st/2155412078_tumba-garniturplus-greta.jpg</picture>
+<name>Тумба Garnitur.plus ГРЕТА AIR навесная с умывальником КАНТЕ белая 80 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>SV-Т-8</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+Навесная тумба изготовлена из высококачественного МДФ и окрашена краской итальянского производства Sayerlack.
+
+Вся мебель оснащена системами мягкого закрывания и доводчиками. Фурнитура Blum (Австрия). 
+
+В комплекте поставляется высококачественный керамический умывальник (входит в стоимость), толщина умывальника 40 мм. Глубина умывальника 123 мм.
+
+
+
+
+
+
+]]></description>
+<param name="Влагоустойчивость">да</param>
+<param name="Гарантийный срок">18</param>
+<param name="Основной цвет">Белый</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина тумбы">800.0</param>
+<param name="Глубина тумбы">440.0</param>
+<param name="Высота тумбы">600.0</param>
+<param name="Тип мебели">тумба</param>
+<param name="Встроенная корзина для белья">1</param>
+</offer>
+<offer available="true" id="1129125666">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222478908_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури оранжевый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-5</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			оранжевый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Оранжевый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129132216">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222487845_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури серый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-1</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			серый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Серый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129135254">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222492002_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури коричневый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-2</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			коричневый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Коричневый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129144288">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222513517_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури темно-серый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-3</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			темно-серый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Темно-серый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129144736">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222516138_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури молочно-кофейный 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-7</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			молочно-кофейный 
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">молочно-кофейный </param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129153429">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222537420_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури светло-серый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-6</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			светло-серый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Светло-серый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129154366">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222541587_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури светло-коричневый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-9</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			светло-коричневый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">светло-коричневый</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129154940">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222545459_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури графитово-синий 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-10</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			графитово-синий
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">графитово-синий</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129155285">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222549535_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури бежевый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-11</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			бежевый 
+			
+		
+	
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Бежевый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129155442">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222551783_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури серо-бежевый 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-12</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			серо-бежевый 
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">серо-бежевый </param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129155669">
+<price>5800</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222554257_divan-garniturplus-missuri.jpg</picture>
+<name>Диван Garnitur.plus Миссури синий 200 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-13</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, узкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			200 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			синий
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Синий</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">200</param>
+</offer>
+<offer available="true" id="1129155943">
+<price>6200</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222559055_divan-garniturplus-venera.jpg</picture>
+<name>Диван Garnitur.plus Венера бежевый 230 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-4</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, функциональные широкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			230 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			бежевый 
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Бежевый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">230</param>
+</offer>
+<offer available="true" id="1129160579">
+<price>6200</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222574644_divan-garniturplus-venera.jpg</picture>
+<name>Диван Garnitur.plus Венера светло-серый 230 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-8</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, функциональные широкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			230 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			светло-серый 
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Цвет">Светло-серый</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Ширина дивана">230</param>
+</offer>
+<offer available="true" id="1129161495">
+<price>6200</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2222578464_divan-garniturplus-venera.jpg</picture>
+<name>Диван Garnitur.plus Венера светло-коричневый 230 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>KZ-14</vendorCode>
+<description><![CDATA[
+
+
+
+
+
+
+
+Механизм раскладки дивана Еврокнижка – надежный, прочный, удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. На выбор большое количество расцветок дивана.В наполнении дивана используется пружинный блок Bonnel, ППУ. Шикарно смотрятся три большие мягкие подушки. В диване большая ниша для белья, функциональные широкие подлокотники. 
+ 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 140 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			230 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			93 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2
+			
+		
+		
+			
+			Цвет
+			
+			
+			светло-коричневый
+			
+		
+	
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">93.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">140.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">светло-коричневый</param>
+<param name="Ширина дивана">230</param>
+</offer>
+<offer available="true" id="1131005129">
+<price>6250</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2229891815_divan-garniturplus-tango.jpg</picture>
+<name>Диван Garnitur.plus Танго серо-голубой 190 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>DP-1209</vendorCode>
+<description><![CDATA[
+
+
+
+   Механизм раскладки дивана Еврокнижка – самый надежный, прочный, очень удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 135 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			190 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			80 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2  
+			
+		
+		
+			
+			Цвет
+			
+			
+			серо-голубой 
+			
+		
+	
+
+
+
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">80.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">135.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Длина дивана">190.0</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">серо-голубой</param>
+</offer>
+<offer available="true" id="1131005645">
+<price>6250</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2229896768_divan-garniturplus-tango.jpg</picture>
+<name>Диван Garnitur.plus Танго серо-желтый 190 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>DP-1211</vendorCode>
+<description><![CDATA[
+
+
+
+   Механизм раскладки дивана Еврокнижка – самый надежный, прочный, очень удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 135 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			190 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			80 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2  
+			
+		
+		
+			
+			Цвет
+			
+			
+			серо-желтый
+			
+		
+	
+
+
+
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">80.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">135.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Длина дивана">195.0</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">серо-желтый</param>
+</offer>
+<offer available="true" id="1131005833">
+<price>6250</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2229899390_divan-garniturplus-tango.jpg</picture>
+<name>Диван Garnitur.plus Танго серо-бордовый190 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>DP-1212</vendorCode>
+<description><![CDATA[
+
+
+
+   Механизм раскладки дивана Еврокнижка – самый надежный, прочный, очень удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 135 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			190 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			80 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2  
+			
+		
+		
+			
+			Цвет
+			
+			
+			серо-бордовый
+			
+		
+	
+
+
+
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">80.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">135.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Длина дивана">195.0</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">серо-бордовый</param>
+</offer>
+<offer available="true" id="1131006521">
+<price>6250</price>
+<currencyId>UAH</currencyId>
+<categoryId>26861253</categoryId>
+<picture>https://images.ua.prom.st/2229902516_divan-garniturplus-tango.jpg</picture>
+<name>Диван Garnitur.plus Танго серо-оранжевый 190 см</name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>DP-1210</vendorCode>
+<description><![CDATA[
+
+
+
+   Механизм раскладки дивана Еврокнижка – самый надежный, прочный, очень удобный, практичный и легко преобразовывает диван в комфортную постель для ежедневного сна. 
+
+
+	
+		
+			
+			Размеры
+			
+		
+		
+			
+			Высота
+			
+			
+			95 см
+			
+		
+		
+			
+			Размер спального места
+			
+			
+			190 см х 135 см
+			
+		
+		
+			
+			Ширина
+			
+			
+			190 см
+			
+		
+		
+			
+			Глубина
+			
+			
+			80 см
+			
+		
+		
+			
+			Описание
+			
+		
+		
+			
+			Дополнительные характеристики
+			
+			
+			Каркас - деревянный брус
+			
+		
+		
+			
+			Материал обивки
+			
+			
+			текстиль
+			
+		
+		
+			
+			Основание под матрас
+			
+			
+			сплошное
+			
+		
+		
+			
+			Вид дивана
+			
+			
+			прямой
+			
+		
+		
+			
+			Механизм трансформации
+			
+			
+			еврокнижка
+			
+		
+		
+			
+			Комплектация
+			
+			
+			подушки
+			
+		
+		
+			
+			Ниша
+			
+			
+			есть
+			
+		
+		
+			
+			Наполнитель
+			
+			
+			пружинный блок, ППУ
+			
+		
+		
+			
+			Категория ткани
+			
+			
+			2  
+			
+		
+		
+			
+			Цвет
+			
+			
+			серо-оранжевый
+			
+		
+	
+
+
+
+
+ 
+
+
+
+
+]]></description>
+<param name="Глубина дивана">80.0</param>
+<param name="Состояние">Новое</param>
+<param name="Высота дивана с учетом спинки">95.0</param>
+<param name="Длина спального места">190.0</param>
+<param name="Ширина спального места">135.0</param>
+<param name="Тип дивана">прямой</param>
+<param name="Наличие спального места">да</param>
+<param name="Механизм трансформации спального места">Еврокнижка</param>
+<param name="Гарантийный срок">18</param>
+<param name="Способ раскладывания дивана">вперед</param>
+<param name="Тип спального места">для ежедневного сна</param>
+<param name="Длина дивана">190.0</param>
+<param name="Обивочный материал">ткань</param>
+<param name="Цвет">серо-голубой</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

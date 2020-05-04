@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-09 23:31:07">
+<shop>
+<name>ФОП Балацький Святослав Романович</name>
+<company>ФОП Балацький Святослав Романович</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="86238736" parentId="4122200">Посуд для відпочинку та туризму</category>
+<category id="86236946" parentId="4122200">Комплектуючі для газових і мультипаливних туристичних систем</category>
+<category id="86204776" parentId="14407150">Кріплення для сноубордів</category>
+<category id="86203066" parentId="4122200">Газові та мультипаливні туристичні системи</category>
+<category id="86078000" parentId="71777018">Головні убори</category>
+<category id="85776195" parentId="16661508">Нижня білизна для чоловіків</category>
+<category id="84727812" parentId="16661508">Демісезонні чоловічі куртки</category>
+<category id="84727175" parentId="84727173">Дитячі автокрісла</category>
+<category id="84727173">Коляски та автокрісла</category>
+<category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+<category id="83914121" parentId="71777018">Ремені та пояси</category>
+<category id="83913495" parentId="16661508">Спортивні костюми</category>
+<category id="16715121" parentId="16661508">Чоловічі куртки</category>
+<category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+<category id="53761682" parentId="6257850">Велосвітло</category>
+<category id="24353170">Трекингове взуття</category>
+<category id="19959920">Велосипеди</category>
+<category id="18890955" parentId="14407150">Термобілизна</category>
+<category id="17343107" parentId="17305611">Зимові штани</category>
+<category id="17343103" parentId="16661508">Зимові штани</category>
+<category id="17305720" parentId="17305611">Шапки</category>
+<category id="17305707" parentId="17305611">Куртки</category>
+<category id="17305611">Жіночий одяг</category>
+<category id="16661555" parentId="16661508">Шапки</category>
+<category id="16661508">Чоловічий одяг</category>
+<category id="16617831" parentId="4122200">Спальні мішки</category>
+<category id="16617810" parentId="4122200">Трекінгові палиці</category>
+<category id="14693395" parentId="7196249">Чоловічі кеди</category>
+<category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+<category id="14693393" parentId="7196249">Чоловічі черевики</category>
+<category id="14693063" parentId="7196244">Жіночі кросівки</category>
+<category id="14693061" parentId="7196244">Жіночі черевики</category>
+<category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+<category id="14693035" parentId="14407150">Універсальні головні убори</category>
+<category id="14408905" parentId="14407150">Шоломи</category>
+<category id="14407588" parentId="14407150">Маски</category>
+<category id="7196249">Чоловіче взуття</category>
+<category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+<category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+<category id="6257850">Велоаксесуари</category>
+<category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+<category id="4122200">Рюкзаки і туризм</category>
+<category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+<category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+<category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+<category id="71777030" parentId="71777028">Рюкзаки</category>
+<category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+<category id="71777018">Одяг, взуття та аксесуари</category>
+<category id="69024725" parentId="46709597">Фітнес-браслети</category>
+<category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+<category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+<category id="52859360">Басейн і аквафітнес</category>
+<category id="46709702" parentId="46709597">Наручні годинники</category>
+<category id="46709597">Наручні годинники</category>
+<category id="45139423" parentId="4122200">Намети і аксесуари</category>
+<category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+<category id="36278188" parentId="36275949">Маски</category>
+<category id="36276195" parentId="36275949">Шоломи</category>
+<category id="36275949">Уцінка</category>
+<category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+<category id="29447009" parentId="6257850">Велоінструменти</category>
+<category id="29447008" parentId="6257850">Насоси</category>
+<category id="29447007" parentId="6257850">Велодзвінки</category>
+<category id="28200372" parentId="7196244">Жіночі кеди</category>
+<category id="28164081" parentId="7196244">Жіночі сліпони</category>
+<category id="27554175" parentId="14407150">Сноуборди</category>
+<category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+<category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+<category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+<category id="24572876" parentId="17305611">Спортивні штани</category>
+<category id="24544864" parentId="16661508">Спортивні штани</category>
+<category id="22851891" parentId="16661508">Футболки</category>
+<category id="22028141" parentId="7196244">Жіночі балетки</category>
+<category id="18029666">Sale -34% брендові куртки</category>
+<category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+<category id="14693027" parentId="14407150">Лижні палиці</category>
+<category id="14407150">Зимовий спорт</category>
+<category id="13502021" parentId="6257850">Велокомп'ютери</category>
+<category id="7196244">Жіноче взуття</category>
+<category id="6296093" parentId="6257850">Велосипедні сумки</category>
+<category id="58981807">Ігрові види спорту</category>
+<category id="66636889">Прогулянки й активний відпочинок</category>
+<category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+<category id="65449525" parentId="65446905">Спортивні окуляри</category>
+<category id="65447344" parentId="65446905">Спортивні сумки</category>
+<category id="65446905">Спортивні аксесуари</category>
+<category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+<category id="52863748" parentId="52859360">Шапочки для плавання</category>
+<category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+<category id="52863745" parentId="52859360">Окуляри для плавання</category>
+<category id="46807613" parentId="36275949">Годинники</category>
+<category id="49986322" parentId="36275949">Штани</category>
+<category id="46711296" parentId="46709597">Смарт-годинники</category>
+<category id="43651396" parentId="14407150">Рукавиці</category>
+<category id="39308422" parentId="14407150">Черевики лижні</category>
+<category id="36678205" parentId="36275949">Куртки</category>
+<category id="36660532" parentId="36275949">Взуття</category>
+<category id="27250069" parentId="14407150">Гірські лижі</category>
+<category id="27094492" parentId="24353170">Жіночі кросівки</category>
+<category id="22851904" parentId="17305611">Футболки</category>
+<category id="24570219" parentId="17305611">Кофти</category>
+<category id="24543418" parentId="16661508">Кофти</category>
+<category id="22851901" parentId="16661508">Шорти</category>
+</categories>
+<offers>
+<offer available="true" id="804733453">
+<price>615</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1388479713_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479730_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479741_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479742_krosivki-serena-pink.jpg</picture>
+<name>Кросівки Serena pink 41</name>
+<vendor>Serena</vendor>
+<vendorCode>LH1023r5</vendorCode>
+<description><![CDATA[Підошва: Поліуретан
+
+Верх: Екокожа
+
+Підкладка: Текстиль]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Розовый</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Размер женской обуви">41</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Отделка и украшения">Пайетки</param>
+</offer>
+<offer available="true" id="952796185">
+<price>1590</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/1740119645_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119682_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119683_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119684_zhinochi-choboti-tosca.jpg</picture>
+<name>Жіночі Чоботи Tosca Blu 40 Black</name>
+<vendor>Tosca</vendor>
+<vendorCode> 9-25609-29</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція, утеплення з натурального войлока.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Чорний: Чорний
+
+Висота каблука: 31 - 50 мм: 31 - 50 мм
+
+Матеріал верху: Комбіновані зі шкірою: Шкіра / Екошкіра
+
+Матеріал підкладки: Войлок
+
+Матеріал підошви: Каучук
+
+Розмір: 40
+
+Особливості: Анатомічне взуття
+
+Сезон: Зимовий
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +5°C до -10°C
+
+Країна реєстрації бренду: Італія
+
+Країна-виробник товару: Китай
+
+Тип: Чоботи
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Колір">Чорний: Чорний</param>
+<param name="Розмір">40</param>
+<param name="Матеріал верху">Комбіновані зі шкірою: Шкіра / Екошкіра</param>
+<param name="Матеріал підкладки">Войлок</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Температурний діапазон">Від +5°C до -10°C</param>
+<param name="Країна реєстрації бренду">Італія</param>
+<param name="Сезон">Зимовий</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип">Чоботи</param>
+<param name="Стать">Жіночі</param>
+<param name="Висота каблука">31 - 50 мм: 31 - 50 мм</param>
+<param name="Стиль взуття">Класичний (classic)</param>
+</offer>
+<offer available="true" id="1116639793">
+<price>1032</price>
+<currencyId>UAH</currencyId>
+<categoryId>14407588</categoryId>
+<picture>https://images.ua.prom.st/2177339797_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339799_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339801_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339804_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339805_maska-girskolizhna-relax.jpg</picture>
+<name>Маска гірськолижна Relax Feelin Black</name>
+<vendor>Relax</vendor>
+<vendorCode> HTG49D</vendorCode>
+<description><![CDATA[Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+]]></description>
+<param name="Габарити упаковки">200х100х90 мм</param>
+<param name="Тип">Унісекс</param>
+<param name="Форма лінзи">Циліндрична</param>
+<param name="Захист лінзи">S2</param>
+<param name="Покриття Anti fog">Є</param>
+<param name="Використання з шоломом">Так</param>
+<param name="Технології">Anti Fog</param>
+<param name="Колір оправи">Black</param>
+<param name="Колір лінзи">Темний</param>
+<param name="Матеріал лінзи">Полікарбонат</param>
+<param name="Країна реєстрації бренду">Чехія</param>
+</offer>
+<offer available="true" id="1158139512">
+<price>6094</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315496794_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315496726_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315496731_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315496755_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315496761_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Joule 2.5L Black</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB JLE-EU</vendorCode>
+<description><![CDATA[Універсальна система швидкого приготування їжі - Jetboil Joule.
+
+Розроблена спеціально для великих груп людей. Підходить як для звичайних туристичних походів, так і для сходження альпіністами. Може використовуватися в зимову пору року при температурі до -12° C, за рахунок попереднього підігріву палива.
+
+Система Jetboil Joule складається з ємності на 2. 5 літра і пальника з підставкою для балона. Додатково в комплектацію входить кришкаі  неопреновий чохол.
+
+Ємність виконана з анодованого алюмінію і оснащена складною ручкою з силіконовим покриттям. Неопреновий термочохол захищає від опіків і зберігає тепло в ємності. Кришка з термопластику оснащена ручкою і отворами для зливу води.
+
+Кип’ятить 1 літр води за 2 хвилини 40 секунд.
+
+Готуйте швидко, багато і смачно! Jetboil використовує технологію FluxRing, це радіатор, який покращує теплообмін і економить паливо. У ємності можна кип'ятити не тільки воду, а й плавити сніг.
+
+Кожні 230 г палива, дозволяють кип’ятити 24 л рідини.
+
+Максимальна економія палива, дозволяє зберегти більше місця у вашому рюкзаку. Ви економите кошти на покупку додаткових газових балонів.
+
+Особливості:
+
+- Попередній нагрів палива;
+
+- Робота при температурах до -12 ° C;
+
+- Кнопковий п’єзопідпал;
+
+- Велика ємність 2.5 літри;
+
+- Захисний неопреновий чохол;
+
+- Зручна кришка з можливістю зливу води;
+
+- Сумісність з балонами 100г і 230г;
+]]></description>
+<param name="Потужність">3 кВт</param>
+<param name="Витрата пального">24 літри води / 230 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">2 хв. 40 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Чорний</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">16.5 х 20 3 см</param>
+<param name="Вага">790 г</param>
+<param name="Додаткові характеристики">Об’єм - 2,5л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158145280">
+<price>4054</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315517449_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315517417_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315517465_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Micromo 0.8L Carbon</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MCMCB</vendorCode>
+<description><![CDATA[Інтегрована система Jetboil Micromo - це оптимальне співвідношення розміру, ваги і потужності. Підійде для будь-яких видів діяльності від велотуризму, до альпінізму. Подорожуйте в комфорті разом з Jetboil Micromo.
+
+Компактна чашка об’ємом 0. 8 літра, виготовлена з легкого і надійного алюмінію із захисним анодованим покриттям. Поліпшення теплообміну досягається технологією FluxRing, це кільцевий радіатор на дні.
+
+Термочохол, для збереження тепла і захисту від опіків. На чохлі присутня ручка для надійного хвату при питті з ємності. Термопластикова кришка оснащена отвором для пари, зливання води та поїлки, яка дозволяє пити прямо з чашки.
+
+Система компактно складається і не займає багато місця, також всередину чаші поміщається газовий балон 100г. Приємним бонусом в комплектації буде підставка під балон, яка надає стійкості на нерівній поверхні.
+
+Особливості:
+
+- Швидке нагрівання води 0. 5 літра за 2 хвилини 15 секунд;
+
+- Вага, всього 340 грам;
+
+- Кнопковий п’єзопідпал;
+
+- Зручне регулювання полум’я;
+
+- Підставка під газовий балон;
+
+- Неопреновий термочохол з ручкою для зручного хвату;
+
+ 
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">0.5 літра за 2 хв. 15 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Темно-сірий</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">16,5 х 10,4 см</param>
+<param name="Вага">340 г</param>
+<param name="Додаткові характеристики">Об’єм - 0,8л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158150396">
+<price>4054</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315540196_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315540074_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315540076_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315540179_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Micromo 0.8L Tamale</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MCMTM</vendorCode>
+<description><![CDATA[Інтегрована система Jetboil Micromo - це оптимальне співвідношення розміру, ваги і потужності. Підійде для будь-яких видів діяльності від велотуризму, до альпінізму. Подорожуйте в комфорті разом з Jetboil Micromo.
+
+Компактна чашка об’ємом 0. 8 літра, виготовлена з легкого і надійного алюмінію із захисним анодованим покриттям. Поліпшення теплообміну досягається технологією FluxRing, це кільцевий радіатор на дні.
+
+Термочохол, для збереження тепла і захисту від опіків. На чохлі присутня ручка для надійного хвату при питті з ємності. Термопластикова кришка оснащена отвором для пари, зливання води та поїлки, яка дозволяє пити прямо з чашки.
+
+Система компактно складається і не займає багато місця, також всередину чаші поміщається газовий балон 100г. Приємним бонусом в комплектації буде підставка під балон, яка надає стійкості на нерівній поверхні.
+
+Особливості:
+
+- Швидке нагрівання води 0. 5 літра за 2 хвилини 15 секунд;
+
+- Вага, всього 340 грам;
+
+- Кнопковий п’єзопідпал;
+
+- Зручне регулювання полум’я;
+
+- Підставка під газовий балон;
+
+- Неопреновий термочохол з ручкою для зручного хвату;
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">0.5 літра за 2 хв. 15 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Червоний</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">16,5 х 10,4 см</param>
+<param name="Вага">340 г</param>
+<param name="Додаткові характеристики">Об’єм - 0,8л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158155372">
+<price>4309</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315546025_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315546024_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315546047_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Minimo 1L Adventure</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MNMAD</vendorCode>
+<description><![CDATA[Кожен турист прагне зменшити вагу свого спорядження по максимуму.
+
+Система швидкого приготування Jetboil Minimo складається з пальника, ємності на 1 літр, кришки і неопренового чохла, які компактно складаються за принципом матрьошки. Вага комплекту складає 415 г, що набагато менше в порівнянні з аналогічними системами.
+
+Літр води можна закип’ятити за 4 хвилини, при будь-яких погодних умовах. Конструкція виконана особливим чином, не дозволяючи вітру загасити полум’я. Газового балона об’ємом в 100 грам вистачає, щоб закип'ятити 12 літрів води.
+
+Готуйте улюблені страви і напої за декілька хвилин.
+
+Особливості:
+
+- Компактні розміри, всі частини складаються одина в одну;
+
+- Швидке кип’ятіння води, 1 літр за 4 хвилини 30 секунд;
+
+- Захисний неопреновий чохол, додатково зберігає температуру;
+
+- Металева ручка, для комфортного перенесення;
+
+- Ємність можна використовувати в якості миски;
+
+- Вбудований кнопковий п’єзопідпал;
+
+- Кришка з отвором для зливу води і відведення пари.
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">4 хв. 30 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Темно-сірий</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">15 х 13 см</param>
+<param name="Вага">415 г</param>
+<param name="Додаткові характеристики">Об’єм - 1л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158161324">
+<price>4309</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315557913_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315557541_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315557914_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Minimo 1L Camo</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MNMCM</vendorCode>
+<description><![CDATA[Кожен турист прагне зменшити вагу свого спорядження по максимуму.
+
+Система швидкого приготування Jetboil Minimo складається з пальника, ємності на 1 літр, кришки і неопренового чохла, які компактно складаються за принципом матрьошки. Вага комплекту складає 415 г, що набагато менше в порівнянні з аналогічними системами.
+
+Літр води можна закип’ятити за 4 хвилини, при будь-яких погодних умовах. Конструкція виконана особливим чином, не дозволяючи вітру загасити полум’я. Газового балона об’ємом в 100 грам вистачає, щоб закип'ятити 12 літрів води.
+
+Готуйте улюблені страви і напої за декілька хвилин.
+
+Особливості:
+
+- Компактні розміри, всі частини складаються одина в одну;
+
+- Швидке кип’ятіння води, 1 літр за 4 хвилини 30 секунд;
+
+- Захисний неопреновий чохол, додатково зберігає температуру;
+
+- Металева ручка, для комфортного перенесення;
+
+- Ємність можна використовувати в якості миски;
+
+- Вбудований кнопковий п’єзопідпал;
+
+- Кришка з отвором для зливу води і відведення пари.
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">4 хв. 30 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Камуфляж</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">15 х 13 см</param>
+<param name="Вага">415 г</param>
+<param name="Додаткові характеристики">Об’єм - 1л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158162172">
+<price>4309</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315562609_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315562490_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315562503_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315562504_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315562643_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Minimo 1L Carbon</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MNMCB</vendorCode>
+<description><![CDATA[Кожен турист прагне зменшити вагу свого спорядження по максимуму.
+
+Система швидкого приготування Jetboil Minimo складається з пальника, ємності на 1 літр, кришки і неопренового чохла, які компактно складаються за принципом матрьошки. Вага комплекту складає 415 г, що набагато менше в порівнянні з аналогічними системами.
+
+Літр води можна закип’ятити за 4 хвилини, при будь-яких погодних умовах. Конструкція виконана особливим чином, не дозволяючи вітру загасити полум’я. Газового балона об’ємом в 100 грам вистачає, щоб закип'ятити 12 літрів води.
+
+Готуйте улюблені страви і напої за декілька хвилин.
+
+Особливості:
+
+- Компактні розміри, всі частини складаються одина в одну;
+
+- Швидке кип’ятіння води, 1 літр за 4 хвилини 30 секунд;
+
+- Захисний неопреновий чохол, додатково зберігає температуру;
+
+- Металева ручка, для комфортного перенесення;
+
+- Ємність можна використовувати в якості миски;
+
+- Вбудований кнопковий п’єзопідпал;
+
+- Кришка з отвором для зливу води і відведення пари.
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">4 хв. 30 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Темно-сірий</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">15 х 13 см</param>
+<param name="Вага">415 г</param>
+<param name="Додаткові характеристики">Об’єм - 1л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158164290">
+<price>4309</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315568018_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315568015_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315568340_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315568349_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315568437_sistema-dlya-prigotuvannya.jpg</picture>
+<picture>https://images.ua.prom.st/2315568442_sistema-dlya-prigotuvannya.jpg</picture>
+<name>Система для приготування їжі Jetboil Minimo 1L Sunset</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MNMSS-EU</vendorCode>
+<description><![CDATA[Кожен турист прагне зменшити вагу свого спорядження по максимуму.
+
+Система швидкого приготування Jetboil Minimo складається з пальника, ємності на 1 літр, кришки і неопренового чохла, які компактно складаються за принципом матрьошки. Вага комплекту складає 415 г, що набагато менше в порівнянні з аналогічними системами.
+
+Літр води можна закип’ятити за 4 хвилини, при будь-яких погодних умовах. Конструкція виконана особливим чином, не дозволяючи вітру загасити полум’я. Газового балона об’ємом в 100 грам вистачає, щоб закип'ятити 12 літрів води.
+
+Готуйте улюблені страви і напої за декілька хвилин.
+
+Особливості:
+
+- Компактні розміри, всі частини складаються одина в одну;
+
+- Швидке кип’ятіння води, 1 літр за 4 хвилини 30 секунд;
+
+- Захисний неопреновий чохол, додатково зберігає температуру;
+
+- Металева ручка, для комфортного перенесення;
+
+- Ємність можна використовувати в якості миски;
+
+- Вбудований кнопковий п’єзопідпал;
+
+- Кришка з отвором для зливу води і відведення пари.
+]]></description>
+<param name="Потужність">1.75 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">4 хв. 30 сек.</param>
+<param name="Комплектація">Пальник, ємність, кришка, неопреновий чохол, підставка під балон, кришка для захисту радіатора</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Помаранчевий</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">15 х 13 см</param>
+<param name="Вага">415 г</param>
+<param name="Додаткові характеристики">Об’єм - 1л</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158169036">
+<price>219</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315583272_instrument-dlya-utilizatsiyi.jpg</picture>
+<picture>https://images.ua.prom.st/2315583318_instrument-dlya-utilizatsiyi.jpg</picture>
+<picture>https://images.ua.prom.st/2315583338_instrument-dlya-utilizatsiyi.jpg</picture>
+<picture>https://images.ua.prom.st/2315583339_instrument-dlya-utilizatsiyi.jpg</picture>
+<picture>https://images.ua.prom.st/2315583340_instrument-dlya-utilizatsiyi.jpg</picture>
+<name>Інструмент для утилізації газових балонів Jetboil Crunch-IT Fuel Canister Recycling Tool Gray</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB CRNCH</vendorCode>
+<description><![CDATA[Jetboil Crunch-IT призначений для безпечної підготовки балона перед утилізацією. Оснащений функціями, що дозволяють випустити залишки газу через різьбу, а також зробити отвір в корпусі, щоб повністю спустошити балон.
+
+Інструмент виготовлений у вигляді невеликого брелка, чіпляється на зв'язку до ключів.
+
+Особливості:
+
+- Підходить для всіх різьбових балонів;
+
+- Безпечна підготовка до утилізації балонів;
+
+- Виготовлений з міцної сталі;
+
+- Виконаний у вигляді брелка.
+]]></description>
+<param name="Габарити упаковки">10 х 4 см</param>
+<param name="Тип">Інструменти для утилізації</param>
+<param name="Розміри">7,6 х 3,5 см</param>
+<param name="Теги">з різьбовим з’єднанням</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Сталь</param>
+<param name="Країна-виробник товару">Китай</param>
+</offer>
+<offer available="true" id="1158174442">
+<price>255</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315602242_pidstavka-dlya-palnika.jpg</picture>
+<picture>https://images.ua.prom.st/2315602237_pidstavka-dlya-palnika.jpg</picture>
+<picture>https://images.ua.prom.st/2315602268_pidstavka-dlya-palnika.jpg</picture>
+<picture>https://images.ua.prom.st/2315602270_pidstavka-dlya-palnika.jpg</picture>
+<name>Підставка для пальника Jetboil Pot Support Gray</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB PSUP</vendorCode>
+<description><![CDATA[Jetboil Pot Support - підставка для каструль і сковорідок діаметром від 20 см. Підставка сумісна з пальниками Jetboil: Flash, Flash Lite, MicroMo, MiniMo, Sumo, Zip, Luna.
+
+Конструкція виконана з нержавіючої сталі, компактно складається в об'ємні чаші.
+
+Особливості:
+
+- Сумісність з пальниками Jetboil;
+
+- Для каструль і сковорідок діаметром 20 см і більше;
+
+- Складна конструкція
+
+- Якісний, довговічний матеріал.
+]]></description>
+<param name="Габарити упаковки">15 х 15 х 8 см</param>
+<param name="Тип">Комплектуючі</param>
+<param name="Розміри">Діаметр 20 см</param>
+<param name="Теги">Підставка</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Нержавіюча сталь</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Вага">35 г</param>
+</offer>
+<offer available="true" id="1158177695">
+<price>1759</price>
+<currencyId>UAH</currencyId>
+<categoryId>86203066</categoryId>
+<picture>https://images.ua.prom.st/2315611281_palnik-turistichnij-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315611023_palnik-turistichnij-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315611053_palnik-turistichnij-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315611057_palnik-turistichnij-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315611301_palnik-turistichnij-jetboil.jpg</picture>
+<name>Пальник туристичний Jetboil Mightymo Gray</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB MTYM</vendorCode>
+<description><![CDATA[Ультралегкий пальник Jetboil Mightymo підійде для використання в будь-яких умовах. Витримує велику тару, сумісний зі сковорідками казанками, а також продукцією Jetboil.
+
+За рахунок ступінчастого управління полум’ям, пальник може працювати в декількох режимах, наприклад швидке нагрівання води чи підігрів.
+
+Потужність пальника Mightymo - 3 кВ, що дозволяє нагрівати 1 літр води за 3 хвилини 15 секунд (тест проводився в 5 л казанку).
+
+Вбудований кнопковий п’єзопідпал спростить роботу і збереже нерви в вітряну погоду. Пальник працює при температурах до -6 ° C.
+
+Особливості:
+
+- Швидке нагрівання води 1 літр за 3 хвилини 15 секунд;
+
+- Компактний і легкий, всього 95 грам;
+
+- Кнопковий п’єзопідпал;
+
+- 4 режими полум’я;
+
+- Підставка під газовий балон в комплекті;
+
+- Сумісність з продукцією Jetboil
+]]></description>
+<param name="Потужність">3 кВт</param>
+<param name="Витрата пального">12 літрів води / 100 г балон газу;</param>
+<param name="Тип палива">Газ</param>
+<param name="П’єзопідпал">Є, кнопковий</param>
+<param name="Час закипання 1 л води">3 хвилини 15 секунд;</param>
+<param name="Комплектація">Пальник, підставка під балон</param>
+<param name="Кількість конфорок">1</param>
+<param name="Колір">Сріблястий</param>
+<param name="Габарити упаковки">20 х 20 х 25 см</param>
+<param name="Тип">Газовий пальник</param>
+<param name="Розміри">12,5 х 21 см</param>
+<param name="Вага">95 г</param>
+<param name="Регулятор температури">Є</param>
+<param name="Теги">Портативна, економічний, потужний, газові примуси</param>
+<param name="Тип з’єднання">Різьбове</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1158180932">
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315622501_pidstavka-pid-gazovij.jpg</picture>
+<picture>https://images.ua.prom.st/2315622502_pidstavka-pid-gazovij.jpg</picture>
+<name>Підставка під газовий балон Jetboil Can Stabilizer Orange</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB STB</vendorCode>
+<description><![CDATA[Підставка під балон Jetboil Can Stabilizer, дуже корисна річ для систем швидкого приготування і звичайних пальників. Додає стійкості, як на рівній так і на нерівній поверхні.
+
+Підставка виконана з міцного пластику і компактно складається, в розкладеному стані відстань між опорами становить 19 см.
+
+Особливості:
+
+- Сумісність з балонами 250 і 450 грам;
+
+- Виконана з міцного пластику;
+
+- Компактно складається;
+
+- Відстань між опорами 19 см.
+]]></description>
+<param name="Габарити упаковки">12 х 12 х 3 см</param>
+<param name="Тип">Комплектуючі</param>
+<param name="Розміри">19 см</param>
+<param name="Теги">Підставка</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Вага">27 г</param>
+</offer>
+<offer available="true" id="1158192573">
+<price>117</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315672681_gazovij-balon-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315672675_gazovij-balon-jetboil.jpg</picture>
+<name>Газовий балон Jetboil Jetpower Fuel Blue 100 г</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB JF100-EU</vendorCode>
+<description><![CDATA[Компактний газовий балон Jetpower Fuel від компанії Jetboil. Обов’язковий аксесуар в кожній подорожі з пальником або системою швидкого приготування.
+
+Балон максимально компактний і захищений від зовнішнього впливу. Якщо ви використовуєте систему швидкого приготування Jetboil, тоді газового балона на 100 г вистачить, щоб закип’ятити 12 літрів води в середньому.
+
+Газовий балон наповнений сумішшю пропану та ізобутану, дана суміш відмінно підходить для чотирьох сезонів в році.
+
+Особливості:
+
+- Компактні розміри і вага;
+
+- Максимально захищений від зовнішнього впливу;
+
+- Сумісний з усіма системами і пальниками Jetboil;
+
+- Стандартне різьбове кріплення.
+]]></description>
+<param name="Габарити упаковки">10 х 10 х 10 см</param>
+<param name="Тип">Газові картриджі</param>
+<param name="Розміри">9 х 7 см</param>
+<param name="Теги">з різьбовим з’єднанням, одноразові</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Сталь</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Вага">199 г</param>
+<param name="Місткість">100 г</param>
+</offer>
+<offer available="true" id="1158193234">
+<price>148</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315681157_gazovij-balon-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315681158_gazovij-balon-jetboil.jpg</picture>
+<name>Газовий балон Jetboil Jetpower Fuel Blue 230 г</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB JF230-EU</vendorCode>
+<description><![CDATA[Компактний газовий балон Jetpower Fuel від компанії Jetboil. Обов’язковий аксесуар в кожній подорожі з пальником або системою швидкого приготування.
+
+Балон максимально компактний і захищений від зовнішнього впливу. Якщо ви використовуєте систему швидкого приготування Jetboil, тоді газового балона на 230 г вистачить, щоб закип’ятити 24 літрів води в середньому.
+
+Газовий балон наповнений сумішшю пропану та ізобутану, дана суміш відмінно підходить для чотирьох сезонів в році.
+
+Особливості:
+
+- Компактні розміри і вага;
+
+- Максимально захищений від зовнішнього впливу;
+
+- Сумісний з усіма системами і пальниками Jetboil;
+
+- Стандартне різьбове кріплення.
+]]></description>
+<param name="Габарити упаковки">12 х 12 х 11 см</param>
+<param name="Тип">Газові картриджі</param>
+<param name="Розміри">11 х 10 см</param>
+<param name="Теги">з різьбовим з’єднанням, одноразові</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Сталь</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Вага">380 г</param>
+<param name="Місткість">230 г</param>
+</offer>
+<offer available="true" id="1158197657">
+<price>235</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315698976_gazovij-balon-jetboil.jpg</picture>
+<picture>https://images.ua.prom.st/2315698975_gazovij-balon-jetboil.jpg</picture>
+<name>Газовий балон Jetboil Jetpower Fuel Blue 450 г</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB JF450-EU</vendorCode>
+<description><![CDATA[Компактний газовий балон Jetpower Fuel від компанії Jetboil. Обов’язковий аксесуар в кожній подорожі з пальником або системою швидкого приготування.
+
+Балон максимально компактний і захищений від зовнішнього впливу. Якщо ви використовуєте систему швидкого приготування Jetboil, тоді газового балона на 450 г вистачить, щоб закип’ятити 48 літрів води в середньому.
+
+Газовий балон наповнений сумішшю пропану та ізобутану, дана суміш відмінно підходить для чотирьох сезонів в році.
+
+Особливості:
+
+- Компактні розміри і вага;
+
+- Максимально захищений від зовнішнього впливу;
+
+- Сумісний з усіма системами і пальниками Jetboil;
+
+- Стандартне різьбове кріплення.
+]]></description>
+<param name="Габарити упаковки">12 х 12 х 16 см</param>
+<param name="Тип">Газові картриджі</param>
+<param name="Розміри">11 х 15 см</param>
+<param name="Теги">з різьбовим з’єднанням, одноразові</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Сталь</param>
+<param name="Вага">666 г</param>
+<param name="Місткість">450 г</param>
+</offer>
+<offer available="true" id="1158199506">
+<price>421</price>
+<currencyId>UAH</currencyId>
+<categoryId>86236946</categoryId>
+<picture>https://images.ua.prom.st/2315711019_vagi-jetboil-.jpg</picture>
+<picture>https://images.ua.prom.st/2315711015_vagi-jetboil-.jpg</picture>
+<picture>https://images.ua.prom.st/2315711021_vagi-jetboil-.jpg</picture>
+<name>Ваги Jetboil - Jetgauge Black</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB JTG</vendorCode>
+<description><![CDATA[Ваги Jetboil Jetgauge - призначені для зважування різьбових газових балонів. Будуть корисними при плануванні похідного меню. Ваги оснащені трьома режимами для балонів вагою: 100г, 230г і 450г.
+
+Електронний індикатор відображає наповненість балона в процентному співвідношенні. Виконані з міцного пластику, а мінімальна вага і розміри дозволяють брати ваги в будь-яку подорож.
+
+Особливості:
+
+- Електронний індикатор;
+
+- Відображення ємності балона в процентах;
+
+- Три режими роботи;
+
+- Сумісні з різьбовими балонами.
+]]></description>
+<param name="Габарити упаковки">12 х 12 х 5 см</param>
+<param name="Тип">Комплектуючі</param>
+<param name="Розміри">2,5 х 6,4 см</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Вага">85 г</param>
+</offer>
+<offer available="true" id="1158200359">
+<price>1249</price>
+<currencyId>UAH</currencyId>
+<categoryId>86238736</categoryId>
+<picture>https://images.ua.prom.st/2315720969_skovoridka-jetboil-summit.jpg</picture>
+<picture>https://images.ua.prom.st/2315720970_skovoridka-jetboil-summit.jpg</picture>
+<picture>https://images.ua.prom.st/2315720987_skovoridka-jetboil-summit.jpg</picture>
+<picture>https://images.ua.prom.st/2315721078_skovoridka-jetboil-summit.jpg</picture>
+<picture>https://images.ua.prom.st/2315721103_skovoridka-jetboil-summit.jpg</picture>
+<picture>https://images.ua.prom.st/2315721105_skovoridka-jetboil-summit.jpg</picture>
+<name>Сковорідка JetBoil Summit Skillet Orange</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB SKLT-EU </vendorCode>
+<description><![CDATA[Сковорідка зі складною ручкою від бренду Jetboil. Виготовлена із алюмінієвого сплаву, який із зовнішнього боку покритий міцним і зносостійким шаром кераміки. Антипригарне покриття дозволить з легкістю готувати улюблені страви на природі. Для комфортного користування, у наборі є лопатка для перемішування, яка фіксується на складну ручку. Сковорідка виготовлена з безпечних для людини та навколишнього матеріалів.
+
+Технічні особливості:
+
+- Екологічне керамічне антипригарне покриття без ПФОА
+
+- Різна товщина стінки для рівномірного розподілу тепла
+
+- Лопатка в комплекті
+
+- Складна ручка
+
+- Сумісність з продукцією Jetboil: HalfGen, Genesis, Joule, MicroMo, MightyMo, MiniMo, Sumo, Flash, Zip, Luna
+
+ 
+]]></description>
+<param name="Габарити упаковки">23 х 23 х 6 см</param>
+<param name="Розміри">21,5 х 4,8 см</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Алюмінієвий сплав</param>
+<param name="Комплектація">Сковорідка, лопатка</param>
+<param name="Вид">Сковорідки</param>
+<param name="Колір">Помаранчевий</param>
+<param name="Теги">Для кемпінгу, для рибалки, для пікніку, для велопоходу, для автотуризму</param>
+<param name="Вага, г">300</param>
+</offer>
+<offer available="true" id="1158213671">
+<price>280</price>
+<currencyId>UAH</currencyId>
+<categoryId>86238736</categoryId>
+<picture>https://images.ua.prom.st/2315764189_nabir-stolovih-priboriv.jpg</picture>
+<picture>https://images.ua.prom.st/2315764208_nabir-stolovih-priboriv.jpg</picture>
+<picture>https://images.ua.prom.st/2315764212_nabir-stolovih-priboriv.jpg</picture>
+<name>Набір столових приборів Jetboil Jetset Utensil Kit Orange</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB UTN</vendorCode>
+<description><![CDATA[Набір столових приборів Jetboil Utensil Kit - розроблений спеціально для використання спільно з системами швидкого приготування Jetboil. Компактні розміри дозволяють зберігати столові прилади в ємності від системи. Всі прилади оснащені телескопічними ручками для зручного використання.
+
+В комплект входять ложка, виделка і лопатка для перемішування. Комплект виконаний з якісного і безпечного для здоров’я термопластику, який не дряпає поверхню ємності.
+
+Особливості:
+
+- Безпечні для здоров’я матеріали;
+
+- Легко миються;
+
+- Телескопічні ручки, компактно складаються;
+
+- Легка вага;
+
+- Не дряпають поверхню чаші.
+
+ 
+]]></description>
+<param name="Габарити упаковки">10 х 12 х 5 см</param>
+<param name="Розміри">16 см</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Термопластик</param>
+<param name="Комплектація">Ложка, виделка, лопатка</param>
+<param name="Вид">Набори столових приборів</param>
+<param name="Колір">Сірий з помаранчевим</param>
+<param name="Теги">Для кемпінгу, для рибалки, для пікніку, для велопоходу, для автотуризму</param>
+<param name="Вага, г">36</param>
+</offer>
+<offer available="true" id="1158229080">
+<price>1759</price>
+<currencyId>UAH</currencyId>
+<categoryId>86238736</categoryId>
+<picture>https://images.ua.prom.st/2315807647_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315807579_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315807648_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315807649_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315807666_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315807667_kastrulya-jetboil-fluxring.jpg</picture>
+<name>Каструля Jetboil FluxRing Cook Pot 1.5L Black</name>
+<vendor>Jetboil</vendor>
+<vendorCode>JB CPT15</vendorCode>
+<description><![CDATA[Каструля Jetboil має ідеальний об’єм 1. 5 літра, який підходить для компаній з 2-3х чоловік. Cумісна практично з усіма системами Джетбойл: Zip, Flash Lite, Flash, Flash Java, MightyMo, MicroMo, MiniMo, SUMO.
+
+Конструкція виконана з анодованого алюмінію з застосуванням інноваційної технології FluxRing. На дно казанка встановлений кільцевий радіатор, який покращує теплообмін.
+
+Для теплоізоляції і захисту від опіків застосовується неопреновий термочохол. У конструкції передбачені складні ручки, для зручного готування і компактності при транспортуванні.
+
+Особливості:
+
+- Універсальний об’єм 1.5 літра;
+
+- Складні ручки;
+
+- Неопреновий чохол для захисту і термоізоляції;
+
+- Застосування технології FluxRing;
+
+- Пластикова кришка в комплекті;
+
+- Компактні розміри;
+]]></description>
+<param name="Габарити упаковки">20 х 20 х 13 см</param>
+<param name="Розміри">17,5 х 11 см</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Алюмінієвий сплав</param>
+<param name="Комплектація">Кастрюля, неопреновий чохол, кришка, кришка для захисту радіатора</param>
+<param name="Вид">Каструлі</param>
+<param name="Колір">Чорний</param>
+<param name="Теги">Для кемпінгу, для рибалки, для пікніку, для велопоходу, для автотуризму</param>
+<param name="Вага, г">340</param>
+</offer>
+<offer available="true" id="1158245130">
+<price>1963</price>
+<currencyId>UAH</currencyId>
+<categoryId>86238736</categoryId>
+<picture>https://images.ua.prom.st/2315824139_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315824141_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315824181_kastrulya-jetboil-fluxring.jpg</picture>
+<picture>https://images.ua.prom.st/2315824183_kastrulya-jetboil-fluxring.jpg</picture>
+<name>Каструля Jetboil FluxRing Helios II Cooking Pot 3L Black JB CCP300</name>
+<vendor>Jetboil</vendor>
+<description><![CDATA[Jetboil FluxRing Helios II - це каструля об’ємом 3 літри, призначена для великих груп людей і походів в будь-яку пору року.
+
+Виготовлена з анодованого алюмінію. Конструкція ідеальних розмірів, діаметр 24 см і висота 13 см, що дозволяє зручно готувати будь-які страви. Застосована технологія FluxRing, яка покращує теплообмін, швидше кип’ятить воду і економить паливо.
+
+В коплекті присутній захисний неопреновий чохол, який захищає від опіків, а також покращує теплообмін. Також є пластикова кришка і захисний кофр для кільцевого радіатора.
+
+У конструкції передбачені складні ручки, для зручного готування і компактності при транспортуванні.
+
+Особливості:
+
+- Великий об’єм - 3 літри;
+
+- Компактні розміри;
+
+- Пластикова кришка;
+
+- Захисний неопреновий чохол;
+
+- Складні ручки для зручної роботи;
+
+- Сумісна з пальниками Jetboil Helios;
+]]></description>
+<param name="Габарити упаковки">26 х 26 х 15 см</param>
+<param name="Розміри">24 х 13 см</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Матеріал ">Алюмінієвий сплав</param>
+<param name="Комплектація">Кастрюля, неопреновий чохол, кришка, кришка для захисту радіатора</param>
+<param name="Вид">Каструлі</param>
+<param name="Колір">Чорний</param>
+<param name="Теги">Кастрюля, неопреновий чохол, кришка, кришка для захисту радіатора</param>
+<param name="Вага, г">550</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,11 @@
+.divider {
+  height: 3px
+}
+.bor-bot {
+  border-bottom: 4px solid #75b6eb
+}
+.bor-bot-trans {
+  border-bottom: 3px solid #e9ebf5!important;
+  margin-bottom: -2px;
+  z-index: 100;
+}

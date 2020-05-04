@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog
+SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-21 17:10">
+	<shop>
+		<name>Skidka.ua</name>
+		<company>Skidka.ua</company>
+		<url>https://skidka.ua</url>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="163" parentId="137">Морозильные камеры</category>
+		</categories>
+		<offers>
+			<offer id="big-17925" available="true">
+				<url>https://skidka.ua/morozilnye-kamery/liebherr-gn-2723.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=gn_2723&amp;utm_campaign=morozilnye_kamery</url>
+				<price>19059</price>
+				<price_old>20399.00</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>163</categoryId>
+				<picture>https://skidka.ua/upload/iblock/55c/55cbeff9baf527072d5d1715b9ef98e1.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/a36/a360fe1d82f0d463aa51bc3cc68e0448.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/c4e/c4e7c8506742932bab4d45aa0f79427b.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/efc/efcad0ca5282526d6c02c2f91a243e65.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/548/548cc7d0341867778acb3e42dafcfb0c.jpg</picture>
+				<name><![CDATA[Морозильная камера Liebherr GN 2723]]></name>
+				<vendor>Liebherr</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[Морозильная камера Liebherr GN 2723&amp;nbsp;– однокамерный морозильник, объемом 224 л. Его современный дизайн и корпус белого цвета позволяют гармонично разместить аппарат при любом кухонном дизайне. Электронное управление предельно простое, и разобраться в нем не составит труда. Внутреннее пространство морозильной камеры тщательно продумано и позволяет оптимально использовать весь имеющийся объем. Контейнеры с прозрачной фронтальной стенкой дают возможность посмотреть на содержимое, не выдвигая ящики. Режим быстрой и глубокой заморозки при температуре поможет заморозить продукты на длительное время. Низкий уровень шума морозильной техники Liebherr обеспечит комфортную эксплуатацию. Морозильная камера , благодаря применению новых технологий и инновационных решений, потребляет минимальное количество электроэнергии, значительно экономя затраты на эксплуатацию.]]></description>
+				<param name="Производитель"><![CDATA[Liebherr]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[Производительность замораживания – 18 кг/сутки. Потребление электроэнергии – 288.4 кВт•ч в год. Поддержание температуры в случае отключения электроэнергии – 43 час.]]></param>
+				<param name="Вес"><![CDATA[н.д.]]></param>
+				<param name="Габариты (ВхШхГ)"><![CDATA[1644х600х630 мм]]></param>
+				<param name="Гарантия, мес"><![CDATA[36 мес]]></param>
+				<param name="Дисплей"><![CDATA[Есть]]></param>
+				<param name="Класс энергопотребления"><![CDATA[А+]]></param>
+				<param name="Общий объем, л"><![CDATA[250-299]]></param>
+				<param name="Система размораживания"><![CDATA[No Frost]]></param>
+				<param name="Страна-производитель"><![CDATA[Болгария]]></param>
+				<param name="Тип"><![CDATA[Камера]]></param>
+				<param name="Тип управления"><![CDATA[Электронное]]></param>
+				<param name="Дополнительные функции"><![CDATA[No Frost (Frost Free), динамическая вентиляция, система FrostSafe с закрытыми прозрачными выдвижными ящиками, лоток для трав и ягод, перенавешиваемая дверь, эргономичная ручка со встроенным механизмом открывания, возможность установки вплотную к стене или]]></param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

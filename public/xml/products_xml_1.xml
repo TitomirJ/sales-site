@@ -1,0 +1,2900 @@
+<yml_catalog date="2018-08-02 14:34">
+                <shop>
+                  <name>
+                    FlashTronix</name>
+                   <company>Волин Д.А ФОП</company>
+                      <url>https://flashtronix.com.ua/</url>
+                      <platform>Recommerce</platform>
+                      <version>2.0</version>
+                      <agency>ООО Рекомерс</agency>
+                      <email>mail@recommerce.com.ua</email>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+      <currency id="USD" rate="26.43339579"/>
+    </currencies>
+                    <categories>
+                         <category id="1">Смарт-часы</category>
+                         <category id="2">Видеорегистраторы</category>
+                         <category id="3">Фонари и аксессуары</category>
+                         <category id="4">Акустические системы</category>
+                         <category id="6">Комплект: клавиатура + мышь</category>
+                         <category id="7">Универсальные пульты ДУ</category>
+                         <category id="8">Камеры заднего вида</category>
+                         <category id="9">Кабели и переходники</category>
+                         <category id="10">Уличное освещение</category>
+                         <category id="11">Весоизмерительное оборудование</category>
+                         <category id="12">Весы кухонные</category>
+                         <category id="13">Машинки для стрижки и триммеры</category>
+                         <category id="14">Датчики</category>
+                         <category id="15">Комплекты сигнализаций</category>
+                         <category id="16">Инструменты для груминга</category>
+                      	 <category id="17">Приборы для укладки волос</category>
+                         <category id="18">Фены</category>
+                      	 <category id="19">Бинокли</category>
+                         <category id="20">Настольные часы</category>
+                         <category id="21">Косметика и парфюмерия</category>
+                         <category id="22">Чашки</category>
+                         </categories>
+   <offers>
+<offer id="133001" available="true">
+<url>https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-a1-smart-watch</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/317/30010355559a04ba118d43_original.jpg</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Смарт-часы UWatch A1 Silver (ft-01)</name>
+<description>
+<![CDATA[
+Умные часы Smart Watch A1 - являются доработаной версией часов GT08, имеют более удобный ремешкок и переработанную программную часть.
+ Умные часы А1 имеет слот под СИМ карту, что позволяет Smart Watch A1 использовать не только в сочетании со смартфоном, но и как самостоятельное устройство мобильной связи.
+ Помимо этого устройство имеет еще множество удобных функций.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Совместимая ОС">
+Android 4.0 iOS Android 4.1 Android 4.2 Android 4.3 Android 4.4 Android 2.3.3 Android 5.0 Android 5.1
+</param>
+<param name="Тип матрицы">TFT</param>
+<param name="Wi-Fi">нет</param>
+<param name="Время работы">168</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Встроенная память">128 МБ</param>
+<param name="Оперативная память">64 МБ</param>
+<param name="Материал корпуса">Алюминий</param>
+<param name="Материал ремешка">Каучук</param>
+<param name="Размер упаковки">9x8x5 мм.</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133002" available="false">
+    <url>
+    https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-a1-smart-watch
+    </url>
+    <price>400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1</categoryId>
+    <picture>
+    https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/317/20808426045b280e6256661_medium.jpg
+    </picture>
+    <vendor>UWatch</vendor>
+    <stock_quantity>5</stock_quantity>
+    <name>Смарт-часы UWatch A1 Gold (ft-02)</name>
+    <description>
+    <![CDATA[
+    Умные часы Smart Watch A1 - являются доработаной версией часов GT08, имеют более удобный ремешкок и переработанную программную часть.
+     Умные часы А1 имеет слот под СИМ карту, что позволяет Smart Watch A1 использовать не только в сочетании со смартфоном, но и как самостоятельное устройство мобильной связи.
+     Помимо этого устройство имеет еще множество удобных функций.
+    ]]>
+    </description>
+    <param name="Тип">Умные часы</param>
+    <param name="Совместимая ОС">
+    Android 4.0 iOS Android 4.1 Android 4.2 Android 4.3 Android 4.4 Android 2.3.3 Android 5.0 Android 5.1
+    </param>
+    <param name="Тип матрицы">TFT</param>
+    <param name="Wi-Fi">нет</param>
+    <param name="Время работы">168</param>
+    <param name="Версия Bluetooth">3.0</param>
+    <param name="Встроенная память">128 МБ</param>
+    <param name="Оперативная память">64 МБ</param>
+    <param name="Материал корпуса">Алюминий</param>
+    <param name="Материал ремешка">Каучук</param>
+    <param name="Размер упаковки">9x8x5 мм.</param>
+    <param name="Страна-производитель">Китай</param>
+    <param name="Гарантия">14 дней</param>
+    </offer>
+<offer id="133003" available="true">
+<url>
+https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-smart-dz09
+</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/76/213788388959a01ae64efc6_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/76/11253065115b2a21cb07aec_medium.jpg
+</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>100</stock_quantity>
+<name>Смарт-часы UWatch DZ09 Black (ft-03)</name>
+<description>
+<![CDATA[
+Умные часы DZ09 имеет слот под СИМ карту, что позволяет Smart Watch DZ09 использовать не только в сочетании со смартфоном, но и как самостоятельное устройство мобильной связи.
+ Помимо этого устройство имеет еще множество удобных функций.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Совместимая ОС">
+Android 4.0 Android 4.1 Android 4.2 Android 4.3 Android 4.4 Android 2.3.3 Android 5.0 Android 5.1
+</param>
+<param name="Wi-Fi">Нет</param>
+<param name="Время работы">168</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Встроенная память">32 МБ</param>
+<param name="Оперативная память">32 МБ</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Материал ремешка">Силикон</param>
+<param name="Диагональ дисплея">1,54"</param>
+<param name="Размер упаковки">9x8x5 мм.</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133004" available="true">
+<url>
+https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-smart-dz09
+</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/76/55614528159a01b3300275_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/76/11253065115b2a21cb07aec_medium.jpg
+</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>6</stock_quantity>
+<name>Смарт-часы UWatch DZ09 Gold (ft-04)</name>
+<description>
+<![CDATA[
+Умные часы DZ09 имеет слот под СИМ карту, что позволяет Smart Watch DZ09 использовать не только в сочетании со смартфоном, но и как самостоятельное устройство мобильной связи.
+ Помимо этого устройство имеет еще множество удобных функций.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Совместимая ОС">
+Android 4.0 Android 4.1 Android 4.2 Android 4.3 Android 4.4 Android 2.3.3 Android 5.0 Android 5.1
+</param>
+<param name="Wi-Fi">Нет</param>
+<param name="Время работы">168</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Встроенная память">32 МБ</param>
+<param name="Оперативная память">32 МБ</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Материал ремешка">Силикон</param>
+<param name="Диагональ дисплея">1,54"</param>
+<param name="Размер упаковки">9x8x5 мм.</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133005" available="false">
+<url>
+https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-smartwatch-q18
+</url>
+<price>549</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/13113077215b2a2b7223493_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/752583668594a8ebc85d0e_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/2078681395b2a2c23d7054_medium.jpg
+</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Смарт-часы UWatch Q18 Silver (ft-05)</name>
+<description>
+<![CDATA[
+Smart Q18 имеет выпуклый экран нового поколения. 
+ Удобный сенсор, процессор на 533 МгЦ и мощная батарея дают этой модели неоспоримые преимущества по сравнению с предыдущими версиями Gt08 и GV18. 
+ Также, в даной модели доступна видеокамера, диктофон и есть NFC. 
+ Для любителей соц. сетей будет незаминимой функция оповещения с фейсбук.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Особенности">Управление музыкальным плеером</param>
+<param name="Тип матрицы">TFT</param>
+<param name="Разрешение дисплея">240x240</param>
+<param name="Процессор">MTK6261D</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Материал ремешка">Резина/каучук</param>
+<param name="Диагональ дисплея">1,54"</param>
+<param name="Уведомления">SMS, Вызовы, Электронная почта</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133006" available="false">
+<url>
+https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-smartwatch-q18
+</url>
+<price>549</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/1127634645b2a354fb3809_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/2096521618594a8ebfdcc67_medium.jpg
+</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Смарт-часы UWatch Q18 Black (ft-06)</name>
+<description>
+<![CDATA[
+Smart Q18 имеет выпуклый экран нового поколения. 
+ Удобный сенсор, процессор на 533 МгЦ и мощная батарея дают этой модели неоспоримые преимущества по сравнению с предыдущими версиями Gt08 и GV18. 
+ Также, в даной модели доступна видеокамера, диктофон и есть NFC. 
+ Для любителей соц. сетей будет незаминимой функция оповещения с фейсбук.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Особенности">Управление музыкальным плеером</param>
+<param name="Тип матрицы">TFT</param>
+<param name="Разрешение дисплея">240x240</param>
+<param name="Процессор">MTK6261D</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Материал ремешка">Резина/каучук</param>
+<param name="Диагональ дисплея">1,54"</param>
+<param name="Уведомления">SMS, Вызовы, Электронная почта</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133007" available="false">
+<url>
+https://flashtronix.com.ua/catalog/chasy/umnye-chasy/umnye-chasy-smartwatch-q18
+</url>
+<price>549</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/215/20122354315b2a36d5dea21_medium.jpg
+</picture>
+<vendor>UWatch</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Смарт-часы UWatch Q18 White (ft-07)</name>
+<description>
+<![CDATA[
+Smart Q18 имеет выпуклый экран нового поколения. 
+ Удобный сенсор, процессор на 533 МгЦ и мощная батарея дают этой модели неоспоримые преимущества по сравнению с предыдущими версиями Gt08 и GV18. 
+ Также, в даной модели доступна видеокамера, диктофон и есть NFC. 
+ Для любителей соц. сетей будет незаминимой функция оповещения с фейсбук.
+]]>
+</description>
+<param name="Тип">Умные часы</param>
+<param name="Особенности">Управление музыкальным плеером</param>
+<param name="Тип матрицы">TFT</param>
+<param name="Разрешение дисплея">240x240</param>
+<param name="Процессор">MTK6261D</param>
+<param name="Версия Bluetooth">3.0</param>
+<param name="Материал ремешка">Резина/каучук</param>
+<param name="Диагональ дисплея">1,54"</param>
+<param name="Уведомления">SMS, Вызовы, Электронная почта</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133008" available="true">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/registrator-vehicle-blackbox-dvr-k-6000-s-fullhd--1080p-
+</url>
+<price>480</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/126/1501679585b2ba081e807b_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/126/191953833859258c0d0d090_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/126/19233746545b2ba0826a2bd_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>20</stock_quantity>
+<name>
+Видеорегистратор Vehicle Blackbox DVR K-6000 (ft-08)
+</name>
+<description>
+<![CDATA[
+Если смотреть издалека, то внешне Vehicle Blackbox DVR напоминает компактный цифровой фотоаппарат с постоянно выдвинутым объективом.
+ Благодаря своим габаритам забрать его с собой из машины, положив в карман куртки или сумку, каких-либо сложностей не составит.
+]]>
+</description>
+<param name="Встроенный GPS">Нет</param>
+<param name="Максимальное разрешение видео">HD (1080x720)</param>
+<param name="Сенсор">1/3.2 CMOS</param>
+<param name="Формат видео">TS</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Запись звука">Нет</param>
+<param name="Питание">12 B</param>
+<param name="Порты и разьемы">miniUSB</param>
+<param name="Печать информации в видео">Время</param>
+<param name="Комплектация">Устройство; держатель; инструкция</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133009" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-car-camcorder-g-30
+</url>
+<price>459</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/125/18219828465b2cafe7c5782_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/125/12804586785b2cafe80c9dc_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR G-30 (ft-09)</name>
+<description>
+<![CDATA[
+Регистратор способен вести запись в формате HD с частотой 25 кадров в секунду. 
+ Широкоугольный объектив позволяет охватывать картинку с полем зрения в 120 градусов. 
+ Встроенный микрофон позволяет записывать звук. Отснятый материал удобно просматривать на цветном TFT экране диагональю 2,7". 
+ Запись регистратора начинается автоматически при запуске двигателя. Для экономии места на карте памяти запись ведется циклически, записываясь поверх старого видео.
+]]>
+</description>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Максимальное разрешение видео">HD(1280x720)</param>
+<param name="Активация записи">При обнаружении движения</param>
+<param name="Сенсор">1/3.2 CMOS</param>
+<param name="Частота кадров">20 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Инфракрасная подсветка">Есть</param>
+<param name="Запись звука">Нет</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">miniUSB</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Комплектация">Устройство; держатель; инструкция</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133010" available="true">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/h-198-s-russkim-menyu-i-nochnoi-semkoi--6-svetodiodov---otlichnoe-sochetanie-cena-kachestvo-
+</url>
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/253/20950096275b2cd891294a4_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/253/8847830075b2cd8918f8fc_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>20</stock_quantity>
+<name>Видеорегистратор DVR H-198 инфракрасная сьемка (ft-10)</name>
+<description>
+<![CDATA[
+Автомобильный видеорегистратор H-198 - уникальная модель, с камерой высокого разрешения и углом обзора 120 градусов. 
+ Циклическая запись. При заполнении карты памяти, автоматически стирается старое видео и на ее место записывается новое. 
+ Инфракрасная подсветка позволит снимать видео даже в полной темноте. Съемный аккумулятор. 
+ Регистратор представляет собой камеру, которая устанавливается на лобовое стекло. 
+ Имеет функцию детектора движения, Инфракрасный IR датчик ночного видения, автоматически подстраивается под освещение. 
+ Его возможно полностью отключить.
+]]>
+</description>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Максимальное разрешение видео">HD(1920x720)</param>
+<param name="Активация записи">При обнаружении движения</param>
+<param name="Сенсор">1/4 color CMOS WXGA HD</param>
+<param name="Частота кадров">20 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Инфракрасная подсветка">Есть</param>
+<param name="Запись звука">Нет</param>
+<param name="Питание">12 В, аккумулятор</param>
+<param name="Порты и разъемы">miniUSB</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Комплектация">Устройство; держатель; инструкция, аккумулятор</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133011" available="false">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/cverhmoshnyi-nalobnyi-fonar-boruit-rj-3000--ip55--cree-t6x3
+</url>
+<price>360</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/296/6697423235b3a1c41989ed_original.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/296/2571710615b30b8f702a99_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/296/19811541965b30b8f75899e_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>0</stock_quantity>
+<name>
+Налобный фонарь Bailong Police  RJ-3000 Cree T6+2Q5 (ft-11)
+</name>
+<description>
+<![CDATA[
+Несмотря на казалось бы сложную конструкцию налобного фонаря Police Bailong RJ-3000-T6, данная модель является весьма простой и удобной в процессе эксплуатации. Фонарь имеет эргономичный дизайн и отличные рабочие характеристики. 
+ Установленные светодиоды 2хQ5 + T6 значительно расширят его возможности, обеспечив мощный световой поток, позволяя использовать один из трех режимов свечения, а также дополнительный режим сигнальных огней стробоскоп. 
+ Помимо этого Вы легко сможете выбрать и направление освещения, воспользовавшись регулировкой поворота головки в пределах угла 0-90 градусов.
+]]>
+</description>
+<param name="Вид">Налобные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6, 2 x Cree XPE Q5</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1480 лм</param>
+<param name="Защищенность">Противоударные</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы">
+Максимальный Средний Минимальный Строб
+</param>
+<param name="Комплектация">
+Фонарь Bailong RJ-3000 - 1 шт Аккумулятор 18650 - 2 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133012" available="true">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/cuper-moshnyi-nalobnyi-fonar-boruit-rj-4000--ip55--s-fokusirovkoi-lucha
+</url>
+<price>400</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/469/90295466259fd69599a0b9_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/469/73626206959fd6959c9395_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/469/43088732359fd695a029ed_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>5</stock_quantity>
+<name>
+Налобный фонарь Bailong W602 Cree T6+2Q5 с фокусировкой (ft-12)
+</name>
+<description>
+<![CDATA[
+Налобный фонарь Bailong W602 - блестящий представитель фонарей с тремя светодиодами, который отличается не только мощностью и дальностью, но и наличием фокусировки. В данной модели центральный светодиод Cree XM-L T6 имеет фокусировку, а два боковых, Cree XPE Q5 - не имеют фокуса. Также боковые диоды можно поворачивать по вертикали на 180 градусов.
+ В фонаре стоит уровень защиты от влаги, и соответственно, будет оберегать ваш фонарь от попадания в него воды. 
+ Таким образом, вы сможете работать во влажных помещениях и во время дождя.
+]]>
+</description>
+<param name="Вид">Налобные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6, 2 x Cree XPE Q5</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1500 лм</param>
+<param name="Защищенность">Противоударные</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы">
+Максимальный Средний Минимальный Строб
+</param>
+<param name="Комплектация">
+Фонарь Bailong W602 - 1 шт Аккумулятор 18650 - 2 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Крепление на руль велосипеда - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133013" available="false">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/nalobyni-fonar-police-bailong-bl-1825
+</url>
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/979/2957287445b2cc09668bfa_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/979/12755719375b2cc095d529e_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/979/20387173995b2cc096f2e80_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/979/14441826395b2cc09789146_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>0</stock_quantity>
+<name>
+Налобынй фонарь Bailong BL-1825 Cree T6+2Q5 (ft-13)
+</name>
+<description>
+<![CDATA[
+Налобынй фонарь Police Bailong BL-1825 - в данной модели свет рассеивается не линзой а старым добрым отражателем, что делает пятно луча ярким в центре,где как раз сконцентрирована острота нашего зрения. На практике освещение этим фонарем более естественное и эффективное. 
+ Центральный светодиод Cree XM-L T6 и два боковых Cree XPE Q5 - не имеют фокусировки. 
+ Также боковые диоды можно поворачивать по вертикали на 180 градусов.
+]]>
+</description>
+<param name="Вид">Налобные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6, 2 x Cree XPE Q5</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки"> От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1500 лм</param>
+<param name="Защищенность">Противоударные</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы">
+Максимальный Средний Минимальный Строб
+</param>
+<param name="Комплектация">
+Фонарь Bailong BL-1825 - 1 шт Аккумулятор 18650 - 2 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Крепление на руль велосипеда - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133014" available="true">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/fonar-nalob-bl-2188
+</url>
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/135/18644301895b2fe9edcf171_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/135/6326137595b2fe9ee1d325_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/135/7295325575b2fe9ee5a038_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>5</stock_quantity>
+<name>
+Налобный фонарь Bailong BL-2188 Cree T6 с фокусировкой (ft-14)
+</name>
+<description>
+<![CDATA[
+Налобный фонарь Police Bailong BL-2188B отлично справится со своей задачей во время пеших ночных прогулок, скалолазания, рыбалки и охоты, выполнения ремонтных работ, 
+ строительства, отключенной системы центрального энергообеспечения. Три режима освещения позволяют работать при полной мощности или половинной мощности, а также в режиме стробоскопа. 
+ Фокусировка луча света осуществляется простым выдвижением объектива вперед или назад. 
+ Вы можете регулировать ширину луча выдвигая головку фонаря вперед.
+]]>
+</description>
+<param name="Вид">Налобные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1050 лм</param>
+<param name="Защищенность">Противоударные</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы">
+Максимальный Минимальный Строб
+</param>
+<param name="Комплектация">
+Фонарь Bailong BL-2188 - 1 шт Аккумулятор 18650 - 2 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133015" available="false">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/fonar-nalobnyi-bl-2199
+</url>
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/134/14668389975b2ff050d4f0a_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/134/9114219095b2ff051073d9_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>0</stock_quantity>
+<name>
+Налобный фонарь Bailong BL-2199 Cree T6 с фокусировкой (ft-15)
+</name>
+<description>
+<![CDATA[
+Налобный фонарь Police Bailong BL-2199 - это сверх яркий налобный тактический фонарик, который работает на базе светодиода CREE T6. 
+ Такой светодиод дает очень яркий чистый свет, а возможность выбора уровня яркости и фокусировка луча, позволяет выставить самый оптимальный световой поток. 
+ Фонарик имеет очень удобное крепление на голову с прочными регулируемыми резинками.
+]]>
+</description>
+<param name="Вид">Налобные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1050 лм</param>
+<param name="Защищенность">Противоударные</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы"> Максимальный Минимальный Строб </param>
+<param name="Комплектация">
+Фонарь Bailong BL-2199 - 1 шт Аккумулятор 18650 - 2 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133016" available="true">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/fonar-bl-t8626
+</url>
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/138/3943558665925d2fc503d3_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/138/1933927755925d2fcb70c8_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/138/18225330525b2ffa4508d74_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>30</stock_quantity>
+<name>
+Фонарик Bailong BL-T8626 Cree T3 с фокусировкой (ft-16)
+</name>
+<description>
+<![CDATA[
+Фонарик Police Bailong BL-T8626 изготовлен из андонированого алюминия, что придает фонарику исключительную легкость, влагонепроницаемый корпус с прорезинеными вставками на стыках составных частей фонарика, рукоятка имеет рифленную поверхность,что создает идеальное сцепление фонарика с рукой, даже в дождь фонарь не скользит и крепко держится в руке. 
+ Данный фонарик BL-8626 легко трансформируется в велофонарик с велокреплением, а так же идеально монтируется на ружье, корпус лодки, специальные рюкзаки и тд.
+]]>
+</description>
+<param name="Вид">Ручные</param>
+<param name="Количество светодиодов">1 x Cree XM-L T3</param>
+<param name="Элементы питания">Внешний аккумулятор</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">500 лм</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы"> Максимальный Нормальынй Строб </param>
+<param name="Комплектация">
+Фонарь Bailong BL-T8626 - 1 шт Аккумулятор 18650 - 1 шт Кассета для трёх батареек типа ААА - 1 шт Автомобильное зарядное устройство 12V - 1 шт Шнурок - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133017" available="true">
+<url>
+https://flashtronix.com.ua/catalog/fonariki/fonar-bl-1831-s-diodom-t6
+</url>
+<price>220</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/137/2900653605b3000eeb5cf2_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/137/18814936195925d1052287f_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/137/9972397105925d104f376d_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/137/1127748535b3000ee65d92_medium.jpg
+</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>10</stock_quantity>
+<name>
+Фонарь тактический Bailong BL-1831 Cree T6 с фокусировкой (ft-17)
+</name>
+<description>
+<![CDATA[
+Фонарь тактический Police Bailong BL-1831 работает на мощнейшем светодиоде XM-L T6 американской фирмы-производителя Cree. 
+ Данному светодиоду нет аналогов, так как он обеспечивает мощность светового потока до 1000 лм. 
+ Этим фонарем Вы без труда осветите любое помещение или открытую местность, ведь его дальность свечения составляет 500 м в режиме узконаправленного луча.
+]]>
+</description>
+<param name="Вид">Тактические</param>
+<param name="Количество светодиодов">1 x Cree XM-L T6</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1050 лм</param>
+<param name="Тип">Фонари</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Вес">134 г</param>
+<param name="Режимы работы">
+Максимальный Средний Минимальный Строб SOS
+</param>
+<param name="Комплектация">
+Фонарь Bailong BL-1831 Аккумулятор 18650 - 1 шт Кассета для трёх батареек типа ААА - 1 шт Зарядное устройство для аккумуляторов 18650 - 1шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133018" available="true">
+<url>https://flashtronix.com.ua/catalog/osveshenie/prozhektora/perenosnoi-prozhektor-x-balog-bl204-diod-t6-s-akkumulyatorom</url>
+<price>390</price>
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/737/7887688935b300902a6493_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/737/4416602925b3009024914f_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/737/20171995945b30090305492_medium.jpg</picture>
+<vendor>Bailong</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Прожектор ручной Bailong BL-204 24 диода(ft-18)</name>
+<description>
+<![CDATA[
+Прожектор ручной Bailong BL-204 найдет свое применение как в быту, так и в походе, на рыбалке или в гараже при ремонте.
+ Прожектор светодиодный имеет три варианта освещения: яркий , тусклый, аварийный (мигает синим красным). 
+ Защищен от пыли и влаги. Можно работать под дождем.Прожектор поворачивается относительно подставки на 180 градусов. Фиксируется при помощи двух зажимов с боков. 
+ Подходит для любых любителей спорта, мероприятий на свежем воздухе, таких, как охота, езда на велосипеде, альпинизм, отдых на природе, и т. д.
+]]>
+</description>
+<param name="Вид">Для кемпинга</param>
+<param name="Количество светодиодов">24</param>
+<param name="Элементы питания">18650</param>
+<param name="Способы зарядки">	От сети 12 В От сети 220 В </param>
+<param name="Мощность светового потока">1200 лм</param>
+<param name="Тип">Прожекторы</param>
+<param name="Материал корпуса">Алюминий + пластик</param>
+<param name="Режимы работы"> Максимальный Средний Строб </param>
+<param name="Комплектация">
+Прожектор Bailong BL-204 Аккумулятор 18650 - 3 шт Сетевое зарядное устройство 220V - 1 шт Автомобильное зарядное устройство 12V - 1 шт Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133019" available="false">
+<url>https://flashtronix.com.ua/catalog/akustika/kolonki/akusticheskaya-kolonka-308-bluetooth</url>
+<price>195</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/907/17013164785b98d79b5f746_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/907/11263255885b90ec6f8f79c_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/907/17287049155b90eba4dea29_medium.jpg</picture>
+<vendor>Atlanfa</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Колонка портативная Atlanfa AT-308 Gray (ft-19)</name>
+<description><![CDATA[Уникальный дизайн и мощный стерео звук. Благодаря встроенному аккумулятору наслаждайтесь музыкой до 4 часов без подзарядки.
+Работает на аккумуляторе который заряжается с помощью обычного micro usb
+Портативная беспроводная bluetooth-колонка идеальна для прослушивания музыки в любом месте,
+благодаря своим миниатюрным размерам.]]>
+</description>
+<param name="Тип">Портативные</param>
+<param name="Формат аккустики">Стерео</param>
+<param name="Сумарная мощность">6 Вт</param>
+<param name="Тип питания">Аккумулятор, USB-порт, Сеть</param>
+<param name="Чувствительность">87,0 дБ</param>
+<param name="Интерфейсы"> microUSB, AUX, USB</param>
+<param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
+<param name="Особенности">USB-разъем, FM-приемник, Функция громкой связи</param>
+<param name="Материал корпуса">Пластик/Алюминий</param>
+<param name="Размеры">145 х 55 х 35 мм</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133020" available="true">
+    <url>https://flashtronix.com.ua/catalog/akustika/kolonki/portativnaya-bluetooth-kolonka-atlanfa-7725bt</url>
+  <price>240</price>
+  <currencyId>UAH</currencyId>
+  <categoryId>4</categoryId>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/93/2149394505b350ef5ae82a_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/93/20291629665b350ef61a4b6_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/93/10059076375b350ef645530_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/93/11689342105b350ef670728_medium.jpg</picture>
+  <vendor>Atlanfa</vendor>
+  <stock_quantity>50</stock_quantity>
+  <name>Колонка портативная Atlanfa AT-7725 Black (ft-20)</name>
+  <description><![CDATA[
+  Atlanfa 7725 это не просто колонка, это целая аудиосистема, которая обладает мощной акустикой.
+  Встроенное FM радио позволяет слушать любимые передачи и музыку на выбранной частоте, а mp3 плеер дает возможность слушать любимые композиции с карты памяти. 
+  Колонка имеет Bluetooth, который дает возможность беспроводного соединения с Вашим телефоном или ноутбуком.
+  Благодаря разъему USB и Micro SD, вы сможете подключать к колонке обычные флешки с музыкой
+  Теперь Вы сможете слушать любимую музыку до 6 часов без подзарядки аккумулятора!
+  ]]>
+  </description>
+  <param name="Тип">Портативные</param>
+  <param name="Формат аккустики">Стерео</param>
+  <param name="Сумараная мощность">10 Вт</param>
+  <param name="Тип питания">Аккумулятор USB-порт Сеть</param>
+  <param name="Частотный диапазон">100 Гц-16 кГц</param>
+  <param name="FM диапазон частот">187.5-108 мГц</param>
+  <param name="Поддерживаемые интерфейсы">Bluetooth, MP3, Fm, USB</param>
+  <param name="Поддерживаемые карты памяти">microSD</param>
+  <param name="Особенности">FM-приемник, Функция громкой связи</param>
+  <param name="Материал корпуса">Пластик</param>
+  <param name="Страна-производитель">Китай</param>
+  <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133021" available="false">
+  <url>
+   https://flashtronix.com.ua/catalog/avto-tematika/monitor-dlya-kamery/monitor-5-dlya-avtomobilnoi-kamery-zadnego-vida
+  </url>
+  <price>520</price>
+  <currencyId>UAH</currencyId>
+  <categoryId>2</categoryId>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/281/14657562545b32a9c172da2_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/281/9160937045b32a9c1b7573_medium.jpg</picture>
+  <vendor>Terra</vendor>
+  <stock_quantity>0</stock_quantity>
+  <name>Монитор для камеры заднего вида Terra LCD Color 5 дюймов (ft-21)</name>
+  <description><![CDATA[
+  Монитор для камеры заднего вида поможет как начинающему водителю так и профессионалу. Установив монитор и камеру заднего вида вы обезопасите 
+  себя от дорогостоющих столкновений. Автомобильный монитор "5" TFT LCD color  monitor с 5-дюймовым дисплеем оборудован двумя видеовходами,
+  что позволяет подключить вде камеры. При подаче питания на камеру заднего вида нужный видеовход включается автоматически. 
+  Автомобильный монитор имеет небольшой вес и малые габариты, что позволяет закрепить его как на лобовом стекле так и на панели.
+  ]]>
+  </description>
+  <param name="Размер экрана">5 дюймов"</param>
+  <param name="Разрешение">800 * 480 пикселей </param>
+  <param name="Видеовходов">1</param>
+  <param name="Страна-производитель">Китай</param>
+  <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133022" available="true">
+  <url>
+   https://flashtronix.com.ua/catalog/avto-tematika/monitor-dlya-kamery/monitor-dlya-kamery-zadnego-vida-4-3
+  </url>
+  <price>450</price>
+  <currencyId>UAH</currencyId>
+  <categoryId>2</categoryId>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/280/5003311395b32a133545e5_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/280/18706988885b32a0c546ea6_medium.jpg</picture>
+  <vendor>Terra</vendor>
+  <stock_quantity>5</stock_quantity>
+  <name>Монитор для камеры заднего вида Terra LCD Color 4.3 дюйма(ft-22)</name>
+  <description><![CDATA[
+  Компактный автомобильный складной монитор 4.3 дюйма для установки на торпедо — идеальное решение для подключения камеры заднего
+  вида или даже сразу двух камер (задней и передней). Возможно подключение любого другого видеооборудования, например, видеорегистратора, 
+  ТВ-тюнера, DVD-плеера и др. В основе конструкции устройства заложен механизм, позволяющий сложить монитор когда в нем нет необходимости 
+  (например, на парковке), и легко разложить его нажатием одной кнопки. 
+  Монитор включается автоматически при поступления сигнала с камеры и автоматически выключается при отсутствии видеосигнала.Питание осуществляется от 12В.
+  ]]>
+  </description>
+  <param name="Дисплей">4.3" TFT LCD цветной</param>
+  <param name="Тип установки">На торпеду</param>
+  <param name="Аудио-видео интерфейсы">AV-вход</param>
+  <param name="Разрешение">960х468</param>
+  <param name="Питание">12 В</param>
+  <param name="Потребляемая мощность">3 Вт</param>
+  <param name="Габариты">120 х 85 х 36 мм</param>
+  <param name="Вес">200 г</param>
+  <param name="Страна-производитель">Китай</param>
+  <param name="Гарантия">14 дней</param>
+ </offer>
+<offer id="133023" available="false">
+  <url>
+   https://flashtronix.com.ua/catalog/kompyuternye-aksessuary/klaviatura-s-myshkoi-k-03--adapter
+  </url>
+  <price>369</price>
+  <currencyId>UAH</currencyId>
+  <categoryId>6</categoryId>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/200/4530845815b52ded023b72_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/200/3496236135b52ded079529_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/200/13755172415b52ded0c8528_medium.jpg</picture>
+  <vendor>UKC</vendor>
+  <stock_quantity>0</stock_quantity>
+  <name>Беспроводная клавиатура и мышь UKC K06 Black (ft-23)</name>
+  <description><![CDATA[
+  Стильный удобный комплект K06, состоящий из беспроводной клавиатуры с плоскими разделенными клавишами и мыши.
+  Простой, модный и элегантный набор K06 идеально подходит для современного образа жизни.
+  Так же в комплекте имеется матовая прозрачная накладка на клавиатуру, которая защитит от попадания между клавиш пыли, крошек и прочих мелких предметов.
+  Радиус действия ― до 10 метров от компьютера. Увеличенный радиус действия беспроводной связи обеспечивает большую свободу действий.]]>
+  </description>
+  <param name="Тип">Клавиатура + мышь</param>
+  <param name="Назначение">Для настольного ПК</param>
+  <param name="Подключение устройства">Беспроводное</param>
+  <param name="Интерфейс подключения">USB</param>
+  <param name="Цвет">Черный</param>
+  <param name="Размер клавиатуры">38.5х11.5х2 см</param>
+  <param name="Размер мыши">10.5х5 см</param>
+  <param name="Страна-производитель">Китай</param>
+  <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133024" available="false">
+  <url>
+   https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/ayero-mysh-klaviatura-air-mouse-c120
+  </url>
+  <price>330</price>
+  <currencyId>UAH</currencyId>
+  <categoryId>7</categoryId>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/409/131838505359e793b5855a4_medium.jpg</picture>
+  <picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/409/154100184459e793b468789_medium.jpg</picture>
+  <vendor>Vinga</vendor>
+  <stock_quantity>0</stock_quantity>
+  <name>Универсальный пульт Vinga Air Mouse C120 (ft-24)</name>
+  <description><![CDATA[
+  Беспроводная клавиатура / пульт / мышка с гироскопом станет незаменимым помощником в управлении Вашим мини ПК или ТВ приставкой.
+  Для управления курсором теперь не нужна никакая поверхность. Просто поднимаете руку вверх-вниз или влево-вправо и курсор двигается в заданном направлении.
+  Встроенный аккумулятор избавит от необходимости менять батарейки, достаточно подключить кабель к USB порту компьютера, телевизора или зарядке.
+  Это лучший способ управлять телевизором, медиаприставкой Android TV, компьютером и др. устройствами.
+  ]]>
+  </description>
+  <param name="Тип">Air Mouse</param>
+  <param name="Клавиатура">Да</param>
+  <param name="Язык клавиш">Русский, Английский</param>
+  <param name="Радиус действия">до 10 м</param>
+  <param name="Беспроводное соединение">2,4 ГГц</param>
+  <param name="Питание">Встроенный аккумулятор</param>
+  <param name="Размер">15.5 x 4 x 1 см</param>
+  <param name="Вес">65 г</param>
+  <param name="Страна-производитель">Китай</param>
+  <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133025" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/kamera-zadnego-vida/avtokamera-zadnego-vida-a-170</url>
+<price>300</price>
+<currencyId>UAH</currencyId>
+<categoryId>8</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/282/2600826335b329208311ac_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/282/7481823245b32920853e8b_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/282/2121318625b3292088770c_medium.jpg</picture>
+<vendor>UKC</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Камера заднего вида UKC A-170 (ft-25)</name>
+<description>
+<![CDATA[
+Камера заднего вида UKC A-170 - надежный помощник как для опытного водителя так и для начинающего. 
+Камера заднего вида позволит сделать управление автомобилем еще более комфортным и безопасным. 
+Камера подключается к устройству воспроизведения изображения, например, GPS-навигатору или автомобильному монитору. 
+Камера заднего вида А-170 это высококачественная камера с широким углом обзора, она поможет увидеть практически все преграды сзади и сбоку машины.
+]]>
+</description>
+<param name="Минимальное освещение">0.2 Люкс</param>
+<param name="Эффективных пикселей">628x582</param>
+<param name="Общее разрешение">420 ТВ-линий</param>
+<param name="Система">NTSC</param>
+<param name="Отношение сигнал/шум">48 дБ</param>
+<param name="Потребляемый ток">300 мА</param>
+<param name="Питание">12 В</param>
+<param name="Рабочая температура">От -20 °С до +65 °С</param>
+<param name="Угол обзора">170 °</param>
+<param name="Комплектация">
+Камера заднего вида UKC A-170 - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт 
+Крепление для установки - 1 шт 
+Фреза для установки в бампер - 1 шт 
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133026" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-shnur-h0118-dlinnoi-1-5-metra
+</url>
+<price>100</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/329/13482689745b329e171c8f2_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/329/2393641725b329e1742b3d_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>20</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 1.5 м v.1.4 усиленная обмотка с фильтрами (ft-26)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 1.5 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">1.5 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133027" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-shnur-h0120-dlinnoi-3-metra
+</url>
+<price>140</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/265/9000679895b32a0bb3f489_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/265/18481176945b32a0bb7e8c4_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/265/7711406835b32a0bbc351f_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 3 м v.1.4 усиленная обмотка с фильтрами (ft-27)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 3 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">3 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133028" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-h0121-dlinnoi-5-metrov
+</url>
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/266/17624730655b32a17e0ff37_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/266/14337239525b32a17eb67ab_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>20</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 5 м v.1.4 усиленная обмотка с фильтрами (ft-28)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 5 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">5 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133029" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-h0126-dlinnoi-10-metrov
+</url>
+<price>380</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/267/9145512785b32a358975d6_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/267/5582747805b32a3831a5c6_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>40</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 10 м v.1.4 усиленная обмотка с фильтрами (ft-29)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 10 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">10 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133030" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-h0126-dlinnoi-15-metrov
+</url>
+<price>470</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/338/14378527585b32a504ef559_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/338/5274740485b32a505eb5d5_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>20</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 13,5 м v.1.4 усиленная обмотка с фильтрами (ft-30)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 13,5 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">13,5 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133031" available="true">
+<url>
+https://flashtronix.com.ua/catalog/tv-pristavki-i-prochee/komplektuyushee/hdmi-h0126-dlinnoi-20-metrov
+</url>
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>9</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/288/8655921125b32a5f402e9e_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/288/19567262795b32a5f49ef65_medium.jpg
+</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Кабель Kronos HDMI - HDMI 20 м v.1.4 усиленная обмотка с фильтрами (ft-31)</name>
+<description>
+<![CDATA[
+Кабель Kronos HDMI 20 м предназначен для приема и передачи сигнала в цифровом формате от спутникового или цифрового ресивера на телевизор, проектор и т. д. 
+Данные могут передаваться по кабелю со скоростью от 4,6 Гбит в секунду. Внешняя оболочка HDMI кабеля состоит из поливинилхлорида, 
+имеет нейлоновую оплетку для предотвращения  механических повреждений.
+]]>
+</description>
+<param name="Тип">HDMI</param>
+<param name="Длина">20 м</param>
+<param name="Вид">Кабели</param>
+<param name="Цвет">Черный с красным</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133032" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-zerkalo-na-2-kamery-car-dvr-mirror-l905-full-hd-1080p-4-2--
+</url>
+<price>820</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/918/872904365b3bdd1d4849f_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/918/3647325505b3bdd1df215e_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/918/15121441355b3bdd1e897bc_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/918/6031513615b3bdd1f1d914_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR L905 с камерой заднего вида (ft-32)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR L905 с камерой заднего вида совмещает функции видеорегистратора и зеркала, пишет видео в высоком качестве и при этом не привлекает 
+постороннего внимания своим присутствием. Запись ведется циклически, есть возможность выбора размера роликов. Отснятый материал сохраняется на карту памяти TF, максимальным объемом 32 ГБ.
+Во время не штатных ситуаций автоматическую защиту записи обеспечит G-sensor, а все что происходит у припаркованного авто будет отснято благодаря настраиваемому датчику движения.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">4.2" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+AV-OUT
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR L905 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Золото</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133033" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/sensornoe-zerkalo-na-2-kamery-car-dvr-mirror-xh303tp-full-hd-1080p-4-2--
+</url>
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/919/6467888685b3d304e42551_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/919/15462129505b3d304e8c717_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/919/2704628915b3d304f20b76_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/919/3301632815b3d304fa9bbd_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR XH303TP с сенсорным экраном (ft-33)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR XH303TP с сенсорным экраном совмещает функции видеорегистратора и зеркала, пишет видео в высоком качестве и при этом не привлекает 
+постороннего внимания своим присутствием. А наличие сенсорного экрана поможет Вам быстро перенастраивать зеркало во время поездки. Запись ведется циклически, есть возможность выбора размера роликов. Отснятый материал сохраняется на карту памяти TF, максимальным объемом 32 ГБ.
+Во время не штатных ситуаций автоматическую защиту записи обеспечит G-sensor, а все что происходит у припаркованного авто будет отснято благодаря настраиваемому датчику движения.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">4.2" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+AV-OUT
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+Сенсорный экран
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR XH303TP - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Золото</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133034" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-zerkalo-zadnego-vida-dvr-1280-x720p-yekran-3-1-
+</url>
+<price>390</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/199/5511902765b43c3a74c893_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/199/7830174205b3d37cd69dc9_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/199/6000986865b43c3a7ada10_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR L712 (ft-34)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR L712 - использует качественную матрицу, которая делает картинку яркой, сочной, четкой, а изображение не искажается с водительского сиденья. Главное достоинсово 
+видеорегистратора-зеркала - отсутствие необходимости снимать его после парковки автомобиля, чтобы избежать привлечения воров.
+Регистратор в зеркале решает эту проблему, он незаметен. В этом устройстве применена технология видеоинформации HD PROF, благодаря чему изображение - максимально четкое. 
+Запись ведется циклически, есть возможность выбора размера роликов. Отснятый материал сохраняется на карту памяти TF, максимальным объемом 32 ГБ.
+Во время не штатных ситуаций автоматическую защиту записи обеспечит G-sensor, а все что происходит у припаркованного авто будет отснято благодаря настраиваемому датчику движения.
+]]>
+</description>
+<param name="Максимальное разрешение видео">HD (1280x720)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">120 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">3.1" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR l712 - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133035" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/avtomobilnyi-videoregistrator-zerkalo-zadnego-vida--2-kamery-
+</url>
+<price>700</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/672/7456318165b3d3b824edfc_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/672/4644887345b3d3b829f2ca_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/672/16619116985b3d3b8342ef5_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/672/18937256485b3d3b83c9252_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR L708 с камерой заднего вида (ft-35)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR L708 - устройство для автомобиля два в одном. Установите зеркало-видеорегистратор в салоне вашей машины и записывайте все события, 
+которые происходят вокруг. Вам не придётся опасаться, что ДТП с вашим участием будет неверно или предвзято истолковано работниками ГАИ, страховыми агентами или судом. 
+Все обстоятельства происшествия будут видны, как на ладони, и вы легко докажете свою правоту.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">25 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">3.9" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+AV-OUT
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR L708 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133036" available="true">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-zerkalo-na-2-kamery-car-dvr-mirror-l9000-full-hd-1080p
+</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/721/3202144285b3d42144f2ba_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/721/14438737515b3d421497a65_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/721/4391149205b3d42152940c_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/721/13804518995b3d4215b9280_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR L9000 с камерой заднего вида (ft-36)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR L9000 записывает видео в высоком качестве  не привлекая у  посторонних внимания так как внешне неотличим от обычного автомобильного зеркала 
+заднего вида. Запись ведется циклически, также есть возможность выбора продолжительности роликов. Весь отснятый материал сохраняется на карту памяти TF, максимальным объемом 32 ГБ. 
+Современный кодек Н.264, используемый для сжатия видео, позволяет получать  запись высокого качества при максимальном сжатии материала.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">25 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">4.2" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+AV-OUT
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR L9000 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133037" available="false">
+<url>
+https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-zerkalo-na-2-kamery-car-dvr-20-full-hd-720p-3-9-
+</url>
+<price>700</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/917/1480563535b3d47efcd54f_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/917/9936952655b3d47f008ff1_medium.jpg
+</picture>
+<picture>
+https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/917/9994051075b3d47f0369b9_medium.jpg
+</picture>
+<vendor>DVR</vendor>
+<stock_quantity>30</stock_quantity>
+<name>Видеорегистратор-зеркало заднего вида DVR-20 с камерой заднего вида (ft-37)</name>
+<description>
+<![CDATA[
+Видеорегистратор-зеркало заднего вида DVR-20. При помощи скоб оно легко устанавливается практически на любое штатное зеркало, имеется антибликовое покрытие и функция отключения дисплея 
+при работающем видеорегистраторе, чтобы не отвлекать внимание водителя, на задней стороне расположен видеорегистратор. 
+Копки управление видеорегистратора находятся на передней панели под зеркалом.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">25 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">3.9" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+AV-OUT
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор-зеркало заднего вида DVR-20 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на штатное зеркало - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133038" available="true">
+<url>https://flashtronix.com.ua/catalog/vesy/vysokotochnye-vesy/yuvelirnye-vesy--karmannye-s-displeem--0-1-gram--500gram--</url>
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/1646973865b3f2e6149414_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/3514043175b3f2deb18db1_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/238367405592d71990e33a_medium.jpg</picture>
+<vendor>LUX</vendor>
+<stock_quantity>5</stock_quantity>
+<name>Электронные весы ювелирные LUX Pocket Scale MH-200 0,01-200гр (ft-38)</name>
+<description>
+<![CDATA[Цифровые ювелирные весы MH-200 — точный, надежный карманный прибор для измерения веса до 200 грамм. 
+Чувствительные датчики тензометрического типа показывают с точностью 0.01г. 
+В этих ювелирных весах платформа, органы управления и индикации надежно защищены прозрачной крышкой.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">200 г</param>
+<param name="Дискретность взвешивания">0.01 г</param>
+<param name="Размеры">119х60х18 мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133039" available="false">
+<url>https://flashtronix.com.ua/catalog/vesy/vysokotochnye-vesy/yuvelirnye-vesy--karmannye-s-displeem--0-1-gram--500gram--</url>
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/1646973865b3f2e6149414_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/3514043175b3f2deb18db1_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/238367405592d71990e33a_medium.jpg</picture>
+<vendor>LUX</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Электронные весы ювелирные LUX Pocket Scale MH-200 0,01-100гр (ft-39)</name>
+<description>
+<![CDATA[Цифровые ювелирные весы MH-200 — точный, надежный карманный прибор для измерения веса до 100 грамм. 
+Чувствительные датчики тензометрического типа показывают с точностью 0.01г. 
+В этих ювелирных весах платформа, органы управления и индикации надежно защищены прозрачной крышкой.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">100 г</param>
+<param name="Дискретность взвешивания">0.01 г</param>
+<param name="Размеры">119х60х18 мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133040" available="true">
+<url>https://flashtronix.com.ua/catalog/vesy/vysokotochnye-vesy/yuvelirnye-vesy--karmannye-s-displeem--0-1-gram--500gram--</url>
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/1646973865b3f2e6149414_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/3514043175b3f2deb18db1_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/153/238367405592d71990e33a_medium.jpg</picture>
+<vendor>LUX</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Электронные весы ювелирные LUX Pocket Scale MH-200 0,1-500гр (ft-40)</name>
+<description>
+<![CDATA[Цифровые ювелирные весы MH-200 — точный, надежный карманный прибор для измерения веса до 500 грамм. 
+Чувствительные датчики тензометрического типа показывают с точностью 0.1г. 
+В этих ювелирных весах платформа, органы управления и индикации надежно защищены прозрачной крышкой.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">500 г</param>
+<param name="Дискретность взвешивания">0.1 г</param>
+<param name="Размеры">119х60х18 мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133041" available="true">
+    <url>https://flashtronix.com.ua/catalog/vesy/vysokotochnye-vesy/yuvelirnye-vesy-mh-267</url>
+    <price>195</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/208/20664377855b3f3b10dd3f2_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/208/470950555b3f3b1110bac_medium.jpg</picture>
+<vendor>UKC</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Электронные весы ювелирные UKC Mh-267 0,1-2000г (ft-41)  </name>
+<description>
+<![CDATA[Модель особо точных ювелирных цифровых весов, имеет максимальный предел взвешивания до 2000 граммов. 
+Небольшой информативный ЖК-дисплей отображает данные о весе и выбранной единице измерения веса. 
+Благодаря встроенной подсветке голубого цвета, данное устройство возможно использовать в условиях недостаточной освещенности. 
+При отсутствии подходящей тары для взвешивания сыпучих и жидких веществ могут использоваться прозрачные защитные крышки цифрового прибора. 
+При низком заряде источников питания высвечивается соответствующий значок, напоминающий об их замене.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">2000 г</param>
+<param name="Дискретность взвешивания">0.1 г</param>
+<param name="Размеры">125х105х20мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2 шт
+    Крышка-тара глубокая 1 шт
+    Крышка-тара мелкая 1 шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+    </offer>
+<offer id="133042" available="false">
+    <url>https://flashtronix.com.ua/catalog/vesy/vysokotochnye-vesy/yuvelirnye-vesy-mh-267</url>
+    <price>245</price>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/208/20664377855b3f3b10dd3f2_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/208/470950555b3f3b1110bac_medium.jpg</picture>
+<vendor>UKC</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Электронные весы ювелирные UKC Mh-267 0,01-500г (ft-42)</name>
+<description>
+<![CDATA[Модель особо точных ювелирных цифровых весов, имеет максимальный предел взвешивания до 500 граммов. 
+Небольшой информативный ЖК-дисплей отображает данные о весе и выбранной единице измерения веса. 
+Благодаря встроенной подсветке голубого цвета, данное устройство возможно использовать в условиях недостаточной освещенности. 
+При отсутствии подходящей тары для взвешивания сыпучих и жидких веществ могут использоваться прозрачные защитные крышки цифрового прибора. 
+При низком заряде источников питания высвечивается соответствующий значок, напоминающий об их замене.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">500 г</param>
+<param name="Дискретность взвешивания">0.01 г</param>
+<param name="Размеры">125х105х20мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2 шт
+    Крышка-тара глубокая 1 шт
+    Крышка-тара мелкая 1 шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+    </offer>
+<offer id="133043" available="true">
+    <url>https://flashtronix.com.ua/catalog/vesy/kuhonnye-vesy/kuhonnye-vesy-sf-400</url>
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>12</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/273/3385423455b3f6000d9c19_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/273/7302708755b3f600139ea0_medium.jpg</picture>
+<vendor>Kitchen</vendor>
+<stock_quantity>20</stock_quantity>
+<name>Весы кухонные Kitchen SF-400. 7кг (ft-43)</name>
+<description>
+<![CDATA[Кухонные весы SF-400 — точный, надежный  прибор для измерения веса до 7кг. 
+Чувствительные датчики тензометрического типа показывают с точностью 0.1г.]]>
+</description>
+<param name="Вид">Весы фасовочные</param>
+<param name="Тип">Электронные</param>
+<param name="Наибольший предел взвешивания">7 кг</param>
+<param name="Дискретность взвешивания">0.1 г</param>
+<param name="Материал платформы">Пластик</param>
+<param name="Размеры">	170х240х38 мм</param>
+<param name="Комплектация">
+    Весы 1 шт
+    Аккумулятор 2шт
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133044" available="false">
+    <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/trimmer/trimmer-gemei-gm-3003-2-v-1</url>
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/769/9218005975b43578d022e2_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/769/3308565915b435738d7706_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/769/14564107205b435739107f6_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/769/17986353745b4357393d135_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Триммер Gemei GM-3003 2в1 Black (ft-44)</name>
+<description>
+<![CDATA[Триммер для носа и ушей Gemei GM3003 2 в 1 ― предназначенный для удаления нежелательных волос на лице, в носу или ушах, а также можно использовать для окантовки затылка, висков.]]>
+</description>
+<param name="Насадки">Триммер. Для лица/точечная</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Материал лезвий">Нержавеющая сталь</param>
+<param name="Комплектация">
+    Насадка для окантовки,
+    Насадка для удаления волос в ушах и носу,
+    Щеточка для чистки насадок,
+    Кабель для зарядки.
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133045" available="false">
+    <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/trimmer/trimmer-dlya-nosa-i-ushei-dlya-strizhki-volos-gemei-gm3005-2-v-1</url>
+<price>175</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/271/15478084405b435cf0514a5_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/271/7754154775b435cf06886b_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/271/12449161375b435cf084c26_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Триммер Gemei GM-3005 2в1 Red (FT-45)</name>
+<description>
+<![CDATA[Триммер для носа и ушей Gemei GM3005 2 в 1 ― предназначенный для удаления нежелательных волос на лице, в носу или ушах, а также можно использовать для окантовки затылка, висков.]]>
+</description>
+<param name="Насадки">Триммер. Для лица/точечная</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Материал лезвий">Нержавеющая сталь</param>
+<param name="Комплектация">
+    Насадка для окантовки,
+    Насадка для удаления волос в ушах и носу,
+    Щеточка для чистки насадок,
+    Кабель для зарядки.
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133046" available="true">
+    <url>https://flashtronix.com.ua/catalog/signalizacii/datchik-dvizheniya-433mgc/datchik-dvizheniya-besprovodnoi-dlya-gsm-signalizacii</url>
+<price>150</price>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/39/3700495865b62d39739bea_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/39/9398278395b62d39777249_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/39/692090085b62d397b1667_medium.jpg</picture>
+<vendor>Kronos</vendor>
+<stock_quantity>200</stock_quantity>
+<name>Беспроводной датчик движения Kronos HDetect2 для GSM сигнализации (FT-46)</name>
+<description>
+<![CDATA[Датчик движения (ИК датчик) - это самый популярный тип датчиков в охранных системах. 
+Принцип его работы основан на постоянном отслеживании уровня ИК-излучения в поле действия датчика. 
+Беспроводной датчик движения для GSM сигнализации имеет встроенный сенсор, 
+благодаря которому он срабатывает при движении человека в охраняемой зоне.]]>
+</description>
+<param name="Объект детекции">Движение</param>
+<param name="Тип">Беспроводные</param>
+<param name="Иммунитет от домашних животных">Нет</param>
+<param name="Тип монтажа">Настенный</param>
+<param name="Дальность детектирования (порог срабатывания)">До 12м</param>
+<param name="Возможность наружного применения">Нет</param>
+<param name="Максимальное расстояние между датчиками и централью">25м</param>
+<param name="Частота передачи">433 МГц</param>
+<param name="Комплектация">
+Датчик движения,
+Кронштейн,
+Аккумулятор.
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133047" available="true">
+     <url>https://flashtronix.com.ua/catalog/signalizacii/gsm-signalizaciya-bazovyi-komplekt/signalizaciya--datchik-dvizheniya-105-alarm</url>
+     <price>249</price>
+<currencyId>UAH</currencyId>
+<categoryId>15</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/13/19785791895b62dcef9f880_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/13/17275061135b62dcefdb881_medium.jpg</picture>
+<vendor>UKC</vendor><name>Сенсорная сигнализация UKC N105 с датчиком движения (FT-47)</name>
+<stock_quantity>30</stock_quantity>
+<description>
+<![CDATA[Сигнализация N105 незаменима для обеспечения охраны небольших помещений, 
+например: дача, дом, квартира, склад, магазин, ларёк, торговая точка, гараж и т.д.
+Данная сигнализация работает как от батарей питания, 
+что позволяет ей работать полностью автономно в помещениях с полным отсутствием электричества.
+Монтаж сигнализации довольно прост: нужно прикрепить кронштейн и установить в надежное место саму систему.]]>
+</description>
+<param name="Тип">Беспроводные</param>
+<param name="Объект детекции">Движение</param>
+<param name="Иммунитет от домашних животных">Нет</param>
+<param name="Тип монтажа">Настенный</param>
+<param name="Дальность детектирования (порог срабатывания)">До 9м</param>
+<param name="Возможность наружного применения">Нет</param>
+<param name="Мощность сирены">105 дБ</param>
+<param name="Комплектация">
+Автономная сигнализация N105
+Брелок-пульт - 2 шт
+Держатель
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133048" available="false">
+     <url>https://flashtronix.com.ua/catalog/vse-dlya-zhivotnyh/professionalnaya-mashinka-dlya-strizhki-zhivotnyh-gemei-gm-796</url>
+     <price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>16</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/991/2334223265b62d294effd7_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/991/16201280675b62d29549576_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/991/20438334795b62d29630555_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/991/15701322775b62d29684fbf_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/991/6132110395b62d296d9b38_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Машинка для стрижки животных Gemei GM-796 (ft-48)</name> 
+<description>
+<![CDATA[Машинка для стрижки животных Gemei GM-796 - отлично подойдет для собак и кошек, грумминга и тримминга домашних питомцев. 
+Острые ножи из высококачественной нержавеющей стали. Сменные двустороние 4 насадки подходят для любых видов и длины шерсти: 3, 6, 9 и 12 мм. 
+Стильный и эргоночичный дизайн, благодаря ребристым бокам удобно лежит в руке и не выскальзывает во время использования.]]>
+</description>
+<param name="Тип">Машинка для стрижки</param>
+<param name="Назначение">
+Кошкам
+Собакам
+</param>
+<param name="Порода">Все породы</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Комплектация">
+Машинка для стрижки животных Gemei GM-796
+Насадка двусторонняя 3/6 мм
+Насадка двусторонняя 9/12 мм
+Зарядное устройство 220 В
+Масло для смазки лезвий
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133049" available="true">
+     <url>https://flashtronix.com.ua/catalog/vse-dlya-zhivotnyh/mashinka-dlya-strizhki-zhivotnyh-gemei-6063</url>
+     <price>595</price>
+<currencyId>UAH</currencyId>
+<categoryId>16</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/778/4477696425b6220de06d31_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/778/5563192995b6220dec2f78_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/778/9517581005b6220df62254_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/778/14875364345b6350c01d5cf_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/778/8114317615b62dd9072740_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>50</stock_quantity>
+<name>Машинка для стрижки животных Gemei GM-6063 (ft-49)</name> 
+<description>
+<![CDATA[Машинка для стрижки животных Gemei GM-6063 - является одной из самых мощных устройств в данной отрасли. 
+Для того чтобы она работала достаточно ее подключить к электросети и можете пользоваться. Стайлер отлично подходит для стрижки любой собаки. 
+С ее помощью ваш домашний любимец приобретет совсем другой внешний вид. Ведь ухоженное животное многое говорит о его хозяине.]]>
+</description>
+<param name="Тип">Машинка для стрижки</param>
+<param name="Назначение">
+Кошкам
+Собакам
+</param>
+<param name="Порода">Все породы</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Машинка для стрижки животных Gemei GM-6063
+Насадка 3 мм
+Насадка 6 мм
+Насадка 9 мм
+Насадка 12 мм
+Пилка для ногтей
+Когтерез
+Ножницы
+Расческа
+Блок питания
+Масло для смазки лезвий
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133050" available="false">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/yelektrobritvy/mashinka-dlya-strizhki-gemei-gm-6056</url>
+     <price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/9616666225b621fcc2e53c_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/13210598455b621fccb8f18_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/482979325b621fcd4d885_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/10911612225b621fcdd7656_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/3169141395b621fce6bc38_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1021/3187605705b5e0d8d50df6_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>1</stock_quantity>
+<name>Машинка для стрижки Gemei GM-6056 (ft-50)</name> 
+<description>
+<![CDATA[Машинка для стрижки Gemei GM-6056 - триммер аккумуляторного типа, а это значит, что он работает без проводов.
+Нужно лишь перед процедурой зарядить триммер специальным зарядным устройством. Лезвия прибора выполнены из сверхпрочного нержавеющего сплава.
+Нержавеющая сталь – материал, который устойчив к деформациям, влиянию внешних негативных факторов.
+Лезвия из него не согнутся, не сломаются, не затупятся.]]>
+</description>
+<param name="Тип">Машинка для стрижки</param>
+<param name="Назначение">
+Для бороды и усов
+Для стрижки
+Для тела
+</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Время автономной работы">40 мин</param>
+<param name="Комплектация">
+Машинка для стрижки животных Gemei GM-6056
+Насадка 3 мм
+Насадка 6 мм
+Насадка 9 мм
+Насадка 12 мм
+Зарядное устройство 220 В
+Масло для смазки лезвий
+Подставка для бритвы
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133051" available="true">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/yelektrobritvy/mashinka-dlya-strizhki-volos-gemei-gm-6066</url>
+     <price>650</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/19908619515b6222c7967b4_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/13898882155b6222c85f92a_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/3114001345b6222c8ed633_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/14847568725b6222c981c4a_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/18824280035b6222c9b6431_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/998/8370932915b6222ca584b1_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Машинка для стрижки Gemei GM-6066 (ft-51)</name> 
+<description>
+<![CDATA[Машинка для стрижки Gemei GM-6066 - триммер аккумуляторного типа, а это значит, что он работает без проводов.
+Нужно лишь перед процедурой зарядить триммер специальным зарядным устройством. 
+Использовать триммер GEMEI GM 6066 можно для коррекции формы и длины усов и бороды, но также прибор может пригодиться для создания бикини-дизайна, интимной стрижки. 
+Лезвия прибора выполнены из сверхпрочного нержавеющего сплава.]]>
+</description>
+<param name="Тип">Машинка для стрижки</param>
+<param name="Назначение">
+Для бороды и усов
+Для стрижки
+Для тела
+</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Время автономной работы">40 мин</param>
+<param name="Комплектация">
+Машинка для стрижки животных Gemei GM-6066
+Насадка 3 мм
+Насадка 6 мм
+Насадка 9 мм
+Насадка 12 мм
+Дополнительный аккумулятор
+Зарядное устройство 220 В
+Масло для смазки лезвий
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133052" available="false">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/uhod-za-volosami/ploika-troinaya-dlya-zavivki-volos-gemei-gm---1956</url>
+     <price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/997/2104702005b6235e162ae4_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/997/5846181925b6235e19cf43_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/997/14549773915b6235e238966_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/997/117792755b6235e2c5f71_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Тройная плойка для завивки волос Gemei GM-1956 (ft-52)</name> 
+<description>
+<![CDATA[Тройная плойка для завивки волос Gemei GM-1956 - это тройные щипцы для придания волосам формы красивых ровных волн. 
+Такая причёска может быть сделана как на длинных волосах, так и на коротких (боб, каре, и т.д.). 
+Тройная плойка состоит из нескольких обычного вида плоек, они объединены между собой в одной линии. 
+При нажатии на стандартный рычаг поднимается две из трёх плоек, средняя остаётся на месте. 
+Положив на неё локон волос и закрыв щипцы, через короткое время Вы получите равномерную волну на своих волосах.]]>
+</description>
+<param name="Тип">Плойки</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Есть</param>
+<param name="Для создания">Естественной волны</param>
+<param name="Диапазон температуры нагрева">180-210</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Особенности">Снабжен изолирующим наконечником</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Тройная плойка для завивки волос Gemei GM-1956
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133053" available="true">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-vypryamitel-dlya-volos-gemei-gm-433</url>
+     <price>470</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/994/719098485b6241bfab16d_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/994/6514444565b6241bfe8be7_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/994/19691575255b6241c082998_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/994/11773695885b6241c1228ed_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Утюжок выпрямитель для волос Gemei GM-433 (ft-53)</name> 
+<description>
+<![CDATA[Утюжок выпрямитель для волос Gemei GM-433 - предоставляем вниманию девушек обладающих вьющимися, кучерявыми и не послушными волосами! 
+Когда у тебя вьются волосы ― ты мечтаешь о прямых и послушных, или наоборот! Теперь есть решение! 
+Керамическое покрытие пластин позволяет уменьшить пушистость волос.]]>
+</description>
+<param name="Тип">
+Плойки
+Щипцы
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Нет</param>
+<param name="Для создания">Гладкой прически</param>
+<param name="Диапазон температуры нагрева">140-200</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Утюжок выпрямитель для волос Gemei GM-433
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133054" available="false">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-vypryamitel-shipcy-dlya-volos-gemei-gm-2955-s-turmalinovym-pokrytiem</url>
+     <price>345</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/993/509210755b621a6e1d45d_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/993/8377537445b621a6e53498_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/993/18738490775b621a6e8bc1b_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/993/18299501175b621a6f279ea_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Утюжок выпрямитель для волос Gemei GM-2955 (ft-54)</name> 
+<description>
+<![CDATA[Утюжок выпрямитель для волос Gemei GM-2955 - это компактный инструмент, с помощью которого вы сможете выпрямить волосы или придать им укладку в считанные минуты. 
+Благодаря гладкой поверхности с турмалиновым покрытием, плойка быстро нагревается, бережно воздействует на волосы и равномерно распределяет тепло, сохраняя их здоровье и красоту.]]>
+</description>
+<param name="Тип">
+Плойки
+Щипцы
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Нет</param>
+<param name="Для создания">Гладкой прически</param>
+<param name="Диапазон температуры нагрева">140-200</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Турмалин</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Утюжок выпрямитель для волос Gemei GM-2955
+Инструкция
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133055" available="true">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-dlya-vypryamleniya-volos-gemei-gm-2986</url>
+     <price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/14471647865b5e49836b438_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/20807196925b5e49839fb2b_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>30</stock_quantity>
+<name>Утюжок выпрямитель для волос Gemei GM-2986 Purple (ft-55)</name> 
+<description>
+<![CDATA[Утюжок выпрямитель для волос Gemei GM-2986 - эффективно выпрямляет даже самые непослушные волосы. Изделие обладает небольшими размерами. 
+Несмотря на всю свою эффективность и быстроту работы, утюжок не травмирует волосы, оставляет их такими же здоровыми и блестящими.
+Прибор функционирует от электрического питания и отличается длительной эксплуатацией. Утюжок обладает ионизирующим эффектом, укрепляющим волосы.]]>
+</description>
+<param name="Тип">
+Плойки
+Щипцы
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Нет</param>
+<param name="Для создания">Гладкой прически</param>
+<param name="Температура нагрева">160</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Утюжок выпрямитель для волос Gemei GM-2986
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133056" available="false">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-dlya-vypryamleniya-volos-gemei-gm-2986</url>
+     <price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/15567666235b5e49829c7bc_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/10645431125b5e4983367b7_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/17033172065b5e498262619_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Утюжок выпрямитель для волос Gemei GM-2986 Yellow (ft-56)</name> 
+<description>
+<![CDATA[Утюжок выпрямитель для волос Gemei GM-2986 - эффективно выпрямляет даже самые непослушные волосы. Изделие обладает небольшими размерами. 
+Несмотря на всю свою эффективность и быстроту работы, утюжок не травмирует волосы, оставляет их такими же здоровыми и блестящими.
+Прибор функционирует от электрического питания и отличается длительной эксплуатацией. Утюжок обладает ионизирующим эффектом, укрепляющим волосы.]]>
+</description>
+<param name="Тип">
+Плойки
+Щипцы
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Нет</param>
+<param name="Для создания">Гладкой прически</param>
+<param name="Температура нагрева">160</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Утюжок выпрямитель для волос Gemei GM-2986
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133057" available="true">
+     <url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-dlya-vypryamleniya-volos-gemei-gm-2986</url>
+     <price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/1126486225b5e4983d45d3_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1019/3794586025b5e498414511_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>30</stock_quantity>
+<name>Утюжок выпрямитель для волос Gemei GM-2986 Pink (ft-57)</name> 
+<description>
+<![CDATA[Утюжок выпрямитель для волос Gemei GM-2986 - эффективно выпрямляет даже самые непослушные волосы. Изделие обладает небольшими размерами. 
+Несмотря на всю свою эффективность и быстроту работы, утюжок не травмирует волосы, оставляет их такими же здоровыми и блестящими.
+Прибор функционирует от электрического питания и отличается длительной эксплуатацией. Утюжок обладает ионизирующим эффектом, укрепляющим волосы.]]>
+</description>
+<param name="Тип">
+Плойки
+Щипцы
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Выбор температуры нагрева">Нет</param>
+<param name="Для создания">Гладкой прически</param>
+<param name="Температура нагрева">160</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Питание">От сети 220</param>
+<param name="Комплектация">
+Утюжок выпрямитель для волос Gemei GM-2986
+Упаковка
+</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133058" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/avtomobilnyi-videoregistrator-mini-v-223</url>
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/956/7197642965b63818c1a6f2_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/956/9383683305b43d1039dbfa_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/956/9803567535b43d1043cdc7_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/956/17290916395b43d104b14d4_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR V-223 Full HD 1080p (ft-58)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR V-223 - новая элитная модель, работающая на основе инновационного мощного процессора Novatek 2650. 
+Так же достичь максимально качественного изображения в формате FullHd (25 к/с) независимо от времени суток позволяет широкоугольная (до 120 градусов). 
+Технология WDR повышает детализацию изображения, как при недостаточном осветлении, так и при ярком свете.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">H.264</param>
+<param name="Оъектив, угол обзора">120 °</param>
+<param name="Запись звука">Нет</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Есть</param>
+<param name="Инфракрасная подсветка">Нет</param>
+<param name="Экран">2.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR V-223 - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133059" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-t639-3--full-hd</url>
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/765/1184664505a9a7001614bf_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/765/6664107285a9a7001eb4d6_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/765/480945415b43d8a2272fa_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/765/3430458015b43db8ca48cf_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR T639 Full HD 1080p с камерой заднего вида (ft-59)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR T639 - это бюджетная модель видеорегистратора с вполне приличным функционалом. 
+Качество видеозаписи удовлетворит самого требовательного автовладельца. Информативная запись выводится на TFT LCD дисплей с диагональю 3 дюйма. 
+Устройство производит циклическую запись, без пауз между роликами. Устройство производит высококачественную съемку в ночное время. 
+Для этого предусмотрена ИК-подсветка в виде 9 светодиодов.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">170 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">3.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR T639 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133060" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-dvr-t652-4--full-hd</url>
+<price>1250</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/763/15298345785a9a6a581785b_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/763/13268528845a9a6a58afd0e_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/763/19038970545a9a6a59475f7_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR T652 Full HD 1080p с камерой заднего вида (ft-60)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR T652 имеет корпус из качественного легкого метала. Видеосъемка ведётся в качестве Full HD, с высоким разрешением 1920х1080 
+пикселей и частотой 30 кадров в секунду которое позволяет получить качественное изображение.
+Огромный 4-дюймовый яркий LCD дисплей очень удобен для просмотра записанных файлов и данных. У DVR T652 один из самых широких углов обзора в 170°. 
+В арсенале DVR T652 большой набор функций и опций, запись звука,  датчик движения.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">170 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">4.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR T652 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133061" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-blackbox-dvr-t666-full-hd-1080p</url>
+<price>1100</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/720/279301495a7b1f4cb2922_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/720/13749301985b451b22ee88d_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR T666 Full HD 1080p (ft-61)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR T666 - прекрасный автомобильный видеорегистратор оснащен качественным 3-х дюймовым ЖК-экраном, 
+линзой с углом обзора в 170 градусов, G-сенсором, с поддержкой Full HD. 
+Металлический корпус и стильный дизайн придут по душе автолюбителю для повседневного использования.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">170 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">3.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+mini HDMI
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR T666 - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Серебро</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133062" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-dvr-t652-4--full-hd</url>
+<price>995</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/718/19872627525b452205bbf78_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/718/20570012225a7b1a076a34e_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/718/8781991165a7b1a07c5fef_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/718/9474876035a7b1a07e7415_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR T660+ Full HD 1080p с камерой заднего вида (ft-62)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR T660+. Cъемка ведется отличного качества двумя камерами одновременно. 
+Корпус выполнен в классическом черном дизайне с рыхленым покрытием на лицевой стороне, которое спасает корпус от мелких не желательных царапин. 
+Имеет очень удобное расположение клавиш которое позволяет владельцу быстро настроить и задать параметры для дальнейшей работы.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">3.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR T660+ - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133063" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/t660-wdr-full-hd</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/717/9661335105a7b18ea4ba02_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/717/2633296165a7b18eaa6079_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/717/2633296165a7b18eaa6079_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/717/20473649835a7b18eac6f77_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR T660 Full HD 1080p (ft-63)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR T660. Видеозапись ведется в разрешении Full HD 1920x1080P с углом обзора 140 градусов, 
+что делает картинку четкой и позволяет распознавать номерные знаки и важные детали как в дневное  так и в ночное время суток. 
+Наличие дополнительных функций таких как G-сенсор и датчик движения, при его универсальном корпусе и надежном креплении сделают эту модель незаметной в автомобиле и комфортной в эксплуатации.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">1</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">140 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">3.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR T660 - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133064" available="false">
+<url>https://flashtronix.com.ua/catalog/avto-tematika/avtomobilnye-registratory/videoregistrator-hd398-full-hd-1080-p-s-dvumya-kamerami</url>
+<price>1250</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/444/19811545965b452d49b3923_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/444/9450067155b452d4a33cd8_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/444/282910575b452d4a6fcf5_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/444/12997359785b452dec3a45c_medium.jpg</picture>
+<vendor>DVR</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Видеорегистратор DVR HD398 Full HD 1080p с камерой заднего вида (ft-64)</name>
+<description>
+<![CDATA[
+Видеорегистратор DVR HD398 - особенностью данного видеорегистратора это наличие второй камеры заднего вида которая также выполняет роль парковочной камеры. 
+Запись осуществляется с двух камер одновременно. Также данный видеорегистратор имеет такие продвинутые функции как:
+-LDWS - система слежения за дорожной разметкой, станет хорошим помощником если вы боитесь уснуть за рулем при дальних поездках, 
+каждый раз при пересечении автомобилем разметки полосы движения, регистратор будет предупреждать водителя звуковым сигналом. 
+-FCWS - поможет водителю соблюдать безопасную дистанцию движения, при приближении на опасное расстояние к впереди идущему автомобилю или препятствию на дороге, 
+водитель услышит звуковой сигнал.
+]]>
+</description>
+<param name="Максимальное разрешение видео">FullHD (1920x1080)</param>
+<param name="Активация записи">	
+Автоматически при включении
+При обнаружении движения
+При включении двигателя
+</param>
+<param name="Количество камер">2</param>
+<param name="Встроенный GPS">Нет</param>
+<param name="Частота видео">30 кадров/с</param>
+<param name="Формат видео">AVI</param>
+<param name="Оъектив, угол обзора">170 °</param>
+<param name="Запись звука">Да</param>
+<param name="Печать информации в видео">Дата</param>
+<param name="Циклическая запись">Да</param>
+<param name="Инфракрасная подсветка">Да</param>
+<param name="Экран">4.0" LCD</param>
+<param name="Питание">12 В</param>
+<param name="Порты и разъемы">
+miniUSB
+AV-OUT
+</param>
+<param name="Поддержка карт памяти">microSD</param>
+<param name="Другие функции и технологии">	
+Карта памяти microSD до 32 ГБ
+</param>
+<param name="Комплектация">
+Видеорегистратор DVR HD398 - 1 шт
+Камера заднего вида - 1 шт
+Видео кабель c кабелем питания длиной 5 метров - 1 шт
+Крепление на стекло с присоской - 1 шт 
+Автомобильное зарядное устройство - 1 шт
+Инструкция - 1 шт
+Картонная коробка - 1 шт
+</param>
+<param name="Цвет">Черный</param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133065" available="true">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/feny/fen-dorozhnyi-gemei-1739</url>
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/14046796805b62d0e7256a3_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/180140675b62d0e8049e2_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/3034310135b62d0e854f02_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/3795194645b62d0e9362cb_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/5570206415b62d0e9ced66_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/996/11552633235b62d0ea232e5_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Фен дорожный Gemei GM-1739 (ft-65)</name>
+<description>
+<![CDATA[
+Фен Gemei GM-1739 представлен в классическом дизайне с комфортным управлением. Фен достаточно мощный, благодаря чему сушка волос займет всего несколько минут. 
+При помощи удобных переключателей, расположенных на ручке, можно с легкостью регулировать режимы температуры.
+]]>
+</description>
+<param name="Тип матрицы">Дорожный</param>
+<param name="Функция ионизации">Нет</param>
+<param name="Подача холодного воздуха">Нет</param>
+<param name="Потребляемая мощность">1200</param>
+<param name="Кол-во температурных режимов">2</param>
+<param name="Количество скоростей">2</param>
+<param name="Насадки">Концентратор</param>
+<param name="Защита от перегрева">Есть</param>
+<param name="Особенности">Складная ручка</param>
+<param name="Корпус">Пластик</param>
+<param name="Длина кабеля">1.8</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133066" available="false">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/feny/fen-dlya-volos-mini-gemei-gm1756</url>
+<price>210</price>
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/18701234775b621e3d6ac59_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/12157437535b621e3e7b016_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/7486603055b621e3ec120c_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/7889388985b621e3f0d7a1_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/11114616825b621e3e33357_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/976/17205871665b621e3f58736_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Фен дорожный Gemei GM-1756 (ft-66)</name>
+<description>
+<![CDATA[
+Фен Gemei GM-1756 - это мощный инструмент и надежный помощник каждого мастера-парикмахера. Высушить мокрые волосы или сделать укладку не составит никакого труда, 
+если под рукой имеется данная модель фена и несколько укладочных средств. С феном Gemei не нужно бояться за здоровье волос, ведь он абсолютно безопасен и не пересушивает волосы.
+]]>
+</description>
+<param name="Тип">Дорожный</param>
+<param name="Функция ионизации">Нет</param>
+<param name="Подача холодного воздуха">Нет</param>
+<param name="Потребляемая мощность">1200</param>
+<param name="Кол-во температурных режимов">2</param>
+<param name="Количество скоростей">2</param>
+<param name="Насадки">Концентратор</param>
+<param name="Защита от перегрева">Нет</param>
+<param name="Особенности"> Складная ручка</param>
+<param name="Корпус">Пластик</param>
+<param name="Длина кабеля">1.8</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133067" available="false">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/mashinki-dlya-strizhki-i-trimmery/mashinka-trimmer-dlya-strizhki-rozia-hq204</url>
+<price>220</price>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1026/18353621265b76c8a86361e_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1026/12208132535b76c8a94053a_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/1026/10847355155b76c8a978eda_medium.jpg</picture>
+<vendor>Rozia</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Машинка триммер для стрижки Rozia HQ204 (ft-67)</name>
+<description>
+<![CDATA[
+Машинка триммер для стрижки Rozia HQ204 соответствует всем запросам домашнего мастера и станет 
+незаменимым помощником в освоении парикмахерского искусства. Для того, чтоб начать ею пользоваться и делать 
+первые несложные стрижки не требуется специальных навыков, она проста и удобна в использовании.
+]]>
+</description>
+<param name="Вид">Машинка для стрижки</param>
+<param name="Установки длины стрижки">3-12</param>
+<param name="Тип управления">Ползунковое</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Мощность">3</param>
+<param name="Время автономной работы">45 мин</param>
+<param name="Время зарядк">8 часов</param>
+<param name="Комплектация"><![CDATA[
+Машинка для стрижки<br/> 
+Насадка для регулировки длины<br/> 
+Кабель зарядки от сети<br/> 
+Щетка для очистки<br/> 
+Масло]]>
+</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133068" available="true">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/utyuzhki/utyuzhok-vypryamitel-dlya-volos-gemei-gm-2968-ploika</url>
+<price>365</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/975/671747025ba13c9501c84_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/975/21265759295ba13c9540e29_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/975/3424151015ba13c95c7fd0_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/975/390456095ba13c961a547_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/975/2434061655ba13c9657675_medium.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Плойка для выравнивания волос Gemei GM-2968 с терморегулятором и дисплеем (ft-68)</name>
+<description>
+<![CDATA[
+Плойка для выравнивания волос Gemei GM-2968 - отличное решение для девушке, обладающих вьющимися, кучерявыми и не послушными волосами. Когда Вы мечтаете о прямых и послушных, или наоборот волосах. 
+Керамическое покрытие пластин позволяет уменьшить пушистость волос, а регулировка температурных режимов поможет подобрать необходимую температуру, именно под Вашего типа волос.
+]]>
+</description>
+<param name="Тип"><![CDATA[
+Плойки<br/>
+Щипцы]]>
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Диапазон температуры нагрева">140-200</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Плоские щипцы">Да</param>
+<param name="Время нагрева">30</param>
+<param name="Особенности">Вращение шнура</param>
+<param name="Длина шнура">1.5</param>
+<param name="Индикатор работы">Да</param>
+<param name="Мощность">30</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133069" available="true">
+<url>https://flashtronix.com.ua/catalog/prochee/monokulyar-bushnell-16x52</url>
+<price>310</price>
+<currencyId>UAH</currencyId>
+<categoryId>19</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/936/367076845b9276a4dc81a_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/936/6141484665b0db62e14429_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/936/15264480015b0db62e9b8fa_medium.jpg</picture>
+<vendor>Bushnell</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Монокуляр BUSHNELL 16 x 52 с чехлом (ft-69)</name>
+<description>
+<![CDATA[
+Монокуляр 16х52 Bushnell - является оптическим наблюдательным прибором для наблюдения за удаленными предметами, объектами живой природы, спортивными мероприятиями и различными массовыми зрелищами. 
+Идеально подходит для наблюдений на природе. Отличительная особенность монокля – компактность, брызгозащитный корпус.
+]]>
+</description>
+<param name="Тип матрицы">Моноколь</param>
+<param name="Вес">0.3</param>
+<param name="Габариты">150х52</param>
+<param name="Комплектация"><![CDATA[
+Монокуляр Bushnell<br/> 
+Салфетка для оптики<br/> 
+Ремешок<br/> 
+Коробка<br/> 
+Коробка]]>
+</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133070" available="false">
+<url>https://flashtronix.com.ua/catalog/rasprodazha/hit-chasy-kub-s-podsvetkoi--budilnikom--kalendaryom--termometrom-</url>
+<price>149</price>
+<currencyId>UAH</currencyId>
+<categoryId>20</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/107/2311158925b9ba37151842_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/107/17792331555b9ba371b6a77_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/107/9939566935b9ba37233a3e_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/107/10474888225b9ba372a2f7e_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/107/4517770495b9ba3733d2c7_medium.jpg</picture>
+<vendor>UKC</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Настольные часы куб UKC с подсветкой, термометром, календарем, будильником  (ft-70)</name>
+<description>
+<![CDATA[
+Настольные часы куб UKC имеют функции будильники и термометра, а также оснащены LED подсветкой с чередующимися цветами. 
+Это делает данную модель настольных часов замечательным элементом украшения Вашего интерьера.
+]]>
+</description>
+<param name="Тип циферблата">Цифровой</param>
+<param name="Индикация"><![CDATA[
+Время<br/>
+Дата<br/>
+День недели<br/>
+Температура]]>
+</param>
+<param name="Питание">3 ААА батарейки</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Габариты корпуса">8 x 8 x 8</param>
+<param name="Вес">130</param>
+<param name="Функции"><![CDATA[
+Постоянно плавно изменяющийся цвет  часов (7 цветов)<br/>
+Отображение температуры воздуха в C (Цельсий) и F (фаренгейт)<br/>
+Будильник (8 мелодий на выбор)]]>
+</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133071" available="false">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/kosmetika/nabor-kistei-dlya-makiyazha-kylie-12-sht</url>
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>21</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/770/13489886135b9bb29d3174c_medium.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/770/20636529295b9bb29e001a9_medium.jpg</picture>
+<vendor>Kylie</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Профессиональный набор кистей для макияжа Kylie 12 шт (ft-71)</name>
+<description>
+<![CDATA[
+Качественные кисточки для макияжа помогут Вам сделать свой образ идеальным. Прекрасно наносят косметику, в том числе и минеральную. 
+В наборе есть все необходимые кисти для макияжа, которые упакованы в фирменную металлическую коробочку. Могут быть использованы как профессионалами, 
+так и в домашних условиях.
+]]>
+</description>
+<param name="Тип">Кисти</param>
+<param name="Назначение">Для макияжа</param>
+<param name="Количество кистей">12</param>
+<param name="Комплектация"><![CDATA[
+Кисть для тональной основы<br/>
+Кисть для корректора<br/>
+Кисть для пудры<br/>
+Кисть для румян<br/>
+Кисть для бровей<br/>
+Кисть для нанесения теней<br/>
+Кисть для прорисовки стрелок на глазах<br/>
+Кисть для растушевки теней<br/>
+Кисть для расстановки акцентов<br/>
+Маленькая кисть с скругленной формой<br/>
+Кисть для нанесения помады 2 шт]]>
+</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="133072" available="false">
+<url>https://flashtronix.com.ua/catalog/krasota-i-zdorove/ploiki/ploika-gofre-gemei-gm1959</url>
+<price>249</price>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/974/4320434045ba13bda2782a_original.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/974/2922033375ba13bdabe950_original.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/974/6685384015ba13bdb659d8_original.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/974/10443409845ba13bdc160ce_original.jpg</picture>
+<picture>https://185504.selcdn.ru/static/flashtronix.reshop.com.ua/catalog/974/5705863135ba13bdcb06db_original.jpg</picture>
+<vendor>Gemei</vendor>
+<stock_quantity>0</stock_quantity>
+<name>Плойка гофре Gemei GM-1959 (ft-72)</name>
+<description>
+<![CDATA[
+Рекомендуем качественный проверенный инструмент от Gemei — модель GM 1959. Первым, что сразу же привлекает внимание, является красочный дизайн девайса. 
+С помощью плойки гофре придать привычному образу яркий акцент или сменить его кардинально не составит труда.
+]]>
+</description>
+<param name="Тип"><![CDATA[
+Плойки<br/>
+Щипцы]]>
+</param>
+<param name="Тип управления">Механическое</param>
+<param name="Диапазон температуры нагрева">200</param>
+<param name="Выбор температуры">Нет</param>
+<param name="Для создания">Гофре</param>
+<param name="Время нагрева">30</param>
+<param name="Материал покрытия">Керамика</param>
+<param name="Размер пластин">4.5 x 9.5</param>
+<param name="Мощность">30</param>
+<param name="Насадка">Одна</param>
+<param name="Страна-производитель">Китай</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+
+
+       </offers>
+       
+
+
+
+</shop>
+</yml_catalog>

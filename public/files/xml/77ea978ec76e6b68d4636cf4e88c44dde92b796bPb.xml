@@ -1,0 +1,4383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-07 23:20:48">
+<shop>
+<name>ФОП Балацький Святослав Романович</name>
+<company>ФОП Балацький Святослав Романович</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="86078000" parentId="71777018">Головні убори</category>
+<category id="85776195" parentId="16661508">Нижня білизна для чоловіків</category>
+<category id="84727812" parentId="16661508">Демісезонні чоловічі куртки</category>
+<category id="84727175" parentId="84727173">Дитячі автокрісла</category>
+<category id="84727173">Коляски та автокрісла</category>
+<category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+<category id="83914121" parentId="71777018">Ремені та пояси</category>
+<category id="83913495" parentId="16661508">Спортивні костюми</category>
+<category id="16715121" parentId="16661508">Чоловічі куртки</category>
+<category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+<category id="53761682" parentId="6257850">Велосвітло</category>
+<category id="24353170">Трекингове взуття</category>
+<category id="19959920">Велосипеди</category>
+<category id="18890955" parentId="14407150">Термобілизна</category>
+<category id="17343107" parentId="17305611">Зимові штани</category>
+<category id="17343103" parentId="16661508">Зимові штани</category>
+<category id="17305720" parentId="17305611">Шапки</category>
+<category id="17305707" parentId="17305611">Куртки</category>
+<category id="17305611">Жіночий одяг</category>
+<category id="16661555" parentId="16661508">Шапки</category>
+<category id="16661508">Чоловічий одяг</category>
+<category id="16617831" parentId="4122200">Спальні мішки</category>
+<category id="16617810" parentId="4122200">Трекінгові палиці</category>
+<category id="14693395" parentId="7196249">Чоловічі кеди</category>
+<category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+<category id="14693393" parentId="7196249">Чоловічі черевики</category>
+<category id="14693063" parentId="7196244">Жіночі кросівки</category>
+<category id="14693061" parentId="7196244">Жіночі черевики</category>
+<category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+<category id="14693035" parentId="14407150">Універсальні головні убори</category>
+<category id="14408905" parentId="14407150">Шоломи</category>
+<category id="14407588" parentId="14407150">Маски</category>
+<category id="7196249">Чоловіче взуття</category>
+<category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+<category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+<category id="6257850">Велоаксесуари</category>
+<category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+<category id="4122200">Рюкзаки і туризм</category>
+<category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+<category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+<category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+<category id="71777030" parentId="71777028">Рюкзаки</category>
+<category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+<category id="71777018">Одяг, взуття та аксесуари</category>
+<category id="69024725" parentId="46709597">Фітнес-браслети</category>
+<category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+<category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+<category id="52859360">Басейн і аквафітнес</category>
+<category id="46709702" parentId="46709597">Наручні годинники</category>
+<category id="46709597">Наручні годинники</category>
+<category id="45139423" parentId="4122200">Намети і аксесуари</category>
+<category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+<category id="36278188" parentId="36275949">Маски</category>
+<category id="36276195" parentId="36275949">Шоломи</category>
+<category id="36275949">Уцінка</category>
+<category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+<category id="29447009" parentId="6257850">Велоінструменти</category>
+<category id="29447008" parentId="6257850">Насоси</category>
+<category id="29447007" parentId="6257850">Велодзвінки</category>
+<category id="28200372" parentId="7196244">Жіночі кеди</category>
+<category id="28164081" parentId="7196244">Жіночі сліпони</category>
+<category id="27554175" parentId="14407150">Сноуборди</category>
+<category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+<category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+<category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+<category id="24572876" parentId="17305611">Спортивні штани</category>
+<category id="24544864" parentId="16661508">Спортивні штани</category>
+<category id="22851891" parentId="16661508">Футболки</category>
+<category id="22028141" parentId="7196244">Жіночі балетки</category>
+<category id="18029666">Sale -34% брендові куртки</category>
+<category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+<category id="14693027" parentId="14407150">Лижні палиці</category>
+<category id="14407150">Зимовий спорт</category>
+<category id="13502021" parentId="6257850">Велокомп'ютери</category>
+<category id="7196244">Жіноче взуття</category>
+<category id="6296093" parentId="6257850">Велосипедні сумки</category>
+<category id="58981807">Ігрові види спорту</category>
+<category id="66636889">Прогулянки й активний відпочинок</category>
+<category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+<category id="65449525" parentId="65446905">Спортивні окуляри</category>
+<category id="65447344" parentId="65446905">Спортивні сумки</category>
+<category id="65446905">Спортивні аксесуари</category>
+<category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+<category id="52863748" parentId="52859360">Шапочки для плавання</category>
+<category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+<category id="52863745" parentId="52859360">Окуляри для плавання</category>
+<category id="46807613" parentId="36275949">Годинники</category>
+<category id="49986322" parentId="36275949">Штани</category>
+<category id="46711296" parentId="46709597">Смарт-годинники</category>
+<category id="43651396" parentId="14407150">Рукавиці</category>
+<category id="39308422" parentId="14407150">Черевики лижні</category>
+<category id="36678205" parentId="36275949">Куртки</category>
+<category id="36660532" parentId="36275949">Взуття</category>
+<category id="27250069" parentId="14407150">Гірські лижі</category>
+<category id="27094492" parentId="24353170">Жіночі кросівки</category>
+<category id="22851904" parentId="17305611">Футболки</category>
+<category id="24570219" parentId="17305611">Кофти</category>
+<category id="24543418" parentId="16661508">Кофти</category>
+<category id="22851901" parentId="16661508">Шорти</category>
+</categories>
+<offers>
+<offer available="true" id="904082253">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619502471_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual Yellow</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900020 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Жовтий
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Желтый</param>
+</offer>
+<offer available="true" id="904103272">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619520942_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual Violet</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900045 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Фіолетовий
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Фиолетовый</param>
+</offer>
+<offer available="true" id="904105883">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619523844_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual Pink</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900046 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Рожевий
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Розовый</param>
+</offer>
+<offer available="true" id="919372954">
+<price>140</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/1655600552_veloflyaga-green-cycle.jpg</picture>
+<name>Велофляга Green Cycle GBT-512M Drink Me 600 Gray-Lime</name>
+<vendor>Green Cycle</vendor>
+<vendorCode>BOT-50-53 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Фляга Green Cycle, виготовлена з матеріалу LDPI, що на даний момент є найкращим харчовим пластиком який не містить BOX і PVC, оснащена надійним гумовим клапаном. Велофляга має стильний дизайн і відмінно буде виглядати на рамі Вашого велосипеда.
+
+ 
+
+Виробник: Green Cycle
+
+Матеріал: 100% Пластик
+
+Об'єм: 600 мл
+
+Тип: Фляга
+
+Колір: Сірий, зелений
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: Дозволено мити в посудомийній машині; Гумовий загубник;
+]]></description>
+<param name="Объем">600.0</param>
+<param name="Термоизолированный корпус">нет</param>
+<param name="Тип">Фляга</param>
+<param name="Материал фляги">Пластик</param>
+<param name="Цвет">серо-зеленый</param>
+</offer>
+<offer available="true" id="919376330">
+<price>140</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/1655606800_veloflyaga-green-cycle.jpg</picture>
+<name>Велофляга Green Cycle GBT-512M Sex Drink &amp; Roll 600 Black-Yellow</name>
+<vendor>Green Cycle</vendor>
+<vendorCode>BOT-98-91 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Фляга Green Cycle, виготовлена з матеріалу LDPI, що на даний момент є найкращим харчовим пластиком який не містить BOX і PVC, оснащена надійним гумовим клапаном. Велофляга має стильний дизайн і відмінно буде виглядати на рамі Вашого велосипеда.
+
+ 
+
+Виробник: Green Cycle
+
+Матеріал: 100% Пластик
+
+Об'єм: 600 мл
+
+Тип: Фляга
+
+Колір: Чорний, жовтий
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: Дозволено мити в посудомийній машині; Гумовий загубник;
+]]></description>
+<param name="Объем">600.0</param>
+<param name="Термоизолированный корпус">нет</param>
+<param name="Тип">Фляга</param>
+<param name="Материал фляги">Пластик</param>
+<param name="Цвет">черный с желтым</param>
+</offer>
+<offer available="true" id="942383045">
+<price>260</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1712956529_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1712956470_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1712956501_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1712956510_sumka-roswheel-pid.jpg</picture>
+<name>Сумка Roswheel під смартфон T12496L-C5 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636710088 </vendorCode>
+<description><![CDATA[
+ 
+
+Сумка на раму велосипеда з відділом для смартфона зробить використання гаджету на велосипеді значно зручнішим. Завдяки цій сумочці Ви зможете постійно бачити напрямок навігатора або іншу необхідну Вам інформацію та знати, що Ваш девайс знаходиться в захищеному місці. Сумка складається з двох кишень, одна з яких призначена для смартфона, друга - для будь-яких дрібних речей. Кишеня для смартфона обладнана прозорою кришкою, котра захищає телефон від дощу та не перешкоджає роботі сенсорного екрану. Ідеально підходить для смартфонів з діагоналлю корпуса 5.5" або менше. Комплектується перехідником-подовжувачем mini-jack для зручнішого користування навушниками.
+
+ 
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на застібках "велкро";
+
+-Якісна застібка з двома замками;
+
+-Вихід для підключення навушників Headphone Out;
+
+-В комплекті подовжувач для навушників.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під смартфон
+
+Колір: Чорний/сірий
+
+Матеріали: 80% Поліестер 600D, 20% PVC
+
+Об'єм: 1.2 л
+
+Розміри: 20 x 9.5 x 9.0 см
+
+Вага: 160 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.2</param>
+<param name="Тип велосипедной сумки">Сумка на раму</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">20.0</param>
+<param name="Высота">9.5</param>
+<param name="Ширина">9.0</param>
+<param name="Конструкция сумки">Двухсекционная</param>
+<param name="Вес">160</param>
+<param name="Материал">80% Поліестер 600D, 20% PVC</param>
+<param name="Размеры">200 x 95 x 90</param>
+</offer>
+<offer available="true" id="942510339">
+<price>410</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713255899_sumka-roswheel-pidramna.jpg</picture>
+<name>Сумка Roswheel підрамна 121274 Red</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636720124 </vendorCode>
+<description><![CDATA[
+ 
+
+Зручна підрамка сумочка з кріпленням на ремінцях з "велкро". Кріплення відбувається за верхню та підсідельну труби рами.
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на 3 ремінця з "велкро" за труби рами;
+
+-Висока якість матеріалів та пошиву, аеродинамічний дизайн, низька вага;
+
+-Жорсткі стінки посилені поліетиленом;
+
+-Поліетиленова піна в стінках для захисту вмісту;
+
+-Гумки для утримання насоса;
+
+-Світловідбиваючий друк логотипа.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під раму
+
+Колір: Червоний
+
+Матеріали: 80% Нейлон, 20% Поліуретан
+
+Об'єм: 0,9 л
+
+Розміри: 17 x 13 x 5 см
+
+Вага: 100 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.9</param>
+<param name="Тип велосипедной сумки">Сумка под раму</param>
+<param name="Цвет">Красный</param>
+<param name="Размеры"> 170 x 130 x 50</param>
+<param name="Вес">100</param>
+<param name="Материал">80% Нейлон, 20% Поліуретан</param>
+</offer>
+<offer available="true" id="942523908">
+<price>485</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713293047_sumka-roswheel-v.jpg</picture>
+<picture>https://images.ua.prom.st/1713293048_sumka-roswheel-v.jpg</picture>
+<name>Сумка Roswheel в трикутник рами 121454 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636790028 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Напрочуд зручна та міцна нарамна сумка виготовлена зі стійких до протирання матеріалів. Завдяки використанню спеціального нейлону з восковим просоченням, забезпечує поверхню подібну до шкіри, яка не пропускає воду та легко миється. Застібка "блискавка" з клапаном. Кріплення на 3 ремінці з "велкро". Світловідбиваючі логотипи для поліпшення видимості в темну пору доби.
+
+ 
+
+Особливості:
+
+ 
+
+-Можливість установки як на верхню трубу рами, так і під рамою;
+
+-Висока якість матеріалів та пошиву, аеродинамічний дизайн, низька вага;
+
+-Застібки "блискавка" YKK;
+
+-Кріплення на ремені з "велкро";
+
+-Вологозахищені матеріали та конструкція забезпечують захист від води (шви не проклеєні);
+
+-Світловідбиваючі елементи з боків.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під раму
+
+Колір: Чорний
+
+Матеріали: 80% Нейлон, 20% Поліуретан
+
+Об'єм: 1,1 л
+
+Розміри: 28 x 6 x 12 см
+
+Вага: 148 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.1</param>
+<param name="Цвет">Черный</param>
+<param name="Тип велосипедной сумки">Сумка под раму</param>
+<param name="Вес">148</param>
+<param name="Материал">80% Нейлон, 20% Поліуретан</param>
+<param name="Размеры">280 x 60 x 120</param>
+</offer>
+<offer available="true" id="1116639793">
+<price>1032</price>
+<currencyId>UAH</currencyId>
+<categoryId>14407588</categoryId>
+<picture>https://images.ua.prom.st/2177339797_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339799_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339801_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339804_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2177339805_maska-girskolizhna-relax.jpg</picture>
+<name>Маска гірськолижна Relax Feelin Black</name>
+<vendor>Relax</vendor>
+<vendorCode> HTG49D</vendorCode>
+<description><![CDATA[Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+]]></description>
+<param name="Габарити упаковки">200х100х90 мм</param>
+<param name="Тип">Унісекс</param>
+<param name="Форма лінзи">Циліндрична</param>
+<param name="Захист лінзи">S2</param>
+<param name="Покриття Anti fog">Є</param>
+<param name="Використання з шоломом">Так</param>
+<param name="Технології">Anti Fog</param>
+<param name="Колір оправи">Black</param>
+<param name="Колір лінзи">Темний</param>
+<param name="Матеріал лінзи">Полікарбонат</param>
+<param name="Країна реєстрації бренду">Чехія</param>
+</offer>
+<offer available="true" id="1147692177">
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2285978089_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978090_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978345_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978428_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978517_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978516_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS JESTER 52-57 Black Green</name>
+<vendor>KLS</vendor>
+<vendorCode>с</vendorCode>
+<description><![CDATA[Легкий шолом для MTB виготовлений за технологією In-mold з 13 великими вентиляційними отворами, що забезпечують комфорт та безпечість протягом складних покатеньок. Нова система регулювання забезпечує щільну і надійну посадку. Використання технології In-mold гарантує оптимальний захист від ударів.  
+
+Для найкращого провітрювання та охолодження розроблена ефективна система вентиляції, яка включає 13 отворів. Передні отвори захищені антимоскітною сіткою.
+
+Система регулювання дозволяє легко коригувати розмір шолома. Додаткові регулювання доступні за допомогою м’яких ремінців. Звичайно, всі елементи підкладки знімаються для чистки та прання.
+
+Особливості:
+
+- Технологія In-Mold
+
+- Антимоскітна сітка
+
+- Сучасний дизайн
+
+- Якісні матеріали
+
+- Регулювання розміру
+
+- Низька вага шолома
+
+- Зйомний козирок в комплекті
+
+- 13 вентиляційних отворів
+
+- Антибактеріальна пом'якшуюча підкладка
+
+Розмір (обхват голови): 52-57 см
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">13</param>
+<param name="Колір">Зелений: Зелений</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">270</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">52-57 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="813231710">
+<price>1190</price>
+<currencyId>UAH</currencyId>
+<categoryId>71020745</categoryId>
+<picture>https://images.ua.prom.st/1407426216_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1407426214_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1407426215_choboti-anna-field.jpg</picture>
+<name>Чоботи Anna Field 39</name>
+<vendor>Anna Field</vendor>
+<vendorCode> 15YX1-3473</vendorCode>
+<description><![CDATA[
+	
+		
+			верх: текстиль, / підошва: каучук / підкладка : текстиль
+		
+	
+]]></description>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Черный</param>
+<param name="Размер женской обуви">39</param>
+<param name="Вид обуви">Сапоги</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Застежка">Молния</param>
+<param name="Отделка и украшения">Ремешки</param>
+</offer>
+<offer available="true" id="916766624">
+<price>365</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/1650791813_velozamok-kls-sunny.jpg</picture>
+<name>Велозамок KLS Sunny 4,5х600 Green</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019378040 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+KLS Sunny - це тросовий замок у кольоровій силіконовій оплітці, який призначений для короткотривалих зупинок під час велопрогулянки. Компактні розміри троса забезпечують простоту користування та транспортування
+
+Протестований у визнанній інтернаціональній організації SGS з тестування замків
+
+ 
+
+Характеристики:
+
+Тип замку: Тросовий / циліндровий (англійський двосторонній)
+
+Довжина троса: 600 мм
+
+Діаметр троса (внутрішній): 4.5 мм
+
+Вага: 189 г
+
+ 
+
+Виробник: KLS
+
+Матеріал корпуса: 100% Силікон
+
+Матеріал тросу і замка: 100 % Сталь
+
+Тип: Замок
+
+Колір: Зелений
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Словаччина
+
+Особливості: Компактні розміри; В комплекті два ключі;
+
+Замикання без ключа.
+]]></description>
+<param name="Вид велосипедного замка">Под ключ</param>
+<param name="Тип велосипедного замка">Тросовый</param>
+<param name="Длина">60.0</param>
+</offer>
+<offer available="true" id="916952549">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/1651001920_flyagotrimach-kls-pacific.jpg</picture>
+<name>Фляготримач KLS PACIFIC Pink</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019386809 </vendorCode>
+<description><![CDATA[ 
+
+Виготовлений зі стійкого та гнучкого матеріалу Nylon 66, який дозволяє легко виконувати маніпуляції з флягою. В комплекті з двома сталевими болтами. Вигнуті края для легкого попадання флягою.
+
+ 
+
+Особливості:
+
+• Гнучкий та легкий;
+
+• В комплекті з двома сталевими болтами.
+
+ 
+
+Характеристики:
+
+• Матеріал: Нейлон;
+
+• Колір: рожевий
+
+• Вага: 32 г.
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Словаччина
+]]></description>
+<param name="Тип">Флягодержатель</param>
+<param name="Цвет корпуса">Розовый</param>
+<param name="Материал флягодержателя">Нейлон</param>
+</offer>
+<offer available="true" id="942456876">
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713187724_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713187680_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713187726_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713187727_sumka-roswheel-pid.jpg</picture>
+<name>Сумка Roswheel під смартфон 12496M-CA5 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636714956 </vendorCode>
+<description><![CDATA[
+ 
+
+Сумка на раму велосипеда з відділом для смартфона зробить використання гаджету на велосипеді значно зручнішим. Завдяки цій сумочці Ви зможете постійно бачити напрямок навігатора або іншу необхідну Вам інформацію та знати, що Ваш девайс знаходиться в захищеному місці. Сумка складається з двох кишень, одна з яких призначена для смартфона, друга - для будь-яких дрібних речей. Кишеня для смартфона обладнана прозорою кришкою, котра захищає телефон від дощу та не перешкоджає роботі сенсорного екрану. Ідеально підходить для смартфонів з діагоналлю корпуса 5.5" або менше. Комплектується перехідником-подовжувачем mini-jack для зручнішого користування навушниками.
+
+ 
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на застібках "велкро";
+
+-Якісна застібка з двома замками;
+
+-Спеціальний отвір для навушників Headphone Out;
+
+-В комплекті подовжувач для навушників Jack Extender;
+
+-Світловідбиваючі смужки.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під смартфон
+
+Колір: Чорний
+
+Матеріали: 80% Поліестер 120D, 20% PVC
+
+Об'єм: 1,2 л
+
+Розміри: 19,5х9х8,5 см
+
+Вага: 150 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.2</param>
+<param name="Тип велосипедной сумки">Сумка на раму</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">19.5</param>
+<param name="Высота">9.0</param>
+<param name="Ширина">8.5</param>
+<param name="Конструкция сумки">Однообъемная</param>
+<param name="Вес">150</param>
+<param name="Материал">80% Поліестер 120D, 20% PVC</param>
+<param name="Размеры">195 х 9 х 85</param>
+</offer>
+<offer available="true" id="1133988666">
+<price>1480</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693393</categoryId>
+<picture>https://images.ua.prom.st/2242377183_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242377180_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242377182_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242377185_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242377197_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242377198_cholovichi-trekingovi-chereviki.jpg</picture>
+<name>Чоловічі трекінгові черевики Regatta Kota XLT 42 Black Grey</name>
+<vendor>Regatta</vendor>
+<vendorCode> Kota_XLT_42</vendorCode>
+<description><![CDATA[Чоловічі черевики Regatta поєднують водонепроникні та дихаючі властивосТі для надзвичайного комфорту у тривалих походах.
+
+Верхня частина виконана із сітки, що має гідрофобну обробку для ефективного відштовхування води і бруду та має мембрану Isotex.
+
+Легка та міцна гумова підошва з рельєфним дизайном забезпечує високе зчеплення на будь-яких поверхнях. В конструкції підошви використовуються вставки з EVA для поглинання ударів при ходьбі.
+
+
+
+Верхня частина виготовлена без швів виключає можливість появи мозолів. 
+
+Торгова марка Regatta завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності. Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+- Легка гумова підошва з внутрішніми амортизаторами EVA для комфорту, захисту і зчеплення під ногами.
+
+- Формована устілка EVA Comfort.
+
+- Технологія контролю запаху Lava XL.
+
+- Водонепроникна мембрана Isoteх
+
+- Прогумований бампер для захисту пальців.
+]]></description>
+<param name="Сезон">Весняно-літня</param>
+<param name="Мембрана">Isotex</param>
+<param name="Стиль взуття">Активний (active)</param>
+<param name="Тип">Трекінгові черевики</param>
+<param name="Стать">Чоловічі</param>
+<param name="Колір">Чорний: Чорний з сірим</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Текстиль: Текстиль/Термополіуретан</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Гума/EVA</param>
+<param name="Розмір">42</param>
+<param name="Країна реєстрації бренду">Великобританія</param>
+<param name="Призначення">Для трекінгу: Для трекінгу</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Габарити упаковки">35 х 28 х 13 см</param>
+<param name="Особливості">Анатомічне взуття|Водовідштовхувальна поверхня</param>
+</offer>
+<offer available="true" id="1133992960">
+<price>1480</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693393</categoryId>
+<picture>https://images.ua.prom.st/2242381254_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242381259_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242381262_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242381264_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242381266_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242381276_cholovichi-trekingovi-chereviki.jpg</picture>
+<name>Чоловічі трекінгові черевики Regatta Kota XLT 44 Black Grey</name>
+<vendor>Regatta</vendor>
+<vendorCode> Kota_XLT_44</vendorCode>
+<description><![CDATA[Чоловічі черевики Regatta поєднують водонепроникні та дихаючі властивосТі для надзвичайного комфорту у тривалих походах.
+
+Верхня частина виконана із сітки, що має гідрофобну обробку для ефективного відштовхування води і бруду та має мембрану Isotex.
+
+Легка та міцна гумова підошва з рельєфним дизайном забезпечує високе зчеплення на будь-яких поверхнях. В конструкції підошви використовуються вставки з EVA для поглинання ударів при ходьбі.
+
+
+
+Верхня частина виготовлена без швів виключає можливість появи мозолів. 
+
+Торгова марка Regatta завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності. Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+- Легка гумова підошва з внутрішніми амортизаторами EVA для комфорту, захисту і зчеплення під ногами.
+
+- Формована устілка EVA Comfort.
+
+- Технологія контролю запаху Lava XL.
+
+- Водонепроникна мембрана Isoteх
+
+- Прогумований бампер для захисту пальців.
+]]></description>
+<param name="Сезон">Весняно-літня</param>
+<param name="Мембрана">Isotex</param>
+<param name="Стиль взуття">Активний (active)</param>
+<param name="Тип">Трекінгові черевики</param>
+<param name="Стать">Чоловічі</param>
+<param name="Колір">Чорний: Чорний з сірим</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Текстиль: Текстиль/Термополіуретан</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Гума/EVA</param>
+<param name="Розмір">44</param>
+<param name="Країна реєстрації бренду">Великобританія</param>
+<param name="Призначення">Для трекінгу: Для трекінгу</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Габарити упаковки">35 х 28 х 13 см</param>
+<param name="Особливості">Анатомічне взуття|Водовідштовхувальна поверхня</param>
+</offer>
+<offer available="true" id="605868323">
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/955362354_zhinochi-chereviki-new.jpg</picture>
+<picture>https://images.ua.prom.st/955362366_zhinochi-chereviki-new.jpg</picture>
+<picture>https://images.ua.prom.st/955362396_zhinochi-chereviki-new.jpg</picture>
+<name>Жіночі черевики New TLCK Women 37 Pink</name>
+<vendor> New TLCK</vendor>
+<vendorCode> TL0128-5</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Повсякденний (casual)
+
+Колір: Рожевий: Рожевий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Еконубук: Еконубук
+
+Матеріал підкладки: Штучне хутро
+
+Матеріал підошви: Поліуретан
+
+Розмір: 37
+
+Особливості: Анатомічне взуття
+
+Сезон: Зимова
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +5°C до -20°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Черевики
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Липучка
+]]></description>
+<param name="Сезон">Зимовий</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+<param name="Тип фіксації">Липучка</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Стиль взуття">Повсякденний (casual)</param>
+<param name="Колір">Рожевий: Рожевий</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Еконубук: Еконубук</param>
+<param name="Матеріал підкладки">Штучне хутро</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Розмір">37</param>
+<param name="Подія">Повсякденні</param>
+<param name="Температурний діапазон">Від +5°C до -20°C</param>
+<param name="Країна реєстрації бренду">Китай</param>
+</offer>
+<offer available="true" id="904071652">
+<price>90</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619492521_zadnye-svitlo-onride.jpg</picture>
+<name>Заднє світло Onride 302</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900014 </vendorCode>
+<description><![CDATA[Тип: Заднє світло 
+
+Колір: Червоний, чорний
+
+Матеріал: 100% Пластик
+
+Джерело освітлення: 5 x LED 
+
+Режими: Потужний 100%, Блимаючий 
+
+Батарея: 2xAAA 
+
+Тип кріплення: Хомут 25-32мм 
+
+Захист від вологи.
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: Два режими роботи, Захист від вологи.
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Цвет">черно-красный</param>
+</offer>
+<offer available="true" id="904077271">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619497094_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual Red</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900017 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Червоний
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Красный</param>
+</offer>
+<offer available="true" id="904084418">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619504350_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual White</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900021 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Білий
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Белый</param>
+</offer>
+<offer available="true" id="976884965">
+<price>2990</price>
+<currencyId>UAH</currencyId>
+<categoryId>66636894</categoryId>
+<picture>https://images.ua.prom.st/2209213855_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/1804130991_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213852_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213854_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213857_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213856_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213859_zhinochi-rolikovi-kovzani.jpg</picture>
+<picture>https://images.ua.prom.st/2209213858_zhinochi-rolikovi-kovzani.jpg</picture>
+<name>Жіночі роликові ковзани Firefly ILS300L 41 White/Grey/Turquoise</name>
+<vendor>Firefly</vendor>
+<vendorCode> ILS300L-41</vendorCode>
+<description><![CDATA[Якісні роликові ковзани від популярного бренду Firefly.
+
+Ролики Firefly ILS300L чудово підійдуть для дівчат, а також роллерів початкового рівня, забезпечать максимальну передачу зусиль від ніг до коліс. В них Вам буде зручно кататись навіть під час довгих прогулянок.
+
+
+
+Це відмінні фітнес ролики на алюмінієвій рамі. Повністю справляються з вагою до 100 кг, навіть з врахуванням стрибків та простих трюків. 
+
+
+
+Лайнер досить щільно огортає Вашу стопу, приймає її форму і при цьому Ви не відчуваєте жодної твердості чи незручності. Нога фіксується за допомогою трьох елементів – класичної шнурівки, ремінця на липучці і верхньої баклі.
+
+
+
+В цій моделі встановлені колеса діаметром 80 мм. Вони дозволяють кататись по бетону, асфальту і в закритих приміщеннях, ролики розвивають непогану швидкість завдяки підшипникам ABEC 5
+
+
+
+Особливості: Надійна фіксація ноги, Якісні компоненти, Анатомічний лайнер.
+
+
+
+Виробник: Firefly 
+
+Стать: Жіночі
+
+Категорія: Для дорослих
+
+Розмір: 41
+
+Черевик: Напівм'який
+
+Фіксація ноги: Бакля (кліпса)
+
+Діаметр коліс: 61-90 мм: 80
+
+Матеріал рами: Алюмінієвий сплав
+
+Матеріал кафа: Пластик
+
+Тип лайнера: Інтегрований
+
+Підшипники: ABEC 5
+
+Розташування коліс: In-line з можливістю перестановки
+
+Жорсткість коліс: 80А
+
+Стиль катання: Фрістайл (Freestyle) / Фітнес (Fitness)
+
+Теги: Для дорослих
+
+Довжина устілки: 265 мм
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: США ]]></description>
+<param name="Категорія">Для дорослих</param>
+<param name="Черевик">Напівм'який</param>
+<param name="Фіксація ноги">Бакля (кліпса)</param>
+<param name="Діаметр коліс">61-90 мм: 80</param>
+<param name="Матеріал рами">Алюмінієвий сплав</param>
+<param name="Матеріал кафа">Пластик</param>
+<param name="Тип лайнера">Інтегрований</param>
+<param name="Підшипники">ABEC 5</param>
+<param name="Розташування коліс">In-line з можливістю перестановки</param>
+<param name="Жорсткість коліс">80А</param>
+<param name="Стиль катання">Фрістайл (Freestyle) / Фітнес (Fitness)</param>
+<param name="Довжина устілки">265 мм</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Розмір">41</param>
+</offer>
+<offer available="true" id="1016505591">
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>6255387</categoryId>
+<picture>https://images.ua.prom.st/1911537612_ryukzak-marmot-kompressor.jpg</picture>
+<picture>https://images.ua.prom.st/1911537611_ryukzak-marmot-kompressor.jpg</picture>
+<name>Рюкзак Marmot Kompressor 18 Green Lime</name>
+<vendorCode>MRT 25430.4680 </vendorCode>
+<description><![CDATA[Рюкзак Marmot Kompressor 18 - це лідер в своєму класі. Наш ультралегкий рюкзак Kompressor тепер має ще більший внутрішній об'єм для зберігання ваших речей, а також поліпшену систему стяжки, щоб зберегти компактність вашого багажу. При ньому залишилися такі важливі і зручні особливості як плечові лямки з сіткою. Геніальний завдяки своїй універсальності рюкзак на кожен день. 
+
+
+
+Особливості:
+
+- Упаковується у власну кришку 
+
+- Ідеальний розмір для зберігання спальника 
+
+- Знімна задня панель 
+
+- Плечові лямки з сітчастими вставками 
+
+- Компресійні лямки
+
+- Відділення для питної системи 
+
+- Проста система розвішування 
+
+- Петля для льодового інструмента 
+
+- Нагрудний ремінь 
+
+- Міцність і легкість 
+
+- Дуже компактний 
+
+
+
+Габарити упаковки: 50 х 27 х 5 см 
+
+Об'єм рюкзака: до 35 літрів
+
+Вид: М'який 
+
+Регулювання наплічних лямок по вертикалі: Є
+
+Матеріал: 210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon 
+
+Наявність поясного ременя: Немає
+
+Сумісність з питною системою: Є 
+
+Розміри: 50 х 27 х 10 см 
+
+Вага: 0,31 кг
+
+Об'єм, л: 18
+
+Колір: Green: Green
+
+Призначення: Міські 
+
+Тип: Рюкзаки
+
+Теги: молодіжні, для мандрівок
+
+Країна виробництва: В'єтнам
+
+Країна реєстрації бренду: США]]></description>
+<param name="Карманы"></param>
+<param name="Особенности рюкзака"></param>
+<param name="Габарити упаковки">50 х 27 х 5 см</param>
+<param name="Об'єм рюкзака">до 35 літрів</param>
+<param name="Вид">М'який</param>
+<param name="Регулювання наплічних лямок по вертикалі">Є</param>
+<param name="Матеріал">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+<param name="Наявність поясного ременя">Немає</param>
+<param name="Сумісність з питною системою">Є</param>
+<param name="Розміри">50 х 27 х 15 см</param>
+<param name="Вага">0,31 кг</param>
+<param name="Об'єм, л">18</param>
+<param name="Колір">Green: Green</param>
+<param name="Призначення">Для пішого і гірського туризму</param>
+<param name="Тип">Рюкзаки</param>
+<param name="Країна виробництва">В'єтнам</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Виробник">Marmot</param>
+</offer>
+<offer available="true" id="726740616">
+<price>220</price>
+<currencyId>UAH</currencyId>
+<categoryId>6295695</categoryId>
+<picture>https://images.ua.prom.st/1213307841_rukavichki-onride-tid.jpg</picture>
+<name>Рукавички Onride TID, Чорний-Сірий XL</name>
+<vendor>OnRide</vendor>
+<vendorCode>2956563230123 </vendorCode>
+<description><![CDATA[Найдоступніші рукавички для велоспорту виконані у лаконічному дизайні з пом'якшуючими вставками. Характеристики: 
+
+Склад матеріалів: Polyester 65% / Nylon 20% / Elastan 15% 
+
+Особливості: Верх виготовлений з еластичної тканини, яка володіє відмінними гігієнічними властивостями, а також швидко поглинає вологу і висихає. Пом'якшуючі подушечки на долонях знижують тиск та поглинають вібрації 
+
+Вентиляційна вставка між великим та вказівним пальцями забезпечує додаткову повітропроникність та запобігає натиранню зони Рукавички легко зняти за рахунок петельок на внутрішній стороні третього та безіменного пальців Спеціально нанесені друком зачепи на долонній стороні покращують зчеплення з кермом.
+]]></description>
+<param name="Категории">Унисекс</param>
+<param name="Размер">XL</param>
+<param name="Регулируемая застежка на запястье">да</param>
+<param name="Цвет">серо-черный</param>
+<param name="Материал">Polyester 65% / Nylon 20% / Elastan 15% </param>
+<param name="Тип">Перчатки</param>
+</offer>
+<offer available="true" id="904080731">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619501019_migalka-onride-dual.jpg</picture>
+<name>Мигалка Onride Dual Blue</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900019 </vendorCode>
+<description><![CDATA[Комплект з двох легких мигалок (передня і задня) в силіконовому корпусі, котрі просто і швидко кріпляться до будь-якого типу руля або підседільного штиря. Призначені для позначення велосипедиста на дорозі чи для додаткового/резервного освітлення в темний час доби.
+
+ 
+
+Тип: Світло
+
+Матеріал: 70% силікон, 30% пластик
+
+Колір: Синій
+
+Джерело освітлення: 2 x LED 
+
+Світловий потік: 3.7 Люмен
+
+Режими: 
+
+Потужний 100% 
+
+Повільно блимаючий 100%
+
+Швидко блимаючий 100% 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: Силіконовий хомут
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи, універсальне кріплення
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Силикон</param>
+<param name="Цвет">Синий</param>
+</offer>
+<offer available="true" id="916763648">
+<price>365</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/1650789126_velozamok-kls-sunny.jpg</picture>
+<name>Велозамок KLS Sunny 4,5х600 Pink</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019378057 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+KLS Sunny - це тросовий замок у кольоровій силіконовій оплітці, який призначений для короткотривалих зупинок під час велопрогулянки. Компактні розміри троса забезпечують простоту користування та транспортування
+
+Протестований у визнанній інтернаціональній організації SGS з тестування замків
+
+ 
+
+Характеристики:
+
+Тип замку: Тросовий / циліндровий (англійський двосторонній)
+
+Довжина троса: 600 мм
+
+Діаметр троса (внутрішній): 4.5 мм
+
+Вага: 189 г
+
+ 
+
+Виробник: KLS
+
+Матеріал корпуса: 100% Силікон
+
+Матеріал тросу і замка: 100 % Сталь
+
+Тип: Замок
+
+Колір: Рожевий
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Словаччина
+
+Особливості: Компактні розміри; В комплекті два ключі;
+
+Замикання без ключа.
+]]></description>
+<param name="Вид велосипедного замка">Под ключ</param>
+<param name="Тип велосипедного замка">Тросовый</param>
+<param name="Длина">60.0</param>
+</offer>
+<offer available="true" id="942484595">
+<price>220</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713194128_pidsidelna-sumka-roswheel.jpg</picture>
+<picture>https://images.ua.prom.st/1713194292_pidsidelna-sumka-roswheel.jpg</picture>
+<name>Підсідельна сумка Roswheel 13196 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636715335 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Зручна підсідельна сумочка виготовлена з вологозахищеного матеріалу з кріпленням на ремінцях з пластиковими застібками та ремінці з велкро. 
+
+ 
+
+Особливості:
+
+-Кріплення на ременях за рамки сідла та підсідельний штир;
+
+-Петелька для кріплення заднього світла; 
+
+-Застібка-блискавка;
+
+-Низ дубльований штучною шкірою для більшої міцності; 
+
+-Внутрішня сітчаста кишеня; 
+
+-Світловідбиваючі елементи 3M по периметру.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Сірий/чорний
+
+Матеріали: 60% Поліестер 600D, 20% EVA foam, 20% PVC
+
+Об'єм: 0.9 л
+
+Розміри: 15 x 7.5 x 10.5 см
+
+Вага: 80 г 
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.9</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Цвет">Черный</param>
+<param name="Возрастная группа">Для взрослых</param>
+<param name="Материал">60% Поліестер 600D, 20% EVA foam, 20% PVC</param>
+<param name="Вес">80</param>
+<param name="Размеры">150 x 75 x 105</param>
+</offer>
+<offer available="true" id="952796185">
+<price>1590</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/1740119645_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119682_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119683_zhinochi-choboti-tosca.jpg</picture>
+<picture>https://images.ua.prom.st/1740119684_zhinochi-choboti-tosca.jpg</picture>
+<name>Жіночі Чоботи Tosca Blu 40 Black</name>
+<vendor>Tosca</vendor>
+<vendorCode> 9-25609-29</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція, утеплення з натурального войлока.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Чорний: Чорний
+
+Висота каблука: 31 - 50 мм: 31 - 50 мм
+
+Матеріал верху: Комбіновані зі шкірою: Шкіра / Екошкіра
+
+Матеріал підкладки: Войлок
+
+Матеріал підошви: Каучук
+
+Розмір: 40
+
+Особливості: Анатомічне взуття
+
+Сезон: Зимовий
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +5°C до -10°C
+
+Країна реєстрації бренду: Італія
+
+Країна-виробник товару: Китай
+
+Тип: Чоботи
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Колір">Чорний: Чорний</param>
+<param name="Розмір">40</param>
+<param name="Матеріал верху">Комбіновані зі шкірою: Шкіра / Екошкіра</param>
+<param name="Матеріал підкладки">Войлок</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Температурний діапазон">Від +5°C до -10°C</param>
+<param name="Країна реєстрації бренду">Італія</param>
+<param name="Сезон">Зимовий</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип">Чоботи</param>
+<param name="Стать">Жіночі</param>
+<param name="Висота каблука">31 - 50 мм: 31 - 50 мм</param>
+<param name="Стиль взуття">Класичний (classic)</param>
+</offer>
+<offer available="true" id="1038581113">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>46709702</categoryId>
+<picture>https://images.ua.prom.st/1969955071_cholovichij-godinnik-your.jpg</picture>
+<picture>https://images.ua.prom.st/1969955070_cholovichij-godinnik-your.jpg</picture>
+<name>Чоловічий годинник Your Turn Black</name>
+<vendorCode>u7iyy-ey-en </vendorCode>
+<description><![CDATA[Вибір якісного годинника — це завжди дуже складний процес, тому що не завжди можна впевнитися в оригінальності та надійності виробу. При створенні цього годинника дизайнери врахували всі сучасні тренди, а також класичні та перевірені часом елементи дизайну. Вибираючи якісний годинник, Ви отримуєте надійного помічника на довгі роки та функціональний аксесуар, ось чому важливо, щоб годинник був високої якості.
+Виробник: Your Turn
+
+Тип: Чоловічий 
+
+Стиль: Спортивний
+
+Механізм: Кварцевий
+
+Тип індикації: Стрілочний
+
+Формат часу: 12 г
+
+Вид циферблату: Індексний
+
+Форма корпуса:  Кругла
+
+Матеріал корпуса: Метал
+
+Основний колір циферблату: Чорний
+
+Скло: Мінеральне
+
+Ремінь/браслет: Ремінь
+
+Матеріал ременя/браслета: Тканина
+
+Колір ременя/браслета: Чорний
+
+Колір корпусу: Чорний
+
+Розміри корпусу: 45 х 49 мм
+
+Функції: Дата
+
+Водозахищеність: Нема 
+
+Підсвітка: Нема
+
+Вага, г: 50
+
+Комплектація: Годинник, коробка
+
+Індикація: Години, хвилини, секунди
+
+Точність ходу: +/- 3 сек в місяць
+
+Діаметр корпусу: 43 мм
+
+Тип циферблату: Аналоговий (стрілочний)
+
+Вид індикації: Індекси 
+
+Додаткові характеристики:
+
+Країна реєстрації бренду: Німеччина
+
+ ]]></description>
+<param name="Тип">Чоловічі</param>
+<param name="Стиль">Спортивний</param>
+<param name="Механізм">Кварцовий</param>
+<param name="Тип індикації">Стрілоковий</param>
+<param name="Формат часу">12 г</param>
+<param name="Форма корпусу">Кругла</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Скло">Мінеральне</param>
+<param name="Ремінець/браслет">Ремінець</param>
+<param name="Колір корпусу">Чорний</param>
+<param name="Розміри корпусу">45 х 49 мм</param>
+<param name="Водозахищеність">Нема</param>
+<param name="Підсвітка">Нема</param>
+<param name="Комплектація">Годинник, коробка</param>
+<param name="Індикація">Години, хвилини, секунди</param>
+<param name="Точність ходу">+/- 3 сек в місяць</param>
+<param name="Діаметр корпусу">43 мм</param>
+<param name="Країна реєстрації бренду">Німеччина</param>
+<param name="Основний колір циферблата">Чорний</param>
+<param name="Колір ременя/браслета">Чорний</param>
+<param name="Вага, г">50</param>
+<param name="Тип циферблата">Аналоговий (стрілковий)</param>
+<param name="Вид індикації">Індекси</param>
+<param name="Функції">Нема</param>
+</offer>
+<offer available="true" id="1041182384">
+<price>390</price>
+<currencyId>UAH</currencyId>
+<categoryId>46709702</categoryId>
+<picture>https://images.ua.prom.st/1976615451_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1976615453_cholovichij-godinnik-yourturn.jpg</picture>
+<name>Чоловічий годинник Yourturn YMW-ZYTSS18-08 A</name>
+<vendor>Yourturn</vendor>
+<vendorCode>YMW-ZYTSS18-08 </vendorCode>
+<description><![CDATA[Вибір якісного годинника — це завжди дуже складний процес, тому що не завжди можна впевнитися в оригінальності та надійності виробу. При створенні цього годинника дизайнери врахували всі сучасні тренди, а також класичні та перевірені часом елементи дизайну. Вибираючи якісний годинник, Ви отримуєте надійного помічника на довгі роки та функціональний аксесуар, ось чому важливо, щоб годинник був високої якості.
+Виробник: Yourturn
+
+Тип: Чоловічий
+
+Стиль: Фешн
+
+Механізм: Кварцевий
+
+Тип індикації: Стрілочний
+
+Формат часу: 12 г
+
+Вид циферблату: Індекси 
+
+Форма корпуса: Кругла 
+
+Матеріал корпуса: Метал
+
+Основний колір циферблату: Чорний
+
+Скло: Мінеральне
+
+Ремінь/браслет: Браслет
+
+Матеріал ременя/браслета: Метал
+
+Колір ременя/браслета: Золотистий
+
+Колір корпусу: Золотистий
+
+Розміри корпусу: 50 х 55 мм
+
+Функції: Нема
+
+Водозахищеність: Нема
+
+Підсвітка: Нема
+
+Вага, г: 150
+
+Комплектація: Годинник, коробка
+
+Індикація: Години, хвилини, секунди
+
+Точність ходу: +/- 3 сек в місяць
+
+Діаметр корпусу: 47 мм
+
+Тип циферблату: Аналоговий (стрілочний)
+
+Вид індикації: Індекси 
+
+Додаткові характеристики:
+
+Країна реєстрації бренду: Німеччина]]></description>
+<param name="Тип">Чоловічі</param>
+<param name="Стиль">Фешн</param>
+<param name="Механізм">Кварцовий</param>
+<param name="Тип індикації">Стрілоковий</param>
+<param name="Формат часу">12 г</param>
+<param name="Форма корпусу">Кругла</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Скло">Мінеральне</param>
+<param name="Ремінець/браслет">Браслет</param>
+<param name="Матеріал ремінця/браслета">Метал</param>
+<param name="Колір корпусу">Золотистий</param>
+<param name="Розміри корпусу">50 х 55 мм</param>
+<param name="Водозахищеність">Нема</param>
+<param name="Підсвітка">Нема</param>
+<param name="Комплектація">Годинник, коробка</param>
+<param name="Індикація">Години, хвилини, секунди</param>
+<param name="Точність ходу">+/- 3 сек в місяць</param>
+<param name="Діаметр корпусу">47 мм</param>
+<param name="Країна реєстрації бренду">Німеччина</param>
+<param name="Вид циферблата">Індекси</param>
+<param name="Основний колір циферблата">Чорний</param>
+<param name="Колір ременя/браслета">Золотистий</param>
+<param name="Вага, г">150</param>
+<param name="Тип циферблата">Аналоговий (стрілковий)</param>
+<param name="Вид індикації">Індекси</param>
+</offer>
+<offer available="true" id="1111019300">
+<price>1978</price>
+<currencyId>UAH</currencyId>
+<categoryId>6255387</categoryId>
+<picture>https://images.ua.prom.st/2160331356_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331355_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331363_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331365_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331369_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331370_ryukzak-black-diamond.jpg</picture>
+<picture>https://images.ua.prom.st/2160331373_ryukzak-black-diamond.jpg</picture>
+<name>Рюкзак Black Diamond STREET CREEK 24 BACKPACK Curry</name>
+<vendor>Black Diamond</vendor>
+<vendorCode> 681226_CRRY</vendorCode>
+<description><![CDATA[Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу.
+
+Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки. Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+	 
+
+]]></description>
+<param name="Габарити упаковки">50 х 33 х 5 см</param>
+<param name="Об'єм рюкзака">до 35 літрів</param>
+<param name="Вид">Анатомічний</param>
+<param name="Матеріал ">1260d Ballistic nylon</param>
+<param name="Наявність поясного ременя">Є</param>
+<param name="Сумісність з питною системою">Є</param>
+<param name="Розміри">50 х 33 х 18 см</param>
+<param name="Вага">0,81 кг</param>
+<param name="Об'єм, л">24</param>
+<param name="Колір">Інші кольори: Golden</param>
+<param name="Призначення">Міські</param>
+<param name="Тип">Рюкзаки</param>
+<param name="Країна реєстрації бренду">США</param>
+<param name="Регулювання наплічних лямок по вертикалі">Є</param>
+</offer>
+<offer available="true" id="1120570246">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>14408905</categoryId>
+<picture>https://images.ua.prom.st/2190560129_sholom-girskolizhnij-axon.jpg</picture>
+<picture>https://images.ua.prom.st/2190560130_sholom-girskolizhnij-axon.jpg</picture>
+<picture>https://images.ua.prom.st/2190560131_sholom-girskolizhnij-axon.jpg</picture>
+<picture>https://images.ua.prom.st/2190560132_sholom-girskolizhnij-axon.jpg</picture>
+<name>Шолом гірськолижний Axon M713101 Freeride S-M White</name>
+<vendor>Axon</vendor>
+<vendorCode> M713101_SM_Wht</vendorCode>
+<description><![CDATA[Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Обхват голови 55-58 см
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+]]></description>
+<param name="Тип">Унісекс</param>
+<param name="Габарити упаковки">29 х 24 х 22 см</param>
+<param name="Розмір">S-M</param>
+<param name="Run System (регулювання розміру)">Є</param>
+<param name="Матеріал">ABS Пластик, Пінополістирол</param>
+<param name="Колір">White</param>
+<param name="Кліпса для маски">Є</param>
+<param name="Конструкція">In Mold</param>
+<param name="Країна реєстрації бренду">Чехія</param>
+<param name="Додаткові характеристики">Обхват голови 55-58 см</param>
+</offer>
+<offer available="true" id="771340273">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>28200372</categoryId>
+<picture>https://images.ua.prom.st/1307995016_zhinochi-kedi-lemax.jpg</picture>
+<picture>https://images.ua.prom.st/1307995017_zhinochi-kedi-lemax.jpg</picture>
+<picture>https://images.ua.prom.st/1307995019_zhinochi-kedi-lemax.jpg</picture>
+<name>Жіночі кеди Lemax 36 Rose</name>
+<vendor>Lemax</vendor>
+<vendorCode>1518-3666</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Спортивний (sport)
+
+Колір: Рожевий: Рожевий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Текстиль: Текстиль
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 36
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Кеди
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Подія">Повсякденні</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал підкадки">Текстиль</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Тип">Кеди</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Призанчення">Для туризму: Для туризму</param>
+<param name="Колір">Рожевий: Рожевий</param>
+<param name="Стиль взуття">Спортивний (sport)</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Матеріал верху">Текстиль: Текстиль</param>
+<param name="Розмір">36</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+</offer>
+<offer available="true" id="903997410">
+<price>265</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619423257_perednye-svitlo-onride.jpg</picture>
+<name>Переднє світло ONRIDE Plato</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900008 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Універсальне компактне переднє світло для комфортної їзди в темну пору доби.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Переднє світло 
+
+Світловий потік: 60 Люмен  
+
+Джерело освітлення: 10 x LED 
+
+Режими: Економічний 30%; Нормальний 30%; Стандартний 50%; Потужний 100%; Повільно блимаючий 50%; Повільно блимаючий 100%; Швидко блимаючий 50% 
+
+Батарея: Li-Pol, 3.7V/330mAH з micro-USB живленням. 
+
+Час заряджання (год): 3 
+
+Тип кріплення: Універсальне кріплення
+
+Захист від вологи: IPX4.
+
+Матеріал: 100% Пластик ABS
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="904017857">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619432043_perednye-svitlo-onride.jpg</picture>
+<name>Переднє світло ONRIDE Kit 30</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900065 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Компактне переднє світло в алюмінієвому корпусі. Червоний індикатор під кнопкою сигналізує про стан акумулятора. Має захист від вологи.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Переднє світло  
+
+Джерело освітлення: 1 x LED 
+
+Режими: Стандартний 50% (4 год); Потужний 100% (2 год); Блимаючий (4 год)
+
+Батарея: Li-Pol, 3.7V/300mAH з micro-USB живленням. 
+
+Час заряджання (год): 3 
+
+Тип кріплення: Гумовий хомут
+
+Матеріал: 100% Пластик ABS
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">На руль</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="904022175">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619441455_perednye-svitlo-onride.jpg</picture>
+<name>Переднє світло ONRIDE Kid 20 Black</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900066 </vendorCode>
+<description><![CDATA[Цей “малюк” має пару півватних світлодіодів, які сфокусовані в одну яскраву світлову пляму. На нічні перегони з ним, звичайно, не попреш, але їздити вулицями - якраз те, що треба. Про закінчення зарядки, а також про низький рівень заряду батареї інформує зелений індикатор під кнопкою. Має захист від вологи.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Переднє світло 
+
+Світловий потік: 50 Люмен  
+
+Джерело освітлення: 2 x LED 
+
+Режими: Стандартний 50% (6год); Потужний 100% (3 год); Блимаючий 50% (6 год) 
+
+Батарея: Li-Pol, 3.7V/300mAH з micro-USB живленням. 
+
+Час заряджання (год): 3 
+
+Тип кріплення: Гумовий хомут
+
+Матеріал: 100% Пластик ABS
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">На руль</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="916969211">
+<price>215</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/1651022743_flyagotrimach-kls-pacific.jpg</picture>
+<name>Фляготримач KLS PACIFIC Lime</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019386755 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Виготовлений зі стійкого та гнучкого матеріалу Nylon 66, який дозволяє легко виконувати маніпуляції з флягою. В комплекті з двома сталевими болтами. Вигнуті края для легкого попадання флягою.
+
+ 
+
+Особливості:
+
+• Гнучкий та легкий;
+
+• В комплекті з двома сталевими болтами.
+
+ 
+
+Характеристики:
+
+• Матеріал: Нейлон;
+
+• Колір: лайм
+
+• Вага: 32 г.
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Словаччина
+]]></description>
+<param name="Тип">Флягодержатель</param>
+<param name="Цвет корпуса">Салатовый</param>
+<param name="Материал флягодержателя">Нейлон</param>
+</offer>
+<offer available="true" id="942392758">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1712982439_sumka-roswheel-pid.jpg</picture>
+<name>Сумка Roswheel під сідло 13656-CC Red</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636710361 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Високоякісна вологовідштовхуюча велосипедна сумочка з кріпленням на ремінці із застібками велкро та фастекс . Має пом'якшуючі вставки з піни для захисту вмісту. Петля ззаду сумочки для кріплення блимавки. 
+
+ 
+
+Особливості:
+
+ 
+
+-Пінне пом'якшення для захисту вмісту;
+
+-Кріплення на ремінці з фастекс за рейки сідла та велкро на штир під сідлом;
+
+-Світловідбиваючий друк логотипа.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Червоний 
+
+Матеріали: 100% Поліестер
+
+Об'єм: 0.9 л
+
+Розміри: 18 x 9 x 10 см
+
+Вага: 100 г 
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.9</param>
+<param name="Цвет">Красный</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Длина">18.0</param>
+<param name="Высота">10.0</param>
+<param name="Ширина">9.0</param>
+<param name="Конструкция сумки">Однообъемная</param>
+<param name="Вес">100</param>
+<param name="Материал">Поліестер</param>
+<param name="Размеры">180 x 90 x 100</param>
+</offer>
+<offer available="true" id="942520344">
+<price>445</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713281594_sumka-roswheel-velosipedna.jpg</picture>
+<picture>https://images.ua.prom.st/1713281596_sumka-roswheel-velosipedna.jpg</picture>
+<picture>https://images.ua.prom.st/1713281597_sumka-roswheel-velosipedna.jpg</picture>
+<name>Сумка Roswheel велосипедна під сідло 131363 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636722661 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Зручна підсідельна сумочка виготовлена з вологозахищеного матеріалу з кріпленням на ремінцях з пластиковими застібками та ремінці з велкро.
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на ременях за рамки сідла та підсідельний штир;
+
+-Висока якість матеріалів та пошиву, аеродинамічний дизайн, низька вага;
+
+-Підкладка сумки з пом'якшенням для захисту вмісту;
+
+-Петелька для кріплення заднього світла;
+
+-Світловідбиваючі елементи з боків.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Чорний/сірий
+
+Матеріали: 80% Поліестер 600D, 20% PVC
+
+Об'єм: 3,0 л
+
+Розміри: 18 x 11 x 9 см
+
+Вага: 180 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">3.0</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Цвет">Black-Grey</param>
+<param name="Материал">80% Поліестер 600D, 20% PVC</param>
+<param name="Вес">180</param>
+<param name="Размеры">180 x 110 x 90</param>
+</offer>
+<offer available="true" id="942530259">
+<price>460</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713317166_sumka-roswheel-pid.jpg</picture>
+<name>Сумка Roswheel під сідло 131455S Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636790035 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Сумка під сідло Roswheel CROSS 131455, розмір S
+
+Велосипедна сумка Roswheel Cross виготовлена повністю з водонепроникного матеріалу, щоб зберегти речі сухими. Нейлон 680D має високу якість текстури та надзвичайно легко чиститься. Кріплення сумісні з більшістю велосипедів. Має відсік всередині для легкого доступу до різних інструментів. 
+
+ 
+
+Особливості:
+
+ 
+
+-Швидкоз'ємне кріплення на рейки сідла;
+
+-Об'єм сумки можна збільшити на 0.2л, завдяки еластичній конструкції;
+
+-Висока якість матеріалів та пошиву, аеродинамічний дизайн, низька вага;
+
+-Підкладка сумки з пом'якшенням для захисту вмісту;
+
+-Вологозахищена конструкція та матеріали;
+
+-Петля для кріплення габаритного світла.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Чорний/синій
+
+Матеріали: 100% Нейлон 680D
+
+Об'єм: 0.6 літри
+
+Розміри: 18 x 9 x 8 см
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.6</param>
+<param name="Цвет">Черный</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Вес">100</param>
+<param name="Материал">100% Нейлон 680D</param>
+<param name="Размеры">180 x 90 x 80</param>
+</offer>
+<offer available="true" id="1133992167">
+<price>1480</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693393</categoryId>
+<picture>https://images.ua.prom.st/2242380405_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242380411_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242380413_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242380415_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242380416_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242380427_cholovichi-trekingovi-chereviki.jpg</picture>
+<name>Чоловічі трекінгові черевики Regatta Kota XLT 43 Black Grey</name>
+<vendor>Regatta</vendor>
+<vendorCode> Kota_XLT_43</vendorCode>
+<description><![CDATA[Чоловічі черевики Regatta поєднують водонепроникні та дихаючі властивосТі для надзвичайного комфорту у тривалих походах.
+
+Верхня частина виконана із сітки, що має гідрофобну обробку для ефективного відштовхування води і бруду та має мембрану Isotex.
+
+Легка та міцна гумова підошва з рельєфним дизайном забезпечує високе зчеплення на будь-яких поверхнях. В конструкції підошви використовуються вставки з EVA для поглинання ударів при ходьбі.
+
+
+
+Верхня частина виготовлена без швів виключає можливість появи мозолів. 
+
+Торгова марка Regatta завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності. Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+- Легка гумова підошва з внутрішніми амортизаторами EVA для комфорту, захисту і зчеплення під ногами.
+
+- Формована устілка EVA Comfort.
+
+- Технологія контролю запаху Lava XL.
+
+- Водонепроникна мембрана Isoteх
+
+- Прогумований бампер для захисту пальців.
+]]></description>
+<param name="Сезон">Весняно-літня</param>
+<param name="Мембрана">Isotex</param>
+<param name="Стиль взуття">Активний (active)</param>
+<param name="Тип">Трекінгові черевики</param>
+<param name="Стать">Чоловічі</param>
+<param name="Колір">Чорний: Чорний з сірим</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Текстиль: Текстиль/Термополіуретан</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Гума/EVA</param>
+<param name="Розмір">43</param>
+<param name="Країна реєстрації бренду">Великобританія</param>
+<param name="Призначення">Для трекінгу: Для трекінгу</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Габарити упаковки">35 х 28 х 13 см</param>
+<param name="Особливості">Анатомічне взуття|Водовідштовхувальна поверхня</param>
+</offer>
+<offer available="true" id="1133993605">
+<price>1480</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693393</categoryId>
+<picture>https://images.ua.prom.st/2242382484_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242382490_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242382493_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242382494_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242382498_cholovichi-trekingovi-chereviki.jpg</picture>
+<picture>https://images.ua.prom.st/2242382501_cholovichi-trekingovi-chereviki.jpg</picture>
+<name>Чоловічі трекінгові черевики Regatta Kota XLT 45 Black Grey</name>
+<vendor>Regatta</vendor>
+<vendorCode> Kota_XLT_45</vendorCode>
+<description><![CDATA[Чоловічі черевики Regatta поєднують водонепроникні та дихаючі властивосТі для надзвичайного комфорту у тривалих походах.
+
+Верхня частина виконана із сітки, що має гідрофобну обробку для ефективного відштовхування води і бруду та має мембрану Isotex.
+
+Легка та міцна гумова підошва з рельєфним дизайном забезпечує високе зчеплення на будь-яких поверхнях. В конструкції підошви використовуються вставки з EVA для поглинання ударів при ходьбі.
+
+
+
+Верхня частина виготовлена без швів виключає можливість появи мозолів. 
+
+Торгова марка Regatta завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності. Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+- Легка гумова підошва з внутрішніми амортизаторами EVA для комфорту, захисту і зчеплення під ногами.
+
+- Формована устілка EVA Comfort.
+
+- Технологія контролю запаху Lava XL.
+
+- Водонепроникна мембрана Isoteх
+
+- Прогумований бампер для захисту пальців.
+]]></description>
+<param name="Сезон">Весняно-літня</param>
+<param name="Мембрана">Isotex</param>
+<param name="Стиль взуття">Активний (active)</param>
+<param name="Тип">Трекінгові черевики</param>
+<param name="Стать">Чоловічі</param>
+<param name="Колір">Чорний: Чорний з сірим</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Текстиль: Текстиль/Термополіуретан</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Гума/EVA</param>
+<param name="Розмір">45</param>
+<param name="Країна реєстрації бренду">Великобританія</param>
+<param name="Призначення">Для трекінгу: Для трекінгу</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Габарити упаковки">35 х 28 х 13 см</param>
+<param name="Особливості">Анатомічне взуття|Водовідштовхувальна поверхня</param>
+</offer>
+<offer available="true" id="688881128">
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>28164081</categoryId>
+<picture>https://images.ua.prom.st/732807572_zhinochi-sliponi-kylie.jpg</picture>
+<picture>https://images.ua.prom.st/732807574_zhinochi-sliponi-kylie.jpg</picture>
+<name>Жіночі сліпони Kylie Crazy Oro 37 Black</name>
+<vendor>Kylie</vendor>
+<vendorCode>1631102999</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Повсякденний (casual)
+
+Колір: Чорний: Чорний з бронзовим
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Текстиль: Текстиль
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 37
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Сліпони
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Липучка
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Стать">Жіночі</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Подія">Повсякденні</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Тип">Сліпони</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+<param name="Стиль взуття">Повсякденний (casual)</param>
+<param name="Колір">Чорний: Чорний з бронзовим</param>
+<param name="Матеріал верху">Текстиль: Текстиль</param>
+<param name="Матеріал підкадки">Текстиль</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Розмір">37</param>
+<param name="Тип фіксації">Липучка</param>
+</offer>
+<offer available="true" id="726760063">
+<price>135</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1213333477_zadnye-svitlo-onride.jpg</picture>
+<name>Заднє світло Onride Shiny</name>
+<vendor>KELLY'S</vendor>
+<vendorCode>69079900011 </vendorCode>
+<description><![CDATA[Тип: Заднє світло 
+
+Джерело освітлення: 15 x LED 
+
+Режими: Потужний 100% Блимаючий 
+
+Батарея: 2хCR2032 
+
+Тип кріплення: універсальне кріплення 
+
+Захист від вологи
+]]></description>
+<param name="Тип велосипедного фонаря">Фара+Мигалка</param>
+<param name="Состояние">Новое</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Цвет">черно-красный</param>
+</offer>
+<offer available="true" id="728429602">
+<price>550</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1217759168_krossovki-zhenskie-exguily.jpg</picture>
+<picture>https://images.ua.prom.st/1217759167_krossovki-zhenskie-exguily.jpg</picture>
+<picture>https://images.ua.prom.st/1217759166_krossovki-zhenskie-exguily.jpg</picture>
+<picture>https://images.ua.prom.st/1217759152_krossovki-zhenskie-exguily.jpg</picture>
+<name>Кроссовки женские Exguily black 36</name>
+<vendor>Exguily</vendor>
+<vendorCode>BK367 </vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Текстиль, искусственная кожа
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">36</param>
+<param name="Пол">Женский</param>
+<param name="Сезон">Лето</param>
+<param name="Отделка и украшения">Без украшений</param>
+<param name="Застежка"></param>
+<param name="Цвет">черно-белый</param>
+</offer>
+<offer available="true" id="804733453">
+<price>615</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1388479713_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479730_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479741_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479742_krosivki-serena-pink.jpg</picture>
+<name>Кросівки Serena pink 41</name>
+<vendor>Serena</vendor>
+<vendorCode>LH1023r5</vendorCode>
+<description><![CDATA[Підошва: Поліуретан
+
+Верх: Екокожа
+
+Підкладка: Текстиль]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Розовый</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Размер женской обуви">41</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Отделка и украшения">Пайетки</param>
+</offer>
+<offer available="true" id="884360494">
+<price>190</price>
+<currencyId>UAH</currencyId>
+<categoryId>29447008</categoryId>
+<picture>https://images.ua.prom.st/1577191458_nasos-onride-counter.jpg</picture>
+<name>Насос Onride Counter</name>
+<vendor>OnRide</vendor>
+<vendorCode>69311100014 </vendorCode>
+<description><![CDATA[Компактний легкий міні-насос з манометром в пластиковому корпусі. Підходить для спортивного і автомобільного ніпеля. В комплекті кріплення до рами велосипеда. 
+
+ 
+
+Особливості: 
+
+ 
+
+-Манометр; 
+
+-Посилений пластиковий корпус; 
+
+-Кріплення на раму велосипеда; 
+
+-Захисний ковпачок на клапан; 
+
+-Важіль блокування.
+
+ 
+
+Характеристики: 
+
+ 
+
+Матеріал корпусу: Пластик; 
+
+Матеріал штоку: Алюміній; 
+
+Максимальний тиск: 100 PSI / 6.9 Bar; 
+
+Тип ніпеля: PV/FV, AV/SV, DV; 
+
+Колір: Чорний; 
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Тип насоса">Ручной портативный</param>
+</offer>
+<offer available="true" id="904003345">
+<price>90</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619428073_perednye-svitlo-onride.jpg</picture>
+<name>Переднє світло ONRIDE Lit 10</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900040 </vendorCode>
+<description><![CDATA[Передній ліхтарик у мініатюрному корпусі на еластичному ремінці.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Переднє світло  
+
+Джерело освітлення: 1 x LED 
+
+Режими: Потужний 100%; Блимаючий 100%
+
+Батарея: 2 батарейки CR2032
+
+Тип кріплення: Гумовий хомут
+
+Матеріал: 100% Пластик ABS
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="904022922">
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619442704_svitlo-perednye-onride.jpg</picture>
+<name>Світло переднє ONRIDE Kid 20 USB (50 Лм) White</name>
+<vendor>OnRide</vendor>
+<vendorCode> 69079900067 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Цей “малюк” має пару півватних світлодіодів, які сфокусовані в одну яскраву світлову пляму. На нічні перегони з ним, звичайно, не попреш, але їздити вулицями - якраз те, що треба. Про закінчення зарядки, а також про низький рівень заряду батареї інформує зелений індикатор під кнопкою. Має захист від вологи.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Переднє світло 
+
+Світловий потік: 50 Люмен  
+
+Джерело освітлення: 2 x LED 
+
+Режими: Стандартний 50% (6год); Потужний 100% (3 год); Блимаючий 50% (6 год) 
+
+Батарея: Li-Pol, 3.7V/300mAH з micro-USB живленням. 
+
+Час заряджання (год): 3 
+
+Тип кріплення: Гумовий хомут
+
+Матеріал: 100% Пластик ABS
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Україна
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">На руль</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">черно-белый</param>
+</offer>
+<offer available="true" id="904100193">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619515571_zadnye-svitlo-onride.jpg</picture>
+<name>Заднє світло ONRIDE Limbo</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900039 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Задня блимавка з лінзою та розсіювачем, який одночасно є і катафотом. Обладнана індикатором заряду та функцією захисту від розряду. Батарея Li-Pol, 3.7V/700mAH забезпечує тривалий час роботи, а заряджання від micro-USB роз'єму дозволить не турбуватись про батарейки.
+
+ 
+
+Тип: Світло 
+
+Матеріал: 100% Пластик
+
+Колір: Чорний, червоний
+
+Світловий потік: 25 Люмен 
+
+Джерело освітлення: 1 x LED 
+
+Режими та тривалість роботи: 
+
+Стандартний 50% (8 год) 
+
+Потужний 100% (4год) 
+
+Блимаючий (8 год) 
+
+Батарея: Li-Pol, 3.7V/700mAH з micro-USB живленням. 
+
+Час заряджання (год): 3 
+
+Тип кріплення: універсальне кріплення 
+
+Захист від вологи IPX4.
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: універсальне кріплення. Захист від вологи IPX4. Заряджання від micro-USB роз'єму. 3 режими роботи.
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="904128627">
+<price>95</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619566713_zadnye-svitlo-onride.jpg</picture>
+<name>Заднє світло ONRIDE TipTop</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900064 </vendorCode>
+<description><![CDATA[ 
+
+Класична блимавка, але з пакетною LED-стрічкою. Прозорий розсіювач забезпечує гарну бокову видимість. 
+
+ 
+
+Тип: Заднє світло 
+
+Матеріал: 100% Пластик
+
+Колір: Чорний, червоний
+
+Джерело освітлення: 15 x LED 
+
+Режими: Потужний 100% 
+
+Повільно блимаючий 100% 
+
+Швидко блимаючий 100% 
+
+Батарея: 2xAAA 
+
+Тип кріплення: Хомут 25-32мм
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: 3 режими роботи
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">черно-красный</param>
+</offer>
+<offer available="true" id="942396873">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713004883_sumka-roswheel-velosipedna.jpg</picture>
+<name>Сумка  Roswheel велосипедна під сідло 13656-B Blue</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636710514 </vendorCode>
+<description><![CDATA[
+Високоякісна вологовідштовхуюча велосипедна сумочка з кріпленням на ремінці із застібками велкро та фастекс . Має пом'якшуючі вставки з піни для захисту вмісту. Петля ззаду сумочки для кріплення блимавки. 
+
+ 
+
+Особливості:
+
+ 
+
+-Пінне пом'якшення для захисту вмісту;
+
+-Кріплення на ремінці з фастекс за рейки сідла та велкро на штир під сідлом;
+
+-Світловідбиваючий друк логотипа.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Синій
+
+Матеріали: 100% Поліестер
+
+Об'єм: 0.9 л
+
+Розміри: 18 x 9 x 10 см
+
+Вага: 100 г 
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.9</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Цвет">black-blue</param>
+<param name="Вес">100</param>
+<param name="Материал">Поліестер</param>
+<param name="Размеры">180 x 90 x 100</param>
+</offer>
+<offer available="true" id="942494511">
+<price>395</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713208045_sumka-pid-sidlo.jpg</picture>
+<picture>https://images.ua.prom.st/1713208046_sumka-pid-sidlo.jpg</picture>
+<name>Сумка під сідло Roswheel LOHAS 131275-A Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636719418 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Зручна велосипедна сумка виготовлена з вологозахищеного матеріалу з кріпленням на ремінцях з "велкро". Особливий дизайн з висувним бардачком.
+
+ 
+
+Особливості:
+
+ 
+
+-Сумка має внутрішній бардачок;
+
+-Кріплення на "велкро" за рамки сідла та штир під сідлом;
+
+-Петелька для кріплення заднього світла;
+
+-Застібка "блискавка" з клапаном;
+
+-Низ дубльований штучною шкірою для більшої міцності:
+
+-Стінки продубльовані піною EVA для захисту вмісту;
+
+-Світловідбиваючий друк логотипа.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під сідло
+
+Колір: Чорний 
+
+Матеріали: 80% Нейлон 400D, 20% PVC
+
+Об'єм: 0.5 літри
+
+Розміри: 17 x 8 x 7 см
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.5</param>
+<param name="Цвет">Черный</param>
+<param name="Тип велосипедной сумки">Подседельная сумка</param>
+<param name="Длина">17.0</param>
+<param name="Высота">6.0</param>
+<param name="Ширина">7.0</param>
+<param name="Конструкция сумки">Однообъемная</param>
+<param name="Материал">80% Нейлон 400D, 20% PVC</param>
+<param name="Вес">160</param>
+<param name="Размеры">170 x 80 x 70</param>
+</offer>
+<offer available="true" id="942500992">
+<price>410</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713220269_sumka-roswheel-pidramna.jpg</picture>
+<picture>https://images.ua.prom.st/1713220271_sumka-roswheel-pidramna.jpg</picture>
+<picture>https://images.ua.prom.st/1713220296_sumka-roswheel-pidramna.jpg</picture>
+<name>Сумка Roswheel підрамна T121274-A-BTR Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636720117 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Зручна підрамка сумочка з кріпленням на ремінцях з "велкро". Кріплення відбувається за верхню та підсідельну труби рами.
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на 3 ремінця з "велкро" за труби рами;
+
+-Висока якість матеріалів та пошиву, аеродинамічний дизайн, низька вага;
+
+-Жорсткі стінки посилені поліетиленом;
+
+-Поліетиленова піна в стінках для захисту вмісту;
+
+-Гумки для утримання насоса;
+
+-Світловідбиваючий друк логотипа.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під раму
+
+Колір: Чорний
+
+Матеріали: 80% Нейлон, 20% Поліуретан
+
+Об'єм: 0,9 л
+
+Розміри: 17 x 13 x 5 см
+
+Вага: 100 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">0.9</param>
+<param name="Тип велосипедной сумки">Сумка под раму</param>
+<param name="Цвет">Черный</param>
+<param name="Возрастная группа">Для взрослых</param>
+<param name="Конструкция сумки">Однообъемная</param>
+<param name="Вес">100</param>
+<param name="Материал">80% Нейлон, 20% Поліуретан</param>
+<param name="Размеры">170 x 130 x 50 </param>
+</offer>
+<offer available="true" id="942533001">
+<price>365</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713326256_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713326257_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713326263_sumka-roswheel-pid.jpg</picture>
+<name>Сумка Roswheel під смартфон 121460 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636790141 </vendorCode>
+<description><![CDATA[
+ 
+
+Компактна сумочка на раму з прозорим відділенням під смартфон. Кріпиться безпосередньо перед рульовим стаканом. Спеціальна плівка виготовлена для роботи з сенсорним екраном. Вологовідштовхуючі матеріали та конструкція забезпечують відмінний захист вмісту від води.
+
+ 
+
+ 
+
+Особливості:
+
+ 
+
+-Максимальна діагональ пристрою - 5.7" (може не відповідати діагоналі екрану);
+
+-Високочутлива плівка ПВХ для роботи з тачскріном;
+
+-Просте та швидке кріплення на раму ремінцями з "велкро";
+
+-Основне відділення на двосторонній застібці "блискавка";
+
+-Вихід під навушники (захищений);
+
+-Стінки пом'якшені піною EVA для захисту вмісту;
+
+-Низ сумки виконаний таким чином, щоб запобігати ковзанню.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під смартфон
+
+Колір: Чорний
+
+Матеріали: 80% Нейлон 600D, 20% PVC
+
+Об'єм: 1л
+
+Розміри: 20.5 x 9 x 10.5 см
+
+Вага: 150 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.0</param>
+<param name="Цвет">Черный</param>
+<param name="Тип велосипедной сумки">Сумка на раму</param>
+<param name="Вес">150</param>
+<param name="Материал">80% Нейлон 600D, 20% PVC</param>
+<param name="Размеры">205 x 09 x 105</param>
+</offer>
+<offer available="true" id="942535625">
+<price>325</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713334400_sumka-roswheel-v.jpg</picture>
+<picture>https://images.ua.prom.st/1713334401_sumka-roswheel-v.jpg</picture>
+<name>Сумка Roswheel в трикутник рами 121469 Black</name>
+<vendor>Roswheel</vendor>
+<vendorCode> 6920636790219 </vendorCode>
+<description><![CDATA[
+ 
+
+Сумка виготовлена з цупких вологозахищених матеріалів. Конструкція передбачає пом'якшення стінок піною EVA. Кріпиться на раму за допомогою 3 ременів з велкро, з можливістю регулювання. На бокових стінках виконано друк логотипів світловідбиваючим складом.
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення до підсідельної та верхньої труби рами;
+
+-Одне основне відділення на застібці "блискавка";
+
+-Гумки в основному відділенні для надійного утримання деяких речей;
+
+-Напівжорстка конструкція;
+
+-Світловідбиваючий друк логотипів.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під раму
+
+Колір: Чорний
+
+Матеріали: 100% Поліестер
+
+Об'єм: 1,5 л
+
+Розміри: 23 x 20 x 6 см
+
+Вага: 140 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.5</param>
+<param name="Тип велосипедной сумки">Сумка под раму</param>
+<param name="Цвет">Черный</param>
+<param name="Конструкция сумки">Однообъемная</param>
+<param name="Вес">140</param>
+<param name="Материал">Поліестер</param>
+<param name="Размеры">230 x 200 x 60 </param>
+</offer>
+<offer available="true" id="974046405">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>28200372</categoryId>
+<picture>https://images.ua.prom.st/1796892991_zhinochi-kedi-sport.jpg</picture>
+<picture>https://images.ua.prom.st/1796892995_zhinochi-kedi-sport.jpg</picture>
+<picture>https://images.ua.prom.st/1796892997_zhinochi-kedi-sport.jpg</picture>
+<picture>https://images.ua.prom.st/1796893000_zhinochi-kedi-sport.jpg</picture>
+<name>Жіночі кеди Sport W 36 Beige</name>
+<vendor>Sport</vendor>
+<vendorCode> 45646</vendorCode>
+<description><![CDATA[
+
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Спортивний (sport)
+
+Колір: Бежевий: Бежевий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Текстиль: Текстиль
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 36
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Кеди
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Подія">Повсякденні</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал підкадки">Текстиль</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Тип">Кеди</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Призанчення">Для туризму: Для туризму</param>
+<param name="Колір">Бежевий: Бежевий</param>
+<param name="Стиль взуття">Спортивний (sport)</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Матеріал верху">Текстиль: Текстиль</param>
+<param name="Розмір">36</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+</offer>
+<offer available="true" id="1041200491">
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>46709702</categoryId>
+<picture>https://images.ua.prom.st/1976651139_zhinochij-godinnik-even-and-odd.jpg</picture>
+<name>Жіночий годинник Even&amp;Odd YP5YY Silver</name>
+<vendor>Even &amp; Odd</vendor>
+<vendorCode>YP5YY </vendorCode>
+<description><![CDATA[Вибір якісного годинника — це завжди дуже складний процес, тому що не завжди можна впевнитися в оригінальності та надійності виробу. При створенні цього годинника дизайнери врахували всі сучасні тренди, а також класичні та перевірені часом елементи дизайну. Вибираючи якісний годинник, Ви отримуєте надійного помічника на довгі роки та функціональний аксесуар, ось чому важливо, щоб годинник був високої якості.
+
+Відсутня оригінальна коробка
+Виробник: Even&Odd
+
+Тип: Жіночий
+
+Стиль: Фешн
+
+Механізм: Кварцевий
+
+Тип індикації: Стрілочний
+
+Формат часу: 12 г
+
+Вид циферблату: Індекси 
+
+Форма корпуса: Кругла 
+
+Матеріал корпуса: Метал 
+
+Основний колір циферблату: Білий
+
+Скло: Мінеральне
+
+Ремінь/браслет: Браслет
+
+Матеріал ременя/браслета: Метал
+
+Колір ременя/браслета: Сріблястий
+
+Колір корпусу: Сріблястий
+
+Розміри корпусу: 38 х 45 мм
+
+Функції: Нема 
+
+Водозахищеність: Нема
+
+Підсвітка: Нема
+
+Вага, г: 70
+
+Комплектація: Годинник
+
+Індикація: Години, хвилини, секунди
+
+Точність ходу: +/- 3 сек в місяць
+
+Діаметр корпусу: 36 мм
+
+Тип циферблату: Аналоговий (стрілочний)
+
+Вид індикації: Індекси 
+
+Додаткові характеристики:
+
+Країна реєстрації бренду: Німеччина
+
+Відсутня оригінальна коробка]]></description>
+<param name="Тип">Жіночі</param>
+<param name="Стиль">Фешн</param>
+<param name="Механізм">Кварцовий</param>
+<param name="Формат часу">12 г</param>
+<param name="Форма корпусу">Кругла</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Скло">Мінеральне</param>
+<param name="Колір корпусу">Сріблястий</param>
+<param name="Функції">Нема</param>
+<param name="Водозахищеність">Нема</param>
+<param name="Підсвітка">Нема</param>
+<param name="Індикація">Години, хвилини, секунди</param>
+<param name="Точність ходу">+/- 3 сек в місяць</param>
+<param name="Країна реєстрації бренду">Німеччина</param>
+<param name="Тип індикації">Стрілковий</param>
+<param name="Ремінець/браслет">Браслет</param>
+<param name="Діаметр корпусу">36 мм</param>
+<param name="Основний колір циферблата">Білий</param>
+<param name="Матеріал ремінця/браслета">Метал</param>
+<param name="Колір ремінця/браслета">Сріблястий</param>
+<param name="Комплектація">Годинник</param>
+<param name="Тип циферблата">Аналоговий (стрілковий)</param>
+<param name="Розміри корпусу">38 х 45 мм</param>
+<param name="Вага, г">45</param>
+<param name="Вид індикації">Індекси</param>
+<param name="Вид циферблата">Індекси</param>
+</offer>
+<offer available="true" id="1106634902">
+<price>880</price>
+<currencyId>UAH</currencyId>
+<categoryId>14407588</categoryId>
+<picture>https://images.ua.prom.st/2148442945_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2148442942_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2148442944_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2148442946_maska-girskolizhna-relax.jpg</picture>
+<picture>https://images.ua.prom.st/2148442947_maska-girskolizhna-relax.jpg</picture>
+<name>Маска гірськолижна Relax Skyline HTG69B Turquoise</name>
+<vendor>Relax</vendor>
+<vendorCode> HTG69B_Turq</vendorCode>
+<description><![CDATA[Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+]]></description>
+<param name="Габарити упаковки">200х100х90 мм</param>
+<param name="Тип">Унісекс</param>
+<param name="Форма лінзи">Сферична</param>
+<param name="Захист лінзи">S2</param>
+<param name="Покриття Anti fog">Є</param>
+<param name="Використання з шоломом">Так</param>
+<param name="Технології">Anti Fog</param>
+<param name="Колір оправи">Turquoise</param>
+<param name="Колір лінзи">Рожевий</param>
+<param name="Матеріал лінзи">Полікарбонат</param>
+<param name="Країна реєстрації бренду">Чехія</param>
+</offer>
+<offer available="true" id="1120621373">
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/2190667442_zhinochi-chereviki-marco.jpg</picture>
+<picture>https://images.ua.prom.st/2190667443_zhinochi-chereviki-marco.jpg</picture>
+<picture>https://images.ua.prom.st/2190667441_zhinochi-chereviki-marco.jpg</picture>
+<name>Жіночі черевики Marco Tozzi 41 Navy</name>
+<vendor>Marco Tozzi </vendor>
+<vendorCode> 2_25403_30</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті.
+
+Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+
+	Стильний дизайн
+	якісні матеріали
+	анатомічна конструкція.
+
+	 
+
+]]></description>
+<param name="Стиль взуття">Класичний (classic)</param>
+<param name="Колір">Синій: Темно-синій</param>
+<param name="Матеріал верху">Комбіновані зі шкірою: Шкіра / Замша</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Розмір">41</param>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Країна реєстрації бренду">Німеччина</param>
+<param name="Призначення">Для повсякденного носіння</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Подія">Повсякденні</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Вставка, що розтягується</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+</offer>
+<offer available="true" id="722230309">
+<price>370</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1202984764_okulyari-onride-spok.jpg</picture>
+<name>Окуляри Onride Spok блакитний металік</name>
+<vendor>OnRide</vendor>
+<vendorCode>69315100037 </vendorCode>
+<description><![CDATA[Окуляри Onride Spok Відмінні спортивні окуляри, оправа та лінзи яких виготовлені з якісних матеріалів та надають відмінний захист ваших очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. Особливості: • Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу Гриламід TR90, який забезпечує довговічність використання. 
+
+Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+Вага окулярів: 23.9 г. 
+
+В комплекті димчаті лінзи 3 категорії затемнення. 
+
+Прогумовані внутрішні частини дужок та гумові носоупори, що легко регулюються, забезпечують комфортну посадку і надійну фіксацію окулярів на обличчі. 
+
+Змінні носоупори. 
+
+М’який чохол – ганчірка для лінз з мікрофібри в комплекті. 
+
+Бренд: Onride 
+
+Стать: Унісекс 
+
+Колір: Синій / жовтий Тип товару: 
+
+Окуляри Сезон: Весна / літо / осінь 
+
+Колір детальний: Глянець 
+
+Лінзи детально: Smoke 
+
+Змінні лінзи: Без змінних лінз
+]]></description>
+<param name="Особенности">Резиновый носоупор</param>
+<param name="Степень затемнения">3</param>
+<param name="Цвет">Синий</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="805978897">
+<price>470</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1390457967_krosivki-zhinochi-gofc.jpg</picture>
+<picture>https://images.ua.prom.st/1390457985_krosivki-zhinochi-gofc.jpg</picture>
+<picture>https://images.ua.prom.st/1390457987_krosivki-zhinochi-gofc.jpg</picture>
+<name>Кросівки жіночі Gofc dk.grey 39</name>
+<vendor>Gofc</vendor>
+<vendorCode>GF-DP7201</vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Текстиль
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">39</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Серый</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Сезон">Лето</param>
+<param name="Отделка и украшения">Без украшений|Резинка</param>
+</offer>
+<offer available="true" id="811656412">
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/1403841402_zhinochi-chereviki-s.jpg</picture>
+<picture>https://images.ua.prom.st/1403841401_zhinochi-chereviki-s.jpg</picture>
+<picture>https://images.ua.prom.st/1403841400_zhinochi-chereviki-s.jpg</picture>
+<name>Жіночі черевики S Oliver 39 Grey</name>
+<vendor>S. Oliver </vendor>
+<vendorCode> 3010</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Сірий: Сірий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Замша: Замша
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 39
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Німеччина
+
+Країна-виробник товару: Китай
+
+Тип: Черевики
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Вставка, що розтягується
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+<param name="Тип фіксації">Вставка, що розтягується</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Стиль взуття">Класичний (classic)</param>
+<param name="Колір">Сірий: Сірий</param>
+<param name="Подія">Повсякденні</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Замша: Замша</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Розмір">39</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Країна реєстрації бренду">Німеччина</param>
+</offer>
+<offer available="true" id="811657659">
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/1403852912_zhinochi-chereviki-shoe.jpg</picture>
+<picture>https://images.ua.prom.st/1403852457_zhinochi-chereviki-shoe.jpg</picture>
+<picture>https://images.ua.prom.st/1403852908_zhinochi-chereviki-shoe.jpg</picture>
+<picture>https://images.ua.prom.st/1403852909_zhinochi-chereviki-shoe.jpg</picture>
+<name>Жіночі черевики Shoe The Bear STB 41 Black</name>
+<vendor>Shoe the bear</vendor>
+<vendorCode>1231 </vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Чорний: Чорний
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Шкіра: Шкіра
+
+Матеріал підкладки: Шкіра
+
+Матеріал підошви: Поліуретан
+
+Розмір: 41
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Данія
+
+Країна-виробник товару: Португалія
+
+Тип: Черевики
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Стиль взуття">Класичний (classic)</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Колір">Чорний: Чорний</param>
+<param name="Матеріал верху">Шкіра: Шкіра</param>
+<param name="Матеріал підкладки">Шкіра</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Розмір">41</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Подія">Повсякденні</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Країна реєстрації бренду">Данія</param>
+</offer>
+<offer available="true" id="878897114">
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1563357398_okulyari-velosipedni-axon.jpg</picture>
+<name>Окуляри велосипедні Axon Run 502 Black</name>
+<vendor>Axon</vendor>
+<vendorCode>90502 </vendorCode>
+<description><![CDATA[Зручні окуляри з надзвичайно ергономічною посадкою. Оправа виготовлена з гнучкого і міцного пластика. Полікарбонатні лінзи надають відмінний захист очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. 
+
+Особливості:  
+
+Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання. 
+
+Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+Виробник: Axon
+
+Стать: Унісекс
+
+Тип товару: Окуляри 
+
+Сезон: Весна / літо / осінь 
+
+Колір оправи: Чорний
+
+Колір лінзи: Помаранчевий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Чехія
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Особенности">Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання.|Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення.</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="904062010">
+<price>315</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/1619485578_zadnye-svitlo-onride.jpg</picture>
+<name>Заднє світло Onride Blaze, ОЕМ</name>
+<vendor>OnRide</vendor>
+<vendorCode>69079900005 </vendorCode>
+<description><![CDATA[ 
+
+Батарея Li-Pol, 3.7V/500mAH забезпечує тривалий час роботи, а заряджання від micro-USB роз'єму дозволить не турбуватись про батарейки.
+
+ 
+
+Тип: Заднє світло 
+
+Колір: Чорний, червоний
+
+Матеріал: 100% Пластик
+
+Світловий потік: 65 Люмен 
+
+Джерело освітлення: 16 х LED 
+
+Режими та тривалість роботи: 
+
+Нормальний 25% (6,5 год) 
+
+Стандартний 50% (3 год) 
+
+Потужний 100% (1,45 год) 
+
+Повільно блимаючий 50% (5,5 год) 
+
+Повільно блимаючий 100% (3 год) 
+
+Швидко блимаючий 50% (4 год) 
+
+Батарея: Li-Pol, 3.7V/500mAH з micro-USB живленням. 
+
+Час заряджання (год): 2 
+
+Тип кріплення: універсальне кріплення 
+
+Захист від вологи.
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: універсальне кріплення. Захист від вологи. Заряджання від micro-USB роз'єму. 7 режимів роботи.
+]]></description>
+<param name="Тип велосипедного фонаря">Фара</param>
+<param name="Крепление фонаря">Универсальная клипса</param>
+<param name="Режимы работы фонаря">Максимальный|Мигающий</param>
+<param name="Особенности фонаря">Влагостойкий</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Черный</param>
+</offer>
+<offer available="true" id="917062379">
+<price>85</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095636</categoryId>
+<picture>https://images.ua.prom.st/1651140554_kolodki-galmivni-kls.jpg</picture>
+<name>Колодки гальмівні KLS POWERSTOP V-02</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019319517 </vendorCode>
+<description><![CDATA[Колодки для гальм V-brake, які підходять на велосипеди класів MTB і Cross. Компаунд має середню жорсткість, що дозволяє використовувати ці колодки в різних погодних умовах.
+
+ 
+
+Характеристики:
+
+• Тип колодок: V-Brake;
+
+• Матеріал гальмівної поверхні: гума;
+
+• Довжина: 72 мм;
+
+• Колір корпусу/гумок: чорний;
+
+• Вага: 75 г.
+
+Бренд: KLS
+
+Тип товару: Гальмівні колодки
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Словаччина
+]]></description>
+<param name="Назначение">Универсальный</param>
+<param name="Тип">Тормозные колодки</param>
+</offer>
+<offer available="true" id="919280526">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1655490866_okulyari-velosipedni-onride.jpg</picture>
+<name>Окуляри велосипедні Onride Possession Cat 3 Black</name>
+<vendor>OnRide</vendor>
+<vendorCode>69315110002 </vendorCode>
+<description><![CDATA[ 
+
+Надзвичайно стильні та елегантні спортивні окуляри в мінімалістичному дизайні з цільною лінзою, що забезпечує відмінну видимість. Оправа та лінзи яких виготовлені з якісних матеріалів що забезпечує захист ваших очей від різномантних погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів.
+
+Конструкція має дійсно низьку вагу.
+
+Вага окулярів: 23 грами.
+
+ 
+
+Особливості: 
+
+ 
+
+• Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу Гриламід TR90, який забезпечує довговічність використання. 
+
+• Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+• Вага окулярів: 31.9 г. 
+
+• В комплекті темна димчата лінза 3 категорії затемнення. 
+
+• Прогумовані внутрішні частини дужок забезпечують комфортну посадку і надійну фіксацію окулярів на обличчі. 
+
+• М’який чохол – ганчірка для лінз з мікрофібри в комплекті.
+
+ 
+
+Характеристики:
+
+ 
+
+Бренд: Onride 
+
+Стать: Унісекс 
+
+Колір: Чорний
+
+Матеріали: 100% полікарбонат; 100% пластик
+
+Тип товару: Окуляри 
+
+Сезон: Весна / літо / осінь
+
+Лінзи: Темна 3 категорії 
+
+Змінні лінзи: Без змінних лінз
+
+Країна реєстрації бренду: Україна
+
+Країна виробник: Тайвань
+]]></description>
+<param name="Степень затемнения">3</param>
+<param name="Цвет">Черный</param>
+<param name="Особенности">Прогумовані внутрішні частини дужок</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="919286726">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1655500350_okulyari-velosipedni-onride.jpg</picture>
+<name>Окуляри велосипедні Onride Possession Cat 0 Black</name>
+<vendor>OnRide</vendor>
+<vendorCode>69315110001 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Надзвичайно стильні та елегантні спортивні окуляри в мінімалістичному дизайні з цільною лінзою, що забезпечує відмінну видимість. Оправа та лінзи яких виготовлені з якісних матеріалів що забезпечує захист ваших очей від різномантних погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів.
+
+Конструкція має дійсно низьку вагу.
+
+Вага окулярів: 23 грами.
+
+ 
+
+Особливості: 
+
+ 
+
+• Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу Гриламід TR90, який забезпечує довговічність використання. 
+
+• Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+• Вага окулярів: 31.9 г. 
+
+• В комплекті прозорі лінзи 0 категорії затемнення. 
+
+• Прогумовані внутрішні частини дужок забезпечують комфортну посадку і надійну фіксацію окулярів на обличчі. 
+
+• М’який чохол – ганчірка для лінз з мікрофібри в комплекті.
+
+ 
+
+Характеристики:
+
+ 
+
+Бренд: Onride 
+
+Стать: Унісекс 
+
+Колір: Чорний
+
+Матеріали: 100% полікарбонат; 100% пластик
+
+Тип товару: Окуляри 
+
+Сезон: Весна / літо / осінь
+
+Лінзи: Прозорі 
+
+Змінні лінзи: Без змінних лінз
+
+Країна реєстрації бренду: Україна
+
+Країна виробник: Тайвань
+]]></description>
+<param name="Степень затемнения">0</param>
+<param name="Цвет">Черный</param>
+<param name="Особенности">Прогумовані внутрішні частини дужок</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="919306158">
+<price>270</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1655522703_okulyari-velosipedni-onride.jpg</picture>
+<name>Окуляри велосипедні Onride Point Matt White</name>
+<vendor>OnRide</vendor>
+<vendorCode>69315100024 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Зручні спортивні окуляри з прогумованими дужками і надзвичайно ергономічною посадкою. Оправа виготовлена з гнучкого і міцного пластика гриламід TR90. 
+
+Полікарбонатні лінзи надають відмінний захист очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. 
+
+ 
+
+Особливості: 
+
+ 
+
+• Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу Гриламід TR90, який забезпечує довговічність використання. 
+
+• Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+• Вага окулярів: 31.9 г. 
+
+• В комплекті прозорі лінзи 0 категорії затемнення. 
+
+• Прогумовані внутрішні частини дужок забезпечують комфортну посадку і надійну фіксацію окулярів на обличчі. 
+
+• М’який чохол – ганчірка для лінз з мікрофібри в комплекті.
+
+ 
+
+Характеристики:
+
+ 
+
+Бренд: Onride 
+
+Стать: Унісекс 
+
+Колір: Білий 
+
+Матеріали: 100% полікарбонат; 100% пластик
+
+Тип товару: Окуляри 
+
+Сезон: Весна / літо / осінь
+
+Лінзи: Прозорі 
+
+Змінні лінзи: Без змінних лінз
+
+Країна реєстрації бренду: Україна
+
+Країна виробник: Тайвань
+]]></description>
+<param name="Степень затемнения">0</param>
+<param name="Цвет">Белый</param>
+<param name="Особенности">Прогумовані внутрішні частини дужок</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="927706139">
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1673752506_okulyari-velosipedni-axon.jpg</picture>
+<name>Окуляри велосипедні Axon Run 502 White</name>
+<vendor>Axon</vendor>
+<vendorCode>90502432 </vendorCode>
+<description><![CDATA[Зручні окуляри з надзвичайно ергономічною посадкою. Оправа виготовлена з гнучкого і міцного пластика. Полікарбонатні лінзи надають відмінний захист очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. 
+
+Особливості:  
+
+Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання. 
+
+Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+Виробник: Axon
+
+Стать: Унісекс
+
+Тип товару: Окуляри 
+
+Сезон: Весна / літо / осінь 
+
+Колір оправи: Білий
+
+Колір лінзи: Померанчевий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Чехія
+]]></description>
+<param name="Степень затемнения">1</param>
+<param name="Особенности">Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання.|Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення.</param>
+<param name="Цвет">черный и белый</param>
+<param name="Размер">Универсальный</param>
+</offer>
+<offer available="true" id="942488362">
+<price>435</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296093</categoryId>
+<picture>https://images.ua.prom.st/1713200557_sumka-roswheel-pid.jpg</picture>
+<picture>https://images.ua.prom.st/1713200556_sumka-roswheel-pid.jpg</picture>
+<name>Сумка  Roswheel під смартфон 121024</name>
+<vendor>Roswheel</vendor>
+<vendorCode>6920636717827 </vendorCode>
+<description><![CDATA[
+ 
+
+ 
+
+Сумка на раму для смартфона Roswheel забезпечує безперервний доступ до вашого смартфона коли ви на велосипеді, а також відмінно захищає його за будь-яких погодних умов. Спеціальне віконце з PVC матеріалу надає можливість працювати з сенсорними екранами.
+
+ 
+
+ 
+
+Особливості:
+
+ 
+
+-Кріплення на застібках "велкро" та еластичним шнуром;
+
+-Якісна застібка "блискавка" YKK з двома замками;
+
+-Пом'якшення з піни EVA для захисту вмісту;
+
+-Низ сумки зі спеціального матеріалу для уникнення зсування сумки;
+
+-Спеціальний отвір для навушників Headphone Out;
+
+-В комплекті подовжувач для навушників Jack Extender;
+
+-Світловідбиваючий принт на боковинах.
+
+ 
+
+Характеристики:
+
+ 
+
+Тип: Під смартфон
+
+Колір: Чорний/сірий
+
+Матеріали: 80% Поліестер 420D, 20% PVC
+
+Об'єм: 1,1 л
+
+Розміри: 20.5х9.5х7.0 см
+
+Вага: 375 г
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Великобританія
+]]></description>
+<param name="Особенности велосумки">Стойкость к загрязнениям|Светоотражающая лента</param>
+<param name="Пол">Унисекс</param>
+<param name="Объем">1.1</param>
+<param name="Тип велосипедной сумки">Сумка на раму</param>
+<param name="Цвет">Разные цвета</param>
+<param name="Вес">375</param>
+<param name="Материал">80% Поліестер 420D, 20% PVC</param>
+<param name="Размеры">205 х 95 х 70</param>
+</offer>
+<offer available="true" id="1000934462">
+<price>630</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1871995248_okulyari-velosipedni-green.jpg</picture>
+<picture>https://images.ua.prom.st/1871995250_okulyari-velosipedni-green.jpg</picture>
+<picture>https://images.ua.prom.st/1871995249_okulyari-velosipedni-green.jpg</picture>
+<picture>https://images.ua.prom.st/1871995251_okulyari-velosipedni-green.jpg</picture>
+<name>Окуляри велосипедні Green Cycle GGL-422 3 Lenses Orange</name>
+<vendor>Green Cycle</vendor>
+<vendorCode>GLA-96-31 </vendorCode>
+<description><![CDATA[Зручні окуляри з надзвичайно ергономічною посадкою. Оправа виготовлена з гнучкого і міцного пластика. Полікарбонатні лінзи надають відмінний захист очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. 
+
+Особливості:  
+
+Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання. 
+
+Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення. 
+
+У комплекті йдуть три полікарбонатні змінні лінзи, чохол і футляр для окулярів.
+
+
+
+Габарити упаковки: 175 x 90 x 75 мм
+
+Колір оправи: Помаранчевий
+
+Колір лінзи: Чорний / Прозорий / Помаранчевий
+
+Характеристики: Змінні лінзи 
+
+Комплектація: Оправа, чорна лінза, прозора лінза, помаранчева лінза, чохол, футляр 
+
+Вага: 25 г 
+
+Поляризаційні лінзи: Ні 
+
+Фотохроматичні лінзи: Ні 
+
+UV-захист: Так
+
+Гідрофобне покриття лінз: Ні 
+
+Країна-виробник товару: Тайвань
+
+Країна реєстрації бренду: Україна]]></description>
+<param name="Особенности">Прогумовані внутрішні частини дужок</param>
+<param name="Размер">Универсальный</param>
+<param name="Колір оправи">Помаранчевий</param>
+<param name="Колір лінзи">Чорний / Прозорий / Помаранчевий</param>
+<param name="Комплектація">Оправа, чорна лінза, помаранчева лінза, чохол</param>
+<param name="Вага">25 г</param>
+<param name="Поляризаційні лінзи">Ні</param>
+<param name="Фотохроматичні лінзи">Ні</param>
+<param name="UV-захист">Так</param>
+<param name="Гідрофобне покриття лінз">Ні</param>
+<param name="Країна реєстрації бренду">Україна</param>
+<param name="Габарити упаковки">175 x 90 x 75 мм</param>
+</offer>
+<offer available="true" id="1000936980">
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>65449525</categoryId>
+<picture>https://images.ua.prom.st/1872001737_okulyari-velosipedni-green.jpg</picture>
+<picture>https://images.ua.prom.st/1872001738_okulyari-velosipedni-green.jpg</picture>
+<picture>https://images.ua.prom.st/1872001739_okulyari-velosipedni-green.jpg</picture>
+<name>Окуляри велосипедні Green Cycle GGL-500 Polarized Lens Black-Red</name>
+<vendor>Green Cycle</vendor>
+<vendorCode>GLA-17-88 </vendorCode>
+<description><![CDATA[Зручні окуляри з надзвичайно ергономічною посадкою. Оправа виготовлена з гнучкого і міцного пластика. Полікарбонатні лінзи надають відмінний захист очей від несприятливих погодних умов та механічних пошкоджень, та головне, - від небезпечних ультрафіолетових променів. 
+
+Особливості:  
+
+Оправа виготовлена з надзвичайно міцного і водночас гнучкого матеріалу, який забезпечує довговічність використання. 
+
+Полікарбонатні лінзи забезпечують 100% захист від ультрафіолетового випромінювання UV400 (UVA/UVB) та чітке сприйняття оточення.
+
+
+
+Габарити упаковки: 175 x 90 x 75 мм
+
+Колір оправи: Чорно-червоний
+
+Колір лінзи: Коричневий
+
+Комплектація: Окуляри, чохол, футляр 
+
+Вага: 25 г 
+
+Поляризаційні лінзи: Так
+
+Фотохроматичні лінзи: Ні 
+
+UV-захист: Так
+
+Гідрофобне покриття лінз: Ні 
+
+Країна-виробник товару: Тайвань
+
+Країна реєстрації бренду: Україна]]></description>
+<param name="Особенности">Прогумовані внутрішні частини дужок</param>
+<param name="Размер">Универсальный</param>
+<param name="Колір оправи">Чорно-червоний</param>
+<param name="Колір лінзи">Коричневий</param>
+<param name="Комплектація">Окуляри, чохол, футляр </param>
+<param name="Вага">25 г</param>
+<param name="Поляризаційні лінзи">Ні</param>
+<param name="Фотохроматичні лінзи">Ні</param>
+<param name="UV-захист">Так</param>
+<param name="Гідрофобне покриття лінз">Ні</param>
+<param name="Країна реєстрації бренду">Україна</param>
+<param name="Габарити упаковки">175 x 90 x 75 мм</param>
+</offer>
+<offer available="true" id="1098976640">
+<price>392</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693037</categoryId>
+<picture>https://images.ua.prom.st/2127138027_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138023_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138024_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138025_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138030_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138029_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127138031_chohol-dlya-snoubordu.jpg</picture>
+<name>Чохол для сноуборду Degratti Board 140 Green-Yellow-Red</name>
+<vendor>Degratti</vendor>
+<vendorCode> Board_140_Grn-Yel-Red</vendorCode>
+<description><![CDATA[Нова серія чохлів для гірськолижного спорядження від бренду Degratti.
+
+Зручний для перенесення і перевезення сноуборда разом з кріпленням і черевиками в машині, що запобігає забрудненню одягу та салону.
+
+Пошиття з якісного, стійкого до зношення поліестеру. Чохли мають комфортні лямки та ручку.
+
+Подвійна блискавка по всій довжині надає швидкий доступ всередину. 
+
+Особливості: 
+
+
+	Якісні зносостійкі матеріали;
+	Подвійна блискавка;
+	Комфортні ручки для перенесення.
+
+]]></description>
+<param name="Габарити упаковки">35 x 32 x 5 см</param>
+<param name="Тип">Чохол для сноуборду</param>
+<param name="Матеріал ">Поліестер</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Розміри">140 x 32 x 25 см</param>
+<param name="Країна реєстрації бренду">Україна</param>
+</offer>
+<offer available="true" id="1098981783">
+<price>392</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693037</categoryId>
+<picture>https://images.ua.prom.st/2127146776_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146780_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146781_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146784_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146786_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146789_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127146791_chohol-dlya-snoubordu.jpg</picture>
+<name>Чохол для сноуборду Degratti Board 150 Green-Yellow-Red</name>
+<vendor>Degratti</vendor>
+<vendorCode> Board_150_Grn-Yel-Red</vendorCode>
+<description><![CDATA[Нова серія чохлів для гірськолижного спорядження від бренду Degratti.
+
+Зручний для перенесення і перевезення сноуборда разом з кріпленням і черевиками в машині, що запобігає забрудненню одягу та салону.
+
+Пошиття з якісного, стійкого до зношення поліестеру. Чохли мають комфортні лямки та ручку.
+
+Подвійна блискавка по всій довжині надає швидкий доступ всередину. 
+
+Особливості: 
+
+
+	Якісні зносостійкі матеріали;
+	Подвійна блискавка;
+	Комфортні ручки для перенесення.
+
+]]></description>
+<param name="Габарити упаковки">35 x 32 x 5 см</param>
+<param name="Тип">Чохол для сноуборду</param>
+<param name="Матеріал ">Поліестер</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Розміри">150 x 32 x 25 см</param>
+<param name="Країна реєстрації бренду">Україна</param>
+</offer>
+<offer available="true" id="1098996127">
+<price>392</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693037</categoryId>
+<picture>https://images.ua.prom.st/2127164733_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164737_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164739_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164741_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164743_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164748_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127164749_chohol-dlya-snoubordu.jpg</picture>
+<name>Чохол для сноуборду Degratti Board 160 Green-Yellow-Red</name>
+<vendor>Degratti</vendor>
+<vendorCode> Board_160_Grn-Yel-Red</vendorCode>
+<description><![CDATA[Нова серія чохлів для гірськолижного спорядження від бренду Degratti.
+
+Зручний для перенесення і перевезення сноуборда разом з кріпленням і черевиками в машині, що запобігає забрудненню одягу та салону.
+
+Пошиття з якісного, стійкого до зношення поліестеру. Чохли мають комфортні лямки та ручку.
+
+Подвійна блискавка по всій довжині надає швидкий доступ всередину. 
+
+Особливості: 
+
+
+	Якісні зносостійкі матеріали;
+	Подвійна блискавка;
+	Комфортні ручки для перенесення.
+
+]]></description>
+<param name="Габарити упаковки">35 x 32 x 5 см</param>
+<param name="Тип">Чохол для сноуборду</param>
+<param name="Матеріал ">Поліестер</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Розміри">160 x 32 x 25 см</param>
+<param name="Країна реєстрації бренду">Україна</param>
+</offer>
+<offer available="true" id="1098999277">
+<price>392</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693037</categoryId>
+<picture>https://images.ua.prom.st/2127168771_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168778_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168780_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168782_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168784_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168785_chohol-dlya-snoubordu.jpg</picture>
+<picture>https://images.ua.prom.st/2127168786_chohol-dlya-snoubordu.jpg</picture>
+<name>Чохол для сноуборду Degratti Board 170 Green-Yellow-Red</name>
+<vendor>Degratti</vendor>
+<vendorCode> Board_170_Grn-Yel-Red</vendorCode>
+<description><![CDATA[Нова серія чохлів для гірськолижного спорядження від бренду Degratti.
+
+Зручний для перенесення і перевезення сноуборда разом з кріпленням і черевиками в машині, що запобігає забрудненню одягу та салону.
+
+Пошиття з якісного, стійкого до зношення поліестеру. Чохли мають комфортні лямки та ручку.
+
+Подвійна блискавка по всій довжині надає швидкий доступ всередину. 
+
+Особливості: 
+
+
+	Якісні зносостійкі матеріали;
+	Подвійна блискавка;
+	Комфортні ручки для перенесення.
+
+]]></description>
+<param name="Габарити упаковки">35 x 32 x 5 см</param>
+<param name="Тип">Чохол для сноуборду</param>
+<param name="Матеріал ">Поліестер</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Розміри">170 x 32 x 25 см</param>
+<param name="Країна реєстрації бренду">Україна</param>
+</offer>
+<offer available="true" id="804723925">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1388464416_krosivki-zhinochi-baas.jpg</picture>
+<picture>https://images.ua.prom.st/1388464422_krosivki-zhinochi-baas.jpg</picture>
+<picture>https://images.ua.prom.st/1388464439_krosivki-zhinochi-baas.jpg</picture>
+<picture>https://images.ua.prom.st/1388464485_krosivki-zhinochi-baas.jpg</picture>
+<name>Кросівки жіночі Baas sport 39 bl.red</name>
+<vendor>Baas sport</vendor>
+<vendorCode>L553-11 </vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Текстиль, резина
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Цвет">Черный</param>
+<param name="Отделка и украшения">Без украшений</param>
+<param name="Размер">39</param>
+</offer>
+<offer available="true" id="904142320">
+<price>135</price>
+<currencyId>UAH</currencyId>
+<categoryId>29447008</categoryId>
+<picture>https://images.ua.prom.st/1619583654_nasos-velosipednij-onride.jpg</picture>
+<name>Насос велосипедний Onride Load</name>
+<vendor>OnRide</vendor>
+<vendorCode>69311100009 </vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Легкий та компактний телескопічний велосипедний насос в пластиковому корпусі. Підходить для міських, гірських і шосейних велосипедів. В комплекті кріплення до рами велосипеда. 
+
+ 
+
+Тип: Насос
+
+Матеріал корпусу: 100% Пластик; 
+
+Матеріал штоку: 100% Пластик; 
+
+Максимальний тиск: 100 psi / 6.9 Bar; 
+
+Тип ніпеля: PV/FV, AV/SV, DV;
+
+Колір: Чорний; 
+
+Країна виробник: Тайвань
+
+Країна реєстрації бренду: Україна
+
+ 
+
+Особливості: Кріплення на раму велосипеда; Важіль блокування.
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Тип насоса">Ручной портативный</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Тип рукоятки насоса">Обычная</param>
+<param name="Максимальное давление">6.9</param>
+<param name="Конструкция корпуса насоса">Телескопическая</param>
+</offer>
+<offer available="true" id="971503836">
+<price>605</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1790854768_krosivki-zhinochi-badox.jpg</picture>
+<picture>https://images.ua.prom.st/1790854784_krosivki-zhinochi-badox.jpg</picture>
+<picture>https://images.ua.prom.st/1790854786_krosivki-zhinochi-badox.jpg</picture>
+<picture>https://images.ua.prom.st/1790854788_krosivki-zhinochi-badox.jpg</picture>
+<name>Кросівки жіночі Badox sky blue 40</name>
+<vendor>Badox </vendor>
+<vendorCode>74373we65</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">40</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Синий</param>
+<param name="Сезон">Лето</param>
+</offer>
+<offer available="true" id="1156768549">
+<price>1290</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095096</categoryId>
+<picture>https://images.ua.prom.st/2311386737_cholovichi-trekingovi-krosivki.jpg</picture>
+<picture>https://images.ua.prom.st/2311386742_cholovichi-trekingovi-krosivki.jpg</picture>
+<picture>https://images.ua.prom.st/2311386778_cholovichi-trekingovi-krosivki.jpg</picture>
+<picture>https://images.ua.prom.st/2311386948_cholovichi-trekingovi-krosivki.jpg</picture>
+<picture>https://images.ua.prom.st/2311387108_cholovichi-trekingovi-krosivki.jpg</picture>
+<name>Чоловічі трекінгові кросівки Regatta Edgepoint III 41 Black</name>
+<vendor>Regatta</vendor>
+<vendorCode>Regatta_Edgepoint_41</vendorCode>
+<description><![CDATA[Чоловічі кросівки Regatta поєднують водонепроникні та дихаючі властивості для надзвичайного комфорту у тривалих походах.
+
+Верхня частина виконана із сітки, що має гідрофобну обробку для ефективного відштовхування води і бруду та має мембрану Isotex.
+
+Легка та міцна гумова підошва з рельєфним дизайном забезпечує високе зчеплення на будь-яких поверхнях. В конструкції підошви використовуються вставки з EVA для поглинання ударів при ходьбі.
+
+Торгова марка Regatta завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності. Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+- Легка гумова підошва для комфорту, захисту і зчеплення під ногами.
+
+- Формована устілка EVA Comfort.
+
+- Водонепроникна мембрана Isoteх
+
+- Прогумований бампер для захисту пальців.
+]]></description>
+<param name="Отделка и украшения">Без украшений</param>
+<param name="Сезон">Весняно-літня</param>
+<param name="Мембрана">Isotex</param>
+<param name="Стиль взуття">Активний (active)</param>
+<param name="Тип">Трекінгові кросівки</param>
+<param name="Стать">Чоловічі</param>
+<param name="Колір">Чорний</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Штучні матеріали: Екошкіра / Текстиль</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Гума</param>
+<param name="Розмір">41</param>
+<param name="Країна реєстрації бренду">Великобританія</param>
+<param name="Призначення">Для трекінгу: Для трекінгу</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Габариты упаковки">35 х 28 х 13 см</param>
+<param name="Особливості">Водовідштовхувальна поверхня|Анатомічне взуття</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

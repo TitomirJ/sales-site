@@ -1,0 +1,123 @@
+/*цвета для админ панели*/
+
+/*цвета для фонов*/
+.trans-bg {
+  background: transparent;
+}
+
+.dark-bg {
+  background: #33313e!important
+}
+
+.blue-bg {
+  background: #bed0dd
+}
+
+.table-bg {
+  background: #dfe5f4
+}
+
+.orders-bg-light-blue {
+  background: #a3cbee;
+}
+
+.orders-bg-dark-blue {
+  background: #74b5eb
+}
+
+.orders-bg-light-grey {
+  background: #c6c6c6
+}
+
+.circle-bg-blue-light {
+  background: #1d97fa
+}
+
+.circle-bg-blue-lighter {
+  background: #a6caec
+}
+
+.circle-bg-blue-dark {
+  background: #394bb1
+}
+
+.table-bg-commision {
+  background: #e0e5f3
+}
+
+.decoration-clip {
+  background: #e9ebf5
+}
+
+.red-bg {
+  background: #ffb0a5
+}
+.green-bg {
+  background: #ade2d2
+}
+
+/*цвета для текста*/
+a:hover {
+  color: #33313e
+}
+/*темный цвет текста*/
+.dark-link,
+.blue-d-t {
+  color: #33313e
+}
+
+.green-text {
+  color: #4bdf93;
+}
+
+.light-t {
+  color: #e9ebf5
+}
+
+/*Цвет для рамки*/
+.border-blue {
+  border-color: #bed0dd!important
+}
+.border-grey {
+  border-color: #c1c0cc!important;
+}
+
+.border-blue-custom {
+  border-color: #2056d2!important;
+}
+
+/*цвета при наведении*/
+.red-hover:hover {
+  color: red
+}
+
+.hover-light {
+  transition: .3s
+}
+
+.hover-light a {
+  color: #fff!important
+}
+
+.hover-light:hover a {
+  color: #33313e!important
+}
+
+.hover-light:hover {
+  background: #e9ebf5
+}
+
+tr:hover {
+  background: #cbdff1
+}
+thead tr:hover {
+  background: transparent;
+}
+
+.light-link:hover {
+  color: #fff
+}
+
+.text-danger {
+  color: #dc3545!important;
+}

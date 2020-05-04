@@ -1,0 +1,304 @@
+[2020-04-10 11:42:29] prod.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php:219
+Stack trace:
+#0 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(219): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/af313538/...', 219, Array)
+#1 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(111): App\Http\Controllers\ProviderOrderStatusController->newToSend(Object(Illuminate\Http\Request), Object(App\Order))
+#2 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(81): App\Http\Controllers\ProviderOrderStatusController->routeActions(Object(Illuminate\Http\Request), Object(App\Order))
+#3 [internal function]: App\Http\Controllers\ProviderOrderStatusController->changeStatusOrder(Object(Illuminate\Http\Request), '15587')
+#4 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#5 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('changeStatusOrd...', Array)
+#6 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\ProviderOrderStatusController), 'changeStatusOrd...')
+#7 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#8 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(572): Illuminate\Routing\Route->run()
+#9 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckAbonimentCompanyBlock.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckAbonimentCompanyBlock->handle(Object(Illuminate\Http\Request), Object(Closure))
+#12 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckBlockedCompany.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#14 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckBlockedCompany->handle(Object(Illuminate\Http\Request), Object(Closure))
+#15 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#16 /home/af313538/bigsales.pro/www/app/Http/Middleware/Provider.php(24): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\Provider->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/af313538/bigsales.pro/www/app/Http/Middleware/UserActivity.php(26): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\UserActivity->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(65): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#35 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#38 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#42 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(533): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#43 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(511): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#44 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#45 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#46 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#53 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#56 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#57 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#58 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#59 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#60 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#61 /home/af313538/bigsales.pro/www/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#62 {main}  
+[2020-04-10 11:43:33] prod.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php:140
+Stack trace:
+#0 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(140): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/af313538/...', 140, Array)
+#1 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(111): App\Http\Controllers\ProviderOrderStatusController->newToConfirm(Object(Illuminate\Http\Request), Object(App\Order))
+#2 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderOrderStatusController.php(81): App\Http\Controllers\ProviderOrderStatusController->routeActions(Object(Illuminate\Http\Request), Object(App\Order))
+#3 [internal function]: App\Http\Controllers\ProviderOrderStatusController->changeStatusOrder(Object(Illuminate\Http\Request), '15587')
+#4 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#5 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('changeStatusOrd...', Array)
+#6 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\ProviderOrderStatusController), 'changeStatusOrd...')
+#7 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#8 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(572): Illuminate\Routing\Route->run()
+#9 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckAbonimentCompanyBlock.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckAbonimentCompanyBlock->handle(Object(Illuminate\Http\Request), Object(Closure))
+#12 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckBlockedCompany.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#14 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckBlockedCompany->handle(Object(Illuminate\Http\Request), Object(Closure))
+#15 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#16 /home/af313538/bigsales.pro/www/app/Http/Middleware/Provider.php(24): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\Provider->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/af313538/bigsales.pro/www/app/Http/Middleware/UserActivity.php(26): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\UserActivity->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(65): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#35 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#36 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#37 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#38 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#39 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#40 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#42 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(533): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#43 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(511): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#44 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#45 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#46 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#53 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#54 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#55 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#56 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#57 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#58 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#59 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#60 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#61 /home/af313538/bigsales.pro/www/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#62 {main}  
+[2020-04-10 14:20:13] prod.INFO: Ошибка платежа{"payment_id":1291653184,"action":"pay","status":"failure","err_code":"expired_p24","err_description":"Your payment session has timed out","version":3,"type":"buy","paytype":"privat24","public_key":"i63206221095","acq_id":414963,"order_id":"17288","liqpay_order_id":"SZB12QCO1586514011734645","description":"Пополнение абонимента компании \"Престиж\" на сайте BigSales.pro, платеж №17288","ip":"188.163.97.231","amount":1542.42,"currency":"UAH","sender_commission":0.0,"receiver_commission":42.42,"agent_commission":0.0,"amount_debit":1542.42,"amount_credit":1542.42,"commission_debit":0.0,"commission_credit":42.42,"currency_debit":"UAH","currency_credit":"UAH","sender_bonus":0.0,"amount_bonus":0.0,"mpi_eci":"7","is_3ds":false,"language":"ru","create_date":1586514011736,"end_date":1586517612581,"transaction_id":1291653184,"code":"expired_p24"}  
+[2020-04-10 16:33:48] prod.ERROR: exception 'ErrorException' with message 'file_get_contents(https://bigsales.pro/images/uploads/91afc9ecc6ab39d66260ce148c5509e596d87ab6.jpeg): failed to open stream: HTTP request failed! ' in /home/af313538/bigsales.pro/www/app/Http/Controllers/ModerationProductsController.php:647
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_get_conten...', '/home/af313538/...', 647, Array)
+#1 /home/af313538/bigsales.pro/www/app/Http/Controllers/ModerationProductsController.php(647): file_get_contents('https://bigsale...')
+#2 /home/af313538/bigsales.pro/www/app/Http/Controllers/ModerationProductsController.php(584): App\Http\Controllers\ModerationProductsController->uploadImagesToS3Drive(Array)
+#3 [internal function]: App\Http\Controllers\ModerationProductsController->update(Object(Illuminate\Http\Request), '182947')
+#4 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#5 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('update', Array)
+#6 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\ModerationProductsController), 'update')
+#7 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#8 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(572): Illuminate\Routing\Route->run()
+#9 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#10 /home/af313538/bigsales.pro/www/app/Http/Middleware/AdminOrModerator.php(24): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#11 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\AdminOrModerator->handle(Object(Illuminate\Http\Request), Object(Closure))
+#12 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#13 /home/af313538/bigsales.pro/www/app/Http/Middleware/UserActivity.php(26): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#14 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\UserActivity->handle(Object(Illuminate\Http\Request), Object(Closure))
+#15 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#16 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#17 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#18 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#19 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(65): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#20 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#21 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#22 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#23 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#24 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#25 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#26 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#27 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#28 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#29 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#30 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#31 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#32 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#33 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#34 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#35 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#36 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(533): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#37 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(511): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#38 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#39 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#40 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#41 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#42 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#43 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#44 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#45 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#46 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#47 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#48 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#49 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#50 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#51 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#52 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#53 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#54 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#55 /home/af313538/bigsales.pro/www/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#56 {main}  
+[2020-04-10 18:11:06] prod.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderProductController.php:1115
+Stack trace:
+#0 /home/af313538/bigsales.pro/www/app/Http/Controllers/ProviderProductController.php(1115): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/af313538/...', 1115, Array)
+#1 [internal function]: App\Http\Controllers\ProviderProductController->deleteProduct(Object(Illuminate\Http\Request))
+#2 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(55): call_user_func_array(Array, Array)
+#3 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(44): Illuminate\Routing\Controller->callAction('deleteProduct', Array)
+#4 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(204): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(App\Http\Controllers\ProviderProductController), 'deleteProduct')
+#5 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Route.php(160): Illuminate\Routing\Route->runController()
+#6 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(572): Illuminate\Routing\Route->run()
+#7 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Routing\Router->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#8 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckAbonimentCompanyBlock.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#9 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckAbonimentCompanyBlock->handle(Object(Illuminate\Http\Request), Object(Closure))
+#10 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#11 /home/af313538/bigsales.pro/www/app/Http/Middleware/CheckBlockedCompany.php(25): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#12 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\CheckBlockedCompany->handle(Object(Illuminate\Http\Request), Object(Closure))
+#13 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#14 /home/af313538/bigsales.pro/www/app/Http/Middleware/Provider.php(24): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#15 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\Provider->handle(Object(Illuminate\Http\Request), Object(Closure))
+#16 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#17 /home/af313538/bigsales.pro/www/app/Http/Middleware/UserActivity.php(26): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#18 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): App\Http\Middleware\UserActivity->handle(Object(Illuminate\Http\Request), Object(Closure))
+#19 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#20 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#21 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Routing\Middleware\SubstituteBindings->handle(Object(Illuminate\Http\Request), Object(Closure))
+#22 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#23 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php(43): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#24 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Auth\Middleware\Authenticate->handle(Object(Illuminate\Http\Request), Object(Closure))
+#25 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#26 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(65): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#27 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\VerifyCsrfToken->handle(Object(Illuminate\Http\Request), Object(Closure))
+#28 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#29 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#30 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\View\Middleware\ShareErrorsFromSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#31 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#32 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(64): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#33 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Session\Middleware\StartSession->handle(Object(Illuminate\Http\Request), Object(Closure))
+#34 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#35 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#36 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse->handle(Object(Illuminate\Http\Request), Object(Closure))
+#37 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#38 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(59): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#39 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Cookie\Middleware\EncryptCookies->handle(Object(Illuminate\Http\Request), Object(Closure))
+#40 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#41 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#42 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(574): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#43 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(533): Illuminate\Routing\Router->runRouteWithinStack(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request))
+#44 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Router.php(511): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#45 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(176): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#46 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(30): Illuminate\Foundation\Http\Kernel->Illuminate\Foundation\Http\{closure}(Object(Illuminate\Http\Request))
+#47 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#48 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#49 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#50 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(30): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#51 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\TransformsRequest->handle(Object(Illuminate\Http\Request), Object(Closure))
+#52 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#53 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#54 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle(Object(Illuminate\Http\Request), Object(Closure))
+#55 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#56 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(46): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#57 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(148): Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode->handle(Object(Illuminate\Http\Request), Object(Closure))
+#58 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php(53): Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}(Object(Illuminate\Http\Request))
+#59 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(102): Illuminate\Routing\Pipeline->Illuminate\Routing\{closure}(Object(Illuminate\Http\Request))
+#60 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(151): Illuminate\Pipeline\Pipeline->then(Object(Closure))
+#61 /home/af313538/bigsales.pro/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#62 /home/af313538/bigsales.pro/www/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#63 {main}  
+[2020-04-10 20:30:04] prod.INFO: удалено из таблицы для бэкапа 5186 товаров у компании с id:40  
+[2020-04-10 20:30:13] prod.INFO: состояние зафиксировано в таблице успешно 5186 товаров у компании :40  
+[2020-04-10 20:30:13] prod.INFO: удалено из таблицы для бэкапа 2343 товаров у компании с id:56  
+[2020-04-10 20:30:16] prod.INFO: состояние зафиксировано в таблице успешно 2343 товаров у компании :56  
+[2020-04-10 20:30:16] prod.INFO: удалено из таблицы для бэкапа 524 товаров у компании с id:59  
+[2020-04-10 20:30:16] prod.INFO: состояние зафиксировано в таблице успешно 524 товаров у компании :59  
+[2020-04-10 20:30:16] prod.INFO: удалено из таблицы для бэкапа 3592 товаров у компании с id:64  
+[2020-04-10 20:30:20] prod.INFO: состояние зафиксировано в таблице успешно 3592 товаров у компании :64  
+[2020-04-10 20:30:21] prod.INFO: удалено из таблицы для бэкапа 1491 товаров у компании с id:128  
+[2020-04-10 20:30:22] prod.INFO: состояние зафиксировано в таблице успешно 1491 товаров у компании :128  
+[2020-04-10 20:30:22] prod.INFO: удалено из таблицы для бэкапа 705 товаров у компании с id:180  
+[2020-04-10 20:30:22] prod.INFO: состояние зафиксировано в таблице успешно 705 товаров у компании :180  
+[2020-04-10 20:30:22] prod.INFO: удалено из таблицы для бэкапа 0 товаров у компании с id:188  
+[2020-04-10 20:30:22] prod.INFO: состояние зафиксировано в таблице успешно 443 товаров у компании :188  
+[2020-04-10 20:30:22] prod.INFO: удалено из таблицы для бэкапа 1017 товаров у компании с id:201  
+[2020-04-10 20:30:23] prod.INFO: состояние зафиксировано в таблице успешно 1017 товаров у компании :201  
+[2020-04-10 20:30:23] prod.INFO: удалено из таблицы для бэкапа 797 товаров у компании с id:207  
+[2020-04-10 20:30:23] prod.INFO: состояние зафиксировано в таблице успешно 797 товаров у компании :207  
+[2020-04-10 20:30:23] prod.INFO: удалено из таблицы для бэкапа 6056 товаров у компании с id:211  
+[2020-04-10 20:30:38] prod.INFO: состояние зафиксировано в таблице успешно 6087 товаров у компании :211  
+[2020-04-10 20:30:39] prod.INFO: удалено из таблицы для бэкапа 943 товаров у компании с id:216  
+[2020-04-10 20:30:39] prod.INFO: состояние зафиксировано в таблице успешно 943 товаров у компании :216  
+[2020-04-10 20:30:39] prod.INFO: удалено из таблицы для бэкапа 3314 товаров у компании с id:218  
+[2020-04-10 20:30:43] prod.INFO: состояние зафиксировано в таблице успешно 3314 товаров у компании :218  
+[2020-04-10 20:30:44] prod.INFO: удалено из таблицы для бэкапа 3798 товаров у компании с id:222  
+[2020-04-10 20:30:49] prod.INFO: состояние зафиксировано в таблице успешно 3798 товаров у компании :222  
+[2020-04-10 20:30:49] prod.INFO: удалено из таблицы для бэкапа 278 товаров у компании с id:246  
+[2020-04-10 20:30:49] prod.INFO: состояние зафиксировано в таблице успешно 286 товаров у компании :246  
+[2020-04-10 21:10:03] prod.INFO: table maked success: count row:11 error:0  
+[2020-04-10 21:20:17] prod.INFO: xml сформирован за:  0.035552978515625 секунд  
+[2020-04-10 21:20:17] prod.INFO: id:246 Компания: Престиж обновилась за 13.994096040726 секунд  
+[2020-04-10 21:30:29] prod.INFO: у компании с id : 222 Данные в файле не обновлялись после   
+[2020-04-10 21:30:29] prod.INFO: id:222 Компания: Luxyart обновилась за 25.564521074295 секунд  
+[2020-04-10 21:40:49] prod.INFO: id:218 Компания: Sport Nutrition Ukraine обновилась за 46.462009906769 секунд  
+[2020-04-10 21:50:57] prod.INFO: id:216 Компания: garnitur.plus обновилась за 53.740953922272 секунд  
+[2020-04-10 22:15:30] prod.INFO: xml сформирован за:  0.0095281600952148 секунд  
+[2020-04-10 22:15:30] prod.INFO: id:211 Компания: eLook обновилась за 925.48965501785 секунд  
+[2020-04-10 22:20:43] prod.INFO: id:207 Компания: BAGS COMPANY обновилась за 40.237205028534 секунд  
+[2020-04-10 22:31:01] prod.INFO: xml сформирован за:  0.012012004852295 секунд  
+[2020-04-10 22:31:01] prod.INFO: id:201 Компания: Trend-Box обновилась за 55.733123064041 секунд  
+[2020-04-10 22:40:23] prod.INFO: id:180 Компания: Planeta Hobby обновилась за 19.626394987106 секунд  
+[2020-04-10 23:02:31] prod.INFO: xml сформирован за:  0.026212930679321 секунд  
+[2020-04-10 23:02:31] prod.INFO: id:64 Компания: бленда-шоп обновилась за 748.50994992256 секунд  
+[2020-04-10 23:11:39] prod.INFO: id:56 Компания: Скай Трейд обновилась за 95.54004406929 секунд  
+[2020-04-10 23:32:14] prod.INFO: xml сформирован за:  0.02810001373291 секунд  
+[2020-04-10 23:32:14] prod.INFO: id:40 Компания: ФОП Балацький Святослав Романович обновилась за 732.0931789875 секунд  
+[2020-04-10 23:40:02] prod.INFO: all companies  updated. This work cron  
+[2020-04-10 23:50:02] prod.INFO: all companies  updated. This work cron  

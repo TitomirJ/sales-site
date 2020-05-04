@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-20 13:26">
+  <shop>
+    <name>Profi Rider</name>
+    <company>Profi Rider</company>
+    <url>https://profirider.com/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+      <category id="83914121" parentId="71777018">Ремені та пояси</category>
+      <category id="83913495" parentId="16661508">Спортивні костюми</category>
+      <category id="16715121" parentId="16661508">Чоловічі куртки</category>
+      <category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+      <category id="53761682" parentId="6257850">Велосвітло</category>
+      <category id="24353170">Трекингове взуття</category>
+      <category id="19959920">Велосипеди</category>
+      <category id="18890955" parentId="14407150">Термобілизна</category>
+      <category id="17343107" parentId="17305611">Зимові штани</category>
+      <category id="17343103" parentId="16661508">Зимові штани</category>
+      <category id="17305720" parentId="17305611">Шапки</category>
+      <category id="17305707" parentId="17305611">Куртки</category>
+      <category id="17305611">Жіночий одяг</category>
+      <category id="16661555" parentId="16661508">Шапки</category>
+      <category id="16661508">Чоловічий одяг</category>
+      <category id="16617831" parentId="4122200">Спальні мішки</category>
+      <category id="16617810" parentId="4122200">Трекінгові палиці</category>
+      <category id="14693395" parentId="7196249">Чоловічі кеди</category>
+      <category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+      <category id="14693393" parentId="7196249">Чоловічі черевики</category>
+      <category id="14693063" parentId="7196244">Жіночі кросівки</category>
+      <category id="14693061" parentId="7196244">Жіночі черевики</category>
+      <category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+      <category id="14693035" parentId="14407150">Універсальні головні убори</category>
+      <category id="14408905" parentId="14407150">Шоломи</category>
+      <category id="14407588" parentId="14407150">Маски</category>
+      <category id="7196249">Чоловіче взуття</category>
+      <category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+      <category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+      <category id="6257850">Велоаксесуари</category>
+      <category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+      <category id="4122200">Рюкзаки і туризм</category>
+      <category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+      <category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+      <category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+      <category id="71777030" parentId="71777028">Рюкзаки</category>
+      <category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+      <category id="71777018">Одяг, взуття та аксесуари</category>
+      <category id="69024725" parentId="46709597">Фітнес-браслети</category>
+      <category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+      <category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+      <category id="52859360">Басейн і аквафітнес</category>
+      <category id="46709702" parentId="46709597">Наручні годинники</category>
+      <category id="46709597">Наручні годинники</category>
+      <category id="45139423" parentId="4122200">Намети і аксесуари</category>
+      <category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+      <category id="36278188" parentId="36275949">Маски</category>
+      <category id="36276195" parentId="36275949">Шоломи</category>
+      <category id="36275949">Уцінка</category>
+      <category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+      <category id="29447009" parentId="6257850">Велоінструменти</category>
+      <category id="29447008" parentId="6257850">Насоси</category>
+      <category id="29447007" parentId="6257850">Велодзвінки</category>
+      <category id="28200372" parentId="7196244">Жіночі кеди</category>
+      <category id="28164081" parentId="7196244">Жіночі сліпони</category>
+      <category id="27554175" parentId="14407150">Сноуборди</category>
+      <category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+      <category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+      <category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+      <category id="24572876" parentId="17305611">Спортивні штани</category>
+      <category id="24544864" parentId="16661508">Спортивні штани</category>
+      <category id="22851891" parentId="16661508">Футболки</category>
+      <category id="22028141" parentId="7196244">Жіночі балетки</category>
+      <category id="18029666">Sale -34% брендові куртки</category>
+      <category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+      <category id="14693027" parentId="14407150">Лижні палиці</category>
+      <category id="14407150">Зимовий спорт</category>
+      <category id="13502021" parentId="6257850">Велокомп'ютери</category>
+      <category id="7196244">Жіноче взуття</category>
+      <category id="6296093" parentId="6257850">Велосипедні сумки</category>
+      <category id="58981807">Ігрові види спорту</category>
+      <category id="66636889">Прогулянки й активний відпочинок</category>
+      <category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+      <category id="65449525" parentId="65446905">Спортивні окуляри</category>
+      <category id="65447344" parentId="65446905">Спортивні сумки</category>
+      <category id="65446905">Спортивні аксесуари</category>
+      <category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+      <category id="52863748" parentId="52859360">Шапочки для плавання</category>
+      <category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+      <category id="52863745" parentId="52859360">Окуляри для плавання</category>
+      <category id="46807613" parentId="36275949">Годинники</category>
+      <category id="49986322" parentId="36275949">Штани</category>
+      <category id="46711296" parentId="46709597">Смарт-годинники</category>
+      <category id="43651396" parentId="14407150">Рукавиці</category>
+      <category id="39308422" parentId="14407150">Черевики лижні</category>
+      <category id="36678205" parentId="36275949">Куртки</category>
+      <category id="36660532" parentId="36275949">Взуття</category>
+      <category id="27250069" parentId="14407150">Гірські лижі</category>
+      <category id="27094492" parentId="24353170">Жіночі кросівки</category>
+      <category id="22851904" parentId="17305611">Футболки</category>
+      <category id="24570219" parentId="17305611">Кофти</category>
+      <category id="24543418" parentId="16661508">Кофти</category>
+      <category id="22851901" parentId="16661508">Шорти</category>
+    </categories>
+  <offers>
+<offer available="true" id="1110975857">
+    <url>https://profirider.com/p1110975857-ryukzak-black-diamond.html</url>
+    <oldprice>2128.57</oldprice>
+    <price>1490</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160274063_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160274059_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160274066_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160274069_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160274070_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Rock Blitz 15 BACKPACK</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>Alloy 681189_ALLY</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Rock Blitz 15 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+Зовнішня прокладка шланга H2O дає вам можливість зберігати гідратацію при русі. М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня, а ремінець на грудині і поясний ремінь повністю знімаються для економії ваги при швидких і легких вилазках.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	Верхній ремінець також подвоюється як мотузка для перенесення
+	Зовнішня прокладка шлангу H2O
+	EVA М’які лямки і задня панель
+	Регульований по висоті поясний ремінь для кращої підгонки над ременем безпеки
+	Повністю знімний ремінець для грудини і поясний ремінь для зниження ваги при необхідності
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,5 кг</param>
+    <param name="Об'єм, л" unit="">15</param>
+    <param name="Колір" unit="">Grey: Grey</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110990402">
+    <url>https://profirider.com/p1110990402-ryukzak-black-diamond.html</url>
+    <oldprice>2128.57</oldprice>
+    <price>1490</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160290551_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160290548_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160290557_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160290558_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160290559_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Rock Blitz 15 BACKPACK Black</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681189_BLAK</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Rock Blitz 15 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+Зовнішня прокладка шланга H2O дає вам можливість зберігати гідратацію при русі. М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня, а ремінець на грудині і поясний ремінь повністю знімаються для економії ваги при швидких і легких вилазках.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	Верхній ремінець також подвоюється як мотузка для перенесення
+	Зовнішня прокладка шлангу H2O
+	EVA М’які лямки і задня панель
+	Регульований по висоті поясний ремінь для кращої підгонки над ременем безпеки
+	Повністю знімний ремінець для грудини і поясний ремінь для зниження ваги при необхідності
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="регулювання нап" unit="">Є</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,5 кг</param>
+    <param name="Об'єм, л" unit="">15</param>
+    <param name="Колір" unit="">Black: Black</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110991798">
+    <url>https://profirider.com/p1110991798-ryukzak-black-diamond.html</url>
+    <oldprice>2128.57</oldprice>
+    <price>1490</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160292083_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160292080_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160292085_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160292087_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160292088_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Rock Blitz 15 BACKPACK Red Oxide</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>BD681189_RDOX</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Rock Blitz 15 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+Зовнішня прокладка шланга H2O дає вам можливість зберігати гідратацію при русі. М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня, а ремінець на грудині і поясний ремінь повністю знімаються для економії ваги при швидких і легких вилазках.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	Верхній ремінець також подвоюється як мотузка для перенесення
+	Зовнішня прокладка шлангу H2O
+	EVA М’які лямки і задня панель
+	Регульований по висоті поясний ремінь для кращої підгонки над ременем безпеки
+	Повністю знімний ремінець для грудини і поясний ремінь для зниження ваги при необхідності
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="регулювання нап" unit="">Є</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,5 кг</param>
+    <param name="Об'єм, л" unit="">15</param>
+    <param name="Колір" unit="">Red: Dark Red</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110993190">
+    <url>https://profirider.com/p1110993190-ryukzak-black-diamond.html</url>
+    <oldprice>2657.14</oldprice>
+    <price>1860</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160293171_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293167_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293174_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293175_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293177_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293179_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160293180_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 20 BACKPACK Astral Blue</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681225_ASTB</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу. Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки.
+
+Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+</description>
+    <param name="Габарити упаковки" unit="">42 х 31 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">42 х 31 х 18 см</param>
+    <param name="Вага" unit="">0,7 кг</param>
+    <param name="Об'єм, л" unit="">20</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110997095">
+    <url>https://profirider.com/p1110997095-ryukzak-black-diamond.html</url>
+    <oldprice>2657.14</oldprice>
+    <price>1860</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160296050_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296034_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296043_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296042_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296045_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296048_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296049_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 20 BACKPACK Bordeaux</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681225_6018</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу. Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки.
+
+Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+</description>
+    <param name="Габарити упаковки" unit="">42 х 31 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">42 х 31 х 18 см</param>
+    <param name="Вага" unit="">0,7 кг</param>
+    <param name="Об'єм, л" unit="">20</param>
+    <param name="Колір" unit="">Red: Dark Red</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110998007">
+    <url>https://profirider.com/p1110998007-ryukzak-black-diamond.html</url>
+    <oldprice>2657.14</oldprice>
+    <price>1860</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160296816_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296815_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296841_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296850_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296945_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296946_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160296948_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 20 BACKPACK Red Oxide</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681225_RDOX</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу. Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки.
+
+Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+</description>
+    <param name="Габарити упаковки" unit="">42 х 31 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">42 х 31 х 18 см</param>
+    <param name="Вага" unit="">0,7 кг</param>
+    <param name="Об'єм, л" unit="">20</param>
+    <param name="Колір" unit="">Red: Dark Red</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1110999403">
+    <url>https://profirider.com/p1110999403-ryukzak-black-diamond.html</url>
+    <oldprice>2657.14</oldprice>
+    <price>1860</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160298185_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298184_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298198_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298200_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298270_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298269_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160298271_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 20 BACKPACK Sargeant</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681225_SRGT</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу. Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки.
+
+Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+</description>
+    <param name="Габарити упаковки" unit="">42 х 31 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">42 х 31 х 18 см</param>
+    <param name="Вага" unit="">0,7 кг</param>
+    <param name="Об'єм, л" unit="">20</param>
+    <param name="Колір" unit="">Green: Dark Green</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111000333">
+    <url>https://profirider.com/p1111000333-ryukzak-black-diamond.html</url>
+    <oldprice>2825.71</oldprice>
+    <price>1978</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160299124_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299107_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299114_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299118_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299117_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299123_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160299125_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 24 BACKPACK Black-Teal</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681226_9141</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу.
+
+Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки. Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 33 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="регулювання нап" unit="">Є</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 33 х 18 см</param>
+    <param name="Вага" unit="">0,81 кг</param>
+    <param name="Об'єм, л" unit="">24</param>
+    <param name="Колір" unit="">Black: Black</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+  </offer>
+  <offer available="true" id="1111019300">
+    <url>https://profirider.com/p1111019300-ryukzak-black-diamond.html</url>
+    <oldprice>2825.71</oldprice>
+    <price>1978</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160331356_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331355_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331363_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331365_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331369_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331370_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331373_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 24 BACKPACK Curry</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode> 681226_CRRY</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу.
+
+Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки. Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 33 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 33 х 18 см</param>
+    <param name="Вага" unit="">0,81 кг</param>
+    <param name="Об'єм, л" unit="">24</param>
+    <param name="Колір" unit="">Інші кольори: Golden</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111019433">
+    <url>https://profirider.com/p1111019433-ryukzak-black-diamond.html</url>
+    <oldprice>2825.71</oldprice>
+    <price>1978</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160331938_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331931_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331933_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331937_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331939_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331941_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160331940_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond STREET CREEK 24 BACKPACK Storm Blue</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681226_4030</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Black Diamond Street Creek - стильна і функціональна модель, призначена для поїздок на роботу.
+
+Виділений зовнішній 15-дюймовий чохол для ноутбука Street Creek додає універсальності для роботи в жорстких умовах, в той час як міцна конструкція мішковини витримує щоденні поїздки. Основне відділення з швидким доступом дає можливість не витрачати час на пакування рюкзака, а внутрішня захисна кишеня надійно зберігає ваші ключі і гаманець при відвідуванні спортзалу.
+
+
+
+М’які наплічні ремені і задня панель EVA забезпечують максимальний комфорт під час поїздок на роботу, а регульовані ремені на грудині і поясний ремінь (обидва знімаються) забезпечують надійну посадку при поїздках по місту.
+
+Особливості:
+
+
+	Головний відсік зі швидким доступом
+	Застібка з анодованого матового чорного металу
+	15-дюймовий спеціальний зовнішній чохол для ноутбука
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Регульовані ремені грудини і поясний ремінь (обидва знімаються) для надійної посадки
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 33 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">1260d Ballistic nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 33 х 18 см</param>
+    <param name="Вага" unit="">0,81 кг</param>
+    <param name="Об'єм, л" unit="">24</param>
+    <param name="Колір" unit="">Blue: Light Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111019895">
+    <url>https://profirider.com/p1111019895-ryukzak-black-diamond.html</url>
+    <oldprice>1171.43</oldprice>
+    <price>820</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160332728_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160332730_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160332740_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160332741_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160332745_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160332746_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Trail Blitz 12 BACKPACK Kingfisher</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681222_KFSH</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Trail Blitz 12 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	EVA М’які лямки і задня панель
+
+</description>
+    <param name="Габарити упаковки" unit="">38 х 28 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">38 х 28 х 13 см</param>
+    <param name="Вага" unit="">0,185 кг</param>
+    <param name="Об'єм, л" unit="">12</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111031234">
+    <url>https://profirider.com/p1111031234-ryukzak-black-diamond.html</url>
+    <oldprice>1171.43</oldprice>
+    <price>820</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160350564_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160350566_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160350578_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160350581_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160350582_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160350585_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Trail Blitz 12 BACKPACK Red</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681222_RED0</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Trail Blitz 12 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	EVA М’які лямки і задня панель
+
+</description>
+    <param name="Габарити упаковки" unit="">38 х 28 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">38 х 28 х 13 см</param>
+    <param name="Вага" unit="">0,185 кг</param>
+    <param name="Об'єм, л" unit="">12</param>
+    <param name="Колір" unit="">Red: Red</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111041303">
+    <url>https://profirider.com/p1111041303-ryukzak-black-diamond.html</url>
+    <oldprice>2114.28</oldprice>
+    <price>1480</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160362307_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362291_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362297_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362301_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362302_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362308_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160362306_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Trail Blitz 16 Black</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681230_0002</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Trail Blitz 16 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня.
+
+ 
+
+Присутні кріплення для трекінгових палиць.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	EVA М’які лямки і задня панель
+	Кріплення для трекінгових палиць
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,25 кг</param>
+    <param name="Об'єм, л" unit="">16</param>
+    <param name="Колір" unit="">Black: Black</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111045314">
+    <url>https://profirider.com/p1111045314-ryukzak-black-diamond.html</url>
+    <oldprice>2114.28</oldprice>
+    <price>1480</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160365857_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365856_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365867_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365873_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365875_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365876_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365878_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160365877_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond Trail Blitz 16 Mulberry</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681230_5003</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Trail Blitz 16 є гідним доповненням до будь-якого багатопрофільного набору і призначений для того, щоб рухатись разом з вами крок за кроком, несучи все найнеобхідніше на вершину.
+
+Завдяки фірмовому основному отвору в стилі Blitz і бічної кишені на блискавці для швидкого доступу по дорозі до телефону, топографічному пристрою або камері, цей рюкзак також має урізаний профіль для швидкого переміщення.
+
+М'які EVA плечові ремені і задня панель рюкзака забезпечують комфорт протягом усього дня.
+
+ 
+
+Присутні кріплення для трекінгових палиць.
+
+Особливості:
+
+
+	Головний отвір в стилі бліц для зручного доступу під час маршруту
+	Зовнішня бокова кишеня на блискавці для швидкого доступу до путівника / телефону / камери
+	EVA М’які лямки і задня панель
+	Кріплення для трекінгових палиць
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,25 кг</param>
+    <param name="Об'єм, л" unit="">16</param>
+    <param name="Колір" unit="">Інші кольори: Violet</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111056275">
+    <url>https://profirider.com/p1111056275-ryukzak-black-diamond.html</url>
+    <oldprice>1971.43</oldprice>
+    <price>1380</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160375077_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160375069_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160375070_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160375071_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160375075_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160375076_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond TRAIL ZIP 14L BACKPACK Black</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681228_0002</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Побудований для денних походів або міських маршрутів, Trail Zip призначений для подорожей. З 14 літрами, доступними за допомогою блискавки, Trail Zip 14 також має спеціалізовані кріплення для трекінгових палиць, а також кишеня BDFlash, спеціально розроблена для зберігання ліхтаря, зберігаючи вас в безпеці та видимості.
+
+Внутрішня кишеня зберігає ваш гаманець і ключі, а чотири петлі, з'єднані на задній панелі, дозволяють закріпити Trail Zip14L на іншому, більшому рюкзаку.
+
+Особливості:
+
+
+	 Головний відсік з доступом на блискавці
+	 Спеціалізовані кріплення для трекінгових палиць
+	BDFlash кишеня - інтегрована втулка для ліхтаря для збереження і видимості 
+	 Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Легкі плечові ремінці з повним регулюванням
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">50 х 32 х 15 см</param>
+    <param name="Вага" unit="">0,21 кг</param>
+    <param name="Об'єм, л" unit="">14</param>
+    <param name="Колір" unit="">Black: Black</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111058262">
+    <url>https://profirider.com/p1111058262-ryukzak-black-diamond.html</url>
+    <oldprice>1971.43</oldprice>
+    <price>1380</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160377580_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377574_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377573_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377578_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377576_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377577_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377579_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160377581_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond TRAIL ZIP 14L BACKPACK Hyper Red</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681228_6002</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Побудований для денних походів або міських маршрутів, Trail Zip призначений для подорожей. З 14 літрами, доступними за допомогою блискавки, Trail Zip 14 також має спеціалізовані кріплення для трекінгових палиць, а також кишеня BDFlash, спеціально розроблена для зберігання ліхтаря, зберігаючи вас в безпеці та видимості.
+
+Внутрішня кишеня зберігає ваш гаманець і ключі, а чотири петлі, з'єднані на задній панелі, дозволяють закріпити Trail Zip14L на іншому, більшому рюкзаку.
+
+Особливості:
+
+
+	 Головний відсік з доступом на блискавці
+	 Спеціалізовані кріплення для трекінгових палиць
+	BDFlash кишеня - інтегрована втулка для ліхтаря для збереження і видимості 
+	 Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Легкі плечові ремінці з повним регулюванням
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">50 х 32 х 15 см</param>
+    <param name="Вага" unit="">0,21 кг</param>
+    <param name="Об'єм, л" unit="">14</param>
+    <param name="Колір" unit="">Red: Red</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111058751">
+    <url>https://profirider.com/p1111058751-ryukzak-black-diamond.html</url>
+    <oldprice>2228.57</oldprice>
+    <price>1560</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160378548_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378547_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378549_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378555_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378554_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378559_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160378561_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond TRAIL ZIP 18L BACKPACK Alloy</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681229_1000</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Побудований для денних походів або міських маршрутів, Trail Zip призначений для подорожей. З 18 літрами, доступними за допомогою блискавки, Trail Zip 18 також має спеціалізовані кріплення для трекінгових палиць, а також кишеня BDFlash, спеціально розроблена для зберігання ліхтаря, зберігаючи вас в безпеці та видимості.
+
+ 
+
+Внутрішня кишеня зберігає ваш гаманець і ключі, а чотири петлі, з'єднані на задній панелі, дозволяють закріпити Trail Zip18L на іншому, більшому рюкзаку.
+
+Особливості:
+
+
+	Головний відсік з доступом на блискавці
+	Спеціалізовані кріплення для трекінгових палиць
+	BDFlash кишеня - інтегрована втулка для ліхтаря для збереження і видимості 
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Легкі плечові ремінці з повним регулюванням
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,4 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Grey: Grey</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111061120">
+    <url>https://profirider.com/p1111061120-ryukzak-black-diamond.html</url>
+    <oldprice>2228.57</oldprice>
+    <price>1560</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160381659_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381658_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381660_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381661_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381662_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381680_ryukzak-black-diamond.jpg</picture>
+    <picture>https://images.ua.prom.st/2160381692_ryukzak-black-diamond.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Black Diamond TRAIL ZIP 18L BACKPACK Kingfisher</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>681229_4015</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Побудований для денних походів або міських маршрутів, Trail Zip призначений для подорожей. З 18 літрами, доступними за допомогою блискавки, Trail Zip 18 також має спеціалізовані кріплення для трекінгових палиць, а також кишеня BDFlash, спеціально розроблена для зберігання ліхтаря, зберігаючи вас в безпеці та видимості.
+
+ 
+
+Внутрішня кишеня зберігає ваш гаманець і ключі, а чотири петлі, з'єднані на задній панелі, дозволяють закріпити Trail Zip18L на іншому, більшому рюкзаку.
+
+Особливості:
+
+
+	Головний відсік з доступом на блискавці
+	Спеціалізовані кріплення для трекінгових палиць
+	BDFlash кишеня - інтегрована втулка для ліхтаря для збереження і видимості 
+	Внутрішня кишеня безпеки для гаманця та зберігання ключів
+	Легкі плечові ремінці з повним регулюванням
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 34 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">840D Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">55 х 34 х 15 см</param>
+    <param name="Вага" unit="">0,4 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого та гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111063268">
+    <url>https://profirider.com/p1111063268-ryukzak-marmot-anza.html</url>
+    <oldprice>1457.14</oldprice>
+    <price>1020</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160382556_ryukzak-marmot-anza.jpg</picture>
+    <picture>https://images.ua.prom.st/2160382562_ryukzak-marmot-anza.jpg</picture>
+    <picture>https://images.ua.prom.st/2160382561_ryukzak-marmot-anza.jpg</picture>
+    <picture>https://images.ua.prom.st/2160382564_ryukzak-marmot-anza.jpg</picture>
+    <picture>https://images.ua.prom.st/2160382563_ryukzak-marmot-anza.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Anza 22 Neptune Denim</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT23860_3953</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Marmot Anza 22 - жіночий рюкзак на кожен день або для подорожей. Простий, зручний дизайн.
+
+Об’ємне основне відділення, куди влізе все що необхідно на один або два дні. 
+
+Особливості:
+
+
+	 відділення для ноутбука 15" з ущільненою стінкою
+	 внутрішня кишеня-органайзер з кліпсою для ключів
+	 велике основне відділення
+	 плоска кишеня на блискавки
+	дві зовнішні кишені з стрейчевой сітки для пляшок
+	 ущільнені плечові лямки
+	 нагрудна стропа зі свистком
+	 фурнітура YKK
+
+</description>
+    <param name="Габарити упаковки" unit="">45 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">420d 100% Polyester Big Ripstop</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">45 х 32 х 16 см</param>
+    <param name="Вага" unit="">0,58 кг</param>
+    <param name="Об'єм, л" unit="">22</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111067738">
+    <url>https://profirider.com/p1111067738-ryukzak-marmot-backcountry.html</url>
+    <oldprice>4857.14</oldprice>
+    <price>3400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160384623_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384614_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384622_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384734_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384735_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384739_ryukzak-marmot-backcountry.jpg</picture>
+    <picture>https://images.ua.prom.st/2160384741_ryukzak-marmot-backcountry.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Backcountry 30 Spectra Yellow-Slate Grey</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT26680_9411</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Backcountry 30 - ми ні про що не забули при створенні цього міцного 30-літрового рюкзака для беккантрі.
+
+Діагональна система для кріплення лиж; ремені для вертикального кріплення сноуборда, кишеню для лавинного спорядження з легким фронтальним доступом - саме там, де вам це необхідно. Основне відділення з доступом через задню панель.
+
+Система для перенесення шолома, кишеня з матеріалу DriClime для лижної маски і маса дрібних і зручних кишеньок.
+
+Утеплений відділ для питної системи. Кишеньки на поясному ремені, компресійні стропи по верху рюкзака. 
+
+Особливості: 
+
+
+	Передня кишеня для інструменту з можливістю швидкого доступу
+	Основне відділення з доступом через задню панель
+	Діагональна система кріплення лиж
+	А-подібна рама
+	Вертикальні кріплення для сноуборда
+	Знімна сітчаста система для зберігання каски
+	Кишені на поясному ремені - для зручності і швидкості доступу
+	Верхні компресійні лямки - для вертикального завантаження
+
+</description>
+    <param name="Габарити упаковки" unit="">55 х 27 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">420d High Tenacity Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">55 х 27 х 15 см</param>
+    <param name="Вага" unit="">1,432 кг</param>
+    <param name="Об'єм, л" unit="">30</param>
+    <param name="Колір" unit="">Інші кольори: Yellow-Grey</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111072680">
+    <url>https://profirider.com/p1111072680-ryukzak-marmot-centaur.html</url>
+    <oldprice>3785.71</oldprice>
+    <price>2650</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160389504_ryukzak-marmot-centaur.jpg</picture>
+    <picture>https://images.ua.prom.st/2160389502_ryukzak-marmot-centaur.jpg</picture>
+    <picture>https://images.ua.prom.st/2160389503_ryukzak-marmot-centaur.jpg</picture>
+    <picture>https://images.ua.prom.st/2160389507_ryukzak-marmot-centaur.jpg</picture>
+    <picture>https://images.ua.prom.st/2160389506_ryukzak-marmot-centaur.jpg</picture>
+    <picture>https://images.ua.prom.st/2160389509_ryukzak-marmot-centaur.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Centaur 38 L Surf-Blue Ocean</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT25110_2714_L</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Ви полюбите цей чудовий 40-літровий рюкзак, як тільки одягнете його собі на плечі.
+
+Поясний ремінь особливої конструкції пристосований саме для потреб альпіністів, наділений міцною петлею для розвішування спорядження. 
+
+Компресійний штормовий капюшон збереже ваші речі сухими.
+
+Високоякісна лита задня панель із системою динамічної підвіски Flex дуже зручна, забезпечить правильний баланс.
+
+Особливості:
+
+
+	Знімний верхній клапан з кишенею на блискавці і фіксатором для ключів
+	Внутрішній тубус з компресійною лямкою
+	Петлі для розвішування спорядження
+	Рукав для питної системи з кишенею на блискавці
+	Лита задня панель
+	Знімний пояс з петлями для спорядження і карабінів
+	Петлі для льодорубів
+	Бічні і фронтальні петлі
+	Інтегрована вертикальна система для мотузки
+	Силіконова накатка на кінцях строп
+	Еластична кишеня для пляшки з водою з сітки
+
+</description>
+    <param name="Габарити упаковки" unit="">66 х 30 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">210d Nail Head Nylon / 420d High Density Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">66 х 30 х 18 см</param>
+    <param name="Вага" unit="">1,432 кг</param>
+    <param name="Об'єм, л" unit="">38</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111076381">
+    <url>https://profirider.com/p1111076381-ryukzak-marmot-eiger.html</url>
+    <oldprice>5114.28</oldprice>
+    <price>3580</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160392634_ryukzak-marmot-eiger.jpg</picture>
+    <picture>https://images.ua.prom.st/2160392629_ryukzak-marmot-eiger.jpg</picture>
+    <picture>https://images.ua.prom.st/2160392628_ryukzak-marmot-eiger.jpg</picture>
+    <picture>https://images.ua.prom.st/2160392630_ryukzak-marmot-eiger.jpg</picture>
+    <picture>https://images.ua.prom.st/2160392633_ryukzak-marmot-eiger.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Eiger 42 Estate Blue-Total Eclipse</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT38200_3544</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Eiger 42 - це міцний, легкий альпіністський рюкзак для довгих походів, з яким ви можете мати усе необхідне спорядження під рукою зовні і прибирати все інше всередину, не відчуваючи себе незграбним при підйомі.
+
+Від перших сходжень до більш інтенсивних експедицій ви будете готові, завдяки таким функціям, як повністю знімна кришка з пружнім верхом і компресійним ременям з посиленням по краю лижі.
+
+Стійкий до стирання нейлон може впоратися з важкими походами, в той час як лита задня панель запобігає накопиченню снігу. Кріплення забезпечують доступ до трекінгових палиць, льодорубів та інших інструментів, коли вони вам потрібні.
+
+Зовнішні тримачі для пляшок з тканини не розтягуються.
+
+Особливості: 
+
+
+	Повний доступ до завантажувальної панелі 
+	Місце для зберігання і кріплення води 
+	Знімний ремінь на талії 
+	Регульована система кріплення спорядження 
+	Знімна основа на задній частині 
+	Компресійні ремені 
+	Зовнішні кишені для доступу до речей під час руху 
+	Блискавки YKK 
+	-Міцність без збільшення ваги
+
+</description>
+    <param name="Габарити упаковки" unit="">65 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">70d 100% Nylon Two Tone Ripstop</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">65 х 33 х 15 см</param>
+    <param name="Вага" unit="">1,5 кг</param>
+    <param name="Об'єм, л" unit="">42</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111096976">
+    <url>https://profirider.com/p1111096976-ryukzak-marmot-graviton.html</url>
+    <oldprice>6000</oldprice>
+    <price>4200</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160411489_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411488_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411499_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411501_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411498_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411500_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160411502_ryukzak-marmot-graviton.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Graviton 48 Blue Night-Dark Ink</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT24150_2955</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Завантаживши цей рюкзак, ви зрозумієте, чому мандрівники тяжіють до нашої серії Graviton для багатоденних походів.
+
+Ми створили цей надзвичайно зручний рюкзак з вентильованою конструкцією, трубчастою алюмінієвою рамою та цілою низкою функціональних можливостей, яка  відповідає всім вашим потребам.
+
+Особливості: 
+
+
+	Повний доступ до завантажувальної панелі 
+	Місце для зберігання і кріплення води 
+	Знімний ремінь на талії 
+	Регульована система кріплення спорядження 
+	Знімна основа на задній частині 
+	Компресійні ремені 
+	Зовнішні кишені для доступу до речей під час руху 
+	Пляшка для води / місткі кишені 
+	Блискавки YKK 
+	Міцність без збільшення ваги
+
+</description>
+    <param name="Габарити упаковки" unit="">60 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Каркасний</param>
+    <param name="Матеріал " unit="">70d 100% Nylon Two Tone Ripstop</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">60 х 32 х 20 см</param>
+    <param name="Вага" unit="">1,18 кг</param>
+    <param name="Об'єм, л" unit="">48</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111101088">
+    <url>https://profirider.com/p1111101088-ryukzak-marmot-graviton.html</url>
+    <oldprice>6428.57</oldprice>
+    <price>4500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160415673_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415677_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415679_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415680_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415678_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415681_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415682_ryukzak-marmot-graviton.jpg</picture>
+    <picture>https://images.ua.prom.st/2160415684_ryukzak-marmot-graviton.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Graviton 58 Blue Night-Dark Ink</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT23410_2955</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Завантаживши цей рюкзак, ви зрозумієте, чому мандрівники тяжіють до нашої серії Graviton для багатоденних походів.
+
+Ми створили цей надзвичайно зручний рюкзак з вентильованою конструкцією, трубчастою алюмінієвою рамою та цілою низкою функціональних можливостей, яка  відповідає всім вашим потребам.
+
+Особливості: 
+
+
+	Повний доступ до завантажувальної панелі 
+	Місце для зберігання і кріплення води 
+	Знімний ремінь на талії 
+	Регульована система кріплення спорядження 
+	Знімна основа на задній частині 
+	Компресійні ремені 
+	Зовнішні кишені для доступу до речей під час руху 
+	Пляшка для води / місткі кишені 
+	Блискавки YKK 
+	Міцність без збільшення ваги
+
+</description>
+    <param name="Габарити упаковки" unit="">62 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Каркасний</param>
+    <param name="Матеріал " unit="">70d 100% Nylon Two Tone Ripstop</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">62 х 32 х 26 см</param>
+    <param name="Вага" unit="">1,34 кг</param>
+    <param name="Об'єм, л" unit="">58</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111118393">
+    <url>https://profirider.com/p1111118393-ryukzak-marmot-kompressor.html</url>
+    <oldprice>1571.43</oldprice>
+    <price>1100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160436412_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160436413_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160436419_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160436421_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160436424_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160436425_ryukzak-marmot-kompressor.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Kompressor 18 Blue Sea</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT25430_2264</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Kompressor 18 - це лідер в своєму класі. Наш ультралегкий рюкзак Kompressor тепер має ще більший внутрішній об’єм для зберігання ваших речей, а також поліпшену систему стяжки, щоб зберегти компактність вашого багажу.
+
+При ньому залишилися такі важливі і зручні особливості як плечові лямки з сіткою. Геніальний завдяки своїй універсальності рюкзак на кожен день. 
+
+Особливості:
+
+
+	Упаковується у власну кришку 
+	Ідеальний розмір для зберігання спальника 
+	Знімна задня панель 
+	Плечові лямки з сітчастими вставками 
+	Компресійні лямки
+	Відділення для питної системи 
+	Проста система розвішування 
+	Петля для льодового інструмента 
+	Нагрудний ремінь 
+	Міцність і легкість 
+	Дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 27 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 27 х 15 см</param>
+    <param name="Вага" unit="">0,31 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Blue: Light Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111124230">
+    <url>https://profirider.com/p1111124230-ryukzak-marmot-kompressor.html</url>
+    <oldprice>1571.43</oldprice>
+    <price>1100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160440262_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160440264_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160440263_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160440265_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160440266_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160440267_ryukzak-marmot-kompressor.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Kompressor 18L Green Lichen-Acid Pepper</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT24920_4451</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Kompressor 18 - це лідер в своєму класі. Наш ультралегкий рюкзак Kompressor тепер має ще більший внутрішній об’єм для зберігання ваших речей, а також поліпшену систему стяжки, щоб зберегти компактність вашого багажу.
+
+При ньому залишилися такі важливі і зручні особливості як плечові лямки з сіткою. Геніальний завдяки своїй універсальності рюкзак на кожен день. 
+
+Особливості:
+
+
+	Упаковується у власну кришку 
+	Ідеальний розмір для зберігання спальника 
+	Знімна задня панель 
+	Плечові лямки з сітчастими вставками 
+	Компресійні лямки
+	Відділення для питної системи 
+	Проста система розвішування 
+	Петля для льодового інструмента 
+	Нагрудний ремінь 
+	Міцність і легкість 
+	Дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 27 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 27 х 15 см</param>
+    <param name="Вага" unit="">0,31 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Blue: Light Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111126564">
+    <url>https://profirider.com/p1111126564-ryukzak-marmot-kompressor.html</url>
+    <oldprice>1571.43</oldprice>
+    <price>1100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160442501_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160442506_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160442512_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160442515_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160442517_ryukzak-marmot-kompressor.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Kompressor 18L Peak Blue-Dark Sapphire</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT24920_2643</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Kompressor 18 - це лідер в своєму класі. Наш ультралегкий рюкзак Kompressor тепер має ще більший внутрішній об’єм для зберігання ваших речей, а також поліпшену систему стяжки, щоб зберегти компактність вашого багажу.
+
+При ньому залишилися такі важливі і зручні особливості як плечові лямки з сіткою. Геніальний завдяки своїй універсальності рюкзак на кожен день. 
+
+Особливості:
+
+
+	Упаковується у власну кришку 
+	Ідеальний розмір для зберігання спальника 
+	Знімна задня панель 
+	Плечові лямки з сітчастими вставками 
+	Компресійні лямки
+	Відділення для питної системи 
+	Проста система розвішування 
+	Петля для льодового інструмента 
+	Нагрудний ремінь 
+	Міцність і легкість 
+	Дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 27 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 27 х 15 см</param>
+    <param name="Вага" unit="">0,31 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Blue: Dark Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111127419">
+    <url>https://profirider.com/p1111127419-ryukzak-marmot-kompressor.html</url>
+    <oldprice>1571.43</oldprice>
+    <price>1100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160443416_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160443417_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160443421_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160443424_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160443426_ryukzak-marmot-kompressor.jpg</picture>
+    <picture>https://images.ua.prom.st/2160443427_ryukzak-marmot-kompressor.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Kompressor 18L Sea Scape-Sea Breeze</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT24920_2941</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Kompressor 18 - це лідер в своєму класі. Наш ультралегкий рюкзак Kompressor тепер має ще більший внутрішній об’єм для зберігання ваших речей, а також поліпшену систему стяжки, щоб зберегти компактність вашого багажу.
+
+При ньому залишилися такі важливі і зручні особливості як плечові лямки з сіткою. Геніальний завдяки своїй універсальності рюкзак на кожен день. 
+
+Особливості:
+
+
+	Упаковується у власну кришку 
+	Ідеальний розмір для зберігання спальника 
+	Знімна задня панель 
+	Плечові лямки з сітчастими вставками 
+	Компресійні лямки
+	Відділення для питної системи 
+	Проста система розвішування 
+	Петля для льодового інструмента 
+	Нагрудний ремінь 
+	Міцність і легкість 
+	Дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 27 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 27 х 15 см</param>
+    <param name="Вага" unit="">0,31 кг</param>
+    <param name="Об'єм, л" unit="">18</param>
+    <param name="Колір" unit="">Blue: Dark Blue-Turquoise</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111129015">
+    <url>https://profirider.com/p1111129015-ryukzak-marmot-monarch.html</url>
+    <oldprice>3142.86</oldprice>
+    <price>2200</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160444572_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160444571_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160444573_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160444575_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160444574_ryukzak-marmot-monarch.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Monarch 22 Crocodile-Cinder</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT29710_4853</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Monarch 22 - відмінна модель на кожен день або для подорожей, виконаний з якісного і міцного матеріалу.
+
+Рюкзак з відділенням для ноутбука і всіма необхідними організаційними кишенями для повсякденного використання.
+
+Особливості: 
+
+
+	відділення для ноутбука 15"з щільною підкладкою
+	відділення для планшета
+	містке основне відділення
+	кишеня-органайзер
+	кліпса для ключів
+	кишеня для фляги з водою
+	зручні м'які лямки
+	фурнітура YKK
+
+</description>
+    <param name="Габарити упаковки" unit="">46 х 35 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">70d 100% STS Nylon Ripstop </param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">46 х 35 х 17 см</param>
+    <param name="Вага" unit="">0,75 кг</param>
+    <param name="Об'єм, л" unit="">22</param>
+    <param name="Колір" unit="">Green: Dark Green</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111131816">
+    <url>https://profirider.com/p1111131816-ryukzak-marmot-monarch.html</url>
+    <oldprice>3428.57</oldprice>
+    <price>2400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160448114_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160448116_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160448115_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160448119_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160448118_ryukzak-marmot-monarch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160448122_ryukzak-marmot-monarch.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Monarch 34 Neptune Denim</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT29790_3953</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Monarch 22 - відмінна модель на кожен день або для подорожей, виконаний з якісного і міцного матеріалу.
+
+Рюкзак з відділенням для ноутбука і всіма необхідними організаційними кишенями для повсякденного використання.
+
+Особливості: 
+
+
+	відділення для ноутбука 15"з щільною підкладкою
+	відділення для планшета
+	містке основне відділення
+	кишеня-органайзер
+	кліпса для ключів
+	кишеня для фляги з водою
+	зручні м'які лямки
+	фурнітура YKK
+
+</description>
+    <param name="Габарити упаковки" unit="">51 х 36 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">70d 100% STS Nylon Ripstop </param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">51 х 36 х 20 см</param>
+    <param name="Вага" unit="">1,22 кг</param>
+    <param name="Об'єм, л" unit="">34</param>
+    <param name="Колір" unit="">Blue: Dark Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111144086">
+    <url>https://profirider.com/p1111144086-ryukzak-marmot-notch.html</url>
+    <oldprice>2828.57</oldprice>
+    <price>1980</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160462542_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462541_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462543_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462544_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462545_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462546_ryukzak-marmot-notch.jpg</picture>
+    <picture>https://images.ua.prom.st/2160462548_ryukzak-marmot-notch.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Notch 30 Amazon-Lime</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT25830_4334</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Рюкзак Marmot Notch 30 для міського життя і поїздок. Це практично сейф для ваших речей під час подорожі, він впорається з усіма випробуваннями, де б ви не знаходилися.
+
+Ви майже забудете, що несете його, завдяки зручним і дихаючим плечовим лямкам Spacer Airmesh і задній панелі.
+
+Подвійний шар матеріалу на дні для максимальної міцності. Величезна кількість кишень, включаючи внутрішнє відділення для ноутбука.
+
+Прослужить довгі роки. 
+
+Особливості:
+
+
+	Надміцний нейлон 420 Denier Oxford 
+	Двошарова нижня частина для зносостійкості 
+	Вставки Airmesh Back на спині і лямках для додаткового комфорту і повітропроникності 
+	Відсік для ноутбука з екраном 15" на блискавці 
+	Світловідбиваючі вставки
+	Кишеня-органайзер з кріпленням для ключів 
+	Еластичне кріплення для трекінгових палиць 
+	Отвір для питної системи та затиск для фляжки 
+	Петлі для кріплення на плечових лямках 
+	Знімний ремінь 
+	Кишені для пляшок з водою (до 1 л) 
+	Компресійні ремені для рівномірного розподілу навантаження 
+	Фронтальна кишеня для речей першої необхідності 
+
+</description>
+    <param name="Габарити упаковки" unit="">500 х 320 х 50 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">420d High Tenacity Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">500 х 320 х 170 мм</param>
+    <param name="Вага" unit="">0,97 кг</param>
+    <param name="Об'єм, л" unit="">30</param>
+    <param name="Колір" unit="">Green: Green</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111147012">
+    <url>https://profirider.com/p1111147012-ryukzak-marmot-tool.html</url>
+    <oldprice>1171.43</oldprice>
+    <price>820</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160466671_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160466666_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160466663_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160466665_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160466668_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160466664_ryukzak-marmot-tool.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Tool Box 30 Estate Blue</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT39170_2230</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Сумка-рюкзак Marmot Urban Hauler дозволяє легко отримати доступ до всього вашого спорядження і підтримувати його в порядку, будь то швидка поїздка на машині або цілий день по місту.
+
+М’які ремені зберігають зручність при носінні, а бічні петлі забезпечують зручність.
+
+Зберігайте предмети швидкого доступу в передній кишені на блискавці і залиште додаткову пляшку води у зовнішній кишені.
+
+Внутрішні кишені і петлі дозволяють легко захопити те, що вам потрібно. Складна верхня кришка забезпечує додатковий захист. 
+
+Особливості:
+
+
+	м’які плечові лямки
+	кишеня для фляги
+	штормовий "воріт" для захисту від дощу
+	зовнішня кишеня швидкого доступу
+	кліпса для ключів
+	міцність і легкість 
+	дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">48 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">М’який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">48 х 32 х 15 см</param>
+    <param name="Вага" unit="">0,38 кг</param>
+    <param name="Об'єм, л" unit="">28</param>
+    <param name="Колір" unit="">Інші кольори: Dark Purple-Dark Pink</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111150454">
+    <url>https://profirider.com/p1111150454-ryukzak-marmot-tool.html</url>
+    <oldprice>3514.28</oldprice>
+    <price>2460</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160471573_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160471574_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160471575_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160471576_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160471580_ryukzak-marmot-tool.jpg</picture>
+    <picture>https://images.ua.prom.st/2160471578_ryukzak-marmot-tool.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Tool Box 30 Estate Blue</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT39170_2230</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Tool Box - відмінна модель на кожен день для міста і подорожей.
+
+Вміщує в себе всі необхідні речі на пару днів, в тому числі і ноутбук для роботи.
+
+Зовнішні та внутрішні організаційні кишені дозволять зручно розташувати необхідні речі для швидкого доступу. 
+
+Особливості:
+
+ 
+
+
+	відділення для ноутбука 15" і рукав для питної системи
+	кишеня для оптики з флісовою м'якою підкладкою
+	зовнішні сітчасті кишені
+	кишеня-органайзер з кліпсою для ключів
+	велике основне відділення
+	нагрудна стропа
+
+</description>
+    <param name="Габарити упаковки" unit="">50 х 30 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">70d 100% STS Nylon Ripstop </param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">50 х 30 х 20 см</param>
+    <param name="Вага" unit="">0,99 кг</param>
+    <param name="Об'єм, л" unit="">30</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111155365">
+    <url>https://profirider.com/p1111155365-ryukzak-marmot-urban.html</url>
+    <oldprice>1114.28</oldprice>
+    <price>780</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160475141_ryukzak-marmot-urban.jpg</picture>
+    <picture>https://images.ua.prom.st/2160475138_ryukzak-marmot-urban.jpg</picture>
+    <picture>https://images.ua.prom.st/2160475139_ryukzak-marmot-urban.jpg</picture>
+    <picture>https://images.ua.prom.st/2160475140_ryukzak-marmot-urban.jpg</picture>
+    <picture>https://images.ua.prom.st/2160475142_ryukzak-marmot-urban.jpg</picture>
+    <picture>https://images.ua.prom.st/2160475143_ryukzak-marmot-urban.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Urban Hauler Small Turkish Tile-Denim</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT38280_3907</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Сумка-рюкзак Marmot Urban Hauler дозволяє легко отримати доступ до всього вашого спорядження і підтримувати його в порядку, будь то швидка поїздка на машині або цілий день по місту.
+
+М’які ремені зберігають зручність при носінні, а бічні петлі забезпечують зручність.
+
+Зберігайте предмети швидкого доступу в передній кишені на блискавці і залиште додаткову пляшку води у зовнішній кишені.
+
+Внутрішні кишені і петлі дозволяють легко захопити те, що вам потрібно.
+
+Складна верхня кришка забезпечує додатковий захист. 
+
+Особливості:
+
+
+	м’які плечові лямки
+	кишеня для фляги
+	штормовий "воріт" для захисту від дощу
+	зовнішня кишеня швидкого доступу
+	кліпса для ключів
+	міцність і легкість 
+	дуже компактний 
+
+</description>
+    <param name="Габарити упаковки" unit="">42 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Матеріал " unit="">210d Nylon Double Ripstop, 70d Double Ripstop Silicone Impregnated Nylon</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">42 х 32 х 15 см</param>
+    <param name="Вага" unit="">0,31 кг</param>
+    <param name="Об'єм, л" unit="">14</param>
+    <param name="Колір" unit="">Blue: Blue-Light Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111164648">
+    <url>https://profirider.com/p1111164648-ryukzak-marmot-wms.html</url>
+    <oldprice>5057.14</oldprice>
+    <price>3540</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2160489146_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489147_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489150_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489156_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489170_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489173_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489172_ryukzak-marmot-wms.jpg</picture>
+    <picture>https://images.ua.prom.st/2160489176_ryukzak-marmot-wms.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Marmot Wm’s Verve 38 Sea Scape-Sea Breeze</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT24980_2941</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Рюкзак Marmot Women’s Verve 38 - гірські подорожі можна здійснювати швидко і за вищим класом. Має завантажувальну панель з повним доступом та отвори для питної системи та кліпсою для її підвішування.
+
+Додайте місце для зберігання, кишені і кріплення для палиць і льодового інструмента - і ви отримуєте легкий і зручний рюкзак для марш-кидка в гори.
+
+Вміщує в себе набір спорядження достатнього для 2 - 4 днів шляху. 
+
+Особливості: 
+
+
+	Жіноча модель 
+	Відділення для питної системи 
+	М’який пояс з сітчастими кишенями 
+	Кишеня з кріпленням для ключів 
+	Світловідбиваючі вставки 
+	Компресійні ремені 
+	Ремінь на грудях 
+	 Місткі сітчасті кишені
+	 Блискавки YKK 
+
+</description>
+    <param name="Габарити упаковки" unit="">58 х 30 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">Анатомічний</param>
+    <param name="Матеріал " unit="">70d 100% STS Nylon Ripstop </param>
+    <param name="Наявність поясного ременя" unit="">Є</param>
+    <param name="Сумісність з питною системою" unit="">Є</param>
+    <param name="Розміри" unit="">58 х 30 х 20 см</param>
+    <param name="Вага" unit="">0,97 кг</param>
+    <param name="Об'єм, л" unit="">38</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1111171615">
+    <url>https://profirider.com/p1111171615-sumka-marmot-camp.html</url>
+    <oldprice>2700</oldprice>
+    <price>1890</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2160497777_sumka-marmot-camp.jpg</picture>
+    <picture>https://images.ua.prom.st/2160497778_sumka-marmot-camp.jpg</picture>
+    <picture>https://images.ua.prom.st/2160497776_sumka-marmot-camp.jpg</picture>
+    <picture>https://images.ua.prom.st/2160497781_sumka-marmot-camp.jpg</picture>
+    <picture>https://images.ua.prom.st/2160497783_sumka-marmot-camp.jpg</picture>
+    <picture>https://images.ua.prom.st/2160497785_sumka-marmot-camp.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Marmot Camp Hauler Med Total Eclipse</name>
+    <vendor>Puma</vendor>
+    <vendorCode>MRT38660_1335</vendorCode>
+    <country_of_origin>В'єтнам</country_of_origin>
+    <description>Сумка Marmot Camp Hauler дозволяє легко отримати доступ до всього вашого спорядження для кемпінгу і тримати його в порядку, будь то автомобільний кемпінг або похід в беккантрі.
+
+М’які ремені зберігають комфорт при носінні, в той час як бічні петлі забезпечують зручність при добуванні спорядження з автомобіля.
+
+Алюмінієві підпірки допомагають основи підставки для сумки, так що спорядження не провалюється, а внутрішні кишені і петлі дозволяють легко захопити те, що вам потрібно.
+
+Складна верхня кришка додає додатковий захист.
+
+Особливості:
+
+
+	М’які ремені і ручки з кожного боку для зручності перенесення
+	Зовнішня кишеня на блискавці з брелоком
+	Складна верхня кришка для фіксації вантажу
+
+</description>
+    <param name="Категорія" unit="">Для чоловіків</param>
+    <param name="Вид" unit="">Сумки: Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">600 x 370 x 260 мм</param>
+    <param name="Колір" unit="">Синій: Темно-синій</param>
+    <param name="Вага" unit="">1170 г</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Сумка велика</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для кемпінгу: Для кемпінгу</param>
+    <param name="Відділення" unit="">5</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

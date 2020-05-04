@@ -1,0 +1,29 @@
+/*Требования к изображениям*/
+.success-card {
+    border-left: 8px solid #12bd0d;
+}
+.success-card-ok{
+    background: url(https://s0.rozetka.com.ua/tst/yes.svg) no-repeat center !important;
+    width: 23px;
+    height: 20px;
+    top: 24px;
+    left: 24px;
+    z-index: 1;
+}
+.success-card-content {
+    padding: 24px 24px 24px 70px
+}
+
+.error-card {
+    border-left: 8px solid #fb3f4c;
+}
+
+.error-card-not {
+    background: url(https://s0.rozetka.com.ua/tst/no.svg) no-repeat center !important;
+    width: 20px;
+    height: 20px;
+    top: 24px;
+    left: 24px;
+    z-index: 1;
+}
+/*end Требования к изображениям*/

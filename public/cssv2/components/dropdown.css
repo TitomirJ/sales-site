@@ -1,0 +1,31 @@
+.dropdown-wrap {
+    position: relative;
+}
+
+.dropdown {
+    position: absolute;
+    right: 0;
+    width: 200px;
+    background: white;
+    -webkit-transition: .3s ease-in;
+    -o-transition: .3s ease-in;
+    -moz-transition: .3s ease-in;
+    transition: .3s ease-in;
+}
+
+.dropdown-active {
+    display: block;
+}
+
+.dropdown-text {
+    padding: 5px 15px;
+    font-size: 18px;
+    -webkit-transition: .4s;
+    -o-transition: .4s;
+    -moz-transition: .4s;
+    transition: .4s;
+}
+
+.dropdown-text:hover {
+    background: rgba(15, 22, 31, 0.14);
+}

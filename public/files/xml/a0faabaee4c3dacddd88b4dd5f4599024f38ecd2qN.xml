@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-11-28 07:57">
+  <shop>
+    <currencies>
+      <currency code="UAH">1.0</currency>
+    </currencies>
+    <catalog>
+      <category id="47779">Для iPhone</category>
+      <category id="47780" parentId="47779">iPhone 11 </category>
+      <category id="47781" parentId="47780">Чехлы для iPhone 11 </category>
+      <category id="47798" parentId="47780">Защитные стекла для iPhone 11 </category>
+      <category id="47782" parentId="47779">iPhone 11 Pro</category>
+      <category id="47783" parentId="47782">Чехлы для iPhone 11 Pro</category>
+      <category id="47785" parentId="47782">Защитные стекла для iPhone 11 Pro</category>
+      <category id="47790" parentId="47779">iPhone 11 Pro Max</category>
+      <category id="47791" parentId="47790">Чехлы для iPhone 11 Pro Max	</category>
+      <category id="47792" parentId="47790">Защитные стекла для iPhone 11 Pro Max	</category>
+      <category id="47805" parentId="47779">iPhone XS max</category>
+      <category id="47806" parentId="47805">Чехлы для iPhone XS Max</category>
+      <category id="47807" parentId="47805">Защитные стекла для iPhone XS Max</category>
+      <category id="47845" parentId="47779">iPhone XR</category>
+      <category id="47846" parentId="47845">Чехлы для iPhone XR</category>
+      <category id="47848" parentId="47845">Защитные стекла для iPhone XR</category>
+      <category id="47896" parentId="47779">iPhone X/XS</category>
+      <category id="47897" parentId="47896">Чехлы для iPhone X/XS</category>
+      <category id="47899" parentId="47896">Защитные стекла для iPhone X/XS</category>
+      <category id="47912" parentId="47779">iPhone 6/6s</category>
+      <category id="47913" parentId="47912">Чехлы для iPhone 6/6s</category>
+      <category id="48185" parentId="47912">Защитные стекла для iPhone 6/6s</category>
+      <category id="48004" parentId="47779">iPhone 7 Plus/8 Plus</category>
+      <category id="48005" parentId="48004">Чехлы для iPhone 7 Plus/8 Plus</category>
+      <category id="48009" parentId="48004">Защитные стекла для iPhone 7 Plus/8 Plus</category>
+      <category id="48111" parentId="47779">iPhone 7/8</category>
+      <category id="48112" parentId="48111">Чехлы для iPhone 7/8</category>
+      <category id="48114" parentId="48111">Защитные стекла для iPhone 7/8</category>
+      <category id="48263" parentId="47779">iPhone 6 Plus/6s Plus</category>
+      <category id="48264" parentId="48263">Чехлы для iPhone 6 Plus/6s Plus</category>
+      <category id="48265" parentId="48263">Защитные стекла для iPhone 6 Plus/6s Plus</category>
+      <category id="48294" parentId="47779">iPhone 5/5s/SE</category>
+      <category id="48295" parentId="48294">Чехлы для iPhone 5/5s/SE</category>
+      <category id="48298" parentId="48294">Защитные стекла для iPhone 5/5s/SE</category>
+      <category id="48319" parentId="47779">iPhone 4/4s</category>
+      <category id="48320" parentId="48319">Чехлы для iPhone 4/4s</category>
+      <category id="48321">Для iPad</category>
+      <category id="48322" parentId="48321">iPad 4/3/2</category>
+      <category id="48323" parentId="48322">Чехлы для iPad 4/3/2</category>
+      <category id="48324" parentId="48322">Защитные стекла для iPad 4/3/2</category>
+      <category id="48326" parentId="48321">iPad mini 3/2/1</category>
+      <category id="48327" parentId="48326">Чехлы для iPad mini 3/2/1</category>
+      <category id="48328" parentId="48326">Защитные стекла для iPad mini 3/2/1</category>
+      <category id="48329" parentId="48321">iPad mini 4</category>
+      <category id="48330" parentId="48329">Чехлы для iPad mini 4</category>
+      <category id="48331" parentId="48329">Защитные стекла для iPad mini 4</category>
+      <category id="48332" parentId="48321">iPad Pro 9,7</category>
+      <category id="48333" parentId="48332">Защитные стекла для iPad Pro 9,7</category>
+      <category id="48336" parentId="48332">Чехлы для iPad Pro 9,7</category>
+      <category id="48334" parentId="48321">iPad Air</category>
+      <category id="48335" parentId="48334">Чехлы для iPad Air</category>
+      <category id="48337" parentId="48321">iPad Air 2</category>
+      <category id="48338" parentId="48337">Защитные стекла для для iPad Air 2</category>
+      <category id="48345" parentId="48337">Чехлы для iPad Air 2</category>
+      <category id="48349" parentId="48321">iPad 9,7 (2017/2018)</category>
+      <category id="48350" parentId="48349">Чехлы для iPad 9,7 (2017/2018)</category>
+      <category id="48357" parentId="48321">iPad Pro 10,5</category>
+      <category id="48358" parentId="48357">Чехлы для iPad Pro 10,5</category>
+      <category id="48359" parentId="48357">Защитные стекла для iPad Pro 10,5</category>
+      <category id="48362" parentId="48321">iPad Pro 12,9 (2015/2017)</category>
+      <category id="48363" parentId="48362">Чехлы для iPad Pro 12,9 (2015/2017)</category>
+      <category id="48364" parentId="48362">Защитные стекла для iPad Pro 12,9 (2015/2017)</category>
+      <category id="48365" parentId="48321">iPad Pro 12,9 (2018)</category>
+      <category id="48366" parentId="48365">Чехлы для iPad Pro 12,9 (2018)</category>
+      <category id="48367" parentId="48365">Защитные стекла для iPad Pro 12,9 (2018)</category>
+      <category id="48368" parentId="48321">iPad Pro 11</category>
+      <category id="48369" parentId="48368">Чехлы для iPad Pro 11</category>
+      <category id="48370" parentId="48368">Защитные стекла для iPad Pro 11</category>
+      <category id="48374" parentId="48321"> iPad mini 5</category>
+      <category id="48375" parentId="48374">Чехлы для iPad mini 5</category>
+      <category id="334871" parentId="48374">Защитные стекла для iPad mini 5</category>
+      <category id="334851" parentId="48321">iPad mini 5</category>
+      <category id="334852" parentId="334851">Защитные стекла для iPad mini 5</category>
+      <category id="334856" parentId="334851">Чехлы для iPad mini 5</category>
+      <category id="334853" parentId="48321">iPad Pro 10,5 / Air 2019	</category>
+      <category id="334854" parentId="334853">Защитные стекла для iPad Pro 10,5 / Air 2019</category>
+      <category id="334855" parentId="334853">Чехлы для iPad Pro 10,5 / Air 2019</category>
+      <category id="334857" parentId="48321">iPad 10,2 (2019)</category>
+      <category id="334858" parentId="334857">Чехлы для iPad 10,2 2019</category>
+      <category id="334859" parentId="334857">Защитные стекла для iPad 10,2 2019</category>
+      <category id="48379">Для Apple Watch</category>
+      <category id="48380" parentId="48379">Apple Watch 38 mm/40 mm</category>
+      <category id="48381" parentId="48380">Защитные стекла для Apple Watch 38 mm</category>
+      <category id="48382" parentId="48380">Ремешки для Apple Watch 38 mm/40 mm</category>
+      <category id="48387" parentId="48380">Защитные стекла для Apple Watch 40 mm</category>
+      <category id="48388" parentId="48380">Чехлы для Apple Watch 38 mm</category>
+      <category id="48395" parentId="48379">Apple Watch 42 mm/44 mm</category>
+      <category id="48396" parentId="48395">Ремешки для Apple Watch 42 mm/44 mm</category>
+      <category id="48399" parentId="48395">Защитные стекла для Apple Watch 42 mm</category>
+      <category id="48400" parentId="48395">Защитные стекла для Apple Watch 44 mm</category>
+      <category id="48401" parentId="48395">Чехлы для Apple Watch 42 mm</category>
+      <category id="48407">Для AirPods</category>
+      <category id="48408" parentId="48407">Чехлы для Apple AirPods/AirPods2</category>
+      <category id="48414" parentId="48407">Чехлы для Apple AirPods 2 Wireless</category>
+      <category id="334860" parentId="48407">Чехлы для Apple AirPods Pro</category>
+      <category id="48419">Для MacBook</category>
+      <category id="48420" parentId="48419">MacBook Pro 13 (2008-2011)</category>
+      <category id="48422" parentId="48420">Чехлы для MacBook Pro 13 (2008-2011)</category>
+      <category id="48424" parentId="48419">MacBook Air 13 (2018)</category>
+      <category id="48425" parentId="48424">Чехлы для MacBook Air 13 (2018)</category>
+      <category id="48427" parentId="48424">Защитные пленки для MacBook Air 13 (2018)</category>
+      <category id="48433" parentId="48419">MacBook Pro 13 (2016/2017/2018)</category>
+      <category id="48434" parentId="48433">Защитные пленки для MacBook Pro 13 (2016/2017/2018)</category>
+      <category id="48479" parentId="48433">Чехлы для MacBook Pro 13 (2016/2017/2018)</category>
+      <category id="48435" parentId="48419">MacBook Air 13 (2008-2017)</category>
+      <category id="48436" parentId="48435">Чехлы для MacBook Air 13 (2008-2017)</category>
+      <category id="48459" parentId="48435">Защитные пленки для MacBook Air 13 (2008-2017)</category>
+      <category id="48440" parentId="48419">MacBook Pro 15 (2008-2011)</category>
+      <category id="48441" parentId="48440">Чехлы для MacBook Pro 15 (2008-2011)</category>
+      <category id="48442" parentId="48419">MacBook Pro 15 (2016/2017/2018)</category>
+      <category id="48443" parentId="48442">Чехлы для MacBook Pro 15 (2016/2017/2018)</category>
+      <category id="48447" parentId="48442">Защитные пленки для MacBook Pro 15 (2016/2017/2018)</category>
+      <category id="48450" parentId="48419">MacBook 12</category>
+      <category id="48451" parentId="48450">Чехлы для MacBook 12</category>
+      <category id="48454" parentId="48450">Защитные пленки для MacBook 12</category>
+      <category id="48462" parentId="48419">MacBook Air 11</category>
+      <category id="48463" parentId="48462">Чехлы для MacBook Air 11</category>
+      <category id="48465" parentId="48462">Защитные пленки для MacBook Air 11</category>
+      <category id="48467" parentId="48419">MacBook Pro 13 Retina (2012-2015)</category>
+      <category id="48468" parentId="48467">Чехлы для MacBook Pro 13 Retina (2012-2015)</category>
+      <category id="334864" parentId="48467">Защитные пленки для MacBook Pro 13 Retina (2012-2015)</category>
+      <category id="48474" parentId="48419">MacBook Pro 15 Retina (2012-2015)</category>
+      <category id="48475" parentId="48474">Чехлы для MacBook Pro 15 Retina (2012-2015)</category>
+      <category id="48476" parentId="48474">Защитные пленки для MacBook Pro 15 Retina (2012-2015)</category>
+      <category id="334861" parentId="48419">MacBook Air 13 (2018/2019)</category>
+      <category id="334862" parentId="334861">Защитные пленки для MacBook Air 13 (2018/2019)</category>
+      <category id="334863" parentId="334861">Чехлы для MacBook Air 13 (2018/2019)</category>
+      <category id="334865" parentId="48419">MacBook Pro 13 (2016/2017/2018/2019)</category>
+      <category id="334866" parentId="334865">Защитные пленки для MacBook Pro 13 (2016/2017/2018/2019)</category>
+      <category id="334870" parentId="334865">Чехлы для MacBook Pro 13 (2016/2017/2018/2019)</category>
+      <category id="334867" parentId="48419">MacBook Pro 15 (2016/2017/2018/2019)</category>
+      <category id="334868" parentId="334867">Чехлы для MacBook Pro 15 (2016/2017/2018/2019)</category>
+      <category id="334869" parentId="334867">Защитные пленки для MacBook Pro 15 (2016/2017/2018/2019)</category>
+      <category id="48482">Аксессуары</category>
+      <category id="48483" parentId="48482">Кабели</category>
+      <category id="48525" parentId="48482">Зарядные устройства</category>
+      <category id="48540" parentId="48482">Наушники</category>
+      <category id="48547" parentId="48482">Палки для селфи</category>
+      <category id="48552" parentId="48482">Внешние аккумуляторы PowerBanks</category>
+      <category id="48569" parentId="48482">Спортивные аксессуары</category>
+      <category id="48576" parentId="48482">Беспроводные зарядные устройства</category>
+      <category id="48582" parentId="48482">Автомобильные держатели</category>
+      <category id="48589" parentId="48482">Водонепроницаемые чехлы</category>
+      <category id="48594" parentId="48482">Держатели для телефона PopSockets</category>
+      <category id="48609" parentId="48482">Сенсорные перчатки</category>
+      <category id="48612" parentId="48482">Подставки</category>
+      <category id="48618" parentId="48482">Аксессуары для гаджетов</category>
+      <category id="48626" parentId="48482">Сумки для ноутбуков</category>
+    </catalog>
+    <offers>
+      <offer id="26805309" available="true">
+        <name>Спортивный чехол на пояс Mijilo Slim Green</name>
+        <categoryId>47781</categoryId>
+        <url>https://ukrapple.com.ua/product/sportivnyy-chekhol-na-poyas-mijilo-slim-green.html</url>
+        <price>299</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://ukrapple.com.ua/upload/iblock/51a/51a166875cfed367cf6cc59a7ea35acf.jpeg</picture>
+        <picture>https://ukrapple.com.ua/upload/iblock/2fd/2fd93327177ad6252b13e25cfb7567d6.jpeg</picture>
+        <picture>https://ukrapple.com.ua/upload/iblock/77c/77c1ad0218d84f9d97592258d14bab2f.jpeg</picture>
+        <param name="Цвет">Розовый</param>
+        <param name="Артикул">26805309</param>
+        <param name="Узоры и принты">Без узоров</param>
+        <param name="Совместимость с">Apple</param>
+        <param name="Назначение">Для телефона</param>
+        <param name="Наши предложения">Новинка</param>
+        <vendorCode>26805309</vendorCode>
+        <categoryId>47781</categoryId>
+        <description><Спортивный чехол на пояс Mijilo Slim Green></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-15 22:31:00">
+<shop>
+<name>Trend-Box</name>
+<company>Trend-Box</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="128">Термометры медицинские</category>
+<category id="241">Средства защиты органов дыхания</category>
+<category id="240">Автокресла детские</category>
+<category id="110">Фены для волос</category>
+<category id="239">Одежда для похудения</category>
+<category id="175">Рисование</category>
+<category id="200">Искусственные цветы и растения</category>
+<category id="73">Приборы для укладки волос</category>
+<category id="238">Электростимуляторы для мышц</category>
+<category id="228">Триммеры и машинки для стрижки волос</category>
+<category id="236">Вантузы</category>
+<category id="235">Солнцезащитные очки</category>
+<category id="100">Овощерезки, яйцерезки</category>
+<category id="156">Блендеры</category>
+<category id="60">Насадки и пробки для бутылок</category>
+<category id="231">Сумки для покупок</category>
+<category id="134">Средства для умывания и очищения лица</category>
+<category id="234">Строительные и промышленные клеи</category>
+<category id="56">Посуда</category>
+<category id="21">Для дома и дачи</category>
+<category id="19">Детские игрушки</category>
+<category id="48">Подарки, хобби</category>
+<category id="22">Красота и здоровье</category>
+<category id="101">Техника и электроника</category>
+<category id="209">Квадрокоптеры</category>
+<category id="104">Микрофоны</category>
+<category id="191">Копилки</category>
+<category id="227">Тренажер  для пилатес</category>
+<category id="20">Товары для спорта</category>
+<category id="67">Зажигалки</category>
+<category id="226">Термокружки</category>
+<category id="211">Портативные колонки</category>
+<category id="71">Подставки-держатели для портативных устройств</category>
+<category id="225">Зарядные устройства для портативной техники</category>
+<category id="224">Защитные пленки и стекла для портативных устройств</category>
+<category id="140">Внешние аккумуляторы для цифровой техники</category>
+<category id="89">Селфи-палки</category>
+<category id="223">Кабеля USB и переходники</category>
+<category id="43">Беспроводные наушники</category>
+<category id="222">Наушники и гарнитуры</category>
+<category id="139">Видеорегистраторы автомобильные</category>
+<category id="204">Антивозрастной и лечебный уход за кожей</category>
+<category id="25">Интерактивные Игрушки</category>
+<category id="221">Бытовые вакуумные упаковщики</category>
+<category id="130">Формы для выпечки</category>
+<category id="169">Конструкторы</category>
+<category id="220">Брелки</category>
+<category id="219">Удочки и спиннинги</category>
+<category id="218">Детские качалки и шезлонги</category>
+<category id="217">Ходунки детские</category>
+<category id="215">Развивающие и игровые коврики</category>
+<category id="83">Тумбы и шкафы для обуви</category>
+<category id="214">Товары для ухода за домашними животными</category>
+<category id="213">Пластыри для похудения</category>
+<category id="146">Оборудование для сушки ногтей</category>
+<category id="131">Аксессуары для ванных комнат</category>
+<category id="98">Массажеры</category>
+<category id="212">Сковороды</category>
+<category id="210">Автомагнитолы</category>
+<category id="151">Радиоуправляемые игрушки</category>
+<category id="207">Кошельки и портмоне</category>
+<category id="99">Точилки для ножей</category>
+<category id="208">Аксессуары для авто</category>
+<category id="206">Аксессуары для макияжа</category>
+<category id="205">Помада</category>
+<category id="12">Набор Рисуй светом</category>
+<category id="203">Игровые приставки</category>
+<category id="202">Настольные игры</category>
+<category id="174">Ночники</category>
+<category id="44">Фонари и аксессуары</category>
+<category id="85">Зеркала косметические</category>
+<category id="117">Массажные накидки, маты, подушки</category>
+<category id="201">Детские железные дороги, автотреки</category>
+<category id="199">Аксессуары для фото-, видеокамер</category>
+<category id="198">Затирка для швов</category>
+<category id="148">Автомобильные кондиционеры</category>
+<category id="88">Строительный инструмент</category>
+<category id="150">Настольные цифровые часы</category>
+<category id="129">Яйцеварки</category>
+<category id="196">Мультиварки</category>
+<category id="69">Отпугиватели и ловушки для насекомых</category>
+<category id="194">Аксессуары для телевизоров и проекторов</category>
+<category id="193">Отпариватели для одежды</category>
+<category id="162">Одежда для похудения</category>
+<category id="123">Подставки для кухонных и столовых принадлежностей</category>
+<category id="132">Сушилки для белья</category>
+<category id="192">Мясорубки</category>
+<category id="190">Накладные ресницы</category>
+<category id="152">Полироли</category>
+<category id="189">Миксеры бытовые</category>
+<category id="57">Кухонные ножи и подставки</category>
+<category id="116">Силовые тренажеры</category>
+<category id="77">Праздничное освещение</category>
+<category id="109">Обогреватели</category>
+<category id="188">Ланч боксы</category>
+<category id="86">Ортопедические товары</category>
+<category id="187">Камеры видеонаблюдения</category>
+<category id="142">Тушь для ресниц</category>
+<category id="186">Ремни и пояса</category>
+<category id="185">Игрушки для домашних животных</category>
+<category id="1">Бейблэйды</category>
+<category id="184">Швабры</category>
+<category id="183">Стеклоочистители, дворники</category>
+<category id="135">Эспандеры</category>
+<category id="182">Подушки</category>
+<category id="4">Cквиши</category>
+<category id="178">Графины, кувшины, питьевые наборы</category>
+<category id="94">Вешалки для одежды</category>
+<category id="119">Емкости для хранения пищевых продуктов</category>
+<category id="177">Клеящие вещества и герметики</category>
+<category id="126">Товары для детского творчества</category>
+<category id="180">Наборы инструментов</category>
+<category id="50">TRX петли</category>
+<category id="120">Моющие и чистящие средства</category>
+<category id="171">Игрушечные машинки, самолетики, техника</category>
+<category id="176">Лепка</category>
+<category id="172">Мягкие игрушки</category>
+<category id="170">Детские украшения</category>
+<category id="168">Джойстики и игровые манипуляторы</category>
+<category id="13">Набор Magik Tracks</category>
+<category id="167">Аппараты для попкорна</category>
+<category id="166">Аппараты сахарной ваты и расходные материалы</category>
+<category id="45">Зоотовары</category>
+<category id="165">Автомобильные насосы, компрессоры и манометры</category>
+<category id="164">Охранные системы и сигнализации</category>
+<category id="82">Средства для удаления царапин с автомобилей</category>
+<category id="163">Фиксаторы шеи</category>
+<category id="173">Пояса и перчатки для фитнеса</category>
+<category id="161">Видеокамеры, экшн-камеры</category>
+<category id="160">Грили и барбекю бытовые электрические</category>
+<category id="121">Подставки и органайзеры для косметики</category>
+<category id="159">Dvd, blu-ray, медиаплееры</category>
+<category id="2">Зонт Up-Brella</category>
+<category id="158">Лейки для душа</category>
+<category id="155">Тренажеры для шеи и плеч</category>
+<category id="154">Детекторы валют</category>
+<category id="153">Корректоры осанки</category>
+<category id="149">Рихтовочные инструменты</category>
+<category id="147">Ремонтный комплект лобового стекла</category>
+<category id="145">Тонометры</category>
+<category id="144">Коврики придверные</category>
+<category id="3">Фитнес резинки U-POWEX</category>
+<category id="133">Бытовые швейные машины</category>
+<category id="141">Подводка для век</category>
+<category id="138">Аксессуары для сумок</category>
+<category id="137">Рюкзаки городские и спортивные</category>
+<category id="136">Дорожные сумки и чемоданы</category>
+<category id="42">Женские часы</category>
+<category id="103">Часы мужские</category>
+<category id="127">Измерительные линейки, угольники</category>
+<category id="125">Бытовые формы для приготовления полуфабрикатов</category>
+<category id="124">Развивающие и обучающие игрушки</category>
+<category id="74">Сушки для посуды</category>
+<category id="122">3D ручки</category>
+<category id="96">Средства для отбеливания зубов</category>
+<category id="114">Дозаторы для жидкого мыла</category>
+<category id="115">Клейкая универсальная лента, скотч</category>
+<category id="118">Бытовая очистка воды</category>
+<category id="112">Сушильные аппараты для овощей, фруктов, грибов</category>
+<category id="32">Экономители</category>
+<category id="111">Уличное освещение</category>
+<category id="107">Клавиатуры</category>
+<category id="106">FM трансмиттеры автомобильные</category>
+<category id="30">Весы</category>
+<category id="102">Мужские сумки и барсетки</category>
+<category id="105">VR очки виртуальной реальности</category>
+<category id="97">Бижутерия</category>
+<category id="95">Алкометры</category>
+<category id="11">Увеличительные очки</category>
+<category id="64">Настольные лампы</category>
+<category id="65">LED подсветка интерьеров</category>
+<category id="59">Эпиляторы и женские электробритвы</category>
+<category id="93">Компрессионный трикотаж</category>
+<category id="87">Стельки</category>
+<category id="84">Средства по уходу за кожей ног</category>
+<category id="46">Сумки</category>
+<category id="80">Машинки для роллов и голубцов</category>
+<category id="79">Обручи гимнастические</category>
+<category id="78">Устройства для чистки ушей</category>
+<category id="76">Триммеры и машинки для стрижки волос</category>
+<category id="75">Электробритвы мужские</category>
+<category id="36">Тренажеры для пресса</category>
+<category id="38">Подставки для ноутбука</category>
+<category id="72">Кондиционеры</category>
+<category id="49">Слуховые аппараты</category>
+<category id="70">Аксессуары для безопасности детей</category>
+<category id="62">Сита, дуршлаги</category>
+<category id="61">Водонагреватели, бойлеры, колонки</category>
+<category id="55">Комплектующие для кухонной посуды</category>
+<category id="54">Фитнес-браслеты</category>
+<category id="51">Аксессуары для обуви</category>
+<category id="90">Машинки для удаления катышков с одежды</category>
+<category id="53">Перчатки хозяйственные</category>
+<category id="29">Термометры</category>
+<category id="91">Сувенирные монеты</category>
+<category id="47">Аксессуары для велосипеда</category>
+<category id="5">Спиннеры</category>
+<category id="26">Самолет-планер</category>
+<category id="27">Попсокеты</category>
+<category id="18">Съемные виниры</category>
+<category id="34">Для Кухни</category>
+<category id="39">Ирригаторы</category>
+<category id="52">Стаканы</category>
+<category id="28">Увеличитель экрана</category>
+<category id="143">Аксессуары к пылесосам, пароочистителям, полотерам</category>
+<category id="33">Оптика</category>
+<category id="31">Перчатка для вычесывания шерсти</category>
+<category id="24">Новогодние Украшения</category>
+<category id="17">Антигравитационные машинки</category>
+<category id="16">Ждуны</category>
+<category id="15">Детские умные часы</category>
+<category id="14">Беспроводные зарядки</category>
+<category id="10">Wi-Fi адаптер</category>
+<category id="9">Тюнеры Т2</category>
+<category id="8">Форма силиконовая</category>
+<category id="7">Подсветка для унитаза</category>
+<category id="6">Щетка для удаления шерсти</category>
+</categories>
+<offers>
+<offer available="true" id="1049">
+<price>2090</price>
+<currencyId>UAH</currencyId>
+<categoryId>128</categoryId>
+<picture>https://trend-box.com.ua/images/thumbs/0003485_beskontaktnyj-infrakrasnyj-elektronnyj-termometr-dochelper-dh810.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003486_beskontaktnyj-infrakrasnyj-elektronnyj-termometr-dochelper-dh810.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003487_beskontaktnyj-infrakrasnyj-elektronnyj-termometr-dochelper-dh810.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003488_beskontaktnyj-infrakrasnyj-elektronnyj-termometr-dochelper-dh810.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003489_beskontaktnyj-infrakrasnyj-elektronnyj-termometr-dochelper-dh810.jpeg</picture>
+<name>Бесконтактный инфракрасный электронный термометр - DOCHELPER DH810</name>
+<vendor>Dochelper</vendor>
+<vendorCode>tdx0001049</vendorCode>
+<description><![CDATA[<p><span style="font-size: 11pt;"><span class="title_strong">Бесконтактный </span>инфракрасный электронный термометр - DOCHELPER DH810</span></p>
+<p><strong>Особенности продукта</strong></p>
+<p>Безконтактное измерение, не трогайте друг друга во время измерения температуры людского тела, избегайте риска инфекции с целью обеспечения безопасности.</p>
+<p><br />Быстрое измерение температуры, точные показатели, подходящий для быстрого измерения температуры большого количества людей.</p>
+<p><br />Позиционирование лазера, точное измерение температуры выбраного места, измерение температуры лба, подмышки, поверхности тела и других мест.</p>
+<p><br />Может быть установлен лимит температуры и когда она превышена, звуковой сигнал будет подан для точной проверки для отклоняющейся от нормы температуры в группе людей.</p>
+<p><br />Инфракрасное температурное измерение, никакого вреда для человеческого тела.</p>
+<p><strong>В комплекте:</strong></p>
+<ul>
+<li>Термометр</li>
+<li>кабель Micro USB</li>
+</ul>
+<p><strong>Параметры продукта</strong></p>
+<p>Тип термометра - Инфракрасный;</p>
+<p>Режим измерения - Безконтактный;</p>
+<p>Время измерения приблизительно одна секунда;</p>
+<p>Диапазон измерения: 32.0°C~42.2°C;</p>
+<p>Единицы измерения - Цельсий °C, Фаренгейт °F;</p>
+<p>Элементы питания - аккумулятор;</p>
+<p>Точность измерения: +- 0.2°C; +- 0.4°F;</p>
+<p>Память - 32 измерения;</p>
+<p>Автоматическое выключение - 1 мин;</p>
+<p>Разрешающая способность - 0.1°C;</p>]]></description>
+<param name="Страна производитель">Китай</param>
+<param name="Производитель">Dochelper</param>
+<param name="Категории">Термометры медицинские</param>
+<param name="Тип термометра">Инфракрасный</param>
+<param name="Способ применения термометра">Бесконтактный</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Белый</param>
+<param name="Единицы измерения">Фаренгейт °F, Цельсий °C</param>
+<param name="Диапазон измерения">32.0°C~42.2°C</param>
+<param name="Элементы питания">Аккумулятор</param>
+<param name="Точность измерения">+/- 0.2°C</param>
+</offer>
+<offer available="true" id="1048">
+<price>1990</price>
+<currencyId>UAH</currencyId>
+<categoryId>128</categoryId>
+<picture>https://trend-box.com.ua/images/thumbs/0003475_infrakrasnyj-cifrovoj-unoj-termometr-connect-me-f004.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003476_infrakrasnyj-cifrovoj-unoj-termometr-connect-me-f004.jpeg</picture>
+<picture>https://trend-box.com.ua/images/thumbs/0003477_infrakrasnyj-cifrovoj-unoj-termometr-connect-me-f004.jpeg</picture>
+<name>Инфракрасный, цифровой  ушной  термометр - Connect Me F004</name>
+<vendor>Connect Me</vendor>
+<vendorCode>tdx0001048</vendorCode>
+<description><![CDATA[<p><strong>Инфракрасный, цифровой  ушной  термометр - Connect Me F004</strong></p>
+<p><strong>Измерение температуры уха и <strong>фронтальной </strong>температуры.</strong></p>
+<p><strong>Сфера применения:</strong></p>
+<p>Электронный инфракрасный термометр подходит для тестирования в больницах, семьях, школах и медицинских осмотрах.</p>
+<p><strong>Преимущество продукта:</strong></p>
+<ul>
+<li>Высокая точность, подходит для детей и взрослых;</li>
+<li>Одна машина для двух целей: переключение температуры уха и температуры фронтальной;</li>
+<li>Измерение температуры удобно и быстро, а результат можно получить за одну секунду;</li>
+</ul>
+<p>В каждой семье есть термометр для измерения температуры тела, особенно этот прибор необходим, когда в доме есть маленькие детки. Использовать обычный ртутный градусник не всегда удобно, да и небезопасно. Поэтому лучшим выбором для измерения температуры тела может стать электронный термометр. Погрешность измерения температуры составляет всего 0,2 градуса, поэтому Вы сможете измерить температуру тела очень точно.</p>
+<p>Ушной термометр представляет собой устройство, способное измерять температуру инфракрасным лучом путем помещения термометра в слуховой проход человека.<br />Это безопасный способ измерения температуры человеческого тела через ухо. <br />Управление данным термометром не беспокоить спящего ребенка. <br />Имеет автоматическое выключение через 1мин. <br />Работает от батарейки.</p>
+<p><strong>Применение:</strong></p>
+<p>- Нажмите кнопку включить/выключить термометр.<br />- Вставьте термометр человеку в ухо.<br />- Удержите кнопку start примерно на одну секунду, и температура будет отображаться на ЖК-дисплее.</p>
+<p><strong>Параметры продукта</strong></p>
+<p>Тип термометра - инфракрасный, цифровой;</p>
+<p>Способ применения термометра - бесконтактный;</p>
+<p>Режим измерения - ушной, фронтальный;</p>
+<p>Дисплей - ЖК-дисплей;</p>
+<p>Время измерения приблизительно одна секунда;</p>
+<p>Диапазон измерения: 32.0°C~42.2°C;</p>
+<p>Единицы измерения - Цельсий °C, Фаренгейт °F;</p>
+<p>Элементы питания -  батарейка 1х dc3v cr2032;         </p>
+<p>Точность измерения: +- 0.2°C (35.0°C~42.0°C);+- 0.3°C (32.0°C~34.9°C);</p>
+<p>Память - 32 измерения;</p>
+<p>Автоматическое выключение - 1 мин;</p>
+<p>Разрешающая способность - 0.1°C;</p>
+<p>Рабочая среда - 16°C~35°C;</p>
+<p>Влажность - 15%-80%;</p>
+<p>Давление воздуха - 70~106 кПа;</p>
+<p>Условия хранения - (-)20°C~(+)55°C;</p>]]></description>
+<param name="Страна производитель">Китай</param>
+<param name="Производитель">Connect Me</param>
+<param name="Категории">Термометры медицинские</param>
+<param name="Тип термометра">Инфракрасный</param>
+<param name="Способ применения термометра">Бесконтактный</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Голубой</param>
+<param name="Единицы измерения">Фаренгейт °F, Цельсий °C</param>
+<param name="Диапазон измерения">32.0°C~42.2°C</param>
+<param name="Точность измерения">+/- 0.2°C</param>
+<param name="Память">32 последних измерения</param>
+<param name="Способ измерения">в ухе, на лбу</param>
+<param name="Элементы питания">1 х dc3v cr2032</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

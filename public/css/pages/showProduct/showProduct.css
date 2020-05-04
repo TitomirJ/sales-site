@@ -1,0 +1,14 @@
+.carousel-indicators li {
+  background: #73b4ea
+}
+.carousel-indicators .active {
+  background: #0b84ea
+}
+/*.carousel-control-next-icon,*/
+/*.carousel-control-prev-icon {*/
+  /*background-color: #73b4ea;*/
+/*}*/
+/*.carousel-control-next,*/
+/*.carousel-control-prev {*/
+  /*background: rgba(115, 180, 234, 0.6705882352941176)*/
+/*}*/

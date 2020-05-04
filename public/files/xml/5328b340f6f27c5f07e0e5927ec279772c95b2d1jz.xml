@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+				<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+				<yml_catalog date="2020-01-30 11:43:28">
+				<shop>
+					<name>Тараненко Юрий</name>
+					<company>Тараненко Юрий</company>
+					<url>Тараненко Юрий</url>
+					<currencies>
+						<currency id="UAH" rate="1"/>
+					</currencies><categories><category id="17">Подарунки та товари для свят</category><category id="18" parentId="17">Настільні ігри та 
+головоломки</category><category id="198">Спорт і захоплення</category><category id="199" parentId="198">Спортивні товари</category><category id="200" 
+parentId="199">Велосипеди, електровелосипеди і аксесуари</category><category id="202" parentId="200">Велоодяг</category><category id="201" 
+parentId="200">Електровелосипеди</category><category id="248" parentId="199">Електротранспорт</category><category id="250" 
+parentId="248">Гіроборди</category><category id="249" parentId="248">Моноколеса</category><category id="252" 
+parentId="248">Електровелосипеди</category><category id="251" parentId="248">Електросамокати</category><category id="253" 
+parentId="248">Електроскейти</category><category id="20">Товари для дітей</category><category id="21" parentId="20">Дитяча кімната</category><category id="22" 
+parentId="21">Дитячі стільці</category><category id="203" parentId="21">Манежі</category><category id="187" parentId="21">мольберти</category><category id="205" 
+parentId="21">Столи для творчості</category><category id="24" parentId="20">Дитячі іграшки</category><category id="25" parentId="24">Дитячі 
+конструктори</category><category id="29" parentId="24">Машинки, моделі техніки і зброя</category><category id="30" parentId="29">Залізниця і 
+аксесуари</category><category id="32" parentId="24">М'які іграшки, фігурки, ляльки</category><category id="33" parentId="32">Ігрові набори</category><category 
+id="36" parentId="24">Розвиток і творчість</category><category id="37" parentId="36">Дитячі музичні інструменти</category><category id="41" 
+parentId="36">Пазли</category><category id="44" parentId="36">Творчість</category><category id="45" parentId="44">Виготовлення іграшок</category><category 
+id="189" parentId="20">Іграшки для самих маленьких</category><category id="190" parentId="189">Іграшки для малюків, розвиток, розваги</category><category 
+id="191" parentId="190">Іграшки для малюків</category><category id="193" parentId="20">Коляски та автокрісла</category><category id="194" 
+parentId="193">Автокрісла</category><category id="206" parentId="193">Аксесуари для колясок і автокрісел</category><category id="196" parentId="193">Дитячі 
+коляски</category><category id="48" parentId="20">Прогулянки і активний відпочинок</category><category id="49" parentId="48">Засоби 
+пересування</category><category id="50" parentId="49">Дитячі велосипеди</category><category id="52" parentId="49">Чудомобили, ходунки, 
+гойдалки</category><category id="197" parentId="48">електротранспорт</category><category id="55" parentId="20">Товари для самих маленьких</category><category 
+id="56" parentId="55">Іграшки для малюків, розваги</category><category id="57" parentId="56">Іграшки для малюків</category><category id="61" 
+parentId="56">Брязкальця і ??гризуни</category><category id="63" parentId="56">Центри, килимки та крісла-качалки</category><category id="65" 
+parentId="55">Харчування і годування</category><category id="66" parentId="65">Стільчики для годування</category></categories><offers><offer id="afk_1828" 
+available="true"><url>Тараненко 
+Юрий</url><price>282.00</price><currencyId>UAH</currencyId><categoryId>45</categoryId><picture>https://afk.ua/media/products/images/600/00-02732_9334.jpeg</pictur
+e><picture>https://afk.ua/media/products/images/600/00-02732_01_9335.jpeg</picture><vendor>4M</vendor><vendorCode>00-02732</vendorCode><stock_quantity>60</stock_q
+uantity><name>Набір для творчості 4M Лялька-фея (00-02732)</name><description><![CDATA[Набір для створення ляльки-феї. Не містить голок та інших гострих 
+предметів. У комплекті м'яка іграшка-лялька, пряжа, тканина, намистини, свідоцтво про народження феї, клей, двостороння липка стрічка, кольорові олівці та 
+докладна інструкція з малюнками.<br> Дитина може зробити для ляльки кольорове плаття, що нагадує квіточку, і волосся з яскравих ниток. А також прикрасити наряд 
+і зачіску феї декоративними елементами. У комплекті є трафарет для малювання обличчя за допомогою кольорових олівців. <br>
+Коли дитина змайструє іграшку, вона може придумати їй ім'я, і заповнити свідоцтво про народження. Лялька-фея прекрасно підходить для розвитку творчих здібностей.
+]]></description><param name="Країна виробництва">Китай</param><param name="Колір">різнокольоровий</param><param name="Країна реєстрації ТМ">Китай</param></offer><offer 
+id="afk_1821" available="true"><url>Тараненко 
+Юрий</url><price>282.00</price><currencyId>UAH</currencyId><categoryId>45</categoryId><picture>https://afk.ua/media/products/images/600/00-02737_9336.jpeg</picture><picture>https://a
+fk.ua/media/products/images/600/00-02737_01_9337.jpeg</picture><vendor>4M</vendor><vendorCode>00-02737</vendorCode><stock_quantity>30</stock_quantity><name>Набір для творчості 4M 
+В'язання гачком (00-02737)</name><description><![CDATA[Набір для в'язання гачком ідеально підходить для дітей і початківців, розвиває дрібну моторику та творчі здібності. Зв'яжіть 
+три різні речі з цим комплектом: підставку для чашки, декоративну серветку, дитячу сумочку. Виробами можна ділитися з друзями! <br> У наборі: 2 гачка для в'язання, 1 пластикова 
+голка, 7 мотків із кольоровими нитками, детальна інструкція з зображеннями для правші та лівші.]]></description><param name="Країна виробництва">Китай</param><param 
+name="Колір">різнокольоровий</param><param name="Країна реєстрації ТМ">Китай</param></offer><offer id="afk_1815" available="true"><url>Тараненко 
+Юрий</url><price>282.00</price><currencyId>UAH</currencyId><categoryId>45</categoryId><picture>https://afk.ua/media/products/images/600/00-02738_9338.jpeg</picture><picture>https://a
+fk.ua/media/products/images/600/00-02738_01_9339.jpeg</picture><vendor>4M</vendor><vendorCode>00-02738</vendorCode><stock_quantity>67</stock_quantity><name>Набір для творчості 4M 
+Казкова скринька (00-02738)</name><description><![CDATA[Розфарбуйте дерев'яну скриньку в обрані вами кольори, і прикрасьте її картинками. Зробіть корисну та гарну річ 
+власноруч!<br>З цим набором для творчості дівчинка може прикрасити свою кімнату прекрасною скринькою ручної роботи з дзеркалом. У ній можна зберігати намисто, браслети, каблучки та 
+інші прикраси.<br>
+Підходить для розвитку творчих здібностей, смаку, уяви. З набором можна освоїти навички декорування, змішування кольорів, поєднання матеріалів і текстур. <br>
+У комплекті: дерев'яна скриня (12 х 9 х 13 см), дзеркало, лист з перекладними картинками, подвійна клейка стрічка, фарби, пензлик, паличка для наклеювання, 
+інструкція.]]></description><param name="Країна виробництва">Китай</param><param name="Колір">різнокольоровий</param><param name="Країна реєстрації ТМ">Китай</param></offer><offer 
+id="afk_1822" available="true"><url>Тараненко 
+Юрий</url><price>282.00</price><currencyId>UAH</currencyId><categoryId>45</categoryId><picture>https://afk.ua/media/products/images/600/00-02744_9340.jpeg</picture><picture>https://a
+fk.ua/media/products/images/600/00-02744_01_9341.jpeg</picture><vendor>4M</vendor><vendorCode>00-02744</vendorCode><stock_quantity>36</stock_quantity><name>Набір для творчості 4M 
+Ткацький верстат (00-02744)</name><description><![CDATA[Із цим набором можна навчитися ткати різнокольорові клаптики. Простий ткацький міні-верстат дасть розуміння процесу 
+створення тканини, і дозволить створити кольорові клаптики своїми руками.<br> Набір допоможе виявити творчі здібності. Містить матеріали, щоб виткати 3 підставки для чашок або 
+міні-сумочку, яку можна використовувати як чохол для смартфона. Комбінуйте пряжу різних видів, кольорів і створюйте оригінальні вироби ручної роботи. <br>
+У наборі: основа для натягу ниток, човник, гребінка, пряжа різних кольорів, пластикова голка, ілюстрована інструкція.
+]]></description><param name="Країна виробництва">Китай</param><param name="Колір">різнокольоровий</param><param name="Країна реєстрації ТМ">Китай</param></offer></offers></shop></yml_catalog>

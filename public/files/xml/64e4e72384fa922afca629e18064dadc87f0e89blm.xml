@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-13 22:40:22">
+<shop>
+<name>Planeta Hobby</name>
+<company>Planeta Hobby</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="456">Квадрокоптеры</category>
+<category id="77">Самолеты и планеры</category>
+<category id="50">Яхты и катера</category>
+<category id="709">Игрушечные машинки и техника</category>
+<category id="1496">Запчасти для радиоуправляемых моделей</category>
+<category id="83">Аккумуляторы для радиомоделей</category>
+<category id="114">Запчасти для радиоуправляемых моделей</category>
+<category id="139">Запчасти для радиоуправляемых моделей</category>
+<category id="273">Запчасти для радиоуправляемых моделей</category>
+<category id="1319">Робототехника</category>
+<category id="137">Запчасти для радиоуправляемых моделей</category>
+</categories>
+<offers>
+<offer available="true" id="41196">
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>83</categoryId>
+<picture>https://modelistam.com.ua/images/dinam-11-1v-1250mah-10c-lipo-battery.jpg</picture>
+<name>Аккумулятор Dynam 11.1V 1250mAh Li-Po 3S 10C JST (DY3S1250JST)</name>
+<vendor>Dynam</vendor>
+<vendorCode>DY3S1250JST</vendorCode>
+<description><![CDATA[    ]]></description>
+<param name="Напряжение">11.1 B (3S)</param>
+<param name="Разъем">JST</param>
+<param name="Тип аккумулятора">Li-Po (литий-полимер)</param>
+<param name="Гарантия">1 мес.</param>
+<param name="Доставка/Оплата">Срок доставки до 5 дней</param>
+</offer>
+<offer available="true" id="41579">
+<price>699</price>
+<currencyId>UAH</currencyId>
+<categoryId>83</categoryId>
+<picture>https://modelistam.com.ua/images/akkumulator-li-pol-2200ma-111v-dynam-.jpg</picture>
+<name>Аккумулятор Dynam 11.1V 2200mAh Li-Po 3S 20C XT60 (DY3S2200XT60)</name>
+<vendor>Dynam</vendor>
+<vendorCode>DY3S2200XT60</vendorCode>
+<description><![CDATA[    ]]></description>
+<param name="Напряжение">11.1 B (3S)</param>
+<param name="Разъем">XT-60</param>
+<param name="Тип аккумулятора">Li-Po (литий-полимер)</param>
+<param name="Гарантия">1 мес.</param>
+<param name="Доставка/Оплата">Срок доставки до 5 дней</param>
+</offer>
+<offer available="true" id="41197">
+<price>285</price>
+<currencyId>UAH</currencyId>
+<categoryId>1496</categoryId>
+<picture>https://modelistam.com.ua/images/zaryadnoe-ustroystvo-dynam-dlya-2-3-li-po.jpg</picture>
+<name>Зарядное устройство Dynam 2-3S LiPo Balance 1.0 A (DYCHARGER1A)</name>
+<vendor>Dynam</vendor>
+<vendorCode>DYCHARGER1A</vendorCode>
+<description><![CDATA[    ]]></description>
+<param name="Вид">Зарядные устройства</param>
+<param name="Вид аккумуляторов">Li-Po</param>
+<param name="Режим работы">Балансировка</param>
+<param name="Гарантия">1 мес.</param>
+<param name="Доставка/Оплата">Срок доставки до 5 дней</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

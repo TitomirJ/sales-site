@@ -1,0 +1,95 @@
+.nav {
+    /*враппер навбара с левой стороны не давал нажать на контент. Клик проходит сквозь врапер и передаеться
+    на контент. .nav-top & .nav-left возвращаем в прежднее значение*/
+    pointer-events: none;
+}
+
+.nav-top {
+    pointer-events: auto;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100vw;
+    height: 70px;
+    background: rgba(14, 22, 30, 0.97);
+    z-index: 10;
+}
+
+.icon-bar {
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    -moz-transition: .5s;
+    transition: .5s;
+}
+
+.user-profile {
+    width: 50px;
+    height: 50px;
+}
+
+.menu-item:hover a,
+.icon-bar:hover {
+    color: #209e91!important;
+}
+
+.nav-left {
+    pointer-events: auto;
+    position: absolute;
+    top: 70px;
+    left: -52px;
+    padding-top: 10px;
+    width: 52px;
+    height: -webkit-calc(100vh - 80px);
+    height: -moz-calc(100vh - 80px);
+    height: calc(100vh - 80px);
+    background: rgba(0,0,0,.75);
+    -webkit-transition: .3s ease;
+    -o-transition: .3s ease;
+    -moz-transition: .3s ease;
+    transition: .3s ease;
+    overflow: hidden;
+}
+
+.active-menu {
+    width: 180px!important;
+}
+
+.menu-item {
+    padding: 10px 15px;
+}
+
+.menu-item__active {
+    background: #209e91;
+    color: white;
+}
+
+.menu-item a{
+    -webkit-transition: .3s ease;
+    -o-transition: .3s ease;
+    -moz-transition: .3s ease;
+    transition: .3s ease;
+}
+
+.line-right {
+    top: -100px;
+    right: 0;
+    width: 4px;
+    height: 42px;
+    background: #209e91;
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    transition: all .5s ease;
+    -webkit-transition-property: top,height;
+    -o-transition-property: top,height;
+    -moz-transition-property: top,height;
+    transition-property: top,height;
+}
+
+@media (min-width:500px) {
+    .nav-left {
+        left: 0;
+    }
+}

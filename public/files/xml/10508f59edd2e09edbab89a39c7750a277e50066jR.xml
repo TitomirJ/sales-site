@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-29 20:06">
+	<shop>
+		<name>Илья</name>
+		<company>Addicting</company>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1">Алкогольные напитки и продукты</category>
+			<category id="11" parentId="1">Электронные сигареты и аксессуары</category>
+			<category id="111" parentId="11">Комплектующие и аксессуары для электронных сигарет</category>
+		</categories>
+		<offers>
+			<offer id="121901" available="true">
+				<price>125</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Coil Father</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Комплект ваты и спиралей Coil Father Fused Claton 20 шт + 10 шт 0.45 Ом</name>
+				<description><![CDATA[Характеристики: <br/>Тим намотки: Fused clapton coil<br/>Основаня жила: 0.3*0.8 Flat<br/>Обмотка: 32GA<br/>Сопротивление: 0.45Ω<br/>Материал: Kanthal a1<br/>]]></description>
+				<param name="Тип">Спираль</param>
+				<param name="Дополнительные характеристики">Комлпект состоит из 20 кусочков ваты и 10 спиралей Fused clapton coil ( Flat clopton) 0.45Ω</param>
+			</offer>
+			<offer id="121902" available="true">
+				<price>115</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>http://masel.com.ua/templates/img/price-rozetka-xlsx-xml-comments.png</picture>
+				<vendor>Coil Father</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Хлопок Coil Father Bravo Cotton Thread 20 шт </name>
+				<description><![CDATA[Вата для электронных сигарет от  Coil Father.<br/>Без вкуса. Хорошая впитываемость. С удобными наконечниками.]]></description>
+				<param name="Тип">Вата</param>
+				<param name="Дополнительные характеристики">100% органический хлопок.</param>
+			</offer>
+			<offer id="121903" available="true">
+				<price>220</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Ijoy</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Катридж Ijoy IVPC POD 1.6 Ом Комлпект 3 шт</name>
+				<description><![CDATA[Сопротивление: 1.6 Ом<br/>Емкость: 2 мл<br/>Совместимость: Ijoy IVPC Pod]]></description>
+				<param name="Тип">Картриджи</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.6 Ом
+Емкость: 2 мл
+Совместимость: Ijoy IVPC Pod</param>
+			</offer>
+			<offer id="121904" available="true">
+				<price>45</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Volcanee</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Volcanee EC coil Head для Ijust 0.3 Ом </name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 0.3 ohm<br/>Рекомендованная мощность: 30–80 W<br/>Материал нагревателя: Kanthal a1<br/>Фитиль: 100% натуральный хлопок<br/>Совместимость:MELO 5, MELO 4, MELO 3 Nano, iJust S, Lemo 3, iJust 2/iJust 2 mini, MELO III, MELO 2, MELO, Aspire Atlantis V2, Atlantis Mega, Triton tan, MELO 5k.]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Основные характеристики
+Сопротивление: 0.3 ohm
+Рекомендованная мощность: 30–80 W
+Материал нагревателя: Kanthal a1
+Фитиль: 100% натуральный хлопок
+Совместимость:MELO 5, MELO 4, MELO 3 Nano, iJust S, Lemo 3, iJust 2/iJust 2 mini, MELO III, MELO 2, MELO, Aspire Atlantis V2, Atlantis Mega, Triton tan, MELO 5k.</param>
+			</offer>
+			<offer id="121905" available="true">
+				<price>200</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Volcanee</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Volcanee EC coil Head для Ijust 0.3 Ом Комлпект 5 шт</name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 0.3 ohm<br/>Рекомендованная мощность: 30–80 W<br/>Материал нагревателя: Kanthal a1<br/>Фитиль: 100% натуральный хлопок<br/>Совместимость:MELO 5, MELO 4, MELO 3 Nano, iJust S, Lemo 3, iJust 2/iJust 2 mini, MELO III, MELO 2, MELO, Aspire Atlantis V2, Atlantis Mega, Triton tan, MELO 5k.]]></description>
+				<param name="Тип">Спираль</param>
+				<param name="Дополнительные характеристики">Основные характеристики
+Сопротивление: 0.3 ohm
+Рекомендованная мощность: 30–80W
+Материал нагревателя: Kanthal a1
+Фитиль: 100% натуральный хлопок
+Совместимость:MELO 5, MELO 4, MELO 3 Nano, iJust S, Lemo 3, iJust 2/iJust 2 mini, MELO III, MELO 2, MELO, Aspire Atlantis V2, Atlantis Mega, Triton tan, MELO 5k.</param>
+			</offer>
+			<offer id="121906" available="true">
+				<price>61</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Volcanee</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Volcanee V8-Q2 0.4 Ом для Smok TFV8 Baby and Big Baby </name>
+				<description><![CDATA[Сопротивление: 0.4 Ом;<br/>Материал корпуса: нержавеющая сталь;<br/>Материал спирали: кантал;<br/>Испарители поддерживают мощность от 40 Вт до 80 Вт, оптимальная мощность от 55 Вт до 65 Вт;]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.4 Ом;
+Материал корпуса: нержавеющая сталь;
+Материал спирали: кантал;
+Испарители поддерживают мощность от 40 Вт до 80 Вт, оптимальная мощность от 55 Вт до 65 Вт;</param>
+			</offer>
+			<offer id="121907" available="true">
+				<price>280</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Volcanee</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Volcanee TFV8 Baby Tank V8 Baby-Q2 0.4 Ом комплект 5 шт</name>
+				<description><![CDATA[Сопротивление: 0.4 Ом;<br/>Материал корпуса: нержавеющая сталь;<br/>Материал спирали: кантал;<br/>Испарители поддерживают мощность от 40 Вт до 80 Вт, оптимальная мощность от 55 Вт до 65 Вт;]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.4 Ом;
+Материал корпуса: нержавеющая сталь;
+Материал спирали: кантал;
+Испарители поддерживают мощность от 40 Вт до 80 Вт, оптимальная мощность от 55 Вт до 65 Вт;</param>
+			</offer>
+			<offer id="121908" available="true">
+				<price>330</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>BMTD</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Набор инстурментов BMTD Blacksmith DIY Tool Kit</name>
+				<description><![CDATA[BMTD Blacksmith DIY Tool Kit — компактный переносной набор в удобном  пенале. В набор входят все необходимые инструменты для обслуживания дрипок, обслуживаемых клиромайзеров и испарителей.<br/>Чехол - 1шт;<br/>Бокорезы - 1шт;<br/>Coil Jig - 1шт;<br/>Изогнутый пинцет - 1 шт;<br/>Часовая отвертка - 1 шт;<br/>Керамический пинцет - 1 шт;<br/>Складные ножницы - 1 шт.]]></description>
+				<param name="Тип">Инструменты</param>
+				<param name="Дополнительные характеристики">Комплектация:
+Керамический пинцет - 1 шт;
+Чехол - 1шт;
+Бокорезы - 1шт;
+Coil Jig - 1шт;
+Изогнутый пинцет - 1 шт;
+Часовая отвертка - 1 шт;
+Складные ножницы - 1 шт.</param>
+			</offer>
+			<offer id="121909" available="true">
+				<price>59</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель GeekVape Replacement NS Coil Mesh KA1 0.7 Ом</name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 0.7 ohm<br/>Материал нагревателя: Kanthal a1<br/>Совместимость:GeekVape Flint, GeekVape Frenzy]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.7 ohm
+Материал нагревателя: Kanthal a1
+Совместимость:GeekVape Flint, GeekVape Frenzy</param>
+			</offer>
+			<offer id="121910" available="true">
+				<price>265</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель GeekVape Replacement NS Coil Mesh KA1  0.7 Ом комплект 5 шт</name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 0.7 ohm<br/>Материал нагревателя: Kanthal a1<br/>Совместимость:GeekVape Flint, GeekVape Frenzy]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.7 ohm
+Материал нагревателя: Kanthal a1
+Совместимость:GeekVape Flint, GeekVape Frenzy</param>
+			</offer>
+			<offer id="121911" available="true">
+				<price>57</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель GeekVape Replacement NS Coil 1.2 Ом</name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 1.2 ohm<br/>Материал нагревателя: SS316L <br/>Совместимость:GeekVape Flint, GeekVape Frenzy]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.2 ohm
+Материал нагревателя: Kanthal a1
+Совместимость:GeekVape Flint, GeekVape Frenzy</param>
+			</offer>
+			<offer id="121912" available="true">
+				<price>260</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель GeekVape Replacement NS Coil 1.2 Ом комплект 5 шт</name>
+				<description><![CDATA[Основные характеристики<br/>Сопротивление: 1.2 ohm<br/>Материал нагревателя: SS316L <br/>Совместимость:GeekVape Flint, GeekVape Frenzy]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.2 ohm
+Материал нагревателя: SS316L
+Совместимость:GeekVape Flint, GeekVape Frenzy</param>
+			</offer>
+			<offer id="121913" available="true">
+				<price>13</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Gorilla Style</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Флакон пластиковый Chubby Gorilla Style для самозамесов 60 мл</name>
+				<description><![CDATA[Тип: флакон для жидкости; Материал: пластик;<br/>Контроль первого вскрытия<br/>Емкость : 60 мл]]></description>
+				<param name="Тип">Флакон</param>
+				<param name="Дополнительные характеристики">Тип: флакон для жидкости; Материал: пластик;
+Контроль первого вскрытия
+Емкость : 60 мл</param>
+			</offer>
+			<offer id="121914" available="true">
+				<price>14</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>ZF</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Флакон стеклянный премиум для самозамесов c пипеткой 30 мл</name>
+				<description><![CDATA[Тип: флакон для жидкости; Материал: Стекло<br/>Контроль первого вскрытия<br/>Емкость : 30 мл]]></description>
+				<param name="Тип">Флакон</param>
+				<param name="Дополнительные характеристики">Тип: флакон для жидкости; Материал: Стекло
+Контроль первого вскрытия
+Емкость : 30 мл</param>
+			</offer>
+			<offer id="121915" available="true">
+				<price>33</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>ZF</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Флакон стеклянный премиум для самозамесов c пипеткой 30 мл комлпект 3 шт</name>
+				<description><![CDATA[Тип: флакон для жидкости; Материал: Стекло<br/>Контроль первого вскрытия<br/>Емкость : 30 мл<br/>Комлпект 3 шт]]></description>
+				<param name="Тип">Флакон</param>
+				<param name="Дополнительные характеристики">Тип: флакон для жидкости; Материал: Стекло
+Контроль первого вскрытия
+Емкость : 30 мл</param>
+			</offer>
+			<offer id="121916" available="true">
+				<price>77</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Ijoy</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Катридж Ijoy IVPC POD 1.6 Ом</name>
+				<description><![CDATA[Сопротивление: 1.6 Ом<br/>Емкость: 2 мл<br/>Совместимость: Ijoy IVPC Pod]]></description>
+				<param name="Тип">Картриджи</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.6 Ом
+Емкость: 2 мл
+Совместимость: Ijoy IVPC</param>
+			</offer>
+			<offer id="121917" available="true">
+				<price>70</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Voopoo </vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Катридж Voopoo для VFL Pod 1.2 Ом</name>
+				<description><![CDATA[Сопротивление: 1.2 Ом<br/>Емкость: 0.8 мл<br/>Совместимость: Voopoo VFL Pod]]></description>
+				<param name="Тип">Картриджи</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.2 Ом
+Емкость: 0.8 мл
+Совместимость: Voopoo VFL Pod</param>
+			</offer>
+			<offer id="121918" available="true">
+				<price>220</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Voopoo </vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Катридж Voopoo для VFL Pod 1.2 Ом комплект 4 шт</name>
+				<description><![CDATA[Сопротивление: 1.2 Ом<br/>Емкость: 0.8 мл<br/>Совместимость: Voopoo VFL Pod]]></description>
+				<param name="Тип">Картриджи</param>
+				<param name="Дополнительные характеристики">Сопротивление: 1.2 Ом
+Емкость: 0.8 мл
+Совместимость: Voopoo VFL Pod</param>
+			</offer>
+			<offer id="121919" available="true">
+				<price>160</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>Vapor Storm</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Комплект спиралей Vapor Storm Tri-twisted Claption 0.35 Ом 10 шт (ADD_1VSttc01)</name>
+				<description><![CDATA[Характеристики: <br/>Тип намотки:  Tri-twisted Claption<br/>Основаня жила: 32GA*3*3<br/>Количество жил в основе: 3<br/>Обмотка: 30GA<br/>Сопротивление: 0.35Ω<br/>Материал: Kanthal a1]]></description>
+				<param name="Тип">Спираль</param>
+				<param name="Дополнительные характеристики">Тип намотки: Tri-twisted Claption
+Сопротивление: 0.35Ω</param>
+			</offer>
+			<offer id="121920" available="true">
+				<price>180</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>Vapor Storm</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Комплект спиралей Coil Father King Coils N03 quadro fused clapton 0.18 Ом 10 шт (ADD_1CFkn03)</name>
+				<description><![CDATA[Характеристики: <br/>Тип намотки: Quadro fused clapton<br/>Основаня жила: 36GA*4<br/>Количество жил в основе: 4<br/>Обмотка: 38GA<br/>Сопротивление: 0.18Ω<br/>Материал: Ni80]]></description>
+				<param name="Тип">Спираль</param>
+				<param name="Дополнительные характеристики">Тип намотки: Quadro fused clapton
+Сопротивление: 0.18Ω</param>
+			</offer>
+			<offer id="121921" available="true">
+				<price>96</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель  GeekVape Mesh Z2 Coil Ka1 0.2 Ом для Zeus Sub Ohm Tank (ADD_a9gz2)</name>
+				<description><![CDATA[Сопротивление: 0.2 Ом;<br/>Материал корпуса: нержавеющая сталь;<br/>Тип испарителя: сетка;<br/>Оптимальная мощьность от 70 до 80 Вт]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.2 Ом;
+Материал корпуса: нержавеющая сталь;
+Тип испарителя: сетка;
+Оптимальная мощьность от 70 до 80 Вт</param>
+			</offer>
+			<offer id="121922" available="true">
+				<price>444</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель  GeekVape Mesh Z2 Coil Ka1 0.2 Ом для Zeus Sub Ohm Tank Комплект 5 шт (ADD_a9gz12)</name>
+				<description><![CDATA[Сопротивление: 0.2 Ом;<br/>Материал корпуса: нержавеющая сталь;<br/>Тип испарителя: сетка;<br/>Оптимальная мощьность от 70 до 80 Вт]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.2 Ом;
+Материал корпуса: нержавеющая сталь;
+Тип испарителя: сетка;
+Оптимальная мощьность от 70 до 80 Вт</param>
+			</offer>
+			<offer id="121923" available="true">
+				<price>102</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>Eleaf</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Eleaf HW-T2 Rotor Mesh Coil 0.2 Ом для Eleaf Rotor, Ello, Ijust3 (ADD_1ELhwt21)</name>
+				<description><![CDATA[Eleaf HW-T2 – передовой испаритель серии HW. <br/>Пропеллер, которым оснащен испаритель, утоплен практически в самое дно нагревательного элемента, благодаря чему возрастает интенсивность генерации пара при затяжке. <br/>После установки и пропики испарителя, рекомендуем сделать несколько затяжек, не нажимая кнопку "Fire".<br/>Сопротивление: 0.2 ohm<br/>Рекомендованная мощность: 35–75 W<br/>Тип спирали: Net Coil (сетка)<br/>Материал нагревателя: Кантал A1<br/>Фитиль: 100% натуральный хлопок<br/>Совместимость: Ijust NexGen/ Ijust 3/Ijust 21700/ Ello Mini / Ello Mini XL/ELLO Duro/Rotor]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.2 ohm
+Рекомендованная мощность: 35–75 W
+Тип спирали: Net Coil (сетка)
+Материал нагревателя: Кантал A1
+Фитиль: 100% натуральный хлопок
+Совместимость: Ijust NexGen/ Ijust 3/ Ello Mini / Ello Mini XL/ELLO Duro/Ijust 21700/Rotor</param>
+			</offer>
+			<offer id="121924" available="true">
+				<price>260</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>Eleaf</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Испаритель Eleaf HW-T2 Rotor Mesh Coil 0.2 Ом комплект 5 шт (ADD_1ELhwt25)</name>
+				<description><![CDATA[Eleaf HW-T2 – передовой испаритель серии HW. <br/>Пропеллер, которым оснащен испаритель, утоплен практически в самое дно нагревательного элемента, благодаря чему возрастает интенсивность генерации пара при затяжке. <br/>После установки и пропики испарителя, рекомендуем сделать несколько затяжек, не нажимая кнопку "Fire".<br/>Сопротивление: 0.2 ohm<br/>Рекомендованная мощность: 35–75 W<br/>Тип спирали: Net Coil (сетка)<br/>Материал нагревателя: Кантал A1<br/>Фитиль: 100% натуральный хлопок<br/>Совместимость: Ijust NexGen/ Ijust 3/Ijust 21700/ Ello Mini / Ello Mini XL/ELLO Duro/Rotor]]></description>
+				<param name="Тип">Испарители</param>
+				<param name="Дополнительные характеристики">Сопротивление: 0.2 ohm
+Рекомендованная мощность: 35–75 W
+Тип спирали: Net Coil (сетка)
+Материал нагревателя: Кантал A1
+Фитиль: 100% натуральный хлопок
+Совместимость: Ijust NexGen/ Ijust 3/ Ello Mini / Ello Mini XL/ELLO Duro/Ijust 21700/Rotor</param>
+			</offer>
+			<offer id="121925" available="true">
+				<price>144</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Проволока для спирали GeekVape Khantal A1 26GA 10м (add_prov01)</name>
+				<description><![CDATA[Проволока для спирали GeekVape Khantal A1 26GA 10м<br/>Материал: Khantal A<br/>Длина: 10 метра <br/>Диаметр: 26GA= 0.4 мм]]></description>
+				<param name="Тип"> Проволока</param>
+				<param name="Дополнительные характеристики">Материал: Khantal A
+Длина: 10 метра 
+Диаметр: 26GA= 0.4 мм</param>
+			</offer>
+			<offer id="121926" available="true">
+				<price>144</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Проволока для спирали GeekVape Ni80 26GA 10м (add_prov02)</name>
+				<description><![CDATA[Проволока для спирали GeekVape Ni80 26GA 10м<br/>Материал: Нихром<br/>Длина: 10 метра <br/>Диаметр: 26GA = 0.4 мм]]></description>
+				<param name="Тип"> Проволока</param>
+				<param name="Дополнительные характеристики">Материал: Нихром
+Длина: 10 метра 
+Диаметр: 26GA = 0.4 мм</param>
+			</offer>
+			<offer id="121927" available="true">
+				<price>144</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>GeekVape</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Проволока для спирали GeekVape Ni80 28GA 10м (add_prov03)</name>
+				<description><![CDATA[Проволока для спирали GeekVape Ni80 28GA 10м<br/>Материал: Нихром<br/>Длина: 10 метра <br/>Диаметр: 28GA = 0.32 мм]]></description>
+				<param name="Тип"> Проволока</param>
+				<param name="Дополнительные характеристики">Материал: Нихром
+Длина: 10 метра 
+Диаметр: 28GA = 0.32 мм</param>
+			</offer>
+			<offer id="121928" available="true">
+				<price>88</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>111</categoryId>
+				<picture>https://www.3fvape.com/299322-thickbox_default/-ships-from-germany2-authentic-smoktech-smok-v12-prince-x6-sextuple-coil-for-tfv12-prince-tank-015-ohm-50120w-3-pcs.jpg</picture>
+				<vendor>Coil Father</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Инструмент для установки спиралей Coil Father Coil Trimming Tool (AJ_prov04)</name>
+				<description><![CDATA[Инструмент позволяющий отмерить нужную длину ножек спирали.<br/>С внешний стороны (на краю инструмента) расположены пазы, которыми можно измерить длину стоек атомайзера, после чего вам остается поместить койл в соответствующее отверстие и откусить лишнее.<br/><br/>Кроме устройств со встречной установкой спиралей или классическими Velocity-стойками,  Coil Trimming Tool удобен и для бессточных баз. Для такого устройства вам потребуется один раз вручную подрезать койл, замерить получившиеся ножки инструментом, и впоследствии подрезать спирали используя Trimming Tool.]]></description>
+				<param name="Тип">Инструменты</param>
+				<param name="Дополнительные характеристики">Размер: 67 мм, 60 мм, 7 мм</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

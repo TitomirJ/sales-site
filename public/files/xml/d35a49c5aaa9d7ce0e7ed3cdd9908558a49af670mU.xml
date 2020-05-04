@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-21 16:52">
+  <shop>
+    <name>Интернет-магазин onStyles</name>
+    <company>Интернет-магазин onStyles</company>
+    <url>https://onstyles.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1.20"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83454691">Одежда для девочек</category>
+      <category id="27664294" parentId="27661590">БЕЛЬЕВЫЕ ИЗДЕЛИЯ: колготки, носочки, пижамы, боди, термобелье</category>
+      <category id="28303405" parentId="27661590">Майки и Футболки</category>
+      <category id="83455302" parentId="83454691">ОДЕЖДА ДЛЯ МАЛЬЧИКОВ</category>
+      <category id="20075661">Зимние аксессуары для всей семьи: шарфы, палантины, хомуты, шапки, перчатки </category>
+      <category id="19217065">Обувь для детей и подростков</category>
+      <category id="27661590" parentId="83454691">Одежда для девочек</category>
+      <category id="73714725">Подушки Для Путешествий: ДЕТКАМ И ВЗРОСЛЫМ</category>
+      <category id="70918971" parentId="42028424">Резиновые Сапоги</category>
+      <category id="70910573" parentId="42028424">Балетки и Туфли</category>
+      <category id="59181214" parentId="42028424">Зимняя обувь </category>
+      <category id="46637276" parentId="19217065">РАССПРОДАЖА. ОБУВЬ НИЖЕ СЕБЕСТОИМОСТИ.</category>
+      <category id="43492076" parentId="19217065">Комнатные тапки для деток</category>
+      <category id="42028442" parentId="19217065">Обувь Для Мальчиков</category>
+      <category id="42028424" parentId="19217065">Обувь Для Девочек</category>
+      <category id="40706930" parentId="20075661">Палантины - Пончо</category>
+      <category id="17019370" parentId="20075661">Шарфы и палантины</category>
+      <category id="16914599" parentId="20075661">Снуды и Хомуты </category>
+      <category id="19564805">Солнцезащитные очки для всей семьи </category>
+      <category id="29956001" parentId="19564805">Имиджевые очки - Аксессуарные</category>
+      <category id="22062908" parentId="19564805">Женские солнцезащитные очки</category>
+      <category id="22057376" parentId="19564805">Мужские солнцезащитные очки</category>
+      <category id="23507455" parentId="20075661">Варежки, перчатки, рукавички для женщин и мужчин</category>
+      <category id="70919205" parentId="42028442">Летняя Обувь</category>
+      <category id="70919793" parentId="42028442">Демисезонная Обувь: Ботинки, Полуботинки</category>
+      <category id="70918988" parentId="42028424">Демисезонная Обувь: Ботинки, Полуботинки, Сапоги</category>
+      <category id="70910518" parentId="42028424">Кроссовки, Кеды, Слипоны, Мокасины</category>
+      <category id="77622365" parentId="42037842">Не на видалення</category>
+      <category id="70910401" parentId="70910394">Шлепки, Тапки, Сабо</category>
+      <category id="70910400" parentId="70910394">Босоножки и Сандалии </category>
+      <category id="70919544" parentId="42028442">Кроссовки и Кеды</category>
+      <category id="70919980" parentId="42028442">Классическая Обувь</category>
+      <category id="70919546" parentId="42028442">Резиновые Сапоги</category>
+      <category id="62337085" parentId="19217065">Акватапки Для Детей</category>
+      <category id="42041546" parentId="19217065">Футбольная Обувь</category>
+      <category id="70977873" parentId="19217065">Обувь Для Танцев</category>
+      <category id="70919010" parentId="19217065">Обувь Для Младенцев</category>
+      <category id="45995854" parentId="19217065">Детские Носки</category>
+      <category id="42037842" parentId="19217065">Нет В Наличии</category>
+      <category id="59182404" parentId="42028442">Зимняя Обувь</category>
+      <category id="70910394" parentId="42028424">Летняя обувь </category>
+      <category id="28321938" parentId="20075661">Осенне-Весенние Шарфики</category>
+      <category id="43302774" parentId="20075661">Детские Зимние Аксессуары: Комлекты, шапки, рукавички</category>
+      <category id="27662423" parentId="27661590">ВЕРХНЯЯ ОДЕЖДА (комбенизоны зимние, куртки, плащи, парки, жилетки, пальто)</category>
+      <category id="27663542" parentId="27661590">КОСТЮМЫ И КОМПЛЕКТЫ: спортивные, класические, нарядные</category>
+      <category id="27662470" parentId="27661590">Платья,туники,сарафаны</category>
+      <category id="27663657" parentId="27661590">Кофты, свитера, джемперы, пуловеры, кардиганы, батники, толстовки, свитшоты, гольфы</category>
+      <category id="27662615" parentId="27661590">Штаны, брюки, джинсы, юбки, лосины, шорты для девочек</category>
+    </categories>
+  <offers>
+<offer available="true" group_id="612321211" id="1112916818">
+    <url>https://onstyles.com.ua/p1112916818-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828554_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828556_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размеры: 24-34</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-08 22:14:47">
+<shop>
+<name>eLook</name>
+<company>eLook</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="70918971" parentId="42028424">Резинові Чоботи</category>
+<category id="70910573" parentId="42028424">Балетки, Туфлі</category>
+<category id="42028424" parentId="19217065">Взуття Для Дівчаток</category>
+<category id="19217065">Взуття Для Дітей Та Підлітків</category>
+<category id="42028442" parentId="19217065">Взуття Для Хлопчиків</category>
+<category id="43492076" parentId="19217065">Кімнатні Тапки Дитячі</category>
+<category id="22057376" parentId="19564805">Чоловічі Сонцезахисні Окуляри</category>
+<category id="22062908" parentId="19564805">Жіночі Сонцезахисні Окуляри</category>
+<category id="29956001" parentId="19564805">Іміджеві Окуляри - Аксесуарні</category>
+<category id="62337085" parentId="19217065">Акватапки Для Дітей</category>
+<category id="42041546" parentId="19217065">Футбольне Взуття</category>
+<category id="70910400" parentId="70910394">Босоніжки, Сандалі</category>
+<category id="70910394" parentId="42028424">Літнє Взуття</category>
+<category id="70919010" parentId="19217065">Взуття Для Немовлят</category>
+<category id="70919544" parentId="42028442">Кросівки, Кеди</category>
+<category id="70919546" parentId="42028442">Резинові Чоботи</category>
+<category id="70919980" parentId="42028442">Класичне Взуття</category>
+<category id="70910401" parentId="70910394">Шльопки, Тапки, Сабо</category>
+<category id="70977873" parentId="19217065">Взуття Для Танців</category>
+<category id="19564805">Сонцезахисні Окуляря Для Всієї Родини</category>
+<category id="70910518" parentId="42028424">Кросівки, Кеди, Сліпони, Мокасини</category>
+<category id="70919205" parentId="42028442">Літнє Взуття</category>
+</categories>
+<offers>
+<offer available="true" id="858772210">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514007415_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514007430_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2313803830_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2313803839_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.
+
+Есть незначительное повреждение на переднике, поэтому на модель большая скидка (см.фото)
+]]></description>
+<param name="Пол">девочка</param>
+<param name="Цвет">комбинированый</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="858772211">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см Кроссовки, девочка, 31 (20 см), комбинированый</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">31 (20 см)</param>
+</offer>
+<offer available="" id="858772212">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см Кроссовки, Для девочек, девочка, 32 (20,5 см), комбинированый</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">32 (20,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="858772213">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см размер - 33 (21 см)</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">33 (21 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="858772214">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см Кроссовки, Для девочек, девочка, 34 (22 см), комбинированый</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">34 (22 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="858772215">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см Кроссовки, девочка, 35 (22,5 см), комбинированый</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">35 (22,5 см)</param>
+</offer>
+<offer available="true" id="858772216">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1514008165_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1514008175_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки 36 размер-23 см Кроссовки, Для девочек, девочка, 36 (23 см), комбинированый</name>
+<vendorCode>19190-38 beige</vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">36 (23 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

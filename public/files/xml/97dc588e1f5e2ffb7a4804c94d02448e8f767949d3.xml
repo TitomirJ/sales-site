@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-03-02 15:15:34">
+<shop>
+<name>Компания "Евгений"</name>
+<company>Компания "Евгений"</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+<category id="83914121" parentId="71777018">Ремені та пояси</category>
+<category id="83913495" parentId="16661508">Спортивні костюми</category>
+<category id="16715121" parentId="16661508">Чоловічі куртки</category>
+<category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+<category id="53761682" parentId="6257850">Велосвітло</category>
+<category id="24353170">Трекингове взуття</category>
+<category id="19959920">Велосипеди</category>
+<category id="18890955" parentId="14407150">Термобілизна</category>
+<category id="17343107" parentId="17305611">Зимові штани</category>
+<category id="17343103" parentId="16661508">Зимові штани</category>
+<category id="17305720" parentId="17305611">Шапки</category>
+<category id="17305707" parentId="17305611">Куртки</category>
+<category id="17305611">Жіночий одяг</category>
+<category id="16661555" parentId="16661508">Шапки</category>
+<category id="16661508">Чоловічий одяг</category>
+<category id="16617831" parentId="4122200">Спальні мішки</category>
+<category id="16617810" parentId="4122200">Трекінгові палиці</category>
+<category id="14693395" parentId="7196249">Чоловічі кеди</category>
+<category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+<category id="14693393" parentId="7196249">Чоловічі черевики</category>
+<category id="14693063" parentId="7196244">Жіночі кросівки</category>
+<category id="14693061" parentId="7196244">Жіночі черевики</category>
+<category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+<category id="14693035" parentId="14407150">Універсальні головні убори</category>
+<category id="14408905" parentId="14407150">Шоломи</category>
+<category id="14407588" parentId="14407150">Маски</category>
+<category id="7196249">Чоловіче взуття</category>
+<category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+<category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+<category id="6257850">Велоаксесуари</category>
+<category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+<category id="4122200">Рюкзаки і туризм</category>
+<category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+<category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+<category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+<category id="71777030" parentId="71777028">Рюкзаки</category>
+<category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+<category id="71777018">Одяг, взуття та аксесуари</category>
+<category id="69024725" parentId="46709597">Фітнес-браслети</category>
+<category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+<category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+<category id="52859360">Басейн і аквафітнес</category>
+<category id="46709702" parentId="46709597">Наручні годинники</category>
+<category id="46709597">Наручні годинники</category>
+<category id="45139423" parentId="4122200">Намети і аксесуари</category>
+<category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+<category id="36278188" parentId="36275949">Маски</category>
+<category id="36276195" parentId="36275949">Шоломи</category>
+<category id="36275949">Уцінка</category>
+<category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+<category id="29447009" parentId="6257850">Велоінструменти</category>
+<category id="29447008" parentId="6257850">Насоси</category>
+<category id="29447007" parentId="6257850">Велодзвінки</category>
+<category id="28200372" parentId="7196244">Жіночі кеди</category>
+<category id="28164081" parentId="7196244">Жіночі сліпони</category>
+<category id="27554175" parentId="14407150">Сноуборди</category>
+<category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+<category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+<category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+<category id="24572876" parentId="17305611">Спортивні штани</category>
+<category id="24544864" parentId="16661508">Спортивні штани</category>
+<category id="22851891" parentId="16661508">Футболки</category>
+<category id="22028141" parentId="7196244">Жіночі балетки</category>
+<category id="18029666">Sale -34% брендові куртки</category>
+<category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+<category id="14693027" parentId="14407150">Лижні палиці</category>
+<category id="14407150">Зимовий спорт</category>
+<category id="13502021" parentId="6257850">Велокомп'ютери</category>
+<category id="7196244">Жіноче взуття</category>
+<category id="6296093" parentId="6257850">Велосипедні сумки</category>
+<category id="58981807">Ігрові види спорту</category>
+<category id="66636889">Прогулянки й активний відпочинок</category>
+<category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+<category id="65449525" parentId="65446905">Спортивні окуляри</category>
+<category id="65447344" parentId="65446905">Спортивні сумки</category>
+<category id="65446905">Спортивні аксесуари</category>
+<category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+<category id="52863748" parentId="52859360">Шапочки для плавання</category>
+<category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+<category id="52863745" parentId="52859360">Окуляри для плавання</category>
+<category id="46807613" parentId="36275949">Годинники</category>
+<category id="49986322" parentId="36275949">Штани</category>
+<category id="46711296" parentId="46709597">Смарт-годинники</category>
+<category id="43651396" parentId="14407150">Рукавиці</category>
+<category id="39308422" parentId="14407150">Черевики лижні</category>
+<category id="36678205" parentId="36275949">Куртки</category>
+<category id="36660532" parentId="36275949">Взуття</category>
+<category id="27250069" parentId="14407150">Гірські лижі</category>
+<category id="27094492" parentId="24353170">Жіночі кросівки</category>
+<category id="22851904" parentId="17305611">Футболки</category>
+<category id="24570219" parentId="17305611">Кофти</category>
+<category id="24543418" parentId="16661508">Кофти</category>
+<category id="22851901" parentId="16661508">Шорти</category>
+</categories>
+<offers>
+<offer available="true" id="1116533943">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>16715121</categoryId>
+<picture>https://images.ua.prom.st/2177108977_kurtka-cholovicha-peak.jpg</picture>
+<picture>https://images.ua.prom.st/2177108975_kurtka-cholovicha-peak.jpg</picture>
+<picture>https://images.ua.prom.st/2177108986_kurtka-cholovicha-peak.jpg</picture>
+<picture>https://images.ua.prom.st/2177108983_kurtka-cholovicha-peak.jpg</picture>
+<picture>https://images.ua.prom.st/2177108995_kurtka-cholovicha-peak.jpg</picture>
+<picture>https://images.ua.prom.st/2177109005_kurtka-cholovicha-peak.jpg</picture>
+<name>Куртка чоловіча Peak Performance XS Black уцінка Б/У</name>
+<vendor>peak performance</vendor>
+<vendorCode>Peak_Perf_XS_Blk3</vendorCode>
+<description><![CDATA[Чоловіча куртка Peak Performance для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Дана модель призначена для екстремально низьких температур та обладнана мембраною GoreTex для захисту від вологи ззовні.
+
+На куртці присутні потертості зі сторони підкладки, а також на світловідбиваючій смужці.
+
+Особливості: 
+
+- Стильний дизайн; 
+
+- Дуже тепла;
+
+- Якісні матеріали;
+
+- Утеплювач з натурального качиного пуху (80%);
+
+- Мембрана GoreTex.
+]]></description>
+<param name="Сезон">Зимовий</param>
+<param name="Стиль">Повсякденний (casual)</param>
+<param name="Матеріал верху">Штучні матеріали: Поліамід</param>
+<param name="Матеріал підкладки">Поліамід</param>
+<param name="Довжина">Середня</param>
+<param name="Температурний режим">Для низьких температур</param>
+<param name="Подія">Повсякденні</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+<param name="Температурний діапазон">Від -3°C до -30°C</param>
+<param name="Модель">Regular Fit</param>
+<param name="Посадка">Середня</param>
+<param name="Довжина рукава">З довгими рукавами</param>
+<param name="Декорування">Однотонні моделі</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Чорний</param>
+<param name="Матеріал ">Поліамід</param>
+<param name="Склад">Верх: 100% Поліамід; Утеплювач: 100% Пух; Підкладка: 100% Поліамід</param>
+<param name="Країна реєстрації бренду">Данія</param>
+<param name="Матеріал наповнювача">Пух</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

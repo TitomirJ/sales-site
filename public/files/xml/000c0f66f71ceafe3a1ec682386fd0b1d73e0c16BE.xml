@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-03-26 21:46:08">
+<shop>
+<name>eLook</name>
+<company>eLook</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="29956001" parentId="19564805">Іміджеві Окуляри - Аксесуарні</category>
+<category id="22062908" parentId="19564805">Жіночі Сонцезахисні Окуляри</category>
+<category id="22057376" parentId="19564805">Чоловічі Сонцезахисні Окуляри</category>
+<category id="43492076" parentId="19217065">Кімнатні Тапки Дитячі</category>
+<category id="42028442" parentId="19217065">Взуття Для Хлопчиків</category>
+<category id="19217065">Взуття Для Дітей Та Підлітків</category>
+<category id="42028424" parentId="19217065">Взуття Для Дівчаток</category>
+<category id="70910573" parentId="42028424">Балетки, Туфлі</category>
+<category id="70918971" parentId="42028424">Резинові Чоботи</category>
+<category id="19564805">Сонцезахисні Окуляря Для Всієї Родини</category>
+<category id="70919205" parentId="42028442">Літнє Взуття</category>
+<category id="70910518" parentId="42028424">Кросівки, Кеди, Сліпони, Мокасини</category>
+<category id="70910401" parentId="70910394">Шльопки, Тапки, Сабо</category>
+<category id="70910400" parentId="70910394">Босоніжки, Сандалі</category>
+<category id="70919544" parentId="42028442">Кросівки, Кеди</category>
+<category id="70919980" parentId="42028442">Класичне Взуття</category>
+<category id="70919546" parentId="42028442">Резинові Чоботи</category>
+<category id="62337085" parentId="19217065">Акватапки Для Дітей</category>
+<category id="42041546" parentId="19217065">Футбольне Взуття</category>
+<category id="70977873" parentId="19217065">Взуття Для Танців</category>
+<category id="70919010" parentId="19217065">Взуття Для Немовлят</category>
+<category id="70910394" parentId="42028424">Літнє Взуття</category>
+</categories>
+<offers>
+<offer available="true" id="1082388837">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386491_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386492_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386494_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.
+
+
+]]></description>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="" id="1082388838">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 31 (19,5 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">31 (19,5 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="" id="1082388841">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 34 (22 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">34 (22 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="" id="1082388842">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 35 (22,5 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">35 (22,5 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="" id="1082388843">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 36 (23,3 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">36 (23,3 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="true" id="1082388839">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 32 (20,5 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">32 (20,5 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="true" id="1082388840">
+<price>439</price>
+<currencyId>UAH</currencyId>
+<categoryId>42041546</categoryId>
+<picture>https://images.ua.prom.st/2085386544_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386548_sorokonozhki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2085386859_sorokonozhki-dlya-malchika.jpg</picture>
+<name>Сороконожки для мальчика Желтые Размеры: 32, 33 Сороконожки, Желтый, верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина, 33 (21 см), всесезон, мальчик</name>
+<vendor>Difeno</vendor>
+<vendorCode>C1587-3 yell </vendorCode>
+<description><![CDATA[Сороконожки для футбола ярко-салатового цвета. Модель на шнурках.]]></description>
+<param name="Розмір">33 (21 см)</param>
+<param name="Колір">Желтый</param>
+<param name="Стать">мальчик</param>
+<param name="Матеріал">верх: эко кожа/ внутри: текстиль/ стелька: текстиль/ подошва: резина</param>
+<param name="Сезон">всесезон</param>
+<param name="Вид взуття">Сороконожки</param>
+</offer>
+<offer available="true" id="937399507">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220554_rezinovye-sapogi-dlya.jpg</picture>
+<picture>https://images.ua.prom.st/1698220565_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размеры: 36,37,40 Черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">черный</param>
+<param name="Пол">девочка</param>
+<param name="Вид обуви">Резиновые сапоги</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="937399510">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220793_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размер - 38 (25 см) Черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">Черный</param>
+<param name="Размер">38 (25 см)</param>
+</offer>
+<offer available="" id="937399511">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220793_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размеры: 36,37,40 Черный Резиновые сапоги, Для девочек, девочка, 39 (25,5 см), черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">Черный</param>
+<param name="Размер">39 (25,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="937399508">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220793_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размер - 36 (23,5 см) Черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">черный</param>
+<param name="Размер">36 (23,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="937399509">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220793_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размер - 37 (24 см) Черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">черный</param>
+<param name="Размер">37 (24 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="937399512">
+<price>430</price>
+<currencyId>UAH</currencyId>
+<categoryId>70918971</categoryId>
+<picture>https://images.ua.prom.st/1698220793_rezinovye-sapogi-dlya.jpg</picture>
+<name>Резиновые сапоги для девочки Размер - 40 (26 см) Черный</name>
+<vendorCode>D50 black </vendorCode>
+<description><![CDATA[Несомненно, очень стильные резиновые полуботинки,  на плотной резинке с декором из камней.]]></description>
+<param name="Цвет">черный</param>
+<param name="Размер">40 (26 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="990395156">
+<price>365</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910401</categoryId>
+<picture>https://images.ua.prom.st/1842555087_shlepantsy-dlya-devushek.jpg</picture>
+<picture>https://images.ua.prom.st/1842555089_shlepantsy-dlya-devushek.jpg</picture>
+<name>Шлепанцы для девушек Размеры: 36, 37, 38, 39</name>
+<vendorCode>180619 black </vendorCode>
+<description><![CDATA[Стильные и красивые шлепанцы для девушек.
+
+Размеры: 36, 37, 38, 39, 40
+
+Состояние: Новое
+]]></description>
+<param name="Состояние">Новое</param>
+<param name="Стиль">Городской</param>
+<param name="Вид обуви">Тапочки</param>
+</offer>
+<offer available="true" id="871442943">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542404640_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/1542404628_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Пол">мальчик</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Цвет">черно-зеленый</param>
+<param name="Для мальчиков:">Для мальчиков</param>
+</offer>
+<offer available="" id="871442949">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34 Кроссовки, мальчик, 36 (22,5 см), черно-зеленый</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">36 (22,5 см)</param>
+</offer>
+<offer available="" id="871442944">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34 Кроссовки, мальчик, 31 (19 см), черно-зеленый</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">31 (19 см)</param>
+</offer>
+<offer available="" id="871442945">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34 Кроссовки, мальчик, 32 (19,5 см), черно-зеленый</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">32 (19,5 см)</param>
+</offer>
+<offer available="" id="871442946">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34 Кроссовки, мальчик, 33 (20,5 см), черно-зеленый</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">33 (20,5 см)</param>
+</offer>
+<offer available="" id="871442948">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые Размеры: 34 Кроссовки, мальчик, 35 (21,5 см), черно-зеленый</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">35 (21,5 см)</param>
+</offer>
+<offer available="true" id="871442947">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1542405058_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика черно-зеленые размер - 34 (21 см)</name>
+<vendorCode>9009 green </vendorCode>
+<description><![CDATA[ХИТ сезона! Трендовая модель кроссовок во всех размерах в НАЛИЧИИ по очень доступной цене.]]></description>
+<param name="Размер">34 (21 см)</param>
+</offer>
+<offer available="true" id="1132493670">
+<price>355</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2239521897_tufli-dlya-divchinki.jpg</picture>
+<picture>https://images.ua.prom.st/2239521974_tufli-dlya-divchinki.jpg</picture>
+<picture>https://images.ua.prom.st/2239522007_tufli-dlya-divchinki.jpg</picture>
+<name>Туфлі для дівчинки Розміри: 26, 28</name>
+<vendorCode>H1301-2 pink </vendorCode>
+<description><![CDATA[Туфельки для дівчаток з бантиком, устілка з натуральної шкіри, є супінатор, модель на липучці. Увага, модель маломірить приблизно на два розміри, просимо вибирати розмір по вимірах устілки.
+
+26 (15 cм)
+
+27 (15,7 см)
+
+28 (16,5 см)
+
+29 (17 см)
+
+30 (18 см)
+
+31 (18,5 см)
+
+ 
+]]></description>
+<param name="Колір">Рожевий</param>
+<param name="Стать">дівчинка</param>
+<param name="Матеріал">верх: еко шкіра / устілка: натуральна шкіра / підошва: поліуретан</param>
+<param name="Сезон">весна-літо</param>
+<param name="Вид взуття">Туфлі</param>
+</offer>
+<offer available="true" id="728158052">
+<price>849</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1216952726_krossovki-salomon-tsvet.jpg</picture>
+<picture>https://images.ua.prom.st/1216952727_krossovki-salomon-tsvet.jpg</picture>
+<name>Кроссовки Salomon Цвет Салатово-розовый Размер: 29</name>
+<vendor>Salomon</vendor>
+<vendorCode>Salomon RX MOC K 118359 </vendorCode>
+<description><![CDATA[Вес обуви: 150 гр Верх (основа): Защита передней части из синтетики. Внешние швы ручной работы. Эластичный манжет для удобного обувку. Сэндвич сетка - открытая синтетическая сетка и грязезащитные синтетическая сетка. Уход - мытье холодной водой. Подкладка: Синтетический текстиль. Подошва: Contagrip OS Tendon. Contagrip - сочетание состава, геометрии и плотности резины. Уникальная технология, обеспечивающая надежность сцепления и высокую износостойкость благодаря особому компаунду, продуманной геометрии и плотности протектора. Сравнивая поведение Contagrip и Vibram на скользких камнях во время бега, большинство спортсменов отдает предпочтение первому. Каркас OS TENDON — стержень из EVA высокой плотности, вставленный внутрь подошвы для предотвращения скручивания. Технология обеспечивает возврат энергии при беге, ходьбе. OS Tendon является видимой частью шасси, помогающая вернуть подошву обуви в исходное положение с меньшей затратой усилий. Эта технология экономит ваши силы и позволяет снять частичное напряжение с сухожилий стопы. Подошва не оставляет следов на поверхности. Промежуточная подошва из материала EVA. OS Muscle - основная функция амортизация, гашение ударной нагрузки. Решая различные задачи, конструкторы используют EVA различной степени плотности. Их можно определить по цветам. Стельки из материала EVA. Антибактериальная пропитка AGION ™ с ионами серебра.]]></description>
+<param name="Пол">девочка</param>
+<param name="Цвет">Салатово-розовый</param>
+<param name="Сезон">весна-лето</param>
+<param name="Состав">верх: синтетический текстиль/ подошва: Contagrip OS Tendon/ стелька: EVA</param>
+</offer>
+<offer available="true" id="968517617">
+<price>910</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1782817965_krossovki-adidas-dlya.jpg</picture>
+<picture>https://images.ua.prom.st/1782817966_krossovki-adidas-dlya.jpg</picture>
+<name>Кроссовки Adidas для мальчика Размер - 22 (14 см)</name>
+<vendor>Adidas</vendor>
+<vendorCode>Adidas S79292 blue </vendorCode>
+<description><![CDATA[Кроссовки VERITAS LO EL выполнены из плотного сетчатого текстиля. Детали: шнуровка на подъеме, мягкая съемная стелька, гибкая подошва.]]></description>
+<param name="Цвет">синий</param>
+<param name="Пол">мальчик</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер">22 (14 см)</param>
+<param name="Для мальчиков:">Для мальчиков</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

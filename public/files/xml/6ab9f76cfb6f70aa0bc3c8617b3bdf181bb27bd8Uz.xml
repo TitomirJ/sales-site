@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd"><yml_catalog data="2020-01-09 10:50">
+    <shop>
+      <name>Mandarin</name>
+      <company>Mandarin</company>
+      <url>Mandarin</url>
+      <currencies>
+        <currency id="UAH" rate="1"/>
+      </currencies>
+      <categories>
+        <category id="45">Детские игрушки</category>
+        <category id="1094" parentId="45">Рисование</category>
+        <category id="1000171">Живопись и графика</category>
+        <category id="3253" parentId="1000171">Скетчбуки</category>
+        <category id="3248" parentId="1000171">Кисти и мастихины</category>
+        <category id="164">Телефоны, MP3, GPS</category>
+        <category id="2909" parentId="164">Смарт-часы</category>
+        <category id="3249" parentId="1000171">Краски художественные</category>
+        <category id="3250" parentId="1000171">Маркеры и линеры</category>
+      </categories>
+      <offers>
+        <offer id="119439" available="true">
+          <name>Детский набор для рисования Art set 150 предметов (0709001)</name>
+          <price>599</price>
+          <price_old>699</price_old>
+          <categoryId>1094</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Art set</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Художественный набор в чемоданчике Art set на 150 предметов идеальный подарок как для детей, так и для и подростков.<br>
+Набор изготовлен из экологически чистых материалов и является полностью безопасным для детей.<br>
+Рисование позитивно скажется на развитии детского воображения, фантазии, сообразительности, абстрактном мышлении, координации движений, творческих навыков,<br>
+а так же активизирует познавательную деятельность и воплотит в жизнь творческие идеи.<br>
+<br>
+В набор входит :<br>
+1. Фломастеры - 36 шт.<br>
+2. Восковые карандаши - 24 шт.<br>
+3. Масляная пастель - 24 шт.<br>
+4. Цветные карандаши - 24 шт.<br>
+5. Набор скрепок – 20 шт.<br>
+6. Акварель - 12 шт.<br>
+7. Кисточка – 1 шт.<br>
+8. Палитра на 12 цветов – 1 шт.<br>
+9. Мини степлер – 1 шт.<br>
+10. Пластмассовые Ножницы – 1 шт.<br>
+11. Точилка – 1 шт.<br>
+12. Белая краска – 1 шт.<br>
+13. Жидкий клей – 1 шт.<br>
+14. Линейка (15 см) – 1 шт.<br>
+15. Ластик – 1 шт.<br>
+16. Карандаш (грифельный) – 1 шт.<br>
+17. Компактный и удобный чемоданчик– 1 шт.]]></description>
+          <param name="Возраст">От 3-х лет</param>
+          <param name="Вид">Наборы для рисования</param>
+          <param name="Цвет">Разноцветный</param>
+          <param name="Требует учета срока годности">false</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/83fa9cef6a8349c06408ec202a61aca0e14e57019q.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/d414f5dfbef61b919efeae90b18bc7d44ba642b4.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/069cfead82bc203d47086a3d9216117361571223.jpg</picture>
+        </offer>
+        <offer id="119447" available="true">
+          <name>Художественный набор для рисования в чемоданчике Colorful Italy 258 предметов (0709002)</name>
+          <price>1199</price>
+          <price_old>1300</price_old>
+          <categoryId>1094</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Colorful Italy</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Художественный набор в чемоданчике на 258 предметов- идеальный подарок как для детей, так и для и подростков.<br>
+<br>
+Набор изготовлен из экологически чистых материалов и является полностью безопасным для детей.<br>
+Рисование позитивно скажется на развитии детского воображения, фантазии, сообразительности, абстрактном мышлении, координации движений, творческих навыков,<br>
+а так же активизирует познавательную деятельность и воплотит в жизнь творческие идеи.<br>
+<br>
+Комплектация:<br>
+1. 60 разноцветных восковых мелков<br>
+2. 48 цветных карандашей<br>
+3. 48 толстых маркеров<br>
+4. 48 тонких фломастеров<br>
+5. 24 цветных акварельных карандашей<br>
+6. 18 акварельных красок<br>
+7. 3 простых карандаша<br>
+8. 3 кисточки для рисования<br>
+9. 2 ластика<br>
+10. 2 точилки<br>
+11. 1 палитра для смешивания красок<br>
+12. 1 кейс-органайзер для компактного хранения набора.]]></description>
+          <param name="Вид">Наборы для рисования</param>
+          <param name="Цвет">Разноцветный</param>
+          <param name="Возраст">От 3-х лет</param>
+          <param name="Требует учета срока годности">false</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/002d29ae74eb6274618b79e5cd5b9abfea1d0834.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/c60c323afdf1d4ac4890f6027ddbfdf7283e2f56.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/4f88284e6aa1ae9e06976b51179443ebfb757aeb.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/f9c85d675e35d1655f58a681777b8dcee2bb59dc.jpg</picture>
+        </offer>
+        <offer id="119449" available="true">
+          <name>Профессиональные акварельные краски Professional Watercolor Paint Set 36 цветов в металлическом пенале + 3 кисточки + 8 листов (0709003)</name>
+          <price>699</price>
+          <price_old>877</price_old>
+          <categoryId>3249</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Watercolor</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Роскошный, фантастический подарок для всех ценителей искусства , как для любителей , так и для профессионалов!<br>
+<br>
+Акварельные краски PROFESSIONAL WATERCOLOR PAINT SET приведут к  истинному удовольствию от магических оттенков для любителей и профессиональных художников. Краска имеет яркую интенсивность цвета и отличную реакцию при разведении. Цвета прекрасно смешиваются предлагая замечательные тонкие оттенки. Акварель представлена в удобном элегантном металлическом пенале.<br>
+<br>
+В комплект входит<br>
+1. Профессиональная акварельная краска 36 цветов<br>
+2. 3 профессиональные кисти<br>
+3. Металлический пенал<br>
+4. Бумага 300 г/м2 8 шт ( 21 х 11,5 см)]]></description>
+          <param name="Дополнительные характеристики">Бумага 300 г/м2 - 8 шт (21 х 11,5 см)</param>
+          <param name="Упаковка">Металлическая</param>
+          <param name="Тип">Акварельные</param>
+          <param name="Количество цветов">36</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/7a72cb7978fb8574ac3eff95455087d2717e99f5.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/17679be16b4a4aa76e9e29d00a0626c6e57788f7.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/7becbdc60c815cef5a60bf9cb1cde3115c5e32a3.jpg</picture>
+        </offer>
+        <offer id="119451" available="true">
+          <name>Бумага для акварели Watercolor Pad  А4 21 x 29.7 см, 300 г/м2 20 листов + 2 кисти (0709004)</name>
+          <price>490</price>
+          <categoryId>3253</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Watercolor</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Акварельная бумага WATERCOLOR PAD , А4 21 см * 29.7 см, 300 г/м2, 20 листов. Которая состоит из очень гладкой бумаги натурального белого цвета, идеально подходит для мокрых техник рисования.<br>
+В комплект входят 2 профессиональные кисти 3 и 7 размера.]]></description>
+          <param name="Дополнительные характеристики">2 профессиональные кисти 3 и 7 размера</param>
+          <param name="Размеры">21 x 29.7 см</param>
+          <param name="Количество листов">20</param>
+          <param name="Тип">Бумага для акварели</param>
+          <param name="Формат">A4</param>
+          <param name="Плотность">300 г/м²</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/286866c0038ff12a9c4cdaf8192913665fa4876f.jpg</picture>
+        </offer>
+        <offer id="224249" available="true">
+          <name>Набор двухсторонних акварельных маркеров STA 24 цвета (B141019)</name>
+          <price>699</price>
+          <price_old>799</price_old>
+          <categoryId>3250</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>STA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Акварельные маркеры - это новый инновационный продукт, объединивший в себе компактность маркера и эффектность акварельной краски.<br>
+<br>
+   Акварельные маркеры наполнены пигментированными чернилами на водной основе (пигмент растворенный в воде). Пигментированные чернила, используемые в аквамаркерах, имеют множество преимуществ. <br>
+<br>
+    Они обладают ярким, насыщенным светостойким цветом (цвет не блекнет при световом воздействии в течение долгого времени). <br>
+    Пигментированные чернила не содержат кислот и производятся на основе натуральных компонентов.<br>
+<br>
+   Маркеры имеют два наконечника: гибкая нейлоновая кисточка - для мягкого закрашивания и тонкое перо для прорисовки деталей.<br>
+<br>
+  Идеально подходят для любителей и профессиональных художников! <br>
+<br>
+<br>
+  Не точксичны. Безопасны при использовании по назначению.]]></description>
+          <param name="Толщина линии">0.8 мм, 2 мм, 1 мм</param>
+          <param name="Количество цветов">24</param>
+          <param name="Тип">Набор маркеров</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/0a724280a1ec15a91a1b022c174c620f47f385dd.JPG</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/711d73c9fdba9b7b41df81645ea4910b514bb86f.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/8cf7d86b41c934e4f3389f8cacced0197633afae.JPG</picture>
+        </offer>
+        <offer id="224253" available="true">
+          <name>Набор двухсторонних акварельных маркеров STA 48 цветов (B141219)</name>
+          <price>1299</price>
+          <price_old>1400</price_old>
+          <categoryId>3250</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>STA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Акварельные маркеры - это новый инновационный продукт, объединивший в себе компактность маркера и эффектность акварельной краски.<br>
+<br>
+   Акварельные маркеры наполнены пигментированными чернилами на водной основе (пигмент растворенный в воде). Пигментированные чернила, используемые в аквамаркерах, имеют множество преимуществ. <br>
+<br>
+    Они обладают ярким, насыщенным светостойким цветом (цвет не блекнет при световом воздействии в течение долгого времени). <br>
+    Пигментированные чернила не содержат кислот и производятся на основе натуральных компонентов.<br>
+<br>
+   Маркеры имеют два наконечника: гибкая нейлоновая кисточка - для мягкого закрашивания и тонкое перо для прорисовки деталей.<br>
+<br>
+  Идеально подходят для любителей и профессиональных художников! <br>
+<br>
+<br>
+  Не точксичны. Безопасны при использовании по назначению.]]></description>
+          <param name="Толщина линии">0.8 мм, 2 мм, 1 мм</param>
+          <param name="Количество цветов">48</param>
+          <param name="Тип">Набор маркеров</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/46c686fb2bf0db9561655fb53d3feaad9726f3d1.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/3dd74fed86a6feb5471e8db42509c3fb7ee11bf7.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/04810374f863cd3a345bb836d5a6b418a02c6831.JPG</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/99a3c7860549b18a2bf016a5d69d7f70020507f9.JPG</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/2f33a78d524b56084cd2a0cec4ea0ce88c79adbb.JPG</picture>
+        </offer>
+        <offer id="225932" available="true">
+          <name>Капилярные линеры STA набор капилярных ручек для скетч зарисовок 9 шт Черный (B091220)</name>
+          <price>265</price>
+          <price_old>300</price_old>
+          <categoryId>3250</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>STA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Практичный и удобный инструмент для художников, дизайнеров, архитекторов. Удобен  при использовании линейки и трафарета.<br>
+В наборе представлено 9 размеров: 0.05 , 0.1 , 0.2, 0.3 ,0.4, 0.5, 0.6, 0.8 и маркер brush<br>
+Чернила без запаха на водной основе, после высыхания не размываются.]]></description>
+          <param name="Толщина линии">0.3 мм, 0.4 мм, 0.5 мм, 0.2 мм, 0.05 мм, 0.1 мм, 0.7 мм, 0.8 мм</param>
+          <param name="Количество в наборе">9 шт</param>
+          <param name="Тип">Набор линеров</param>
+          <param name="Цвета в упаковке">Черный</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/97ec9d0881f6b2aeab65de4a1eb0fcbdfc47ed37.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/cb6c72fba186ce7d23e0d2994d9dc877ac50ab0c.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/76029a6c1323cb0e59fd045ee1572467afb1a69f.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/5ada1a210aa7fd26fdcab56960eac4ede882ca34.jpg</picture>
+        </offer>
+        <offer id="225994" available="true">
+          <name>Набор профессиональных кистей Artist Brush в пенале (холдере) 14 шт (B2091220)</name>
+          <price>600</price>
+          <price_old>650</price_old>
+          <categoryId>3248</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Artist Brush</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Универсальный набор синтетических кистей Artist Brush  дает широкие возможности для создания самых разнообразных мазков и эффектов. Идеально подходит для акрила и масла.]]></description>
+          <param name="Форма кисти">Плоская, Круглая, Овальная, Веерная</param>
+          <param name="Техника">Для масла, Для акрила</param>
+          <param name="Дополнительные характеристики">Живопись</param>
+          <param name="Ворс">Синтетический</param>
+          <param name="Количество в упаковке">14 шт.</param>
+          <param name="Тип">Кисти</param>
+          <param name="Страна-производитель товара">Китай: Китай <img src="//i1.rozetka.ua/split_pages/28/28542.jpg" border="0" /></param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/7fe54d7938b67c5575c5cc0b149c1786db8388c3cX.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/6b7bcf39faa0598e0ee552642c77732e1d30276fRN.jpg</picture>
+        </offer>
+        <offer id="226316" available="true">
+          <name>Смарт-часы влагостойкие AZhuo Digital Smartwatch K9 IP68 Black (B3091219)</name>
+          <price>1399</price>
+          <price_old>1599</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>AZhuo Digital</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Стильные смарт-часы Smartwatch K9<br>
+<br>
+Круглый сенсорный экран IPS 1,3 дюйма<br>
+Съемный стандартный ремешок 20 мм<br>
+Мониторинг сердечного ритма/Измерение артериального давления/Измерение кислорода в крови<br>
+<br>
+Отображение времени, шагомер, потребление калорий, расчет расстояния, частота сердечных сокращений, кровяное давление, кислород крови, трекер сна, отображение ВКЛ и ВЫКЛ, погода, секундомер<br>
+<br>
+Трекер сна (время сна, качество сна)<br>
+<br>
+Многофункциональные спортивные функции (бег, футбол, бадминтон, баскетбол, плавание, подъем, прогулка, шагомер, потребление калорий, расчет расстояния)<br>
+<br>
+Напоминания о звонках, sms-напоминания, напоминания о сообщениях в социальных приложениях<br>
+<br>
+Удаленная камера, управление музыкой<br>
+<br>
+Регулировка яркости, бесшумный режим<br>
+<br>
+Будильник<br>
+<br>
+Водопроницаемость IP68<br>
+Датчик<br>
+G-sensor<br>
+Размер экрана<br>
+42,5*42,5*10,5 (мм)]]></description>
+          <param name="Цвет">Black</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Емкость аккумулятора">180</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Тип матрицы">IPS</param>
+          <param name="Разрешение дисплея">320х240</param>
+          <param name="Диагональ дисплея">До 1.5": 1.3"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">Более 3-х дней</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Год">2019</param>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Сплав металлов</param>
+          <param name="Материал ремешка">Силикон</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Совместимая ОС">iOS, Android</param>
+          <param name="Дисплей">Цветной, Сенсорный</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Содержание кислорода в крови, Тонометр, Счетчик биения сердца</param>
+          <param name="Теги">с пульсометром</param>
+          <param name="Совместимость">Android 4.4  или более поздняя версия, IOS 9.0 или более поздняя версия</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/2c93843ed73006dfbb90e903c657d15a1fe30c27.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/0ccdbc2307b90a37ae4798aa1689464806be7608.jpg</picture>
+        </offer>
+        <offer id="226377" available="true">
+          <name>Смарт-часы влагостойкие AZhuo Digital Smartwatch K9 IP68 Black/Grey (B4091219)</name>
+          <price>1399</price>
+          <price_old>1599</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>AZhuo Digital</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Стильные смарт-часы Smartwatch K9<br>
+<br>
+Круглый сенсорный экран IPS 1,3 дюйма<br>
+Съемный стандартный ремешок 20 мм<br>
+Мониторинг сердечного ритма/Измерение артериального давления/Измерение кислорода в крови<br>
+<br>
+Отображение времени, шагомер, потребление калорий, расчет расстояния, частота сердечных сокращений, кровяное давление, кислород крови, трекер сна, отображение ВКЛ и ВЫКЛ, погода, секундомер<br>
+<br>
+Трекер сна (время сна, качество сна)<br>
+<br>
+Многофункциональные спортивные функции (бег, футбол, бадминтон, баскетбол, плавание, подъем, прогулка, шагомер, потребление калорий, расчет расстояния)<br>
+<br>
+Напоминания о звонках, sms-напоминания, напоминания о сообщениях в социальных приложениях<br>
+<br>
+Удаленная камера, управление музыкой<br>
+<br>
+Регулировка яркости, бесшумный режим<br>
+<br>
+Будильник<br>
+<br>
+Водопроницаемость IP68<br>
+Датчик<br>
+G-sensor<br>
+Размер экрана<br>
+42,5*42,5*10,5 (мм)]]></description>
+          <param name="Цвет">Black-Grey</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Емкость аккумулятора">180</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Тип матрицы">IPS</param>
+          <param name="Разрешение дисплея">320х240</param>
+          <param name="Диагональ дисплея">До 1.5": 1.3"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">Более 3-х дней</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Год">2019</param>
+          <param name="Цвет корпуса">Grey</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Сплав металлов</param>
+          <param name="Материал ремешка">Силикон</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Совместимая ОС">iOS, Android</param>
+          <param name="Дисплей">Цветной, Сенсорный</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Содержание кислорода в крови, Тонометр, Счетчик биения сердца</param>
+          <param name="Теги">с пульсометром</param>
+          <param name="Совместимость">Android 4.4  или более поздняя версия, IOS 9.0 или более поздняя версия</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/e45d7e0de0d6f1fe2d57bce2c01c3f259aa9d884.jpg</picture>
+        </offer>
+        <offer id="226379" available="true">
+          <name>Смарт-часы влагостойкие AZhuo Digital Smartwatch K9 IP68 Black/Red (B5091219)</name>
+          <price>1399</price>
+          <price_old>1599</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>AZhuo Digital</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Стильные смарт-часы Smartwatch K9<br>
+<br>
+Круглый сенсорный экран IPS 1,3 дюйма<br>
+Съемный стандартный ремешок 20 мм<br>
+Мониторинг сердечного ритма/Измерение артериального давления/Измерение кислорода в крови<br>
+<br>
+Отображение времени, шагомер, потребление калорий, расчет расстояния, частота сердечных сокращений, кровяное давление, кислород крови, трекер сна, отображение ВКЛ и ВЫКЛ, погода, секундомер<br>
+<br>
+Трекер сна (время сна, качество сна)<br>
+<br>
+Многофункциональные спортивные функции (бег, футбол, бадминтон, баскетбол, плавание, подъем, прогулка, шагомер, потребление калорий, расчет расстояния)<br>
+<br>
+Напоминания о звонках, sms-напоминания, напоминания о сообщениях в социальных приложениях<br>
+<br>
+Удаленная камера, управление музыкой<br>
+<br>
+Регулировка яркости, бесшумный режим<br>
+<br>
+Будильник<br>
+<br>
+Водопроницаемость IP68<br>
+Датчик<br>
+G-sensor<br>
+Размер экрана<br>
+42,5*42,5*10,5 (мм)]]></description>
+          <param name="Цвет">Black-Red</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Емкость аккумулятора">180</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Тип матрицы">IPS</param>
+          <param name="Разрешение дисплея">320х240</param>
+          <param name="Диагональ дисплея">До 1.5": 1.3"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">Более 3-х дней</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Год">2019</param>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Сплав металлов</param>
+          <param name="Материал ремешка">Силикон</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Совместимая ОС">iOS, Android</param>
+          <param name="Дисплей">Цветной, Сенсорный</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Содержание кислорода в крови, Тонометр, Счетчик биения сердца</param>
+          <param name="Теги">с пульсометром</param>
+          <param name="Совместимость">Android 4.4  или более поздняя версия, IOS 9.0 или более поздняя версия</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/883c863c2120d70733010fe2e9eeacddc771e91b.jpg</picture>
+        </offer>
+        <offer id="226380" available="true">
+          <name>Смарт-часы влагостойкие AZhuo Digital Smartwatch K9 IP68 Black/Yellow (B6091219)</name>
+          <price>1399</price>
+          <price_old>1599</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>AZhuo Digital</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Стильные смарт-часы Smartwatch K9<br>
+<br>
+Круглый сенсорный экран IPS 1,3 дюйма<br>
+Съемный стандартный ремешок 20 мм<br>
+Мониторинг сердечного ритма/Измерение артериального давления/Измерение кислорода в крови<br>
+<br>
+Отображение времени, шагомер, потребление калорий, расчет расстояния, частота сердечных сокращений, кровяное давление, кислород крови, трекер сна, отображение ВКЛ и ВЫКЛ, погода, секундомер<br>
+<br>
+Трекер сна (время сна, качество сна)<br>
+<br>
+Многофункциональные спортивные функции (бег, футбол, бадминтон, баскетбол, плавание, подъем, прогулка, шагомер, потребление калорий, расчет расстояния)<br>
+<br>
+Напоминания о звонках, sms-напоминания, напоминания о сообщениях в социальных приложениях<br>
+<br>
+Удаленная камера, управление музыкой<br>
+<br>
+Регулировка яркости, бесшумный режим<br>
+<br>
+Будильник<br>
+<br>
+Водопроницаемость IP68<br>
+Датчик<br>
+G-sensor<br>
+Размер экрана<br>
+42,5*42,5*10,5 (мм)]]></description>
+          <param name="Цвет">Black-Yellow</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Емкость аккумулятора">180</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Тип матрицы">IPS</param>
+          <param name="Разрешение дисплея">320х240</param>
+          <param name="Диагональ дисплея">До 1.5": 1.3"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">Более 3-х дней</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Год">2019</param>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Сплав металлов</param>
+          <param name="Материал ремешка">Силикон</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Совместимая ОС">iOS, Android</param>
+          <param name="Дисплей">Цветной, Сенсорный</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Содержание кислорода в крови, Тонометр, Счетчик биения сердца</param>
+          <param name="Теги">с пульсометром</param>
+          <param name="Совместимость">Android 4.4  или более поздняя версия, IOS 9.0 или более поздняя версия</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/ec24a77c80c8b2903f796aafc02c062e975fb450.jpg</picture>
+        </offer>
+        <offer id="226746" available="true">
+          <name>Водонепроницаемые смарт-часы Reaf GPS Black (B06091219)</name>
+          <price>1049</price>
+          <price_old>1200</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Reaf</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Cмарт-часы  Reaf GPS Black - это идеальный выбор для любителей спорта и активных людей, а так же тех кто ищет стильный и полезный подарок. Помимо стандартных функций, часы имеют множество спорт - режимов, таких как бег, вело , планка и т. д. Также, часы информируют Вас о звонках, смс, напоминаниях и других полезных вещах. Часы совместимы со всеми смартфонами, которые работаю на таких операционных системах как Android, Windows Mobile, iOS]]></description>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Год">2019</param>
+          <param name="Сенсорный экран">С сенсорным экраном</param>
+          <param name="Цвет">Black-Grey</param>
+          <param name="Емкость аккумулятора">180</param>
+          <param name="Разрешение дисплея">128x128</param>
+          <param name="Диагональ дисплея">До 1.5": 1.3"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">Более 3-х дней</param>
+          <param name="GPS">Есть</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Пластик</param>
+          <param name="Материал ремешка">Резина/каучук</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Скорость движения, Содержание кислорода в крови</param>
+          <param name="Совместимая ОС">iOS: iOS, Другая: Другая, Android: Android</param>
+          <param name="Интерфейс подключения">Bluetooth</param>
+          <param name="Вес">130 гр</param>
+          <param name="Уведомления">Вызовы</param>
+          <param name="Теги">недорогие</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/bd4cfd0950feb891ff76fdff73a3fa06bb269ad0.jpg</picture>
+        </offer>
+        <offer id="227202" available="true">
+          <name>Смарт-часы FITUP black (B7091220)</name>
+          <price>1690</price>
+          <price_old>1800</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>FITUP</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Новая модель умных часов FITUP сочетает в себе лаконичный и стильный дизайн, а так же массу полезных функций для активной жизни. Емкий аккумулятор, датчик сердечного ритма, мониторинг фитнес упражнений позволят по максимуму использовать часы для спорта. Оцените преимущество синхронизации устройства по Bluetooth со смартфоном – получайте важные уведомления о звонках и сообщениях, оставаясь всегда на связи. Смарт-часы  FITUP – функциональный и стильный гаджет для современных людей.]]></description>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Год">2019</param>
+          <param name="Сенсорный экран">С сенсорным экраном</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Тип ремешка">Металлический</param>
+          <param name="Цвет">Black</param>
+          <param name="Емкость аккумулятора">100</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Разрешение дисплея">128x128</param>
+          <param name="Диагональ дисплея">До 1.5": 0.96"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">2-3 дня</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал ремешка">Металл</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Тонометр, Счетчик биения сердца</param>
+          <param name="Совместимая ОС">iOS: iOS, Android: Android</param>
+          <param name="Уведомления">Вызовы</param>
+          <param name="Теги">с пульсометром</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/e873ce6242fb7d533376694d94df815be7e17e4b.jpg</picture>
+        </offer>
+        <offer id="227203" available="true">
+          <name>Смарт-часы FITUP grey (B7091220)</name>
+          <price>1690</price>
+          <price_old>1800</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>FITUP</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Новая модель умных часов FITUP сочетает в себе лаконичный и стильный дизайн, а так же массу полезных функций для активной жизни. Емкий аккумулятор, датчик сердечного ритма, мониторинг фитнес упражнений позволят по максимуму использовать часы для спорта. Оцените преимущество синхронизации устройства по Bluetooth со смартфоном – получайте важные уведомления о звонках и сообщениях, оставаясь всегда на связи. Смарт-часы  FITUP – функциональный и стильный гаджет для современных людей.]]></description>
+          <param name="Цвет корпуса">Grey</param>
+          <param name="Год">2019</param>
+          <param name="Сенсорный экран">С сенсорным экраном</param>
+          <param name="Форма часов">Круглые</param>
+          <param name="Для кого">Унисекс</param>
+          <param name="Тип ремешка">Металлический</param>
+          <param name="Цвет">Grey</param>
+          <param name="Емкость аккумулятора">100</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Разрешение дисплея">128x128</param>
+          <param name="Диагональ дисплея">До 1.5": 0.96"</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">2-3 дня</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал ремешка">Металл</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Тонометр, Счетчик биения сердца</param>
+          <param name="Совместимая ОС">iOS: iOS, Android: Android</param>
+          <param name="Уведомления">Вызовы</param>
+          <param name="Теги">с пульсометром</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/ef192fbc09751dee878b7f3ca915b716efa3ada6Cc.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/4db0dd3fcc63682f1641eb536125b2460f49981d16.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/7fb4f0b98b71cb6e09beb14781957c2afa3c7d67iG.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/3a6c82323d07ecb246bcbce75392c5ca12cfdc28XT.jpg</picture>
+        </offer>
+        <offer id="227204" available="true">
+          <name>Женские смарт-часы SANDA H8 IP67 Black (B10091219)</name>
+          <price>2249</price>
+          <price_old>2500</price_old>
+          <categoryId>2909</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>SANDA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Многофункциональные женские смарт-часы Sanda H8 с элегантным тонким ремешком способны подчеркнуть изящество женской руки и дополнить ее образ. Браслет станет незаменимым помощником во время занятий спортом или в повседневной жизни.<br>
+Модель защищена от воды и пыли по стандарту IP-67, что позволяет носить его под дождем, мыть в нем руки, заниматься бегом и другими видами спорта.]]></description>
+          <param name="Цвет корпуса">Black</param>
+          <param name="Год">2019</param>
+          <param name="Сенсорный экран">С сенсорным экраном</param>
+          <param name="Размер корпуса, мм">46</param>
+          <param name="Форма часов">Прямоугольные</param>
+          <param name="Для кого">Женские</param>
+          <param name="Тип ремешка">Металлический</param>
+          <param name="Цвет">Black</param>
+          <param name="Емкость аккумулятора">90</param>
+          <param name="Версия Bluetooth">4.0: 4.0</param>
+          <param name="Разрешение дисплея">80x160</param>
+          <param name="Тип">Умные часы</param>
+          <param name="Время работы">2-3 дня</param>
+          <param name="Тип зарядки">Проводная</param>
+          <param name="Материал корпуса">Сплав металлов</param>
+          <param name="Материал ремешка">Металл</param>
+          <param name="Пульсометр">Есть</param>
+          <param name="Датчики">Счетчик калорий, Шагомер, Пульсометр, Тонометр, Счетчик биения сердца</param>
+          <param name="Совместимая ОС">iOS: iOS, Android: Android</param>
+          <param name="Дисплей">Цветной, Сенсорный</param>
+          <param name="Интерфейс подключения">Bluetooth</param>
+          <param name="Уведомления">Вызовы</param>
+          <param name="Теги">с пульсометром</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/266a6c47e6a9235d4d5891bf94b011005d6d8e3b.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/79dfe0f2735c97ca2f47a6d2db99c2687afa67dd.jpg</picture>
+        </offer>
+        <offer id="238614" available="true">
+          <name>Набір акрилових фарб в тубах Lokss 24 кольори (B000678)</name>
+          <price>649</price>
+          <price_old>850</price_old>
+          <categoryId>3249</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Lokss</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Набір акрилових фарб, 24 туби в наборі, 12 мл. Чудовий подарунок як для юних талантів, так і для професіоналів. В наборі є нейлоновий пензлик. Природня кольорова гамма. Акрилові фарби  застосовують в живописі, оформленні інтер'єру, розписують дерево, тканини, взуття, скло. Акрилові фарби тримаються на полотні, картоні, двп, дереві, металі та на багатьох інших матеріалах. Розмір упаковки 26X20X2,5 см. Вага 0,05 кг. Фарба безпечна, не токсична.]]></description>
+          <param name="Дополнительные характеристики">Не токсичні</param>
+          <param name="Упаковка">Металлическая</param>
+          <param name="Количество цветов">24</param>
+          <param name="Тип">Акриловые</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/6f41f2b73285d5e1533e6a989f7ba61523196438.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/807bab317098d01b8b3ed1fd1366e61b55c6b10d.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/2273903ca7387e5995df1973e5e743e486ab7822.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/e5bfce5a4e77f2e4da45e76405dc3aef6a956a85.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/56e5deb46109b1fa185df168075620d391920d07.png</picture>
+        </offer>
+        <offer id="238615" available="true">
+          <name>Краски акриловые в тубах Lokss набор 24 цвета (B000876)</name>
+          <price>649</price>
+          <price_old>850</price_old>
+          <categoryId>3249</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>Lokss</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Набор акриловых красок, 24 тубы в наборе, 12 мл. Отличный подарок как для юных талантов, так и для профессионалов. В наборе есть нейлоновая кисточка. Естественная цветовая гамма. Акриловые краски применяют в живописи, оформлении интерьера, расписывают дерево, ткани, обувь, стекло. Акриловые краски держатся на холсте, картоне, двп, дереве, металле и на многих других материалах. Размер упаковки 26X20X2,5 см. Вес 0,05 кг. Краска безопасна, не токсична.]]></description>
+          <param name="Дополнительные характеристики">Не токсичные</param>
+          <param name="Упаковка">Металлическая</param>
+          <param name="Тип">Акриловые</param>
+          <param name="Количество цветов">24</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/b488538095d535c6413e0bedd58161827433acd2.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/dbfeedf25858c29c2aa7b705ba6ef63c6c667b7f.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/aea5f768d394eba22a403d7c5136988a953f3948.png</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/44b6dfe473f6085b0d81f791c7ce804c2772c5ba.png</picture>
+        </offer>
+        <offer id="243435" available="true">
+          <name>Набор двухсторонних акварельных маркеров STA 36 цветов (В130220)</name>
+          <price>949</price>
+          <price_old>1199</price_old>
+          <categoryId>3250</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>STA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Акварельные маркеры - это новый инновационный продукт, объединивший в себе компактность маркера и эффектность акварельной краски.<br>
+<br>
+Акварельные маркеры наполнены пигментированными чернилами на водной основе (пигмент растворенный в воде). Пигментированные чернила, используемые в аквамаркерах, имеют множество преимуществ. <br>
+<br>
+Они обладают ярким, насыщенным светостойким цветом (цвет не блекнет при световом воздействии в течение долгого времени). <br>
+Пигментированные чернила не содержат кислот и производятся на основе натуральных компонентов.<br>
+<br>
+Маркеры имеют два наконечника: гибкая нейлоновая кисточка - для мягкого закрашивания и тонкое перо для прорисовки деталей.<br>
+<br>
+Идеально подходят для любителей и профессиональных художников! <br>
+<br>
+<br>
+Не точксичны. Безопасны при использовании по назначению.]]></description>
+          <param name="Толщина линии">0.8 мм, 2 мм, 1 мм</param>
+          <param name="Количество цветов">36</param>
+          <param name="Тип">Набор маркеров</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/c3e4d470223fd9bf07c9018a2151d5c854ca41ad.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/edaf1c8e3549eb054f32ca5be42fd200923aa20d.jpg</picture>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/d9e3ae565528750d747a164e40889c6f54f7c852.jpg</picture>
+        </offer>
+        <offer id="243437" available="true">
+          <name>Набор двухсторонних акварельных маркеров STA 80 цветов (В131520)</name>
+          <price>2250</price>
+          <price_old>2500</price_old>
+          <categoryId>3250</categoryId>
+          <currencyId>UAH</currencyId>
+          <vendor>STA</vendor>
+          <stock_quantity>10</stock_quantity>
+          <description><![CDATA[Акварельные маркеры - это новый инновационный продукт, объединивший в себе компактность маркера и эффектность акварельной краски.<br>
+<br>
+Акварельные маркеры наполнены пигментированными чернилами на водной основе (пигмент растворенный в воде). Пигментированные чернила, используемые в аквамаркерах, имеют множество преимуществ. <br>
+<br>
+Они обладают ярким, насыщенным светостойким цветом (цвет не блекнет при световом воздействии в течение долгого времени). <br>
+Пигментированные чернила не содержат кислот и производятся на основе натуральных компонентов.<br>
+<br>
+Маркеры имеют два наконечника: гибкая нейлоновая кисточка - для мягкого закрашивания и тонкое перо для прорисовки деталей.<br>
+<br>
+Идеально подходят для любителей и профессиональных художников! <br>
+<br>
+<br>
+Не точксичны. Безопасны при использовании по назначению.]]></description>
+          <param name="Толщина линии">0.8 мм, 2 мм, 1 мм</param>
+          <param name="Количество цветов">80</param>
+          <param name="Тип">Набор маркеров</param>
+          <picture>https://smartplus-images.s3.eu-west-3.amazonaws.com/46f0ada8bbd055a9ddadb4bc18f6fd8ad647be17lD.JPG</picture>
+        </offer>
+      </offers>
+    </shop>
+  </yml_catalog>

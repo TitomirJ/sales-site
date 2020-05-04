@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-21 16:52">
+  <shop>
+    <name>Интернет-магазин onStyles</name>
+    <company>Интернет-магазин onStyles</company>
+    <url>https://onstyles.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1,2"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83454691">Одежда для девочек</category>
+      <category id="27664294" parentId="27661590">БЕЛЬЕВЫЕ ИЗДЕЛИЯ: колготки, носочки, пижамы, боди, термобелье</category>
+      <category id="28303405" parentId="27661590">Майки и Футболки</category>
+      <category id="83455302" parentId="83454691">ОДЕЖДА ДЛЯ МАЛЬЧИКОВ</category>
+      <category id="20075661">Зимние аксессуары для всей семьи: шарфы, палантины, хомуты, шапки, перчатки </category>
+      <category id="19217065">Обувь для детей и подростков</category>
+      <category id="27661590" parentId="83454691">Одежда для девочек</category>
+      <category id="73714725">Подушки Для Путешествий: ДЕТКАМ И ВЗРОСЛЫМ</category>
+      <category id="70918971" parentId="42028424">Резиновые Сапоги</category>
+      <category id="70910573" parentId="42028424">Балетки и Туфли</category>
+      <category id="59181214" parentId="42028424">Зимняя обувь </category>
+      <category id="46637276" parentId="19217065">РАССПРОДАЖА. ОБУВЬ НИЖЕ СЕБЕСТОИМОСТИ.</category>
+      <category id="43492076" parentId="19217065">Комнатные тапки для деток</category>
+      <category id="42028442" parentId="19217065">Обувь Для Мальчиков</category>
+      <category id="42028424" parentId="19217065">Обувь Для Девочек</category>
+      <category id="40706930" parentId="20075661">Палантины - Пончо</category>
+      <category id="17019370" parentId="20075661">Шарфы и палантины</category>
+      <category id="16914599" parentId="20075661">Снуды и Хомуты </category>
+      <category id="19564805">Солнцезащитные очки для всей семьи </category>
+      <category id="29956001" parentId="19564805">Имиджевые очки - Аксессуарные</category>
+      <category id="22062908" parentId="19564805">Женские солнцезащитные очки</category>
+      <category id="22057376" parentId="19564805">Мужские солнцезащитные очки</category>
+      <category id="23507455" parentId="20075661">Варежки, перчатки, рукавички для женщин и мужчин</category>
+      <category id="70919205" parentId="42028442">Летняя Обувь</category>
+      <category id="70919793" parentId="42028442">Демисезонная Обувь: Ботинки, Полуботинки</category>
+      <category id="70918988" parentId="42028424">Демисезонная Обувь: Ботинки, Полуботинки, Сапоги</category>
+      <category id="70910518" parentId="42028424">Кроссовки, Кеды, Слипоны, Мокасины</category>
+      <category id="77622365" parentId="42037842">Не на видалення</category>
+      <category id="70910401" parentId="70910394">Шлепки, Тапки, Сабо</category>
+      <category id="70910400" parentId="70910394">Босоножки и Сандалии </category>
+      <category id="70919544" parentId="42028442">Кроссовки и Кеды</category>
+      <category id="70919980" parentId="42028442">Классическая Обувь</category>
+      <category id="70919546" parentId="42028442">Резиновые Сапоги</category>
+      <category id="62337085" parentId="19217065">Акватапки Для Детей</category>
+      <category id="42041546" parentId="19217065">Футбольная Обувь</category>
+      <category id="70977873" parentId="19217065">Обувь Для Танцев</category>
+      <category id="70919010" parentId="19217065">Обувь Для Младенцев</category>
+      <category id="45995854" parentId="19217065">Детские Носки</category>
+      <category id="42037842" parentId="19217065">Нет В Наличии</category>
+      <category id="59182404" parentId="42028442">Зимняя Обувь</category>
+      <category id="70910394" parentId="42028424">Летняя обувь </category>
+      <category id="28321938" parentId="20075661">Осенне-Весенние Шарфики</category>
+      <category id="43302774" parentId="20075661">Детские Зимние Аксессуары: Комлекты, шапки, рукавички</category>
+      <category id="27662423" parentId="27661590">ВЕРХНЯЯ ОДЕЖДА (комбенизоны зимние, куртки, плащи, парки, жилетки, пальто)</category>
+      <category id="27663542" parentId="27661590">КОСТЮМЫ И КОМПЛЕКТЫ: спортивные, класические, нарядные</category>
+      <category id="27662470" parentId="27661590">Платья,туники,сарафаны</category>
+      <category id="27663657" parentId="27661590">Кофты, свитера, джемперы, пуловеры, кардиганы, батники, толстовки, свитшоты, гольфы</category>
+      <category id="27662615" parentId="27661590">Штаны, брюки, джинсы, юбки, лосины, шорты для девочек</category>
+    </categories>
+  <offers>
+		<offers>
+			<offer id="big-17925" available="true">
+				<url>https://skidka.ua/morozilnye-kamery/liebherr-gn-2723.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=gn_2723&amp;utm_campaign=morozilnye_kamery</url>
+				<price>19059</price>
+				<price_old>20399.00</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>163</categoryId>
+				<picture>https://skidka.ua/upload/iblock/55c/55cbeff9baf527072d5d1715b9ef98e1.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/a36/a360fe1d82f0d463aa51bc3cc68e0448.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/c4e/c4e7c8506742932bab4d45aa0f79427b.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/efc/efcad0ca5282526d6c02c2f91a243e65.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/548/548cc7d0341867778acb3e42dafcfb0c.jpg</picture>
+				<name><![CDATA[Морозильная камера Liebherr GN 2723]]></name>
+				<vendor>Liebherr</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[Морозильная камера Liebherr GN 2723&amp;nbsp;– однокамерный морозильник, объемом 224 л. Его современный дизайн и корпус белого цвета позволяют гармонично разместить аппарат при любом кухонном дизайне. Электронное управление предельно простое, и разобраться в нем не составит труда. Внутреннее пространство морозильной камеры тщательно продумано и позволяет оптимально использовать весь имеющийся объем. Контейнеры с прозрачной фронтальной стенкой дают возможность посмотреть на содержимое, не выдвигая ящики. Режим быстрой и глубокой заморозки при температуре поможет заморозить продукты на длительное время. Низкий уровень шума морозильной техники Liebherr обеспечит комфортную эксплуатацию. Морозильная камера , благодаря применению новых технологий и инновационных решений, потребляет минимальное количество электроэнергии, значительно экономя затраты на эксплуатацию.]]></description>
+				<param name="Производитель"><![CDATA[Liebherr]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[Производительность замораживания – 18 кг/сутки. Потребление электроэнергии – 288.4 кВт•ч в год. Поддержание температуры в случае отключения электроэнергии – 43 час.]]></param>
+				<param name="Вес"><![CDATA[н.д.]]></param>
+				<param name="Габариты (ВхШхГ)"><![CDATA[1644х600х630 мм]]></param>
+				<param name="Гарантия, мес"><![CDATA[36 мес]]></param>
+				<param name="Дисплей"><![CDATA[Есть]]></param>
+				<param name="Класс энергопотребления"><![CDATA[А+]]></param>
+				<param name="Общий объем, л"><![CDATA[250-299]]></param>
+				<param name="Система размораживания"><![CDATA[No Frost]]></param>
+				<param name="Страна-производитель"><![CDATA[Болгария]]></param>
+				<param name="Тип"><![CDATA[Камера]]></param>
+				<param name="Тип управления"><![CDATA[Электронное]]></param>
+				<param name="Дополнительные функции"><![CDATA[No Frost (Frost Free), динамическая вентиляция, система FrostSafe с закрытыми прозрачными выдвижными ящиками, лоток для трав и ягод, перенавешиваемая дверь, эргономичная ручка со встроенным механизмом открывания, возможность установки вплотную к стене или]]></param>
+			</offer>
+			<offer id="big-17926" available="true">
+				<url>https://skidka.ua/morozilnye-kamery/liebherr-gn-3023.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=gn_3023&amp;utm_campaign=morozilnye_kamery</url>
+				<price>21589</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>163</categoryId>
+				<picture>https://skidka.ua/upload/iblock/5e8/5e8edfe55954964cc09cc3fa8ff6dccc.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/68c/68c1f5c87a1eb3971a50cc084cfe5887.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/295/29594ea60c42c3a6f1ec76f0d7be09f9.jpg</picture>
+				<name><![CDATA[Морозильная камера Liebherr GN 3023]]></name>
+				<vendor>Liebherr</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[     Морозильная камера Liebherr GN 3023Морозильная камера Liebherr GN 3023 оснащена функцией автоматического размораживания камеры. Оттаивание внутренней поверхности камеры в цикле работы компрессора происходит под воздействием тепла. Оттаивание происходит от подогрева воздуха в плюсовой камере (от тепла, выделяемого продуктами). Для этого в холодильниках применяется плачущий (капельный) испаритель, благодаря которому нет необходимости размораживать холодильную камеру вручную.  Морозильная камера имеет возможность изменения направления открывания дверей с целью повышения удобства при пользовании холодильником. Перенавешивающиеся двери отличаются удобством крепления. Благодаря своей оригинальной конструкции, они могут открываться в наиболее удобную для владельца холодильника сторону. Перенавешивание дверей несложно осуществить самому, либо вызвав мастера. Подобное устройство дверей способно существенно сэкономить рабочее пространство на кухне, особенно, на малогабаритной. Официальная гарантия на данную модель составляет 12 месяцев.]]></description>
+				<param name="Производитель"><![CDATA[Liebherr]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[Звуковая сигнализация открытой двери]]></param>
+				<param name="Габариты (ВхШхГ)"><![CDATA[1841 x 600 x 630 мм]]></param>
+				<param name="Гарантия, мес"><![CDATA[36 мес]]></param>
+				<param name="Дисплей"><![CDATA[Есть]]></param>
+				<param name="Класс энергопотребления"><![CDATA[А+]]></param>
+				<param name="Климатический класс"><![CDATA[SN, T]]></param>
+				<param name="Общий объем, л"><![CDATA[300-399]]></param>
+				<param name="Система размораживания"><![CDATA[No Frost]]></param>
+				<param name="Страна-производитель"><![CDATA[Германия]]></param>
+				<param name="Тип"><![CDATA[Камера]]></param>
+				<param name="Тип управления"><![CDATA[Электронное]]></param>
+				<param name="Дополнительные функции"><![CDATA[Система NoFrost]]></param>
+			</offer>
+			<offer id="big-18362" available="true">
+				<url>https://skidka.ua/varochnye-poverkhnosti-gazovye/kaiser-kg-6976-gbe-turbo.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=kg_6976_gbe_turbo&amp;utm_campaign=varochnye_poverkhnosti_gazovye</url>
+				<price>11514</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>91</categoryId>
+				<picture>https://skidka.ua/upload/iblock/032/0323ac5a85ccc6991b3dd90607350458.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/99c/99c8728a5e6c509874e640638ee5f7f3.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/576/576a7de5e400b0d778eda2490149f6db.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/54d/54de981adc9f870d933ec973a8f421f8.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/ef7/ef7b896f0b5958442b261e3a9893fb1c.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/ef5/ef5c4fd972dc5fe369607b79ba79fdbb.jpg</picture>
+				<name><![CDATA[Варочная поверхность Kaiser KG6976GBETurbo]]></name>
+				<vendor>Kaiser</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[Бытовые приборы от Kaiser - это не только функциональные бытовые помощники - это настоящие произведения мистецства! Целью нашей компании всегда удовлетворять потребности покупателей в полной мере. Мы очень рады тому, что широкий спектр наших современных приборов, сочетающих в себе инновационные технологии и привлекательный дизайн, делает Вашу жизнь проще и приятнее. В своей деятельности, Kaiser полностью руководствуется пожеланиями клиентов, которые требуют высоких стандартов качества и точно знают, какие требования новое поколение бытовых приборов должно выполнять в 21-м веке. Kaiser специализируется на производстве произведений технологического мистества, которые можно приобрести по разумной цене. Наша продукция соответствует самым высоким требованиям качества и защиты окружающей среды.Долговечные материалыKaiser, при создании своих продуктов, использует высококачественные и долговечные материалы, такие как: крепкое закаленное стекло известной немецкой торговой марки SCHOTT, высокоточные сенсорные панели, нержавеющая сталь и минимум пластика!Высокая производительностьБлагодаря использованию последних достижений немецких инженеров, техника Kaiser всегда поможет достичь лучших результатов при приготовлении, стирке, мытье посуды и хранении продуктов, экономя при этом Ваши деньги.Встраиваемая варочная поверхность – обязательный предмет на современной кухне. Для того чтобы процесс готовки занимал меньше времени и приносил только радость, компания Kaiser создала новые газовые и электрические встраиваемые поверхности Варочная поверхность Kaiser KG6976GBETurbo - газовая варочная панель, которая устанавливается в специальное отверстие в столешнице, не занимая много места.]]></description>
+				<param name="Производитель"><![CDATA[Kaiser]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[KG6976GBETurbo]]></param>
+				<param name="Габариты (ВхШхГ)"><![CDATA[58 х 50 см]]></param>
+				<param name="Газ-контроль"><![CDATA[Есть]]></param>
+				<param name="Гарантия, мес"><![CDATA[12]]></param>
+				<param name="Диаметр и мощность конфорок"><![CDATA[Передняя правая 1 кВт]]></param>
+				<param name="Количество конфорок"><![CDATA[4]]></param>
+				<param name="Материал поверхности"><![CDATA[Эмаль]]></param>
+				<param name="Страна-производитель"><![CDATA[Италия]]></param>
+				<param name="Цвет"><![CDATA[Черный]]></param>
+				<param name="Тип поверхности"><![CDATA[газовая]]></param>
+				<param name="Материал держателей"><![CDATA[чугун]]></param>
+				<param name="Автоподжиг"><![CDATA[есть]]></param>
+				<param name="Размеры ниши для встраивания"><![CDATA[56 х 49 х 4.5 см]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[быстрый нагрев, турбоконфорка]]></param>
+			</offer>
+			<offer id="big-23901" available="true">
+				<url>https://skidka.ua/varochnye-poverkhnosti-gazovye/whirlpool-akm-516-ja.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=akm_516_ja&amp;utm_campaign=varochnye_poverkhnosti_gazovye</url>
+				<price>2865</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>91</categoryId>
+				<picture>https://skidka.ua/upload/iblock/56f/56f40515f0c9dca0226e88a204544553.jpg</picture>
+				<name><![CDATA[Варочная поверхность Whirlpool AKM 516 JA (AKM516JA)]]></name>
+				<vendor>Whirlpool</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[Варочная поверхность Whirlpool AKM 516 JA (AKM 516 JA) - качественная и стильная эргономичная газовая варочная панель, которая имеет боковую панель управления. Мощность конфорок регулируется с помощью поворотных переключателей, решетка - металлическая, раздельная, что упрощает процесс уборки. Эта варочная поверхность имеет эмалированную рабочую поверхностью цвета жасмин, которая устойчива к механическим повреждениям и легко чистится. Варочная поверхность Whirlpool AKM 516 JA оснащена 4 конфорками с автоматическим электроподжигом и системой газ-контроля. Эта варочная поверхность имеет эмалированную рабочую поверхностью цвета жасмин, которая устойчива к механическим повреждениям и легко чистится. С помощью электроподжига и системы &amp;quot;Газ-контроль&amp;quot; Вы получите безопасный и идеальный способ начать приготовление пищи. Опция электроподжига позволяет зажечь пламя конфорки одним касанием руки. А система &amp;quot;Газ-контроль&amp;quot; позволяет не беспокоиться об утечке газа - датчик автоматически отключает подачу газа. Купите  варочную поверхность Whirlpool AKM 516 JA  по нашей доступной цене и Вы получите надежную и качественную модель от известного производителя Whirlpool.]]></description>
+				<param name="Производитель"><![CDATA[Whirlpool]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[AKM 516 JA]]></param>
+				<param name="Гарантия, мес"><![CDATA[12]]></param>
+				<param name="Диаметр и мощность конфорок"><![CDATA[Передняя правая 1 кВт]]></param>
+				<param name="Количество конфорок"><![CDATA[4]]></param>
+				<param name="Материал поверхности"><![CDATA[Эмаль]]></param>
+				<param name="Страна-производитель"><![CDATA[Польша]]></param>
+				<param name="Цвет"><![CDATA[Белый]]></param>
+				<param name="Тип поверхности"><![CDATA[газовая]]></param>
+				<param name="Автоподжиг"><![CDATA[есть]]></param>
+				<param name="Размеры ниши для встраивания"><![CDATA[58 x 50 см]]></param>
+			</offer>
+  </offers>
+</shop>
+</yml_catalog>

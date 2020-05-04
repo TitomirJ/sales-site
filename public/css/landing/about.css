@@ -1,0 +1,72 @@
+body {
+    font-family: 'Manrope-Regular';
+}
+
+a:hover {
+    color: #fff;
+}
+.t-c {
+    text-align: center;
+}
+.particles {
+    height: 100vh;
+}
+
+.logo-a {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    z-index: 1;
+}
+
+.about-head {
+    font-size: 2rem;
+    text-shadow: -5px 2px 1px #d1cece;
+}
+
+h2 {
+    font-size: 25px!important;
+    font-weight: bold;
+}
+
+.link {
+    color: #ff8765!important;
+    text-decoration: underline!important;
+}
+
+@media (max-width: 767.9px) {
+    .about-text {
+        font-size: 15px!important;
+    }
+    .h4, h4 {
+        font-size: 1rem!important;
+    }
+}
+
+@media (min-width: 768px) {
+    .about-head {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .about-head {
+        font-size: 4rem;
+    }
+}
+
+.about-wrap {
+    border-radius: 15px;
+    overflow-y: hidden;
+    box-shadow: 4px 4px 7px #66666673;
+}
+
+.about-text {
+    font-size: 20px;
+}
+
+/* для скролла*/
+.about-text__ovrfl {
+    overflow-y: scroll;
+    max-height: 300px;
+}

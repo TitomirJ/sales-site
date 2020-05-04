@@ -1,0 +1,19 @@
+/*заказы*/
+.change-o-status{
+    cursor: pointer;
+}
+.h-60 {
+  height: 60px
+}
+
+.textarea-custom {
+  height: 62px;
+  max-height: 300px;
+  -webkit-box-shadow: inset 6px 6px 11px rgba(0, 0, 0, 0.2);
+     -moz-box-shadow: inset 6px 6px 11px rgba(0, 0, 0, 0.2);
+          box-shadow: inset 6px 6px 11px rgba(0, 0, 0, 0.2)
+}
+
+.c-pointer {
+  cursor: s-resize
+}

@@ -1,0 +1,9 @@
+.msg-top {
+    top: -60px;
+    left: 90px;
+    width: 200px;
+}
+
+#autoupdate_btn label, .wrap_main_setting_autoupdate label{
+    cursor: pointer;
+}

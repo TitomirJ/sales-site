@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-07 21:50:57">
+<shop>
+<name>garnitur.plus</name>
+<company>garnitur.plus</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="84097151" parentId="29555610">Тумбы для ванной</category>
+<category id="84027913" parentId="29555610">Пеналы для ванной</category>
+<category id="82461604" parentId="82461321">Мягкие кресла</category>
+<category id="82461321" parentId="60432540">Кресла</category>
+<category id="60432556" parentId="60432540">Зеркала</category>
+<category id="60432540" parentId="60432433">Мебель</category>
+<category id="67222975">Кухонные уголки</category>
+<category id="67222882" parentId="67222805">Кухонные уголки</category>
+<category id="67222805" parentId="67222797">Кухонные гарнитуры</category>
+<category id="67222797" parentId="60432540">Корпусная мебель</category>
+<category id="60432433">Товары для дома</category>
+<category id="38861706">Красота и здоровье</category>
+<category id="33206778">Бытовая техника</category>
+<category id="56752027" parentId="56752025">Комрессоры</category>
+<category id="56752025" parentId="56752023">Оборудование</category>
+<category id="56752023" parentId="56752019">Инструменты и оборудование</category>
+<category id="56752019">Инструменты и автотовары</category>
+<category id="50400063" parentId="29555591">Диван ортопедический</category>
+<category id="30425990">Стол обеденный</category>
+<category id="29815452">Полотенца</category>
+<category id="29555738">Складная мебель</category>
+<category id="29555726">Табуреты</category>
+<category id="29555682">Кровати</category>
+<category id="29555677">Детская комната</category>
+<category id="29555610">Мебель для ванных комнат</category>
+<category id="29555591">Диваны</category>
+<category id="38862682" parentId="38861746">Брашинг</category>
+<category id="38861750" parentId="38861746">Ножницы для стрижки</category>
+<category id="38861746" parentId="38861710">Акссесуары</category>
+<category id="38861710" parentId="38861706">Косметика и парфюмерия</category>
+<category id="34335665" parentId="33206787">Щипцы</category>
+<category id="33701808" parentId="33206787">Плойки</category>
+<category id="33206809" parentId="33206787">Машинки для стрижки и триммеры</category>
+<category id="33206793" parentId="33206787">Фены</category>
+<category id="33206787" parentId="33206778">Красота и здоровье</category>
+<category id="31944458">Стулья</category>
+<category id="10871414" parentId="29555677">Парты</category>
+<category id="19983042" parentId="29555610">Зеркальные шкафчики для ванной комнаты</category>
+<category id="26861253" parentId="29555591">Диван прямой</category>
+<category id="26861252" parentId="29555591">Диван угловой</category>
+</categories>
+<offers>
+<offer available="true" id="550590666">
+<price>9561</price>
+<currencyId>UAH</currencyId>
+<categoryId>29555682</categoryId>
+<picture>https://images.ua.prom.st/602454035_krovat-garniturplus-rianna.jpg</picture>
+<picture>https://images.ua.prom.st/602455911_krovat-garniturplus-rianna.jpg</picture>
+<name>Кровать Garnitur.plus Рианна коричневая 160х200 </name>
+<vendor>Garnitur.plus</vendor>
+<vendorCode>MS-Gor-Riana-Roz </vendorCode>
+<description><![CDATA[
+
+Кровать Garnitur Рианна
+
+ 
+
+Стоимость указана за размер 1600*2000 с ламелями, подъемным механизмом и нишей для белья 
+
+   Мы работаем с ведущими поставщиками ткани и кожзама:: Аппарель, Артекс, Ексим-Текстиль.
+
+   Кровать полностью разборная. Дно ящика для белья-шлифованное мдф 6мм (ящик выдерживает нагрузку в 120кг). Металлический каркас кровати усиленный, дистанция между ламелями 4,5см. Ламели - натуральный бук. Подъемный механизм работает на пневматике-газлифт.  
+
+   Все наши кровати изготавливаются как в кожзаме, так и в ткани. Исключение составляют кровать Элеонора – только ткань и кровать Престиж – только кожзам. 
+
+Возможна комбинация цветов - цена при этом не меняется.
+
+ 
+
+Высота изголовья - 102 см. 
+
+Габариты кровати 172*210 см
+
+ 
+
+ 
+
+ 
+]]></description>
+<param name="Наличие ниши для белья">да</param>
+<param name="Состояние">Новое</param>
+<param name="Наличие подъемного механизма">да</param>
+<param name="Размеры рекомендуемого матраса">160х200</param>
+<param name="Форма кровати">прямоугольная</param>
+<param name="Тип подъемного механизма">Газ-лифт</param>
+<param name="Тип кровати">двуспальная</param>
+<param name="Каркас кровати">металл</param>
+<param name="Гарантийный срок">12</param>
+<param name="Обивочный материал">экокожа|ткань</param>
+<param name="Комплектация матрасом">нет</param>
+<param name="Комплектация ортопедическим основанием">да</param>
+<param name="Цвет (оттенок) мебели"></param>
+<param name="Ножки"></param>
+<param name="Изголовье кровати"></param>
+<param name="Изножье кровати"></param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

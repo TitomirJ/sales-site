@@ -1,0 +1,222 @@
+/* montserrat-regular - latin_cyrillic */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat Regular"), local("Montserrat-Regular"), url("../../../../fonts/montserrat-v12-latin_cyrillic-regular.woff2") format("woff2"), url("../font/montserrat-v12-latin_cyrillic-regular.woff") format("woff");
+    /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+    font-family: 'Montserrat';
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px; }
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #416fdc;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #fff;
+    border-radius: 10px; }
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #fff;
+}
+
+/*styles*/
+.wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100vh;
+}
+.chat {
+    width: 90%;
+    border: 2px solid #6c757d;
+    border-radius: 5px;
+    -webkit-transition: .4s;
+    -o-transition: .4s;
+    transition: .4s;
+}
+.chat__position {
+    overflow-y: scroll;
+    height: 80vh;
+}
+
+.message {
+    position: relative;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.message--customer,
+.message--market,
+.message--provider {
+    margin-top: 1em;
+    padding: 0px 30px 10px 30px;
+}
+.message__time {
+    font-size: 14px;
+    color: #949494;
+    width: 100%;
+    margin: 0 0 5px 50px;
+}
+.message__text {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #f3f298db;
+    max-width: 70%;
+    -webkit-box-shadow: 0 0 10px #9c9c9c;
+    box-shadow: 0 0 10px #9c9c9c;
+}
+.message__text--market,
+.message__text--customer {
+    border-bottom-right-radius: 20px;
+}
+
+.message__text--provider {
+    border-bottom-left-radius: 20px;
+}
+.message__text p {
+    margin: 25px;
+    margin-top: 10px;
+}
+.message__text--user p {
+    color: #8f8a8a;
+}
+.message__user--market p,
+.message__user--customer p {
+    text-align: left;
+    margin: 5px 0px 0px 40px;
+}
+.message__user--provider p {
+    text-align: right;
+    margin: 5px 40px 0px 0px;
+}
+
+.message--provider {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+.message--provider .message__time {
+    text-align: right;
+    margin: 0 50px 5px 0;
+}
+.message--market .message__author-pic,
+.message--provider .message__author-pic {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+    margin: 0 0 0 10px;
+}
+.message--market .message__text {
+    background-color: #a1b7ebdb;
+}
+.message--provider .message__text {
+    background-color: #daeeff;
+}
+.message__author-pic img {
+    width: 40px;
+    background: #6c757d;
+    border-radius: 50%;
+}
+.message__author-pic {
+    position: absolute;
+}
+.message__icon--market,
+.message__icon--customer {
+    left: 15px;
+    top: 15px;
+}
+
+.message__icon--provider {
+    right: 15px;
+    top: 15px;
+}
+.message__icon-read--customer,
+.message__icon-read--market,
+.message__icon-read--provider {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 4px 10px;
+}
+.message__author-pic.onread i {
+    color: #959a9f;
+}
+
+.text-massage textarea {
+    display: block;
+    width: 100%;
+    resize: none;
+    border: transparent;
+    background: #fff !important;
+    outline: none;
+    margin: 15px;
+    font-size: 14px;
+    overflow-y: auto;
+    margin: 0;
+    padding: 10px;
+}
+
+.text-massage {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-top: 1px solid #9c9c9c;
+}
+
+.btn-massage {
+    cursor: pointer;
+    padding: 15px;
+}
+
+.btn-massage img {
+    width: 30px;
+}
+
+
+
+@media only screen and (max-width: 576px) {
+    .message__text p {
+        margin: 25px 25px 0 25px;
+        font-size: 0.8rem;
+    }
+    .message__text {
+        max-width: 100%;
+    }
+}

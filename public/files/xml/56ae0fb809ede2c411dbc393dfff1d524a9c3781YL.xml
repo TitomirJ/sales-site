@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-06 21:20:03">
+<shop>
+<name>Престиж</name>
+<company>Престиж</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="477945">Бытовая техника</category>
+<category id="480743">Блендеры,миксеры,мультиварки,хлебопечи</category>
+<category id="482296">Бритвы,фены,стрижки,весы,плойки</category>
+<category id="482294">Духовки,микро-ки , индукц.,электропечи</category>
+<category id="495578">Кофеварка,кофемолка,чайники</category>
+<category id="487648">Сверла,буры,круги</category>
+<category id="487607">Электрооборудование</category>
+<category id="477728">Бытовая химия</category>
+<category id="59866">VIP Бытовая химия</category>
+<category id="12532">Аэрозоли, репелленты</category>
+<category id="11500">Моющее,чистящее,белизна</category>
+<category id="11499">Мыло,шампуни,гигиена</category>
+<category id="478344">Декоративная косметика</category>
+<category id="483088">Hair Line</category>
+<category id="482319">Аксесуары</category>
+<category id="480296">Бижутерия Кл.</category>
+<category id="478609">Кисти для макияжа</category>
+<category id="488421">Косметички</category>
+<category id="478627">Кусачки,Книпсеры,Тримеры</category>
+<category id="488373">Наборы</category>
+<category id="480265">Ножницы</category>
+<category id="480266">Педикюрный инструмент</category>
+<category id="478536">Пилки, полировки</category>
+<category id="485270">Пудра</category>
+<category id="478345">Расчески</category>
+<category id="478508">Спонжи,апликаторы</category>
+<category id="483087">Тени для глаз</category>
+<category id="485271">Тональный крем</category>
+<category id="484591">Туалетная вода</category>
+<category id="483085">Туши, подводки для глаз</category>
+<category id="485272">Хайлайтер, бронзатор , консиллер</category>
+<category id="1987">Доп продукция</category>
+<category id="93">Зажигалки, газ,бензин</category>
+<category id="181">Игрушки</category>
+<category id="3884">HОВЫЕ ПОСТУПЛЕНИЯ</category>
+<category id="6581">KINSMART, Автопром</category>
+<category id="182">Игровые наборы, животные,наборы фигурок</category>
+<category id="291">Игрушки для малышей,зонты,пианино, телефоны</category>
+<category id="420">Конструкторы</category>
+<category id="873">Куклы,косметика,лошадки,посуда,коляски</category>
+<category id="1410">Машинки,гаражи, транспорт</category>
+<category id="954">Наборы для мальчиков, герои, оружие</category>
+<category id="1185">Пазлы, наст.игры, дерево, творчество</category>
+<category id="1951">Приколы, светяшки, шарики, попрыгуны</category>
+<category id="609">Спорт , лето</category>
+<category id="58556">Канцелярия</category>
+<category id="8111">Ручки,ножницы,скрепки,линейки,ластики</category>
+<category id="495048">Посуда</category>
+<category id="495576">Кастрюли,сковородки,френч-пресс</category>
+<category id="495575">Керамика, стекло</category>
+<category id="495577">Кухонные пренадлежности</category>
+<category id="2435">Удаленные</category>
+<category id="492515">CКЛАД ИГРУШКИ</category>
+<category id="493802">у Игрушки 1</category>
+<category id="4972">CКЛАД ХОЗКА</category>
+<category id="493791">у Бытовая химия</category>
+<category id="68">Хозяйственные товары</category>
+<category id="12223">Хоз.товары для дома (разное)</category>
+<category id="0">Электроника</category>
+</categories>
+<offers>
+<offer available="false" id="486669">
+<price>721</price>
+<currencyId>UAH</currencyId>
+<categoryId>480743</categoryId>
+<picture>http://134.249.226.227/pic/Максмарк/Мaxmark/EC-BL221.jpg</picture>
+<name>Блендер</name>
+<vendor></vendor>
+<vendorCode>EC-BL221                      </vendorCode>
+<description><![CDATA[Мощность:  495 Вт
+МНОГОСКОРОСТНОЙ Плавная регулировка скорости.Съемная ножка.Нога из нержавеющей стали.Ножи и насадки из нержавеющей стали.Чаша измельчитель со стальным лезвием:  0,5 л.Венчик.  Мерный стакан: 0,6 л]]></description>
+</offer>
+<offer available="false" id="486705">
+<price>881</price>
+<currencyId>UAH</currencyId>
+<categoryId>480743</categoryId>
+<picture>http://134.249.226.227/pic/Максмарк/Мaxmark/MK-BL810.jpg</picture>
+<name>Блендер</name>
+<vendor></vendor>
+<vendorCode>MK-BL810                      </vendorCode>
+<description><![CDATA[Мощность:  900 Вт
+3 скорости LED-подсветка.Съемная ножка.Нога из нержавеющей стали.Ножи и насадки из нержавеющей стали.Прорезиненная ручка.Чаша измельчитель со стальным лезвием:  0,5 л. Венчик.Мерный стакан: 0,6 л                          Бренд: MAXMARK                                Страна производитель: Китай]]></description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

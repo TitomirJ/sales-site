@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-07 23:01:43">
+<shop>
+<name>Скай Трейд</name>
+<company>Скай Трейд</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="85500745" parentId="72037437">Столовые сервизы</category>
+<category id="85097991" parentId="80295128">Шарфы и платки</category>
+<category id="84995599" parentId="72845385">Различные наборы для детского творчества</category>
+<category id="84570245" parentId="71986249">Зеркала косметические</category>
+<category id="84471389" parentId="71670011">Наборы косметики по уходу</category>
+<category id="83809926" parentId="83809924">Велоаксессуары</category>
+<category id="83809924" parentId="22629089">Велосипеды, электровелосипеды и аксессуары</category>
+<category id="83809755" parentId="72037309">Средства по уходу за обувью</category>
+<category id="22629064">Товары для дома</category>
+<category id="22629063">Красота и здоровье</category>
+<category id="83612889" parentId="72037153">Мультиварки</category>
+<category id="83610426" parentId="73053514">Чайники для плиты</category>
+<category id="83610348" parentId="71018556">Термометры и щупы</category>
+<category id="83313314" parentId="72036672">Сетевые фильтры, адаптеры и удлинители</category>
+<category id="83299791" parentId="72036569">Термометры и гигрометры</category>
+<category id="83208224" parentId="71061994">Щетки и скребки</category>
+<category id="83208054" parentId="83208053">Устройства противоскольжения для колес</category>
+<category id="83208053" parentId="71061972">Техпомощь</category>
+<category id="83202571" parentId="71018556">Подставки, держатели</category>
+<category id="83201851" parentId="72343821">Ночники</category>
+<category id="82994966" parentId="71018556">Измельчители, прессы</category>
+<category id="82994322" parentId="72343821">Настольные лампы</category>
+<category id="82991922" parentId="82991921">Ершики</category>
+<category id="82991921" parentId="72036480">Аксессуары для детской посуды</category>
+<category id="82865051" parentId="82865048">Зубная щетка</category>
+<category id="82865048" parentId="71670011">Уход за полостью рта</category>
+<category id="82860617" parentId="71018556">Ручные соковыжималки</category>
+<category id="82535390" parentId="71018556">Поварские лопатки, ложки, вилки</category>
+<category id="82226633" parentId="82226590">Кулоны и подвески</category>
+<category id="82226590" parentId="71060348">Бижутерия</category>
+<category id="82226320" parentId="82226319">Пуфики</category>
+<category id="82226319" parentId="71044831">Кресла</category>
+<category id="82218912" parentId="72416632">Искусственные цветы</category>
+<category id="82176506" parentId="82176503">Товары для реабилитации и гигиены</category>
+<category id="82176503" parentId="71062423">Товары для людей с инвалидностью</category>
+<category id="72636034" parentId="71060121">Электрические пилки для ногтей</category>
+<category id="72635506" parentId="72430470">Многофункциональные инструменты</category>
+<category id="72634621" parentId="72634597">Мультиинструменты</category>
+<category id="72634592" parentId="71061973">Зеркала автомобильные</category>
+<category id="72634387" parentId="72343427">Степлеры,заклепочники</category>
+<category id="72634018" parentId="72304507">Медиаплееры</category>
+<category id="72594302" parentId="72371483">Ночники</category>
+<category id="72439910" parentId="71044784">Сковороды</category>
+<category id="72439477" parentId="71060792">Машинки, модели техники и оружие</category>
+<category id="72290344" parentId="72290339">Маски для лица</category>
+<category id="72290339" parentId="71670011">Уход за лицом</category>
+<category id="72067259" parentId="71064341">Кухонные принадлежности для специй и соусов</category>
+<category id="72066219" parentId="72066217">Наборы для бара</category>
+<category id="72066217" parentId="71018554">Посуда для бара и барный инвентарь</category>
+<category id="72038706" parentId="71062169">Спальные мешки</category>
+<category id="72037313" parentId="72037309">Аксессуары для обуви</category>
+<category id="71062540" parentId="71044831">Стулья, табуреты</category>
+<category id="71061970" parentId="71018556">Аксессуары для обработки мяса</category>
+<category id="71060352" parentId="71060350">Кошельки</category>
+<category id="71018554" parentId="22629064">Посуда</category>
+<category id="81231965" parentId="71018556">Лапшерезки и машинки для теста</category>
+<category id="81222610" parentId="71060562">Одеяла</category>
+<category id="80295136" parentId="80295128">Перчатки и варежки</category>
+<category id="80295128" parentId="71060348">Шапки, шарфы и перчатки</category>
+<category id="80294167" parentId="80294166">Меловые пленки</category>
+<category id="80294166" parentId="72416632">Интерьерные наклейки</category>
+<category id="80294018" parentId="72036569">Электрокамины</category>
+<category id="80293596" parentId="72037368">Новогодний декор на стол</category>
+<category id="80291559" parentId="72416632">Подсвечники</category>
+<category id="80052601" parentId="72343821">Светодиодные гирлянды</category>
+<category id="80051433" parentId="80051401">Искусственные елки</category>
+<category id="80051401" parentId="71986241">Искусственные сосны и ели</category>
+<category id="78060377" parentId="72594429">Настенные часы</category>
+<category id="78059826" parentId="72635567">Средства индивидуальной защиты</category>
+<category id="78058857" parentId="73053946">Пускозарядные устройства</category>
+<category id="76379905" parentId="73037654">Термобелье</category>
+<category id="22629069">Инструменты и автотовары</category>
+<category id="73053943" parentId="72343426">Автооборудование</category>
+<category id="72635568" parentId="72635567">Диски</category>
+<category id="72421329" parentId="71061972">Автокосметика</category>
+<category id="72416714" parentId="72291193">Дполнительные электроприборы в авто</category>
+<category id="72037425" parentId="72037423">Ароматизаторы в машину</category>
+<category id="71062553">Смартфоны, ТВ и электроника</category>
+<category id="22629065">Спорт и увлечения</category>
+<category id="73053446" parentId="71062021">Туристический инструмент и аксессуары</category>
+<category id="72361643" parentId="72341207">Санки и снегокаты</category>
+<category id="72036180" parentId="22629089">Дайвинг</category>
+<category id="71667570" parentId="71667567">Удилища</category>
+<category id="71062736" parentId="71062727">Орбитреки</category>
+<category id="71062730" parentId="71062727">Гребные тренажеры и степперы</category>
+<category id="71062585" parentId="71060261">Спортивные сумки и чехлы</category>
+<category id="22629066">Товары для детей</category>
+<category id="73036326" parentId="72845385">Наклейки, стикеры, тату</category>
+<category id="72955433" parentId="72845385">Лепка</category>
+<category id="72362204" parentId="71060792">Автомобильные треки</category>
+<category id="71060792" parentId="22629066">Детские игрушки</category>
+<category id="22629068">Дача, сад и огород</category>
+<category id="22629099" parentId="22629068">Садовый инвентарь</category>
+<category id="71060119">Бытовая техника, интерьер</category>
+<category id="73054188" parentId="72371481">Настольные лампы</category>
+<category id="72944218" parentId="72944216">Электрические конвекторы</category>
+<category id="72915700" parentId="72037153">Маринаторы</category>
+<category id="72915053" parentId="72037220">Масляные радиаторы</category>
+<category id="72634025" parentId="72435787">Швейная техника и аксессуары</category>
+<category id="72439886" parentId="72037153">Блендеры</category>
+<category id="72371481" parentId="71060119">Освещение интерьера</category>
+<category id="72066103" parentId="71964383">Генераторы льда</category>
+<category id="72037153" parentId="71086485">Техника для кухни</category>
+<category id="71086485" parentId="71060119">Мелкая бытовая техника</category>
+<category id="71060159" parentId="71060121">Косметические приборы</category>
+<category id="71060347">Одежда, обувь и аксессуары</category>
+<category id="73037797" parentId="73037737">Мужские носки</category>
+<category id="72635512" parentId="71896609">Женские джинсы, брюки, шорты</category>
+<category id="72345620" parentId="72345617">Аккумуляторы и батарейки</category>
+<category id="72304513" parentId="72304511">Крепления для телевизоров</category>
+<category id="72304511" parentId="72304507">Телевизоры и аксессуары</category>
+<category id="72304507" parentId="71062553">ТВ, Аудио/Видео, фото</category>
+<category id="72003252" parentId="71062553">Портативная техника</category>
+<category id="71085761">Сантехника и ремонт</category>
+<category id="73095940" parentId="72343821">Светодиодные светильники</category>
+<category id="72036531" parentId="72036529">Держатели для ванной комнаты</category>
+<category id="71085764" parentId="71085761">Сантехника, коплектующие и аксессуары для ванной</category>
+<category id="71893123">Канцтовары и книги</category>
+<category id="72036669">Компьютеры и ноутбуки</category>
+<category id="71986241">Подарки и товары для праздников</category>
+<category id="73053514" parentId="71018554">Посуда для чая и кофе</category>
+<category id="72956359" parentId="72741793">Ножки, ролики, опоры</category>
+<category id="72741798" parentId="72741796">Светильники для мебели</category>
+<category id="72741698" parentId="72037437">Столовые приборы</category>
+<category id="72421839" parentId="71984882">Инструменты для груминга</category>
+<category id="72417254" parentId="71044784">Кастрюли, ковши</category>
+<category id="72416633" parentId="72416632">Свечи</category>
+<category id="72416632" parentId="22629064">Декор для дома</category>
+<category id="72340698" parentId="72340697">Системы защиты от протечек и залива</category>
+<category id="72340697" parentId="72340695">Системы безопасности умного дома</category>
+<category id="72036517" parentId="71060562">Полотенца</category>
+<category id="72036115" parentId="71018556">Аксессуары для мытья посуды</category>
+<category id="72003111" parentId="71018556">Кондитерские принадлежности</category>
+<category id="72003070" parentId="71018556">Разделочные доски</category>
+<category id="71060027" parentId="71060024">Бра и настенные светильники</category>
+<category id="71059521" parentId="71018556">Другой кухонный инвентарь</category>
+<category id="71054809" parentId="22629064">Инвентарь для дома и офиса</category>
+<category id="71043969" parentId="71043964">Формы для выпечки</category>
+<category id="72956362" parentId="72956359">Ножки регулируемые</category>
+<category id="72741793" parentId="71044831">Мебельная фурнитура</category>
+<category id="72741796" parentId="72741793">Освещение для мебели</category>
+<category id="73090995" parentId="71044831">Мебель в прихожую</category>
+<category id="73036014" parentId="71044831">Тумбы и подставки для обуви</category>
+<category id="72955591" parentId="71044831">Садовая мебель</category>
+<category id="72435427" parentId="71044831">Компьютерные столы</category>
+<category id="72038252" parentId="71044831">Диваны</category>
+<category id="71044831" parentId="22629064">Мебель</category>
+<category id="73053530" parentId="73053514">Аксессуары для заваривания чая</category>
+<category id="72089397" parentId="72066217">Формы для льда</category>
+<category id="72634095" parentId="72066217">Штопоры и открывалки для бутылок</category>
+<category id="72037437" parentId="71018554">Сервировка стола</category>
+<category id="72439832" parentId="72037437">Чашки</category>
+<category id="72037444" parentId="72037437">Подносы, коврики и столики</category>
+<category id="71064341" parentId="71018554">Хранение продуктов</category>
+<category id="72864342" parentId="71064341">Банки и емкости</category>
+<category id="71064379" parentId="71064341">Термосы и бутылки</category>
+<category id="72003411" parentId="71064341">Пищевые контейнеры</category>
+<category id="71044784" parentId="71018554">Приготовление пищи</category>
+<category id="72845373" parentId="71044784">Наборы посуды для приготовления пищи</category>
+<category id="71044787" parentId="71044784">Крышки для посуды</category>
+<category id="71043995" parentId="71018554">Ножи, ножницы, топорики</category>
+<category id="71018512" parentId="71018511">Инструменты для уборки</category>
+<category id="71059114" parentId="71043995">Ножи кухонные</category>
+<category id="71043964" parentId="71018554">Посуда для духовок и микроволновок</category>
+<category id="71018556" parentId="71018554">Кухонные принадлежности</category>
+<category id="72847468" parentId="71018556">Овощечистки </category>
+<category id="72865223" parentId="71018556">Дуршлаги и сито</category>
+<category id="72913996" parentId="71018556">Отделители косточек</category>
+<category id="72743979" parentId="71018556">Мерная посуда</category>
+<category id="72416684" parentId="71018556">Консервные ножи и ключи</category>
+<category id="72037137" parentId="71018556">Кухонные наборы</category>
+<category id="71061568" parentId="71018556">Терки, овощерезки</category>
+<category id="71043980" parentId="71018556">Прихватки и подставки для посуды</category>
+<category id="71018558" parentId="71018556">Сушки и органайзеры для посуды</category>
+<category id="72003262" parentId="71018511">Хозяйственные товары</category>
+<category id="73079781" parentId="72003262">Антимоскитные сетки</category>
+<category id="72037092" parentId="72003262">Губки кухонные</category>
+<category id="72003265" parentId="72003262">Салфетки для уборки</category>
+<category id="72634059" parentId="71018512">Веники и щетки</category>
+<category id="72435636" parentId="71018512">Швабры</category>
+<category id="71964423" parentId="71018511">Хранение и организация пространства</category>
+<category id="72945825" parentId="71964423">Плечики</category>
+<category id="71979881" parentId="71964423">Органайзеры для хранения</category>
+<category id="72341237" parentId="72341235">Очки</category>
+<category id="72341239" parentId="72341237">Очки для чтения</category>
+<category id="72341235" parentId="22629063">Оптика</category>
+<category id="71670011" parentId="71087444">Косметика по уходу</category>
+<category id="71670030" parentId="71670019">Наборы по уходу за волосами</category>
+<category id="71670019" parentId="71670011">Уход за волосами</category>
+<category id="72036773" parentId="71670011">Уход за ногами</category>
+<category id="71087450" parentId="71087448">Декоративная косметика для лица</category>
+<category id="72422616" parentId="71087448">Декоративная косметика для губ</category>
+<category id="71087438" parentId="22629063">Косметика и парфюмерия</category>
+<category id="71087448" parentId="71087444">Декоративная косметика</category>
+<category id="71087444" parentId="71087438">Косметика</category>
+<category id="71964364" parentId="71087438">Аксессуары</category>
+<category id="71086377" parentId="71062423">Товары медицинского назначения</category>
+<category id="71086391" parentId="71086377">Аптечки, футляры, контейнеры</category>
+<category id="71062424" parentId="71062423">Ортопедические стельки</category>
+<category id="71062423" parentId="22629063">Аптека</category>
+<category id="73223068" parentId="72037153">Грили и электрошашлычницы</category>
+<category id="73223024" parentId="73223023">Лодки</category>
+<category id="73223023" parentId="71061998">Лодки и аксессуары</category>
+<category id="73095577" parentId="22629099">Теплицы</category>
+<category id="73092189" parentId="72037153">Блинницы</category>
+<category id="73091447" parentId="71062021">Бинокль</category>
+<category id="73090405" parentId="72037153">Кухонные комбайны</category>
+<category id="73084171" parentId="71060121">Весы напольные</category>
+<category id="73083705" parentId="73083692">Средства защиты от насекомых</category>
+<category id="73083692" parentId="72373616">Уличная зона</category>
+<category id="73082334" parentId="71060121">Трости и костыли</category>
+<category id="73081770" parentId="71964383">Стиральные машины</category>
+<category id="73081661" parentId="71062021">Туристическое гидрооборудование</category>
+<category id="73080865" parentId="71060348">Ремни и пояса</category>
+<category id="73072570" parentId="72037265">Ящики для игрушек</category>
+<category id="73036716" parentId="72037423">Органайзеры в машину</category>
+<category id="73036308" parentId="71062021">Треккинговые палки</category>
+<category id="73035496" parentId="72435787">Машинки для стрижки катышков</category>
+<category id="73030906" parentId="71060121">Тонометры</category>
+<category id="72987735" parentId="71060121">Термометры для тела</category>
+<category id="72955967" parentId="72037153">Сушилки для овощей и фруктов</category>
+<category id="72955797" parentId="72037153">Бутербродницы и вафельницы</category>
+<category id="72955767" parentId="71060121">Слуховые аппараты</category>
+<category id="72955595" parentId="71986241">Гаджеты и подарки</category>
+<category id="72955413" parentId="72291193">Видеорегистраторы</category>
+<category id="72955395" parentId="72036569">Увлажнители воздуха</category>
+<category id="72946803" parentId="72036569">Аксессуары к климатической технике</category>
+<category id="72946386" parentId="72037220">Микатермические обогреватели</category>
+<category id="72945961" parentId="71986245">Копилки</category>
+<category id="72945529" parentId="72439388">Аксессуары для видеонаблюдения</category>
+<category id="72944216" parentId="72037220">Конвекторы</category>
+<category id="72943597" parentId="72435787">Электросушилки для одежды и обуви</category>
+<category id="72923104" parentId="72923100">Уплотнитель для окон и дверей</category>
+<category id="72923100" parentId="72923054">Комплектующие для окон и дверей</category>
+<category id="72923054" parentId="72923052">Окна и двери</category>
+<category id="72923052" parentId="71085761">Строительные материалы</category>
+<category id="72922486" parentId="71086486">Аксессуары к медицинским приборам</category>
+<category id="72921716" parentId="72304511">3D и VR очки</category>
+<category id="72921296" parentId="71667567">Аксессуары для рыбалки</category>
+<category id="72916132" parentId="72037153">Йогуртницы и мороженицы</category>
+<category id="72879866" parentId="72879865">Электрические проточные водонагреватели</category>
+<category id="72879865" parentId="72036569">Водонагреватели</category>
+<category id="72879132" parentId="71060121">Эпиляторы</category>
+<category id="72872163" parentId="71054809">Сушки для одежды</category>
+<category id="72845763" parentId="72845430">Монтажные элементы</category>
+<category id="72845430" parentId="72343426">Электромонтажное оборудование</category>
+<category id="72845386" parentId="72845385">Рисование</category>
+<category id="72845385" parentId="71060795">Творчество</category>
+<category id="72821518" parentId="72430470">Краскопульты</category>
+<category id="72744834" parentId="71062169">Складная мебель</category>
+<category id="72742582" parentId="71062169">Мангалы, барбекю, гриль</category>
+<category id="72742502" parentId="71060121">Фены</category>
+<category id="72737854" parentId="72737852">Лопаты для уборки снега</category>
+<category id="72737852" parentId="22629068">Снегоуборочная техника и инвентарь</category>
+<category id="72635679" parentId="72036672">Подставки и столики для ноутбуков </category>
+<category id="72635567" parentId="72343426">Расходный материал к инструменту и пренадлежности</category>
+<category id="72635514" parentId="72635512">Женские леггинсы</category>
+<category id="72635473" parentId="72635468">Игровые манипуляторы и аксессуары для консолей</category>
+<category id="72635468" parentId="72635466">Товары для геймеров</category>
+<category id="72635466" parentId="72036669">Компьютерные комплектующие</category>
+<category id="72635290" parentId="72036480">Стерилизаторы и подогреватели</category>
+<category id="72635173" parentId="72343427">Инструменты для отделочных работ</category>
+<category id="72635168" parentId="71986245">Аксессуары для алкоголя и курения</category>
+<category id="72634597" parentId="71061998">Ножи и мультиинструменты</category>
+<category id="72634063" parentId="71062021">Аксессуары для раций</category>
+<category id="72634047" parentId="72036669">Проекторы</category>
+<category id="72634040" parentId="72439388">Видеодомофоны</category>
+<category id="72634027" parentId="72634025">Швейная техника</category>
+<category id="72633843" parentId="72304507">Видеокамеры</category>
+<category id="72633590" parentId="71062555">Смарт-часы</category>
+<category id="72633520" parentId="71060562">Скатерти и салфетки</category>
+<category id="72633295" parentId="22629068">Уличное освещение</category>
+<category id="72594544" parentId="72343427">Наборы инструментов</category>
+<category id="72594431" parentId="72594429">Настольные часы</category>
+<category id="72594429" parentId="22629064">Часы</category>
+<category id="72439478" parentId="72439477">Игрушечные машинки и техника</category>
+<category id="72439391" parentId="72439388">Комплекты сигнализаций</category>
+<category id="72439388" parentId="22629064">Системы охраны и безопасности</category>
+<category id="72438522" parentId="72435787">Пароочистители</category>
+<category id="72437571" parentId="72430470">Пилы и плиткорезы</category>
+<category id="72436469" parentId="72343427">Ключи, съемники</category>
+<category id="72436454" parentId="72436449">Аккумуляторные пылесосы</category>
+<category id="72436449" parentId="72435787">Пылесосы</category>
+<category id="72435965" parentId="72435787">Утюги и гладильные системы</category>
+<category id="72435787" parentId="71086485">Товары по уходу за домом и одеждой</category>
+<category id="72434665" parentId="71060792">Игрушки для пляжа, песочницы и ванной</category>
+<category id="72430474" parentId="72430470">Шуруповерты и электроотвертки</category>
+<category id="72430470" parentId="72343426">Инструменты</category>
+<category id="72416956" parentId="71060121">Электрические простыни и одеяла</category>
+<category id="72416716" parentId="72416714">Автомобильные пылесосы</category>
+<category id="72381345" parentId="72037265">Детская безопасность</category>
+<category id="72380637" parentId="71062021">Туристические грелки</category>
+<category id="72380629" parentId="71986245">Настольные игры</category>
+<category id="72373696" parentId="72373618">Средства для чистки ванн</category>
+<category id="72373618" parentId="72373616">Средства для уборки</category>
+<category id="72373616" parentId="22629064">Бытовая химия</category>
+<category id="72372486" parentId="72037153">Электрочайники</category>
+<category id="72372229" parentId="72372223">Световое оборудование</category>
+<category id="72372223" parentId="72304507">Музыкальные инструменты и оборудование</category>
+<category id="72371938" parentId="72341207">Сноуборды</category>
+<category id="72371483" parentId="72371481">Освещение для детской комнаты</category>
+<category id="72361810" parentId="72037153">Настольные плиты</category>
+<category id="72348072" parentId="72037153">Весы кухонные</category>
+<category id="72345617" parentId="72304507">Аксессуары для фото/видео</category>
+<category id="72343824" parentId="72343821">Лампы</category>
+<category id="72343821" parentId="71085761">Освещение</category>
+<category id="72343431" parentId="72343427">Отвертки</category>
+<category id="72343427" parentId="72343426">Ручной инструмент</category>
+<category id="72343426" parentId="22629069">Инструменты и оборудование</category>
+<category id="72343341" parentId="72037220">Тепловентиляторы</category>
+<category id="72341271" parentId="22629068">Садовый декор</category>
+<category id="72341255" parentId="71062555">Другие аксессуары</category>
+<category id="72341208" parentId="72341207">Ледоходы</category>
+<category id="72341207" parentId="22629089">Зимние виды спорта</category>
+<category id="72340695" parentId="22629064">Умный дом</category>
+<category id="72306769" parentId="72304511">ТВ-антенны и ресиверы</category>
+<category id="72306754" parentId="72036669">Графические планшеты</category>
+<category id="72306534" parentId="22629099">Садовые принадлежности</category>
+<category id="72305369" parentId="72305366">Игрушки для малышей</category>
+<category id="72305366" parentId="72036478">Игрушки для малышей, развитие, развлечения</category>
+<category id="72291195" parentId="72291193">Алкотестеры</category>
+<category id="72291193" parentId="71061972">Автоэлектроника</category>
+<category id="72290033" parentId="71060121">Фрезеры для маникюра и педикюра</category>
+<category id="72234603" parentId="72234583">Женские комнатные тапочки</category>
+<category id="72234583" parentId="72037309">Женская обувь</category>
+<category id="72234568" parentId="72234567">Мужские комнатные тапочки</category>
+<category id="72234567" parentId="72037309">Мужская обувь</category>
+<category id="72089390" parentId="71086486">Аксессуары для кухонной техники</category>
+<category id="72089382" parentId="72089381">Чудомобили, ходунки, качалки</category>
+<category id="72089381" parentId="22629066">Прогулки  и активный отдых</category>
+<category id="72070209" parentId="71085792">Душевые гарнитуры</category>
+<category id="72068948" parentId="71054809">Мешки для стирки</category>
+<category id="72038731" parentId="71060121">Лампы для маникюра</category>
+<category id="72038723" parentId="71060121">Бандажи и корсеты</category>
+<category id="72038475" parentId="72036529">Дозаторы для мыла</category>
+<category id="72038247" parentId="72038246">Женские колье и кулоны</category>
+<category id="72038246" parentId="72038245">Колье/подвески</category>
+<category id="72038245" parentId="72038243">Элитная бижутерия</category>
+<category id="72038243" parentId="71060347">Ювелирные изделия</category>
+<category id="72038206" parentId="71060562">Декоративные игрушки</category>
+<category id="72038173" parentId="72038172">Подарочные пакеты</category>
+<category id="72038172" parentId="71986241">Подарочные упаковки</category>
+<category id="72037893" parentId="72037891">Наручные часы</category>
+<category id="72037891" parentId="71060119">Наручные и карманные часы</category>
+<category id="71896609" parentId="71060347">Одежда для женщин</category>
+<category id="71085794" parentId="71085792">Аэраторы для смесителей</category>
+<category id="71085792" parentId="71085764">Комплектующие</category>
+<category id="71064828" parentId="71062169">Термопродукция</category>
+<category id="71063550" parentId="71062437">Аксессуары для фитнеса</category>
+<category id="71062740" parentId="71062727">Шведские стенки и турники</category>
+<category id="71062738" parentId="71062727">Силовые тренажеры</category>
+<category id="71062735" parentId="71062727">Гантели, диски, грифы, замки</category>
+<category id="71062732" parentId="71062727">Велотренажеры</category>
+<category id="71062727" parentId="71060261">Тренажеры и спортивное оборудование</category>
+<category id="71062622" parentId="71060024">Светодиодная лента</category>
+<category id="71062576" parentId="71062555">Зарядные устройства</category>
+<category id="71062555" parentId="71062553">Аксессуары для мобильных телефонов и смартфонов</category>
+<category id="71062550" parentId="71054809">Вазоны</category>
+<category id="71062438" parentId="71062437">Пояса и перчатки для фитнеса</category>
+<category id="71062437" parentId="22629089">Фитнес и аэробика</category>
+<category id="71062335" parentId="71062169">Туристические коврики</category>
+<category id="71062169" parentId="71061998">Туризм и кемпинг</category>
+<category id="71062036" parentId="71054809">Уход и хранение одежды и обуви</category>
+<category id="71062023" parentId="71062021">Фонари и аксессуары</category>
+<category id="71062021" parentId="71061998">Аксессуары для активного отдыха и туризма</category>
+<category id="71061998" parentId="22629065">Активный отдых, туризм и хобби</category>
+<category id="71061994" parentId="71061973">Автопринадлежности</category>
+<category id="71061973" parentId="71061972">Автоаксессуары</category>
+<category id="71061972" parentId="22629069">Автотовары</category>
+<category id="71061967" parentId="71060121">Массажеры</category>
+<category id="71061965" parentId="71060121">Приборы для укладки волос</category>
+<category id="71061937" parentId="71060119">Прочая мелкая бытовая техника</category>
+<category id="71060795" parentId="71060792">Развитие и творчество</category>
+<category id="71060577" parentId="71060562">Подушки</category>
+<category id="73054464" parentId="72037368">Новогодний уличный декор</category>
+<category id="73054450" parentId="72036529">Полки в ванную</category>
+<category id="73054206" parentId="72036529">Сифоны</category>
+<category id="73053948" parentId="73053946">Автокомпрессоры</category>
+<category id="73053946" parentId="71061972">Автооборудование</category>
+<category id="73053767" parentId="71060562">Наволочки</category>
+<category id="73053597" parentId="72037153">Кофеварки</category>
+<category id="73053283" parentId="71062021">Посуда для отдыха и туризма</category>
+<category id="73037737" parentId="73037654">Мужские носки и гетры</category>
+<category id="73037654" parentId="71060347">Одежда для мужчин</category>
+<category id="71060562" parentId="22629064">Домашний текстиль</category>
+<category id="71060384" parentId="71060121">Машинки для стрижки и триммеры</category>
+<category id="71060350" parentId="71060348">Кошельки и портмоне</category>
+<category id="71060348" parentId="71060347">Сумки и аксессуары</category>
+<category id="71060277" parentId="71060261">Спортивные бандажи, фиксаторы, напульсники</category>
+<category id="71060261" parentId="22629089">Спортивные аксессуары</category>
+<category id="71060121" parentId="71060119">Красота, здоровье, уход</category>
+<category id="71060024" parentId="71054809">Освещение интерьера</category>
+<category id="71059142" parentId="71043995">Мусаты и точилки для ножей</category>
+<category id="71018511" parentId="22629064">Хозяйственный инвентарь</category>
+<category id="71018503" parentId="22629099">Ручной садовый инструмент</category>
+<category id="71018470" parentId="22629099">Опрыскиватели</category>
+<category id="71018438" parentId="71018437">Шланги</category>
+<category id="71018437" parentId="22629068">Системы полива</category>
+<category id="72037423" parentId="71061973">Интерьер автомобиля</category>
+<category id="72037414" parentId="72036299">Сумки</category>
+<category id="72037369" parentId="72037368">Новогодний декор для интерьера</category>
+<category id="72037368" parentId="71986241">Новогодний декор</category>
+<category id="72037359" parentId="71062555">Моноподы для селфи и аксессуары</category>
+<category id="72037309" parentId="71060347">Обувь</category>
+<category id="72037266" parentId="72037265">Игрушки-ночники</category>
+<category id="72037265" parentId="22629066">Детская комната</category>
+<category id="72037223" parentId="72037220">Инфракрасные обогреватели</category>
+<category id="72037220" parentId="72036569">Обогреватели</category>
+<category id="72037162" parentId="71062169">Аксессуары для мангалов, барбекю, грилей</category>
+<category id="72037156" parentId="72037153">Кофемолки</category>
+<category id="72036782" parentId="71043995">Ножницы кухонные</category>
+<category id="72036673" parentId="72036672">Аксессуары для ноутбуков</category>
+<category id="72036672" parentId="72036669">Аксессуары для ноутбуков и ПК</category>
+<category id="72036570" parentId="72036569">Вентиляторы</category>
+<category id="72036569" parentId="71060119">Климатическая техника</category>
+<category id="72036529" parentId="71085764">Аксессуары для ванной</category>
+<category id="72036498" parentId="71062021">Наборы для пикника</category>
+<category id="72036482" parentId="72036480">Детская посуда</category>
+<category id="72036480" parentId="72036478">Питание и кормление</category>
+<category id="72036478" parentId="22629066">Для самых маленьких</category>
+<category id="72036307" parentId="71060795">Интерактивные игрушки</category>
+<category id="72036301" parentId="72036299">Рюкзаки</category>
+<category id="72036299" parentId="71060348">Сумки и рюкзаки</category>
+<category id="72036219" parentId="71060562">Постельное белье</category>
+<category id="72036182" parentId="72036180">Маски для дайвинга</category>
+<category id="72035618" parentId="71062555">Держатели</category>
+<category id="72003253" parentId="72003252">Смарт-часы и фитнес-браслеты</category>
+<category id="72003052" parentId="71061973">Чехлы для автомобиля</category>
+<category id="71988061" parentId="71062555">Чехлы</category>
+<category id="71987449" parentId="71060348">Зонты</category>
+<category id="71986471" parentId="71062169">Дорожные сумки и чемоданы</category>
+<category id="71986451" parentId="71986383">Детские автокресла</category>
+<category id="71986383" parentId="22629066">Коляски и автокресла</category>
+<category id="71986253" parentId="71986249">Головоломки, антистрессы</category>
+<category id="71986249" parentId="71986245">Персональные аксессуары</category>
+<category id="71986245" parentId="71986241">Сувенирная продукция</category>
+<category id="71984889" parentId="71984886">Ошейники</category>
+<category id="71984886" parentId="71984882">Амуниция, аксессуары и одежда для животных</category>
+<category id="71984882" parentId="22629064">Зоотовары</category>
+<category id="71981100" parentId="71981098">Женские теплые жилеты</category>
+<category id="71981098" parentId="71896609">Женская верхняя одежда</category>
+<category id="71964386" parentId="71964383">Аксессуары к кбт</category>
+<category id="71964383" parentId="71060119">Крупная бытовая техника</category>
+<category id="71963056" parentId="71062169">Надувная мебель и аксессуары</category>
+<category id="71962859" parentId="71962857">Форма для бокса и единоборств</category>
+<category id="71962857" parentId="22629089">Бокс и единоборства</category>
+<category id="71962849" parentId="71896609">Женские чулочно-носочные изделия</category>
+<category id="71896610" parentId="71896609">Нижнее белье</category>
+<category id="71896038" parentId="71060562">Пледы</category>
+<category id="71893125" parentId="71893123">Пеналы школьные</category>
+<category id="71667567" parentId="71061998">Рыбалка</category>
+<category id="71086495" parentId="71086486">Аксессуары к товарам по уходу за телом</category>
+<category id="71086486" parentId="71086485">Аксессуары для мелкой бытовой техники</category>
+<category id="22629089" parentId="22629065">Спортивные товары</category>
+<category id="24925122" parentId="22629066">Конструкторы</category>
+</categories>
+<offers>
+<offer available="true" id="854505394">
+<price>72</price>
+<currencyId>UAH</currencyId>
+<categoryId>72343824</categoryId>
+<picture>https://images.ua.prom.st/1504328641_lampa-led-osram.jpg</picture>
+<name>Лампа LED Osram CL B LS 60 6.5W/830 FR E14</name>
+<vendor>Osram</vendor>
+<vendorCode>H0042</vendorCode>
+<description><![CDATA[<ul>
+	<li>Цоколь:Е14</li>
+	<li>Эквивалент мощности лампы накаливания:60 Вт</li>
+	<li>Световой поток:550 Лм</li>
+	<li>Электрическая мощность:&nbsp;6.5 Вт</li>
+	<li>Страна-производитель товара:Китай<br />
+	&nbsp;</li>
+</ul>
+]]></description>
+<param name="Мощность">60.0</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer available="true" id="603806266">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>72879132</categoryId>
+<picture>https://images.ua.prom.st/951131243_epilyator-s-adapterom.jpg</picture>
+<picture>https://images.ua.prom.st/951131244_epilyator-s-adapterom.jpg</picture>
+<picture>https://images.ua.prom.st/951131245_epilyator-s-adapterom.jpg</picture>
+<name>Эпилятор с адаптером Дерма Сета</name>
+<vendor>Supretto</vendor>
+<vendorCode> B0340002</vendorCode>
+<description><![CDATA[<p><b>Красота тела требует обязательного ухода и внимания. Прибор для домашнего использования Derma Seta (Дерма Сета) помогает сделать его проще и доступнее.</b></p>
+
+<p>&nbsp;</p>
+
+<p>Прибор для ухода за телом Derma Seta (Дерма Сета) отлично подходит для использования,&nbsp;как мужчинам, так и женщинам. Многофункциональность Derma Seta (Дерма Сета) позволяет находить ему широкое применение.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b>Прибор позволяет:</b></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Проводить депиляцию волос;</li>
+	<li>Осуществлять чистку лица и пилинг кожи всего тела;</li>
+	<li>Массировать кожу и улучшать ее тонус;</li>
+	<li>Активно увлажнять и питать кожу.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Депиляция проводится очень мягко и эффективно. Волоски удаляются благодаря вращению насадки, покрытой специальными ультратонкими кристаллами. Одновременно насадка выполняет массажную функцию, а также осуществляет шлифовку кожи.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b>В комплект&nbsp;входят:</b></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>насадки для депиляции: для удаления волос в зоне бикини и на лице;</li>
+	<li>насадка-пемза, способствующая уходу за состоянием ног, обеспечивающая удаление огрубевших участков кожи;</li>
+	<li>насадка для очистки пор лица от угрей и черных точек;</li>
+	<li>массажные насадки для тела;</li>
+	<li>насадка-губка для эффективного нанесения на тело крема или лосьона.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Дерма Сета удобен и прост в использовании. Достаточно установить необходимую насадку и запустить его в работу. С помощью Derma Seta (Дерма Сета) возможно достичь эффекта омоложения, подтяжки, очистки и оздоровления кожи лица и тела, без больших затрат времен, сил и средств. Derma Seta (Дерма Сета) специально создан для личного использования дома.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b>Работет от электросети, а также от батареек.</b></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b>Характеристики:</b></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Материал прибора: пластик;<b>&nbsp;</b></li>
+	<li>Размер (Д/Ш): 20х7 см;<b>&nbsp;</b></li>
+	<li>Диаметр насадок: 6.5 см;<b>&nbsp;</b></li>
+	<li>Прибор работает от 6 батареек АА и адаптера (батарейки в комплект не входят);<b>&nbsp;</b></li>
+	<li>Вес: 0.9 кг.<b>&nbsp;</b></li>
+</ul>
+
+<p><b>&nbsp;</b></p>
+
+<p>&nbsp;</p>
+
+<p><b>Комплектация:&nbsp;</b>эпилятор Дерма Сета, насадки, адаптер, инструкция на английском языке.</p>
+
+<p>&nbsp;</p>
+
+<p><b>Насадки:&nbsp;</b>насадка-пемза, насадка-губка, насадка-щеточка, массажные насадки (2 шт.), насадки для удаления волос в зоне бикини (2 шт.), дополнительные насадки для удаления волос (5 шт.), насадки для депиляции (2 шт.).</p>
+]]></description>
+<param name="Количество насадок">6</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

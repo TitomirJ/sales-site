@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-03-25 22:51:32">
+<shop>
+<name>ФОП Балацький Святослав Романович</name>
+<company>ФОП Балацький Святослав Романович</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="85776195" parentId="16661508">Нижня білизна для чоловіків</category>
+<category id="84727812" parentId="16661508">Демісезонні чоловічі куртки</category>
+<category id="84727175" parentId="84727173">Дитячі автокрісла</category>
+<category id="84727173">Коляски та автокрісла</category>
+<category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+<category id="83914121" parentId="71777018">Ремені та пояси</category>
+<category id="83913495" parentId="16661508">Спортивні костюми</category>
+<category id="16715121" parentId="16661508">Чоловічі куртки</category>
+<category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+<category id="53761682" parentId="6257850">Велосвітло</category>
+<category id="24353170">Трекингове взуття</category>
+<category id="19959920">Велосипеди</category>
+<category id="18890955" parentId="14407150">Термобілизна</category>
+<category id="17343107" parentId="17305611">Зимові штани</category>
+<category id="17343103" parentId="16661508">Зимові штани</category>
+<category id="17305720" parentId="17305611">Шапки</category>
+<category id="17305707" parentId="17305611">Куртки</category>
+<category id="17305611">Жіночий одяг</category>
+<category id="16661555" parentId="16661508">Шапки</category>
+<category id="16661508">Чоловічий одяг</category>
+<category id="16617831" parentId="4122200">Спальні мішки</category>
+<category id="16617810" parentId="4122200">Трекінгові палиці</category>
+<category id="14693395" parentId="7196249">Чоловічі кеди</category>
+<category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+<category id="14693393" parentId="7196249">Чоловічі черевики</category>
+<category id="14693063" parentId="7196244">Жіночі кросівки</category>
+<category id="14693061" parentId="7196244">Жіночі черевики</category>
+<category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+<category id="14693035" parentId="14407150">Універсальні головні убори</category>
+<category id="14408905" parentId="14407150">Шоломи</category>
+<category id="14407588" parentId="14407150">Маски</category>
+<category id="7196249">Чоловіче взуття</category>
+<category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+<category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+<category id="6257850">Велоаксесуари</category>
+<category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+<category id="4122200">Рюкзаки і туризм</category>
+<category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+<category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+<category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+<category id="71777030" parentId="71777028">Рюкзаки</category>
+<category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+<category id="71777018">Одяг, взуття та аксесуари</category>
+<category id="69024725" parentId="46709597">Фітнес-браслети</category>
+<category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+<category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+<category id="52859360">Басейн і аквафітнес</category>
+<category id="46709702" parentId="46709597">Наручні годинники</category>
+<category id="46709597">Наручні годинники</category>
+<category id="45139423" parentId="4122200">Намети і аксесуари</category>
+<category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+<category id="36278188" parentId="36275949">Маски</category>
+<category id="36276195" parentId="36275949">Шоломи</category>
+<category id="36275949">Уцінка</category>
+<category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+<category id="29447009" parentId="6257850">Велоінструменти</category>
+<category id="29447008" parentId="6257850">Насоси</category>
+<category id="29447007" parentId="6257850">Велодзвінки</category>
+<category id="28200372" parentId="7196244">Жіночі кеди</category>
+<category id="28164081" parentId="7196244">Жіночі сліпони</category>
+<category id="27554175" parentId="14407150">Сноуборди</category>
+<category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+<category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+<category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+<category id="24572876" parentId="17305611">Спортивні штани</category>
+<category id="24544864" parentId="16661508">Спортивні штани</category>
+<category id="22851891" parentId="16661508">Футболки</category>
+<category id="22028141" parentId="7196244">Жіночі балетки</category>
+<category id="18029666">Sale -34% брендові куртки</category>
+<category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+<category id="14693027" parentId="14407150">Лижні палиці</category>
+<category id="14407150">Зимовий спорт</category>
+<category id="13502021" parentId="6257850">Велокомп'ютери</category>
+<category id="7196244">Жіноче взуття</category>
+<category id="6296093" parentId="6257850">Велосипедні сумки</category>
+<category id="58981807">Ігрові види спорту</category>
+<category id="66636889">Прогулянки й активний відпочинок</category>
+<category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+<category id="65449525" parentId="65446905">Спортивні окуляри</category>
+<category id="65447344" parentId="65446905">Спортивні сумки</category>
+<category id="65446905">Спортивні аксесуари</category>
+<category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+<category id="52863748" parentId="52859360">Шапочки для плавання</category>
+<category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+<category id="52863745" parentId="52859360">Окуляри для плавання</category>
+<category id="46807613" parentId="36275949">Годинники</category>
+<category id="49986322" parentId="36275949">Штани</category>
+<category id="46711296" parentId="46709597">Смарт-годинники</category>
+<category id="43651396" parentId="14407150">Рукавиці</category>
+<category id="39308422" parentId="14407150">Черевики лижні</category>
+<category id="36678205" parentId="36275949">Куртки</category>
+<category id="36660532" parentId="36275949">Взуття</category>
+<category id="27250069" parentId="14407150">Гірські лижі</category>
+<category id="27094492" parentId="24353170">Жіночі кросівки</category>
+<category id="22851904" parentId="17305611">Футболки</category>
+<category id="24570219" parentId="17305611">Кофти</category>
+<category id="24543418" parentId="16661508">Кофти</category>
+<category id="22851901" parentId="16661508">Шорти</category>
+</categories>
+<offers>
+<offer available="true" id="1147692177">
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2285978089_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978090_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978345_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978428_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978517_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978516_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS JESTER 52-57 Black Green</name>
+<vendor>KLS</vendor>
+<vendorCode>9995019387172</vendorCode>
+<description><![CDATA[Легкий шолом для MTB виготовлений за технологією In-mold з 13 великими вентиляційними отворами, що забезпечують комфорт та безпечість протягом складних покатеньок. Нова система регулювання забезпечує щільну і надійну посадку. Використання технології In-mold гарантує оптимальний захист від ударів.  
+
+Для найкращого провітрювання та охолодження розроблена ефективна система вентиляції, яка включає 13 отворів. Передні отвори захищені антимоскітною сіткою.
+
+Система регулювання дозволяє легко коригувати розмір шолома. Додаткові регулювання доступні за допомогою м’яких ремінців. Звичайно, всі елементи підкладки знімаються для чистки та прання.
+
+Особливості:
+
+- Технологія In-Mold
+
+- Антимоскітна сітка
+
+- Сучасний дизайн
+
+- Якісні матеріали
+
+- Регулювання розміру
+
+- Низька вага шолома
+
+- Зйомний козирок в комплекті
+
+- 13 вентиляційних отворів
+
+- Антибактеріальна пом'якшуюча підкладка
+
+Розмір (обхват голови): 52-57 см
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">13</param>
+<param name="Колір">Зелений: Зелений</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">270</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">52-57 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="1148876182">
+<price>448</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2289332772_sholom-dityachij-green.jpg</picture>
+<name>Шолом дитячий Green Cycle Dino 50-54 Orange black</name>
+<vendor>Green Cycle</vendor>
+<vendorCode>HEL-56-3350</vendorCode>
+<description><![CDATA[ 
+
+ 
+
+Яскравий шолом Green Cycle. Забезпечить надійний захист Вашій дитині при катанні на велосипеді, самокаті або роликах. Передбачено 8 вентиляційних отворів, які служать для гарної терморегуляції. Внутрішні м'які вставки просочені спеціальним складом, що перешкоджає розмноженню бактерій. Зручна система настройки і ремінці зі спеціальними фіксаторами дозволять легко і просто налаштувати його під голову. Яскравий дизайн не тільки робить шолом дуже привабливим.
+
+ 
+
+Виробник: Green Cycle
+
+Тип: Шолом
+
+Матеріал зовнішньої частини: 100% Пластик
+
+Матеріал внутрішньоїчастини: 100% Пінополістирол
+
+Регулювання розміру: так
+
+Колір: Помаранчевий
+
+Розмір: 50-54 см
+
+Країна реєстрації бренду: Китай
+
+Країна виробник: Україна
+
+ 
+
+Особливості: 8 вентиляційних отворів; антибактеріальні вставки; сертифікат безпеки EN1078
+]]></description>
+<param name="Категории">Для детей</param>
+<param name="Количество вентиляционных отверстий">8.0</param>
+<param name="Антибактериальная пропитка подкладки">да</param>
+<param name="Светоотражающие элементы">нет</param>
+<param name="Съемный козырек">нет</param>
+<param name="Цвет">черно-оранжевой</param>
+<param name="Размер головного убора">50-54</param>
+</offer>
+<offer available="true" id="806723198">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1392426711_chereviki-nobrand-agrestic.jpg</picture>
+<picture>https://images.ua.prom.st/1392426709_chereviki-nobrand-agrestic.jpg</picture>
+<picture>https://images.ua.prom.st/1392426710_chereviki-nobrand-agrestic.jpg</picture>
+<name>Черевики Nobrand Agrestic 38 (23,5 см) </name>
+<vendor>Nobrand</vendor>
+<vendorCode>12421-2 </vendorCode>
+<description><![CDATA[верх: шкіра / підошва: каучук  / підкладка : шкіра 
+
+Забруднення з зовнішньої сторони правого черевика.
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">38</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Длина стельки (см)">23.5</param>
+<param name="Материал верха">Натуральная кожа</param>
+<param name="Материал подкладки">Натуральная кожа</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="1064531670">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/2038303989_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303987_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303986_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303988_zhinochi-chereviki-tree.jpg</picture>
+<name>Жіночі черевики Tree 38 Brown</name>
+<vendor>Tree</vendor>
+<vendorCode> 919A9_38</vendorCode>
+<description><![CDATA[ 
+
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Коричневий: Коричневий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Екошкіра: Екошкіра
+
+Матеріал підкладки: Штучне хутро / Текстиль
+
+Матеріал підошви: Каучук
+
+Розмір: 38
+
+Особливості: Анатомічне взуття
+
+Сезон: Зимовий
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від 0°C до -15°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Черевики
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки 
+]]></description>
+<param name="Стиль взуття">Класичний (classic)</param>
+<param name="Колір">Коричневий: Коричневий</param>
+<param name="Матеріал верху">Екошкіра: Екошкіра</param>
+<param name="Матеріал підкладки">Штучне хутро / Текстиль</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Розмір">38</param>
+<param name="Сезон">Зимовий</param>
+<param name="Температурний діапазон">Від 0°C до -15°C</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Подія">Повсякденні</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+</offer>
+<offer available="true" id="564762869">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>22851901</categoryId>
+<picture>https://images.ua.prom.st/2239374538_cholovichi-shorti-abercrombie.jpg</picture>
+<picture>https://images.ua.prom.st/2239374533_cholovichi-shorti-abercrombie.jpg</picture>
+<name>Чоловічі шорти Abercrombie &amp; Fitch Rensen XS Blue-Grey</name>
+<vendor>Abercrombie &amp; Fitch</vendor>
+<vendorCode> namkvdff</vendorCode>
+<description><![CDATA[
+
+Чоловічі шорти виготовлені з якісної тканини.
+
+Застібаються на блискавку та ґудзик, є кишені. Призначені для повсякденного носіння, занять спортом, туризму. Завдяки  та зручному крою шорти дуже зручні, не сковують рухів.
+
+Шорти довго зберігають форму, витримують багаторазове прання, не знебарвлюються. Чотири кишені дадуть змогу зручно зберігати корисні дрібниці. Шорти мають середню посадку, не мнуться, легко перуться, швидко сохнуть.
+
+Особливості:
+
+- Стильний дизайн
+
+- Якісні матеріали
+
+- Зручний анатомічний крій
+
+- Чотири кишені
+
+Обхват талії: 74 см
+
+Обхват стегон: 96 см
+
+Довжина зовнішнього шва: 57 см
+]]></description>
+<param name="Колір">Синій</param>
+<param name="Декорування">У клітинку</param>
+<param name="Матеріал ">Бавовна</param>
+<param name="Склад">100% бавовна</param>
+<param name="Розмір">XS</param>
+<param name="Стиль">Повсякденний (casual)</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="688639304">
+<price>490</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/874278430_zhinochi-kedi-kylie.jpg</picture>
+<picture>https://images.ua.prom.st/874278433_zhinochi-kedi-kylie.jpg</picture>
+<picture>https://images.ua.prom.st/874278453_zhinochi-kedi-kylie.jpg</picture>
+<picture>https://images.ua.prom.st/874278461_zhinochi-kedi-kylie.jpg</picture>
+<name>Жіночі кеди Kylie Cat 40 Bronze</name>
+<vendor>Kylie cat</vendor>
+<vendorCode>651303</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Спортивний (sport)
+
+Колір: Чорний: Чорний з бронзовим
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Текстиль: Текстиль
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 40
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Кеди
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">40</param>
+<param name="Пол">Женский</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Сезон">Лето</param>
+<param name="Отделка и украшения">Пайетки</param>
+</offer>
+<offer available="true" id="801651542">
+<price>435</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1381334168_krosivki-zhinochi-pretty.jpg</picture>
+<picture>https://images.ua.prom.st/1381334172_krosivki-zhinochi-pretty.jpg</picture>
+<picture>https://images.ua.prom.st/1381334188_krosivki-zhinochi-pretty.jpg</picture>
+<picture>https://images.ua.prom.st/1381334193_krosivki-zhinochi-pretty.jpg</picture>
+<name>Кросівки жіночі Pretty white gold 39</name>
+<vendorCode>13-322</vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Перфорированая экокожа
+
+Подкладка: Текстиль
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Состояние">Новое</param>
+<param name="Отделка и украшения"></param>
+</offer>
+<offer available="true" id="973994482">
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>28200372</categoryId>
+<picture>https://images.ua.prom.st/1796812334_kedi-zhinochi-keds.jpg</picture>
+<picture>https://images.ua.prom.st/1796812389_kedi-zhinochi-keds.jpg</picture>
+<picture>https://images.ua.prom.st/1796812390_kedi-zhinochi-keds.jpg</picture>
+<picture>https://images.ua.prom.st/1796812424_kedi-zhinochi-keds.jpg</picture>
+<name>Кеди жіночі Keds 38 white blue</name>
+<vendor>Keds</vendor>
+<vendorCode>DC7-3ew834</vendorCode>
+<description><![CDATA[
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Спортивний (sport)
+
+Колір: Білий: Білий з синім
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Текстиль: Текстиль
+
+Матеріал підкладки: Текстиль
+
+Матеріал підошви: Поліуретан
+
+Розмір: 38
+
+Особливості: Анатомічне взуття
+
+Сезон: Осінньо-весняне
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від +15°C до 0°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Кеди
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки
+]]></description>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Подія">Повсякденні</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал підкадки">Текстиль</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Тип">Кеди</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+<param name="Призанчення">Для туризму: Для туризму</param>
+<param name="Колір">Білий: Білий з синім</param>
+<param name="Стиль взуття">Спортивний (sport)</param>
+<param name="Матеріал підошви">Поліуретан</param>
+<param name="Матеріал верху">Текстиль: Текстиль</param>
+<param name="Розмір">38</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+</offer>
+<offer available="true" id="688261321">
+<price>540</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1073663375_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663405_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663407_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663460_krossovki-zhenskie-casual.jpg</picture>
+<name>Кроссовки женские Casual classic pink-white 39</name>
+<vendor>Casual classic</vendor>
+<vendorCode>822-3 </vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Экокожа Casual classic
+
+Подкладка: Текстиль
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">39</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Сезон">Лето</param>
+<param name="Отделка и украшения">Без украшений</param>
+</offer>
+<offer available="true" id="811726857">
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1403989510_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989496_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989499_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989501_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989506_choboti-anna-field.jpg</picture>
+<name>Чоботи Anna Field Zena-02 38</name>
+<vendor>Anna Field</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[верх: екошкіра / підошва: каучук / підкладка : текстиль
+
+Подряпина
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">38</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="811738367">
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1404031341_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031340_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031342_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031343_chereviki-frye-engineer.jpg</picture>
+<name>Черевики Frye Engineer 8R 39</name>
+<vendor>Anna Field</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[верх: шкіра/ підошва: каучук / підкладка : шкіра
+
+Потертості, пошкодження шкіри
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">41</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="817000234">
+<price>1190</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1415857579_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857574_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857575_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857576_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857578_kedi-jack-and-.jpg</picture>
+<name>Кеди Jack &amp; Jones 42</name>
+<vendor>JACK &amp; JONES</vendor>
+<vendorCode>12130556 </vendorCode>
+<description><![CDATA[верх:  текстиль / підошва: каучук  / підкладка : текстиль
+
+незначні забрудненя на підошві
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">42</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="817007912">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1415871078_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871069_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871081_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871080_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871079_botiljoni-anna-field.jpg</picture>
+<name>Ботильйони Anna Field 40</name>
+<vendor>Anna Field</vendor>
+<vendorCode>15AX </vendorCode>
+<description><![CDATA[верх: текстиль / підошва: каучук  / підкладка : текстиль
+
+незначні потертості на підошві
+]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="804733453">
+<price>615</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1388479713_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479730_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479741_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479742_krosivki-serena-pink.jpg</picture>
+<name>Кросівки Serena pink 41</name>
+<vendor>Serena</vendor>
+<vendorCode>LH1023r5</vendorCode>
+<description><![CDATA[Підошва: Поліуретан
+
+Верх: Екокожа
+
+Підкладка: Текстиль]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Розовый</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Размер женской обуви">41</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Отделка и украшения">Пайетки</param>
+</offer>
+<offer available="true" id="1059850390">
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>71020745</categoryId>
+<picture>https://images.ua.prom.st/2026479820_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479818_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479819_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479821_zhinochi-uggi-ugg.jpg</picture>
+<name>Жіночі угги UGG W Bailey Button 43 Pink</name>
+<vendor>UGG</vendor>
+<vendorCode> UGG_W_Bailey_Button_43_P</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Виробник: UGG
+
+Стиль взуття: Повсякденний (casual)
+
+Колір: Рожевий: Рожевий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху:    Замша: Замша
+
+Матеріал підкладки: Натуральне хутро
+
+Матеріал підошви: Каучук
+
+Розмір: 43
+
+Сезон: Зимовий
+
+Висота каблука: 1 см
+
+Температурний діапазон: Від 0°C до -15°C
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: США
+]]></description>
+<param name="Стиль взуття">Повсякденний (casual) </param>
+<param name="Колір">Бежевий: Бежевий</param>
+<param name="Матеріал верху">Замша: Замша</param>
+<param name="Матеріал підкладки">Хутро</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Розмір">43</param>
+<param name="Сезон">Зимовий</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1148197681">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>85776195</categoryId>
+<picture>https://images.ua.prom.st/2287499888_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499892_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499893_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499894_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499896_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499956_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499968_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499969_trusi-shorti-head-493.jpg</picture>
+<name>Труси-шорти Head 493 S Blue 3 шт</name>
+<vendor>Head</vendor>
+<vendorCode>Head_493_S_3</vendorCode>
+<description><![CDATA[Зручна, комфортна модель від відомого бренду. 
+
+Комфортні труси-боксери — безсумнівно популярна нижня білизна, що ідеально підходить для щоденного носіння. Виготовлені з високоякісних матеріалів. Плоскі шви мінімізують подразнення. Модель доповнена широким еластичним поясом з логотипом бренду. Забезпечують оптимальну свободу рухів. Мають чудові вентиляційні, вологовивідні та охолоджуючі властивості. М'яка  тканина цих трусів з яскравим кольором зберігає зовнішній вигляд таким як і в день придбання навіть після великої кількості циклів прання.
+
+Крій забезпечує максимальний комфорт при носінні впродовж всього дня.
+
+Обхват талії: 73-78 см
+
+Обхват стегон: 84-90 см
+
+Особливості:
+
+- В упаковці 3 штуки
+
+- Широкий еластичний пояс з логотипом бренду
+
+- Плоскі шви.
+
+- Якісні матеріали
+
+- Стильний мінімалістичний дизай
+
+
+
+ 
+]]></description>
+<param name="Сезон">Всесезонна модель</param>
+<param name="Модель">Боксери</param>
+<param name="Моделі">Regular Fit</param>
+<param name="Декорування">Однотонні</param>
+<param name="Посадка">Середня</param>
+<param name="Розмір">S</param>
+<param name="Призначення">Для повсякденного носіння</param>
+<param name="Подія">Повсякденні</param>
+<param name="Колір">Синій: Темно-синій</param>
+<param name="Матеріал ">Бавовна + еластан</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="Особливості крою">Приталений</param>
+<param name="Кількість в упаковці, шт">3</param>
+<param name="Країна реєстрації бренду">Австрія</param>
+</offer>
+<offer available="true" id="813428677">
+<price>1850</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1407626780_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626890_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626781_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626782_choboti-emu-australia.jpg</picture>
+<name>Чоботи EMU Australia Delegate HI 40</name>
+<vendor>EMU Australia</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[
+	
+		
+			
+			верх: замша / підошва: каучук / підкладка : натуральне хутро
+
+			Відсутня одна заклепка.
+			
+		
+	
+]]></description>
+<param name="Цвет">Коричневый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Зима</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="844143212">
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479399883_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399858_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399891_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399893_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399892_cholovichij-godinnik-yourturn.jpg</picture>
+<name>Чоловічий годинник Yourturn YO152M000-N11 </name>
+<vendor>Yourturn</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[Незначні сліди використання, дрібні подряпини на корпусі.
+
+ 
+
+Виробник: Yourturn
+
+Матеріал: Метал 
+
+Тип: Чоловічий
+
+Стиль: Фешн
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 44мм
+
+Товщина корпусу:  20мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Екошкіра
+
+Колір браслета: Хакі
+
+Основний колір циферблата: Чорний
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Мужской</param>
+<param name="Браслет/Ремешок">Искусственная кожа</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Хаки</param>
+<param name="Цвет циферблата">Черный</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="844158450">
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479417125_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417161_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417171_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417162_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417203_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417202_zhinochij-godinnik-kiomi.jpg</picture>
+<name>Жіночий годинник Kiomi xnwyy</name>
+<vendor>Kiomi</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[Незначні сліди використання, подряпини на ремінці.
+
+ 
+
+Виробник: Kiomi
+
+Матеріал: Метал
+
+Тип: Жіночий 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 36мм
+
+Товщина корпусу:  8мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Натуральна шкіра
+
+Колір браслета: Сірий
+
+Основний колір циферблата: Білий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Серый</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="844160909">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479424293_zhinochij-godinnik-swatch.jpg</picture>
+<picture>https://images.ua.prom.st/1479424289_zhinochij-godinnik-swatch.jpg</picture>
+<picture>https://images.ua.prom.st/1479424301_zhinochij-godinnik-swatch.jpg</picture>
+<name>Жіночий годинник Swatch Popure PNW105</name>
+<vendor>Swatch</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[Стан: Новий. Незначна подряпина на корпусі (видно на фото)
+
+ 
+
+Скажіть «так» елегантності! Жіночий годинник SWATCH POPURE PNW105. Має циферблат бездоганного білого кольору. Безель і корпус виконані з матового білого пластику. Конструкцію цього годинника Swatch POP доповнює двосторонній силіконовий ремінець білого кольору. Годинник SWATCH прекрасно поєднується з іншими аксесуарами. 
+
+ 
+
+Виробник: Swatch 
+
+Матеріал: Пластик
+
+Тип: Жіночі
+
+Стиль: Фешн
+
+Колір: Білий
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: пластик
+
+Діаметр корпусу: 45 мм
+
+Товщина корпусу: 12,5
+
+Водонепроникність: 3 атм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Силікон
+
+Колір браслета: Білий
+
+Основний колір циферблата: Білий
+
+Країна-виробник товару: Швейцарія 
+
+Країна реєстрації бренду: Швейцарія 
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Пластиковое</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Силиконовый</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Цвет браслета/ремешка">Белый</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Пластик</param>
+</offer>
+<offer available="true" id="845495154">
+<price>390</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1482386774_zhinochij-godinnik-even-and-odd.jpg</picture>
+<picture>https://images.ua.prom.st/1482386776_zhinochij-godinnik-even-and-odd.jpg</picture>
+<picture>https://images.ua.prom.st/1482386773_zhinochij-godinnik-even-and-odd.jpg</picture>
+<name>Жіночий годинник Even&amp;odd ev451</name>
+<vendor>EVEN&amp;ODD</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[Стан: Новий, незначне забруднення на ремінці (видно на фото)
+
+ 
+
+Виробник: Even&odd 
+
+Матеріал: Метал 
+
+Тип: жіночий
+
+Стиль: Класичний
+
+Колір: золотий
+
+Механізм: Кварцовий
+
+Ремінець/браслет: ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: мінеральне
+
+Діаметр корпусу: 32 мм
+
+Товщина корпусу: 8 мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: екошкіра
+
+Колір браслета: чорний
+
+Основний колір циферблата: чорний
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Искусственная кожа</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Золотой</param>
+<param name="Цвет браслета/ремешка">Черный</param>
+<param name="Цвет циферблата">Черный</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="845501656">
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1482394657_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394659_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394667_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394669_zhinochij-godinnik-kiomi.jpg</picture>
+<name>Жіночий годинник Kiomi Watch Black K4451</name>
+<vendor>Kiomi</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[ 
+
+Стан: Новий. Незначна подряпина на склі розміром 1 мм. її видно лише під певним кутом. Розташування подряпини показане червоним кольором на додатковому фото.
+
+ 
+
+Виробник: Kiomi 
+
+Матеріал: Метал 
+
+Тип: Жіночий 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Браслет
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 36 мм
+
+Товщина корпусу: 7 мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: шкіра
+
+Колір браслета: Чорний
+
+Основний колір циферблата: білий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Германія
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Черный</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="808741837">
+<price>1150</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1397142310_chereviki-kiomi-brown.jpg</picture>
+<picture>https://images.ua.prom.st/1397142308_chereviki-kiomi-brown.jpg</picture>
+<picture>https://images.ua.prom.st/1397142309_chereviki-kiomi-brown.jpg</picture>
+<name>Черевики Kiomi brown 40</name>
+<vendor>Kiomi</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[верх: шкіра/ підошва: каучук / підкладка : хутро
+
+Незначні потертості на черевику
+]]></description>
+<param name="Цвет">Коричневый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал верха">Натуральная кожа</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Материал подкладки">Мех</param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="844152061">
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479411637_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411638_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411632_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411639_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411634_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<name>Годинник Kiomi K4451MA0C-C11</name>
+<vendor>Kiomi</vendor>
+<vendorCode></vendorCode>
+<description><![CDATA[Потемніння на ремінці, незначні сліди використання.
+
+ 
+
+Виробник: Kiomi
+
+Матеріал: Метал 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 37мм
+
+Товщина корпусу:  9мм
+
+Функції: Дата
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Натуральна шкіра
+
+Колір браслета: Сірий
+
+Основний колір циферблата: Сірий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Бежевый</param>
+<param name="Цвет циферблата">Бежевый</param>
+<param name="Материал">Метал</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

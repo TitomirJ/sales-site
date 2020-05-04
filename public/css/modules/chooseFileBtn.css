@@ -1,0 +1,75 @@
+/* Выбрать файл */
+.file_upload{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    font-size: 1em;
+    height: 2.4em;
+    line-height: 2em
+}
+.file_upload .button, .file_upload > mark{
+    display: block;
+    cursor: pointer
+}
+.file_upload .button{
+    float: right;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 8em;
+    height: 100%;
+    text-align: center
+}
+.file_upload > mark{
+    background: transparent;
+    padding-left: 1em
+}
+@media only screen and ( max-width: 500px ){
+    .file_upload > mark{
+        display: none
+    }
+    .file_upload .button{
+        width: 100%
+    }
+}
+.file_upload input[type=file]{
+    position: absolute;
+    top: 0;
+    opacity: 0
+}
+
+/* Making it beautiful */
+
+.file_upload{
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+       -moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -webkit-transition: -webkit-box-shadow 0.1s linear;
+    transition: -webkit-box-shadow 0.1s linear;
+    -o-transition: box-shadow 0.1s linear;
+    -moz-transition: box-shadow 0.1s linear, -moz-box-shadow 0.1s linear;
+    transition: box-shadow 0.1s linear;
+    transition: box-shadow 0.1s linear, -webkit-box-shadow 0.1s linear, -moz-box-shadow 0.1s linear
+}
+.file_upload.focus{
+    -webkit-box-shadow: 0 0 5px rgba(0,30,255,0.4);
+       -moz-box-shadow: 0 0 5px rgba(0,30,255,0.4);
+            box-shadow: 0 0 5px rgba(0,30,255,0.4)
+}
+.file_upload .button{
+    -webkit-transition: background 0.2s;
+    -o-transition: background 0.2s;
+    -moz-transition: background 0.2s;
+    transition: background 0.2s;
+    -webkit-border-radius: 2px;
+       -moz-border-radius: 2px;
+            border-radius: 2px;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+}
+/* end Выбрать файл */

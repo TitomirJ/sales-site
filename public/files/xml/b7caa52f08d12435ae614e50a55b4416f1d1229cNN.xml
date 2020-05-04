@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-23 02:46">
+	<shop>
+		<name>Илья</name>
+		<company>Addicting</company>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="2">Компьютеры и ноутбуки</category>
+			<category id="22" parentId="2">Аксессуары для ноутбуков и ПК</category>
+			<category id="222" parentId="22">Аксессуары для ноутбуков</category>
+		</categories>
+		<offers>
+			<offer id="AJ_Marvel001" available="true">
+				<price>160</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>ZF</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук ZF Cartoon Marvel супергерои 50 шт (AJ_Marvel001)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 4 см до 11 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 4 см до 11 см
+Водоустойчивые
+Количество: 50 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_RM1001" available="true">
+				<price>210</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>ZF</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук ZF Рик и Морти dark 100 шт (STrm9) (AJ_RM1001)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 3 см до 11 см<br/>Водоустойчивые<br/>Количество: 100 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Размер наклеек 3-11 см
+Количество: 100 шт
+Водоустойчивые</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_RM3501" available="true">
+				<price>125</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Signs</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук Signs Рик и Морти 35 шт (AJ_RM3501)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 3 см до 8 см<br/>Водоустойчивые<br/>Количество: 35 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 3 см до 8 см
+Водоустойчивые
+Количество: 35 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_RM5001" available="true">
+				<price>144</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Signs Art</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук Signs Art Рик и Морти 50 шт (AJ_RM5001)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 3 см до 10 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 3 см до 10 см
+Водоустойчивые
+Количество: 50 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_Simps" available="true">
+				<price>135</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Classic Fashion</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук Classic Fashion Simpsons Симпсоны 50 шт (AJ_Simps)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 4 см до 8 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 4 см до 8 см
+Водоустойчивые
+Количество: 50 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_Spong" available="true">
+				<price>135</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Classic Fashion</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук Classic Fashion Губка Боб SpongeBob SquarePants 50 шт (AJ_Spong)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 4 см до 8 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 4 см до 8 см
+Водоустойчивые
+Количество: 50 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_de35" available="true">
+				<price>110</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>American Drama</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук American Drama Deadpool 35 шт (AJ_de35)</name>
+				<description><![CDATA[Наклейки на ноутбук American Drama Deadpool 35 шт<br/>Материал: PVC printing<br/>Размер: от 3 см до 8 см<br/>Водоустойчивые<br/>Количество: 35 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Размер: от 3 см до 8 см
+Количество: 35 шт
+Водоустойчивые</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_spm35" available="true">
+				<price>110</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://masel.com.ua/templates/img/price-rozetka-xlsx-xml-comments.png</picture>
+				<vendor>American Drama</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук American Drama Человек-паук Spider-Man 35 шт (AJ_spm35)</name>
+				<description><![CDATA[Наклейки на ноутбук American Drama Человек-паук Spider-Man 35 шт<br/>Материал: PVC printing<br/>Размер: от 4 см до 8 см<br/>Водоустойчивые<br/>Количество: 35 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Размер: от 4 см до 8 см
+Количество: 35 шт
+Водоустойчивые</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="AJ_theave" available="true">
+				<price>115</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>ZF</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук ZF MARVEL The Avengers Мстители  Неон 48 шт (AJ_theave)</name>
+				<description><![CDATA[Материал: PVC printing<br/>Размер: от 4 см до 8 см<br/>Водоустойчивые<br/>Количество: 48 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Материал: PVC printing
+Размер: от 4 см до 8 см
+Водоустойчивые
+Количество: 48 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="ST_41" available="true">
+				<price>115</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>American Drama</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук American Drama Рик и Морти 35 шт (ST_41)</name>
+				<description><![CDATA[<br/>Материал: PVC printing<br/>Размер: от 6 см до 12 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Размер наклеек 3-10 см
+Количество: 35 шт
+Водоустойчивые</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+			<offer id="ert11" available="true">
+				<price>139</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>222</categoryId>
+				<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+				<vendor>Classic Fashion</vendor>
+				<stock_quantity>100</stock_quantity>
+				<name>Наклейки на ноутбук Classic Fashion Супергерои 50 шт (ert11)</name>
+				<description><![CDATA[Наклейки на ноутбук Classic Fashion Супергерои 50 шт<br/>Материал: PVC printing<br/>Размер: от 6 см до 12 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+				<param name="Категория">Наклейки</param>
+				<param name="Совместимость">универсальные</param>
+				<param name="Дополнительные характеристики">Наклейки на ноутбук Classic Fashion Супергерои 50 шт
+Материал: PVC printing
+Размер: от 4 см до 12 см
+Водоустойчивые
+Количество: 50 шт</param>
+				<param name="Цвет">Multicolor</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

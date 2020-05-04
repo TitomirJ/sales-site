@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-09-26 10:04">
+	<shop>
+		<name>MTP</name>
+		<company>MTP</company>
+		<currencies>
+			<currency id="UAH" rate="1"/> 
+		</currencies>
+		<categories>
+			<category id="2519">������� �������, ��������</category>
+			<category id="2520" parentId="2519">��������� ���������</category>
+			<category id="2604" parentId="2520">�������</category>
+			<category id="2525">���������, �� � �����������</category>
+			<category id="2526" parentId="2525">��������, MP3, GPS</category>
+			<category id="2673" parentId="2526">��������</category>
+			<category id="2527" parentId="2526">���������� ��� ��������� ��������� � ����������</category>
+			<category id="2528" parentId="2527">������������� ��������� �������</category>
+			<category id="2674" parentId="2527">����� ��� ��������� ���������</category>
+			<category id="2541">������ ��� ����</category>
+			<category id="2542" parentId="2541">�������� ��������</category>
+			<category id="2543" parentId="2542">���������� �����</category>
+			<category id="3">��� �� ������!</category>
+			<category id="29" parentId="3">������ ��� �������</category>
+			<category id="2193" parentId="29">�����</category>
+			<category id="4">��� � ���</category>
+			<category id="36" parentId="4">������</category>
+			<category id="166" parentId="36">������, �����</category>
+			<category id="37" parentId="4">������</category>
+			<category id="174" parentId="37">�������� ��������������</category>
+			<category id="1035" parentId="174">��������� ��� �������� � �������� ���������������</category>
+			<category id="42" parentId="4">��������</category>
+			<category id="232" parentId="42">����� � �������</category>
+			<category id="1237" parentId="232">����� �� ����������� ����������</category>
+			<category id="235" parentId="42">�������� ��� �����</category>
+			<category id="1257" parentId="235">��������, �������� �������������</category>
+			<category id="43" parentId="4">���� �� �����</category>
+			<category id="239" parentId="43">������</category>
+			<category id="1282" parentId="239">�������� �������������</category>
+			<category id="9">������, �����, ����������</category>
+			<category id="77" parentId="9">���������� � ����������</category>
+			<category id="318" parentId="77">�������� � ��������-�������</category>
+			<category id="327" parentId="77">�������� � �������</category>
+			<category id="329" parentId="77">����� � �����</category>
+			<category id="330" parentId="77">�������������� ����</category>
+			<category id="312" parentId="77">���������� ��� �����</category>
+			<category id="1327" parentId="312">������� � ����� ��� �����</category>
+			<category id="313" parentId="77">���������</category>
+			<category id="1329" parentId="313">��������</category>
+			<category id="319" parentId="77">�������� �����</category>
+			<category id="2609" parentId="319">�������� �����  �������</category>
+			<category id="1340" parentId="319">������� � �����</category>
+			<category id="1341" parentId="319">��������� � �����</category>
+			<category id="1343" parentId="319">�������� �����  �������</category>
+			<category id="1344" parentId="319">������� � ������ ��������</category>
+			<category id="1345" parentId="319">�����</category>
+			<category id="1346" parentId="319">�����</category>
+			<category id="332" parentId="77">�����, ��������, ��������</category>
+			<category id="1349" parentId="332">������� ������� � ������</category>
+			<category id="1354" parentId="332">����� � ��������, �����</category>
+			<category id="337" parentId="77">�����, ������, ����</category>
+			<category id="1355" parentId="337">������, ����, ���������</category>
+			<category id="1356" parentId="337">�����</category>
+			<category id="1357" parentId="337">�����, ����, �����</category>
+			<category id="80" parentId="9">������� ������</category>
+			<category id="356" parentId="80">������ �������</category>
+			<category id="358" parentId="80">������� � ������ �������</category>
+			<category id="365" parentId="80">������� ������ � �����</category>
+			<category id="371" parentId="80">���� �������</category>
+			<category id="2469" parentId="80">������� ���������� ������</category>
+			<category id="2626" parentId="2469">������� ���������� ����</category>
+			<category id="2470" parentId="2469">������� ���������� �������</category>
+			<category id="2471" parentId="2469">������� ���������� �����</category>
+			<category id="2503" parentId="80">������� �������-�������� �������</category>
+			<category id="2504" parentId="2503">������� �����</category>
+			<category id="2506" parentId="2503">������� ��������</category>
+			<category id="350" parentId="80">����� � ���������� �������</category>
+			<category id="2549" parentId="350">�������������� �����</category>
+			<category id="2624" parentId="350">�����</category>
+			<category id="1383" parentId="350">������������</category>
+			<category id="1384" parentId="350">������, ����, �����������</category>
+			<category id="1385" parentId="350">������� ����� � ����������, �����</category>
+			<category id="1387" parentId="350">��������� �����</category>
+			<category id="1388" parentId="350">���������� �������</category>
+			<category id="1389" parentId="350">�����, ������, ����� �������</category>
+			<category id="1390" parentId="350">������� �����</category>
+			<category id="351" parentId="80">������� ����� � �������</category>
+			<category id="2516" parentId="351">������� ������</category>
+			<category id="2472" parentId="351">������� �����</category>
+			<category id="2474" parentId="351">������� �������</category>
+			<category id="353" parentId="80">������� ������� ������</category>
+			<category id="2630" parentId="353">������� ������ ������</category>
+			<category id="2247" parentId="353">������� ������</category>
+			<category id="2248" parentId="353">������� �������</category>
+			<category id="2252" parentId="353">������� �����</category>
+			<category id="2253" parentId="353">������� ������</category>
+			<category id="2467" parentId="353">������� ���������� �����</category>
+			<category id="1391" parentId="353">������� ��������</category>
+			<category id="1395" parentId="353">������� ������ �������</category>
+			<category id="1396" parentId="353">������� ������</category>
+			<category id="1397" parentId="353">������� �����</category>
+			<category id="1398" parentId="353">�������� �������</category>
+			<category id="1399" parentId="353">������� ����</category>
+			<category id="1394" parentId="353">������� ������</category>
+			<category id="2615" parentId="1394">������� ������</category>
+			<category id="2240" parentId="1394">������� �������</category>
+			<category id="2241" parentId="1394">������� ��������</category>
+			<category id="2242" parentId="1394">������� ������ ������</category>
+			<category id="2243" parentId="1394">������� ������� ������</category>
+			<category id="2244" parentId="1394">������� �����</category>
+			<category id="2245" parentId="1394">������� ��������</category>
+			<category id="2510" parentId="1394">������� ������������ ������</category>
+			<category id="357" parentId="80">������� ����������� � ���������������</category>
+			<category id="2480" parentId="357">������� �����������</category>
+			<category id="2481" parentId="357">������� ���������������</category>
+			<category id="360" parentId="80">������� �����, ����� � ������</category>
+			<category id="2513" parentId="360">������� �����</category>
+			<category id="2475" parentId="360">������� ������</category>
+			<category id="2476" parentId="360">������� �����</category>
+			<category id="2477" parentId="360">������� ��������</category>
+			<category id="2478" parentId="360">������� ������</category>
+			<category id="352" parentId="360">������� �������</category>
+			<category id="354" parentId="360">������� ������</category>
+			<category id="369" parentId="360">������� �����</category>
+			<category id="361" parentId="80">������� ������ � �������� ������</category>
+			<category id="1400" parentId="361">������� ��������� �������� ������</category>
+			<category id="1402" parentId="361">������� ������ �������</category>
+			<category id="1403" parentId="361">������� ������</category>
+			<category id="1404" parentId="361">������� ������</category>
+			<category id="362" parentId="80">������ � ����� ��� ���������� � ��������</category>
+			<category id="1406" parentId="362">�����, ������ � ������ ��� ����������</category>
+			<category id="1413" parentId="362">����� ��� ���������� � �������� ���</category>
+			<category id="363" parentId="80">������� ������� � ������</category>
+			<category id="2482" parentId="363">������� �������</category>
+			<category id="2483" parentId="363">������� ��������</category>
+			<category id="2484" parentId="363">������� ������</category>
+			<category id="364" parentId="80">������� ������, �������� � ����</category>
+			<category id="2493" parentId="364">������� ������</category>
+			<category id="2495" parentId="364">������� ��������</category>
+			<category id="2496" parentId="364">������� ������</category>
+			<category id="2497" parentId="364">������� ����</category>
+			<category id="366" parentId="80">������� �����, ������� � ���������</category>
+			<category id="2517" parentId="366">������� ������</category>
+			<category id="2537" parentId="366">������� �����</category>
+			<category id="2539" parentId="366">������� ������</category>
+			<category id="2614" parentId="366">������� �����</category>
+			<category id="2485" parentId="366">������� ������ (���������)</category>
+			<category id="2486" parentId="366">������� ��������</category>
+			<category id="2487" parentId="366">������� ���������</category>
+			<category id="2488" parentId="366">������� �������� </category>
+			<category id="2489" parentId="366">������� �������</category>
+			<category id="2490" parentId="366">������� ��������</category>
+			<category id="2491" parentId="366">������� ���������</category>
+			<category id="2492" parentId="366">������� ����</category>
+			<category id="368" parentId="80">������� �������� � �����</category>
+			<category id="2498" parentId="368">������� �����</category>
+			<category id="2500" parentId="368">������� ����</category>
+			<category id="2501" parentId="368">������� ��������</category>
+			<category id="2502" parentId="368">������� �������� � �������� ��������</category>
+			<category id="85" parentId="9">���������� ������ � �����</category>
+			<category id="414" parentId="85">���������� �������</category>
+			<category id="419" parentId="85">���������� �����</category>
+			<category id="412" parentId="85">���������, ���� ������������</category>
+			<category id="2194" parentId="412">��������� �������</category>
+			<category id="2195" parentId="412">��������� �������</category>
+			<category id="412" parentId="85">���������, ���� ������������</category>
+			<category id="2217" parentId="412">���� �������</category>
+			<category id="2218" parentId="412">������� �������</category>
+			<category id="2224" parentId="412">���� �������</category>
+			<category id="2544" parentId="9">����� � ����������</category>
+			<category id="2545" parentId="2544">����� � �������</category>
+			<category id="2546" parentId="2545">�����</category>
+			<category id="2547" parentId="2544">�������� �����</category>
+			<category id="2548" parentId="2547">����� � ������</category>
+			<category id="2550" parentId="2547">�������� �����</category>
+			<category id="79" parentId="9">�����</category>
+			<category id="2198" parentId="79">����� ��� ���������</category>
+			<category id="2669" parentId="2198">������� ��� ��������� </category>
+			<category id="2199" parentId="2198">�������, ������ ��� ���������</category>
+			<category id="2200" parentId="2198">��������, ������� ��� ���������</category>
+			<category id="2202" parentId="2198">�������, ������� ��� ���������</category>
+			<category id="2203" parentId="2198">����� ��� ���������</category>
+			<category id="2187" parentId="2198">��������� ������ ��� ���������</category>
+			<category id="2189" parentId="2198">��������� ��� ���������</category>
+			<category id="2234" parentId="2198">���� ��� ���������</category>
+			<category id="2236" parentId="2198">�������� ��� ���������</category>
+			<category id="2238" parentId="2198">���� ��� ���������</category>
+			<category id="2205" parentId="79">����� ��� �������</category>
+			<category id="2617" parentId="2205">������� ��� �������</category>
+			<category id="2206" parentId="2205">������� ��� �������</category>
+			<category id="2207" parentId="2205">�������� ��� �������</category>
+			<category id="2208" parentId="2205">����� ��� �������</category>
+			<category id="2211" parentId="2205">��������� ��� �������</category>
+			<category id="2186" parentId="2205">��������� ������ ��� �������</category>
+			<category id="2188" parentId="2205">��������� ��� �������</category>
+			<category id="2228" parentId="2205">������ ��� �������</category>
+			<category id="2229" parentId="2205">���� ��� �������</category>
+			<category id="2230" parentId="2205">������� ��� �������</category>
+			<category id="2232" parentId="2205">������� ��� �������</category>
+			<category id="2233" parentId="2205">���� ��� �������</category>
+			<category id="2235" parentId="2205">�������� ��� �������</category>
+			<category id="2237" parentId="2205">���� ��� �������</category>
+			<category id="346" parentId="79">���������� ��� �����</category>
+			<category id="1359" parentId="346">�������</category>
+			<category id="1360" parentId="346">������ ��� �����</category>
+			<category id="347" parentId="79">����� �������</category>
+			<category id="2606" parentId="347">������ �������</category>
+			<category id="2607" parentId="347">�������� �������</category>
+			<category id="2621" parentId="347">������� ��������</category>
+			<category id="2628" parentId="347">������� �������</category>
+			<category id="2629" parentId="347">������� ���������</category>
+			<category id="2679" parentId="347">������� �������</category>
+			<category id="1361" parentId="347">������� �������</category>
+			<category id="1362" parentId="347">��������� �������</category>
+			<category id="1363" parentId="347">��������� �������</category>
+			<category id="1365" parentId="347">������� �����, �����</category>
+			<category id="1366" parentId="347">�������� �������</category>
+			<category id="1368" parentId="347">��������� ������ �������</category>
+			<category id="1369" parentId="347">�������� �������</category>
+			<category id="1370" parentId="347">������ �������</category>
+			<category id="1371" parentId="347">����� �������</category>
+			<category id="2212" parentId="347">���� �������</category>
+			<category id="2213" parentId="347">�������� �������</category>
+			<category id="2214" parentId="347">������ �������</category>
+			<category id="2215" parentId="347">���� �������</category>
+			<category id="2216" parentId="347">������� �������</category>
+			<category id="2220" parentId="347">������� �������</category>
+			<category id="2221" parentId="347">���������� �������</category>
+			<category id="2222" parentId="347">�������� �������</category>
+			<category id="2223" parentId="347">���������, ������ �������</category>
+			<category id="348" parentId="79">����� �������</category>
+			<category id="2514" parentId="348">������� ���������, ������</category>
+			<category id="2670" parentId="348">��������� �������</category>
+			<category id="2671" parentId="348">����� �������</category>
+			<category id="1373" parentId="348">������� �������</category>
+			<category id="1375" parentId="348">�������� �������</category>
+			<category id="1378" parentId="348">�������� �������</category>
+			<category id="1379" parentId="348">������ �������</category>
+			<category id="1381" parentId="348">����� �������</category>
+			<category id="2225" parentId="348">������� �������</category>
+			<category id="2226" parentId="348">������� �������</category>
+			<category id="2227" parentId="348">���������� �������</category>
+			<category id="81" parentId="9">������� ������</category>
+			<category id="2421" parentId="81">������� ���������� ������</category>
+			<category id="2422" parentId="2421">������� ���������� �����</category>
+			<category id="2424" parentId="2421">������� ���������� �����</category>
+			<category id="2436" parentId="81">������� �������-�������� �������</category>
+			<category id="2438" parentId="2436">������� �����</category>
+			<category id="2440" parentId="81">������� �����</category>
+			<category id="2441" parentId="2440">������� �����</category>
+			<category id="372" parentId="81">������� ������, �����</category>
+			<category id="374" parentId="372">������� ������</category>
+			<category id="373" parentId="81">������� ������� ������</category>
+			<category id="2462" parentId="373">������� ������</category>
+			<category id="1424" parentId="373">������� ������</category>
+			<category id="1422" parentId="373">������� ������</category>
+			<category id="2256" parentId="1422">������� ������������ ������</category>
+			<category id="2257" parentId="1422">������� ������ ������</category>
+			<category id="378" parentId="81">������� ����� � ������ ���������</category>
+			<category id="1433" parentId="378">����� �������</category>
+			<category id="380" parentId="81">������� ������� � �������</category>
+			<category id="2457" parentId="380">������� �������</category>
+			<category id="2458" parentId="380">������� ������</category>
+			<category id="2459" parentId="380">������� �������</category>
+			<category id="381" parentId="81">������� �������, �������� � �����</category>
+			<category id="2430" parentId="381">������� ���������</category>
+			<category id="2431" parentId="381">������� ����</category>
+			<category id="2432" parentId="381">������� �������</category>
+			<category id="2433" parentId="381">������� ��������</category>
+			<category id="2434" parentId="381">������� �����</category>
+			<category id="2435" parentId="381">������� ���������</category>
+			<category id="384" parentId="381">������� ��������</category>
+			<category id="382" parentId="81">������� �����, ������� � ���������</category>
+			<category id="2446" parentId="382">������� ������ (���������)</category>
+			<category id="2447" parentId="382">������� ��������</category>
+			<category id="2448" parentId="382">������� ���������</category>
+			<category id="2449" parentId="382">������� �����</category>
+			<category id="2450" parentId="382">������� ��������</category>
+			<category id="2451" parentId="382">������� �������</category>
+			<category id="2452" parentId="382">������� �������</category>
+			<category id="2453" parentId="382">������� ��������</category>
+			<category id="2454" parentId="382">������� ���������</category>
+			<category id="2455" parentId="382">������� ����</category>
+			<category id="385" parentId="81">������� ����� � ������</category>
+			<category id="2511" parentId="385">������� �����</category>
+			<category id="2512" parentId="385">������� �����</category>
+			<category id="82" parentId="9">������, �����, ���������� �������</category>
+			<category id="387" parentId="82">���������� �������</category>
+			<category id="2518" parentId="387">����� � ������</category>
+			<category id="2608" parentId="387">����� � ����� ��� �������</category>
+			<category id="2677" parentId="387">������� �����</category>
+			<category id="2678" parentId="387">������� ��������</category>
+			<category id="1438" parentId="387">���������� �������, �����</category>
+			<category id="1439" parentId="387">�������� � ������ ���������� �������</category>
+			<category id="1440" parentId="387">�������� ����� �������</category>
+			<category id="1443" parentId="387">��������� ����-�����-�������� �������</category>
+			<category id="1445" parentId="387">��������, ������� �������</category>
+			<category id="1446" parentId="387">����� � �������� �������</category>
+			<category id="1448" parentId="387">����� � ������� �������</category>
+			<category id="1449" parentId="387">����� � ����� ��� ���������</category>
+			<category id="388" parentId="82">����� � ���������� �������</category>
+			<category id="1452" parentId="388">������� �������</category>
+			<category id="1453" parentId="388">��������� �������� ������� �����</category>
+			<category id="1455" parentId="388">����� � ������ �������</category>
+			<category id="1457" parentId="388">������� �������</category>
+			<category id="391" parentId="82">����� ������� � ������������</category>
+			<category id="1463" parentId="391">����� ������� � ������������, �����</category>
+			<category id="392" parentId="82">������ ��� �������</category>
+			<category id="2620" parentId="392">��������� ��� �������</category>
+			<category id="2623" parentId="392">����� ��� �������</category>
+			<category id="2625" parentId="392">������� ��� �������</category>
+			<category id="1468" parentId="392">����� � ������ ��� �������</category>
+			<category id="1469" parentId="392">������ ��� �������</category>
+			<category id="1470" parentId="392">������� ��� �������</category>
+			<category id="1475" parentId="392">������� � ������ ��� �������</category>
+			<category id="1479" parentId="392">���� �������</category>
+			<category id="2535" parentId="392">��������� ������ ��� �������</category>
+			<category id="2536" parentId="2535">������</category>
+			<category id="2265" parentId="392">������� ������ ��� �������</category>
+			<category id="2267" parentId="2265">�������� ��� �������</category>
+			<category id="2268" parentId="2265">��������� ��� �������</category>
+			<category id="2270" parentId="2265">������ ��� �������</category>
+			<category id="2271" parentId="2265">������ ��� �������</category>
+			<category id="2272" parentId="2265">������ ��� �������</category>
+			<category id="2274" parentId="2265">����� ��� �������</category>
+			<category id="2276" parentId="2265">�������� ��� �������</category>
+			<category id="2277" parentId="2265">���� ��� �������</category>
+			<category id="2278" parentId="392">������ � �������� ������ ��� �������</category>
+			<category id="2279" parentId="2278">������ ������� ��� �������</category>
+			<category id="2280" parentId="2278">������ ��� �������</category>
+			<category id="2287" parentId="392">����������� � ��������������� ��� �������</category>
+			<category id="2288" parentId="2287">����������� ��� �������</category>
+			<category id="2289" parentId="2287">��������������� ��� �������</category>
+			<category id="2290" parentId="392">���������� � ������� ������ ��� �������</category>
+			<category id="2291" parentId="2290">���������� ��� �������</category>
+			<category id="2292" parentId="2290">������ ��� �������</category>
+			<category id="2293" parentId="2290">����� ��� �������</category>
+			<category id="2294" parentId="392">������� � ������ ��� �������</category>
+			<category id="2297" parentId="2294">������� ��� �������</category>
+			<category id="2313" parentId="392">���������� ������ ��� �������</category>
+			<category id="2314" parentId="2313">���������� ����� ��� �������</category>
+			<category id="2315" parentId="2313">���������� ������� ��� �������</category>
+			<category id="1467" parentId="392">����� � ������ ��� �������</category>
+			<category id="2282" parentId="1467">����� ��� �������</category>
+			<category id="2285" parentId="1467">������� ��� �������</category>
+			<category id="2286" parentId="1467">������ ��� �������</category>
+			<category id="1471" parentId="392">����� � ������� ��� �������</category>
+			<category id="2529" parentId="1471">������ ��� �������</category>
+			<category id="2538" parentId="1471">��������� ��� �������</category>
+			<category id="2316" parentId="1471">������ ��� �������</category>
+			<category id="2317" parentId="1471">�������� ��� �������</category>
+			<category id="2318" parentId="1471">��������� ��� �������</category>
+			<category id="2319" parentId="1471">����� ��� �������</category>
+			<category id="2320" parentId="1471">�������� ��� �������</category>
+			<category id="2321" parentId="1471">������� ��� �������</category>
+			<category id="2322" parentId="1471">�������� ��� �������</category>
+			<category id="2323" parentId="1471">��������� ��� �������</category>
+			<category id="2324" parentId="1471">���� ��� �������</category>
+			<category id="1476" parentId="392">������, �������� � ���� ��� �������</category>
+			<category id="2298" parentId="1476">������ ��� �������</category>
+			<category id="2299" parentId="1476">�������� ��� �������</category>
+			<category id="2300" parentId="1476">���� ��� �������</category>
+			<category id="1477" parentId="392">�������� � ����� ��� �������</category>
+			<category id="2301" parentId="1477">����� ��� �������</category>
+			<category id="2302" parentId="1477">�������� ��� �������</category>
+			<category id="2303" parentId="1477">���� ��� �������</category>
+			<category id="2304" parentId="1477">�������� � �������� �������� ��� �������</category>
+			<category id="1478" parentId="392">�����, �����, ������ ��� �������</category>
+			<category id="2622" parentId="1478">����� ��� �������</category>
+			<category id="2305" parentId="1478">����� ��� �������</category>
+			<category id="2307" parentId="1478">������ ��� �������</category>
+			<category id="2308" parentId="1478">����� ��� �������</category>
+			<category id="2309" parentId="1478">�������� ��� �������</category>
+			<category id="2311" parentId="1478">����� ��� �������</category>
+			<category id="2312" parentId="1478">����� ��� �������</category>
+			<category id="1473" parentId="1478">������ ��� �������</category>
+			<category id="393" parentId="82">������ ��� ���������</category>
+			<category id="2369" parentId="393">������ ��� ���������</category>
+			<category id="1484" parentId="393">������ ����������� ��� ���������</category>
+			<category id="2325" parentId="393">������� ������ ��� ���������</category>
+			<category id="2326" parentId="2325">������� ��� ���������</category>
+			<category id="2327" parentId="2325">�������� ��� ���������</category>
+			<category id="2329" parentId="2325">��������� ������� ������ ��� ���������</category>
+			<category id="2330" parentId="2325">������ ��� ���������</category>
+			<category id="2331" parentId="2325">������ ��� ���������</category>
+			<category id="2332" parentId="2325">����� ��� ���������</category>
+			<category id="2335" parentId="393">������ � �������� ������ ��� ���������</category>
+			<category id="2336" parentId="2335">������ ��� ���������</category>
+			<category id="2344" parentId="393">����������� � ��������������� ��� ���������</category>
+			<category id="2345" parentId="2344">����������� ��� ���������</category>
+			<category id="2356" parentId="393">���������� ������ ��� ���������</category>
+			<category id="2357" parentId="2356">���������� ����� ��� ���������</category>
+			<category id="2358" parentId="2356">���������� ����� ��� ���������</category>
+			<category id="2359" parentId="2356">���������� ������� ��� ���������</category>
+			<category id="1483" parentId="393">�����, �������, ��������� ��� ���������</category>
+			<category id="2675" parentId="1483">��������� ��� ���������</category>
+			<category id="2360" parentId="1483">������ ��� ���������</category>
+			<category id="2361" parentId="1483">�������� ��� ���������</category>
+			<category id="2362" parentId="1483">��������� ��� ���������</category>
+			<category id="2363" parentId="1483">����� ��� ���������</category>
+			<category id="2365" parentId="1483">������� ��� ���������</category>
+			<category id="2366" parentId="1483">�������� ��� ���������</category>
+			<category id="2367" parentId="1483">��������� ��� ���������</category>
+			<category id="1486" parentId="393">�������, ������� � ��������� ��� ���������</category>
+			<category id="2354" parentId="1486">������� ��� ���������</category>
+			<category id="2355" parentId="1486">��������� ��� ���������</category>
+			<category id="1481" parentId="1486">������ ��� ���������</category>
+			<category id="1482" parentId="1486">������� ��� ���������</category>
+			<category id="1487" parentId="393">������� � �������� ��� ���������</category>
+			<category id="2339" parentId="1487">���� ��� ���������</category>
+			<category id="2340" parentId="1487">������� ��� ���������</category>
+			<category id="2341" parentId="1487">�������� ��� ���������</category>
+			<category id="2342" parentId="1487">�������� � ������� ������� ��� ���������</category>
+			<category id="2343" parentId="1487">����� ��� ���������</category>
+			<category id="1488" parentId="1487">�������� ��� ���������</category>
+			<category id="1489" parentId="393">����� � ����� ��� ���������</category>
+			<category id="2347" parentId="1489">����� ��� ���������</category>
+			<category id="2349" parentId="1489">������ ��� ���������</category>
+			<category id="2350" parentId="1489">����� ��� ���������</category>
+			<category id="2352" parentId="1489">����� ��� ���������</category>
+			<category id="1480" parentId="1489">������ ��� ���������</category>
+			<category id="394" parentId="82">������ ��� �������</category>
+			<category id="1491" parentId="394">�������� ����� ��� �������������</category>
+			<category id="1501" parentId="394">������ ��� �������������, �����</category>
+			<category id="2533" parentId="394">��� ��� ��������</category>
+			<category id="2534" parentId="2533">�������� ��� ��������</category>
+			<category id="2370" parentId="394">������� ������ ��� �������</category>
+			<category id="2375" parentId="2370">����� ��� �������</category>
+			<category id="1498" parentId="2370">������ ��� �������</category>
+			<category id="2398" parentId="394">����������� � ��������������� ��� �������</category>
+			<category id="2399" parentId="2398">����������� ��� �������</category>
+			<category id="2400" parentId="2398">��������������� ��� �������</category>
+			<category id="2414" parentId="394">������� ������ ��� �������</category>
+			<category id="2415" parentId="2414">���������� ��� �������</category>
+			<category id="2416" parentId="2414">������ ��� �������</category>
+			<category id="2417" parentId="394">���������� ������ ��� �������</category>
+			<category id="2418" parentId="2417">���������� ����� ��� �������</category>
+			<category id="2419" parentId="2417">���������� ������� ��� �������</category>
+			<category id="1494" parentId="394">������� � ��������� ��� �������</category>
+			<category id="2412" parentId="1494">��������� ��� �������</category>
+			<category id="2413" parentId="1494">������� ��� �������</category>
+			<category id="1495" parentId="394">�����, ��������, �������� ��� �������</category>
+			<category id="2401" parentId="1495">������ ��� �������</category>
+			<category id="2402" parentId="1495">��������� ��� �������</category>
+			<category id="2403" parentId="1495">�������� ��� �������</category>
+			<category id="2406" parentId="1495">��������� ��� �������</category>
+			<category id="2407" parentId="1495">����� ��� �������</category>
+			<category id="2410" parentId="1495">������� ��� �������</category>
+			<category id="1503" parentId="394">������ � ���� ��� �������</category>
+			<category id="2385" parentId="1503">������ ��� �������</category>
+			<category id="2387" parentId="1503">������ ��� �������</category>
+			<category id="2388" parentId="1503">���� ��� �������</category>
+			<category id="1506" parentId="394">�������� � ������� ��� �������</category>
+			<category id="2390" parentId="1506">����� ��� �������</category>
+			<category id="2392" parentId="1506">����� ��� �������</category>
+			<category id="2393" parentId="1506">���� ��� �������</category>
+			<category id="2394" parentId="1506">������� ��� �������</category>
+			<category id="2395" parentId="1506">�������� ��� �������</category>
+			<category id="2396" parentId="1506">�������� � �������� �������� ��� �������</category>
+			<category id="1490" parentId="394">���� � ��������� ��� �������</category>
+			<category id="2530" parentId="1490">���� ��� �������</category>
+			<category id="2531" parentId="1490">���������</category>
+			<category id="2551" parentId="1490">��������</category>
+			<category id="1490" parentId="394">���� � ��������� ��� �������</category>
+			<category id="1504" parentId="394">�������� � ������� ��� �������</category>
+			<category id="2380" parentId="1504">����� ��� �������</category>
+			<category id="2381" parentId="1504">������ ��� �������</category>
+			<category id="2382" parentId="1504">������ ��� �������</category>
+			<category id="2383" parentId="1504">�������� ��� �������</category>
+			<category id="2384" parentId="1504">����� ��� �������</category>
+			<category id="1504" parentId="394">�������� � ������� ��� �������</category>
+			<category id="395" parentId="82">������ ��� ��� � ���� �������</category>
+			<category id="1509" parentId="395">�������� ������ �������</category>
+			<category id="1511" parentId="395">������ �������</category>
+			<category id="396" parentId="82">���������� ������ �������</category>
+			<category id="1515" parentId="396">���������� ������� �������</category>
+			<category id="1519" parentId="396">���������� ����� �������</category>
+			<category id="11">������� � �����������</category>
+			<category id="106" parentId="11">������������ � ����������</category>
+			<category id="605" parentId="106">�������� � ���������</category>
+			<category id="107" parentId="11">������� �������</category>
+			<category id="614" parentId="107">������� ������� ��� ������� �����������</category>
+			<category id="2672" parentId="614">���������</category>
+			<category id="1926" parentId="614">������ ������������, ����������</category>
+			<category id="1930" parentId="614">������� ��� ������� �����</category>
+			<category id="1932" parentId="614">�������� � ������� ��� ������� �����</category>
+			<category id="616" parentId="107">������������� �������</category>
+			<category id="1941" parentId="616">������������</category>
+			<category id="618" parentId="107">������ ������� ������� ��� �����</category>
+			<category id="1962" parentId="618">��������</category>
+			<category id="109" parentId="11">������������ ������� � ��</category>
+			<category id="627" parentId="109">������������ ����������</category>
+			<category id="2071" parentId="627">��������� ��� ���������</category>
+			<category id="2073" parentId="627">����� � ������� ��� ���������</category>
+			<category id="12">������ ��� �����</category>
+			<category id="115" parentId="12">������� ��������</category>
+			<category id="708" parentId="115">������� ������</category>
+			<category id="713" parentId="115">������� ���������� �����</category>
+			<category id="118" parentId="12">�������</category>
+			<category id="2515" parentId="118">��������</category>
+			<category id="749" parentId="118">���������� ������</category>
+			<category id="2601" parentId="12">������� �������</category>
+			<category id="2602" parentId="2601">�������� � ����������</category>
+			<category id="2603" parentId="2602">��������� ������ ��� �������� ����������</category>
+			<category id="116" parentId="12">������� ��������� � ����������</category>
+			<category id="716" parentId="116">���������� �������</category>
+			<category id="2676" parentId="716">��������� �� ������� � ���������</category>
+			<category id="10">����� � �����</category>
+			<category id="91" parentId="10">������ ���� ������</category>
+			<category id="443" parentId="91">������ ����� � �����������</category>
+			<category id="1601" parentId="443">���������, �����������, �����</category>
+		</categories>
+		<offers>
+			<offer id="1132" available="true">
+				<name>������ Dress 42 ������� (M085_Red)</name>
+				<price>199,00</price>
+				<stock_quantity>2</stock_quantity>
+				<price_old>279,00</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>2493</categoryId>
+				<picture>http://mtpgroup.hol.es/gallery/3ca61be3-22a9-4984-a5ea-12c9c4c2a420.jpg</picture>
+				<picture>http://mtpgroup.hol.es/gallery/454fc682-6203-4d7e-8b68-21ba2b33584e.jpg</picture>
+				<picture>http://mtpgroup.hol.es/gallery/808df202-0b26-48a0-b719-0810ec757e7b.jpg</picture>
+				<param name="�������">M085_Red</param>
+				<vendor>Dress</vendor>
+				<param name="������">�������</param>
+				<param name="���">������</param>
+				<param name="����">�������</param>
+				<param name="���">��� ������</param>
+				<param name="����������">������-��������</param>
+				<param name="������">100% ���������</param>
+				<param name="������">42</param>
+				<param name="��������/������">����������� 100%</param>
+				<description>�� ������ 42 ����� ������� (�� ������): 92 ��</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

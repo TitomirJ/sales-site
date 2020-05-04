@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-09-26 10:04">
+	<shop>
+		<name>MTP</name>
+		<company>MTP</company>
+		<currencies>
+			<currency id="UAH" rate="1"/> 
+		</currencies>
+		<categories>
+			<category id="2519">Бытовая техника, интерьер</category>
+			<category id="2520" parentId="2519">Освещение интерьера</category>
+			<category id="2604" parentId="2520">Ночники</category>
+			<category id="2525">Смартфоны, ТВ и электроника</category>
+			<category id="2526" parentId="2525">Телефоны, MP3, GPS</category>
+			<category id="2673" parentId="2526">Наушники</category>
+			<category id="2527" parentId="2526">Аксессуары для мобильных телефонов и смартфонов</category>
+			<category id="2528" parentId="2527">Универсальные мобильные батареи</category>
+			<category id="2674" parentId="2527">Чехлы для мобильных телефонов</category>
+			<category id="2541">Товары для дома</category>
+			<category id="2542" parentId="2541">Домашний текстиль</category>
+			<category id="2543" parentId="2542">Постельное белье</category>
+			<category id="3">Все на пикник!</category>
+			<category id="29" parentId="3">Посуда для пикника</category>
+			<category id="2193" parentId="29">Миски</category>
+			<category id="4">Дом и сад</category>
+			<category id="36" parentId="4">Мебель</category>
+			<category id="166" parentId="36">Мебель, общее</category>
+			<category id="37" parentId="4">Посуда</category>
+			<category id="174" parentId="37">Кухонные принадлежности</category>
+			<category id="1035" parentId="174">Подставки для кухонных и столовых принадлежностей</category>
+			<category id="42" parentId="4">Текстиль</category>
+			<category id="232" parentId="42">Ковры и коврики</category>
+			<category id="1237" parentId="232">Ковры из натуральных материалов</category>
+			<category id="235" parentId="42">Текстиль для кухни</category>
+			<category id="1257" parentId="235">Скатерти, салфетки сервировочные</category>
+			<category id="43" parentId="4">Уход за домом</category>
+			<category id="239" parentId="43">Уборка</category>
+			<category id="1282" parentId="239">Перчатки хозяйственные</category>
+			<category id="9">Одежда, обувь, аксессуары</category>
+			<category id="77" parentId="9">Галантерея и аксессуары</category>
+			<category id="318" parentId="77">Галстуки и галстуки-бабочки</category>
+			<category id="327" parentId="77">Перчатки и варежки</category>
+			<category id="329" parentId="77">Ремни и пояса</category>
+			<category id="330" parentId="77">Солнцезащитные очки</category>
+			<category id="312" parentId="77">Аксессуары для волос</category>
+			<category id="1327" parentId="312">Резинки и банты для волос</category>
+			<category id="313" parentId="77">Бижутерия</category>
+			<category id="1329" parentId="313">Браслеты</category>
+			<category id="319" parentId="77">Головные уборы</category>
+			<category id="2609" parentId="319">Головные уборы  мужские</category>
+			<category id="1340" parentId="319">Банданы и баффы</category>
+			<category id="1341" parentId="319">Бейсболки и кепки</category>
+			<category id="1343" parentId="319">Головные уборы  женские</category>
+			<category id="1344" parentId="319">Повязки и теплые наушники</category>
+			<category id="1345" parentId="319">Шапки</category>
+			<category id="1346" parentId="319">Шляпы</category>
+			<category id="332" parentId="77">Сумки, чемоданы, портфели</category>
+			<category id="1349" parentId="332">Женские сумочки и клатчи</category>
+			<category id="1354" parentId="332">Сумки и портфели, общее</category>
+			<category id="337" parentId="77">Шарфы, платки, шали</category>
+			<category id="1355" parentId="337">Платки, шали, палантины</category>
+			<category id="1356" parentId="337">Шарфы</category>
+			<category id="1357" parentId="337">Шарфы, шали, общее</category>
+			<category id="80" parentId="9">Женская одежда</category>
+			<category id="356" parentId="80">Жилеты женские</category>
+			<category id="358" parentId="80">Корсеты и бюстье женские</category>
+			<category id="365" parentId="80">Пляжная одежда и парео</category>
+			<category id="371" parentId="80">Юбки женские</category>
+			<category id="2469" parentId="80">Женская спортивная одежда</category>
+			<category id="2626" parentId="2469">Женские спортивные топы</category>
+			<category id="2470" parentId="2469">Женские спортивные костюмы</category>
+			<category id="2471" parentId="2469">Женские спортивные кофты</category>
+			<category id="2503" parentId="80">Женские чулочно-носочные изделия</category>
+			<category id="2504" parentId="2503">Женские гетры</category>
+			<category id="2506" parentId="2503">Женские колготки</category>
+			<category id="350" parentId="80">Белье и купальники женские</category>
+			<category id="2549" parentId="350">Корректирующее белье</category>
+			<category id="2624" parentId="350">Парео</category>
+			<category id="1383" parentId="350">Бюстгальтеры</category>
+			<category id="1384" parentId="350">Бюстье, боди, комбидрессы</category>
+			<category id="1385" parentId="350">Женское белье и купальники, общее</category>
+			<category id="1387" parentId="350">Комплекты белья</category>
+			<category id="1388" parentId="350">Купальники женские</category>
+			<category id="1389" parentId="350">Носки, гольфы, гетры женские</category>
+			<category id="1390" parentId="350">Женские трусы</category>
+			<category id="351" parentId="80">Женские блузы и рубашки</category>
+			<category id="2516" parentId="351">Женские болеро</category>
+			<category id="2472" parentId="351">Женские блузы</category>
+			<category id="2474" parentId="351">Женские рубашки</category>
+			<category id="353" parentId="80">Женская верхняя одежда</category>
+			<category id="2630" parentId="353">Женские лыжные куртки</category>
+			<category id="2247" parentId="353">Женские жилеты</category>
+			<category id="2248" parentId="353">Женские накидки</category>
+			<category id="2252" parentId="353">Женские пончо</category>
+			<category id="2253" parentId="353">Женские тренчи</category>
+			<category id="2467" parentId="353">Женские утепленные брюки</category>
+			<category id="1391" parentId="353">Женские дубленки</category>
+			<category id="1395" parentId="353">Меховые жилеты женские</category>
+			<category id="1396" parentId="353">Женские пальто</category>
+			<category id="1397" parentId="353">Женские плащи</category>
+			<category id="1398" parentId="353">Пуховики женские</category>
+			<category id="1399" parentId="353">Женские шубы</category>
+			<category id="1394" parentId="353">Женские куртки</category>
+			<category id="2615" parentId="1394">Женская куртка</category>
+			<category id="2240" parentId="1394">Женские бомберы</category>
+			<category id="2241" parentId="1394">Женские ветровки</category>
+			<category id="2242" parentId="1394">Женские зимние куртки</category>
+			<category id="2243" parentId="1394">Женские кожаные куртки</category>
+			<category id="2244" parentId="1394">Женские парки</category>
+			<category id="2245" parentId="1394">Женские пуховики</category>
+			<category id="2510" parentId="1394">Женские демисезонные куртки</category>
+			<category id="357" parentId="80">Женские комбинезоны и полукомбинезоны</category>
+			<category id="2480" parentId="357">Женские комбинезоны</category>
+			<category id="2481" parentId="357">Женские полукомбинезоны</category>
+			<category id="360" parentId="80">Женские брюки, шорты и лосины</category>
+			<category id="2513" parentId="360">Женские брюки</category>
+			<category id="2475" parentId="360">Женские бриджи</category>
+			<category id="2476" parentId="360">Женские капри</category>
+			<category id="2477" parentId="360">Женские леггинсы</category>
+			<category id="2478" parentId="360">Женские лосины</category>
+			<category id="352" parentId="360">Женские бермуды</category>
+			<category id="354" parentId="360">Женские джинсы</category>
+			<category id="369" parentId="360">Женские шорты</category>
+			<category id="361" parentId="80">Женская ночная и домашняя одежда</category>
+			<category id="1400" parentId="361">Женские комплекты домашней одежды</category>
+			<category id="1402" parentId="361">Женские ночные рубашки</category>
+			<category id="1403" parentId="361">Женские пижамы</category>
+			<category id="1404" parentId="361">Женские халаты</category>
+			<category id="362" parentId="80">Одежда и белье для беременных и кормящих</category>
+			<category id="1406" parentId="362">Брюки, джинсы и лосины для беременных</category>
+			<category id="1413" parentId="362">Белье для беременных и кормящих мам</category>
+			<category id="363" parentId="80">Женские костюмы и жакеты</category>
+			<category id="2482" parentId="363">Женские костюмы</category>
+			<category id="2483" parentId="363">Женские блейзеры</category>
+			<category id="2484" parentId="363">Женские жакеты</category>
+			<category id="364" parentId="80">Женские платья, сарафаны и юбки</category>
+			<category id="2493" parentId="364">Женские платья</category>
+			<category id="2495" parentId="364">Женские сарафаны</category>
+			<category id="2496" parentId="364">Женские туники</category>
+			<category id="2497" parentId="364">Женские юбки</category>
+			<category id="366" parentId="80">Женские кофты, свитера и кардиганы</category>
+			<category id="2517" parentId="366">Женские жилеты</category>
+			<category id="2537" parentId="366">Женские пончо</category>
+			<category id="2539" parentId="366">Женские болеро</category>
+			<category id="2614" parentId="366">Женские кофты</category>
+			<category id="2485" parentId="366">Женские гольфы (водолазки)</category>
+			<category id="2486" parentId="366">Женские джемперы</category>
+			<category id="2487" parentId="366">Женские кардиганы</category>
+			<category id="2488" parentId="366">Женские пуловеры </category>
+			<category id="2489" parentId="366">Женские свитера</category>
+			<category id="2490" parentId="366">Женские свитшоты</category>
+			<category id="2491" parentId="366">Женские толстовки</category>
+			<category id="2492" parentId="366">Женские худи</category>
+			<category id="368" parentId="80">Женские футболки и майки</category>
+			<category id="2498" parentId="368">Женские майки</category>
+			<category id="2500" parentId="368">Женские топы</category>
+			<category id="2501" parentId="368">Женские футболки</category>
+			<category id="2502" parentId="368">Женские футболки с длинными рукавами</category>
+			<category id="85" parentId="9">Спортивная одежда и обувь</category>
+			<category id="414" parentId="85">Спортивные костюмы</category>
+			<category id="419" parentId="85">Спортивные шорты</category>
+			<category id="412" parentId="85">Кроссовки, кеды повседневные</category>
+			<category id="2194" parentId="412">Кроссовки мужские</category>
+			<category id="2195" parentId="412">Кроссовки женские</category>
+			<category id="412" parentId="85">Кроссовки, кеды повседневные</category>
+			<category id="2217" parentId="412">Кеды женские</category>
+			<category id="2218" parentId="412">Сникеры женские</category>
+			<category id="2224" parentId="412">Кеды мужские</category>
+			<category id="2544" parentId="9">Сумки и аксессуары</category>
+			<category id="2545" parentId="2544">Сумки и рюкзаки</category>
+			<category id="2546" parentId="2545">Сумки</category>
+			<category id="2547" parentId="2544">Головные уборы</category>
+			<category id="2548" parentId="2547">Шарфы и платки</category>
+			<category id="2550" parentId="2547">Головные уборы</category>
+			<category id="79" parentId="9">Обувь</category>
+			<category id="2198" parentId="79">Обувь для мальчиков</category>
+			<category id="2669" parentId="2198">Ботинки для мальчиков </category>
+			<category id="2199" parentId="2198">Ботинки, сапоги для мальчиков</category>
+			<category id="2200" parentId="2198">Мокасины, слипоны для мальчиков</category>
+			<category id="2202" parentId="2198">Сандали, тапочки для мальчиков</category>
+			<category id="2203" parentId="2198">Туфли для мальчиков</category>
+			<category id="2187" parentId="2198">Резиновые сапоги для мальчиков</category>
+			<category id="2189" parentId="2198">Кроссовки для мальчиков</category>
+			<category id="2234" parentId="2198">Кеды для мальчиков</category>
+			<category id="2236" parentId="2198">Шлепанцы для мальчиков</category>
+			<category id="2238" parentId="2198">Сабо для мальчиков</category>
+			<category id="2205" parentId="79">Обувь для девочек</category>
+			<category id="2617" parentId="2205">Сандали для девочек</category>
+			<category id="2206" parentId="2205">Ботинки для девочек</category>
+			<category id="2207" parentId="2205">Мокасины для девочек</category>
+			<category id="2208" parentId="2205">Туфли для девочек</category>
+			<category id="2211" parentId="2205">Босоножки для девочек</category>
+			<category id="2186" parentId="2205">Резиновые сапоги для девочек</category>
+			<category id="2188" parentId="2205">Кроссовки для девочек</category>
+			<category id="2228" parentId="2205">Сапоги для девочек</category>
+			<category id="2229" parentId="2205">Угги для девочек</category>
+			<category id="2230" parentId="2205">Слипоны для девочек</category>
+			<category id="2232" parentId="2205">Балетки для девочек</category>
+			<category id="2233" parentId="2205">Кеды для девочек</category>
+			<category id="2235" parentId="2205">Шлепанцы для девочек</category>
+			<category id="2237" parentId="2205">Сабо для девочек</category>
+			<category id="346" parentId="79">Аксессуары для обуви</category>
+			<category id="1359" parentId="346">Стельки</category>
+			<category id="1360" parentId="346">Шнурки для обуви</category>
+			<category id="347" parentId="79">Обувь женская</category>
+			<category id="2606" parentId="347">Лоферы женские</category>
+			<category id="2607" parentId="347">Оксфорды женские</category>
+			<category id="2621" parentId="347">Женские сникерсы</category>
+			<category id="2628" parentId="347">Женские мунбуты</category>
+			<category id="2629" parentId="347">Женские кроссовки</category>
+			<category id="2679" parentId="347">Тапочки женские</category>
+			<category id="1361" parentId="347">Балетки женские</category>
+			<category id="1362" parentId="347">Босоножки женские</category>
+			<category id="1363" parentId="347">Ботильоны женские</category>
+			<category id="1365" parentId="347">Женская обувь, общее</category>
+			<category id="1366" parentId="347">Мокасины женские</category>
+			<category id="1368" parentId="347">Резиновые сапоги женские</category>
+			<category id="1369" parentId="347">Сандалии женские</category>
+			<category id="1370" parentId="347">Сапоги женские</category>
+			<category id="1371" parentId="347">Туфли женские</category>
+			<category id="2212" parentId="347">Сабо женские</category>
+			<category id="2213" parentId="347">Ботфорты женские</category>
+			<category id="2214" parentId="347">Дутики женские</category>
+			<category id="2215" parentId="347">Угги женские</category>
+			<category id="2216" parentId="347">Ботинки женские</category>
+			<category id="2220" parentId="347">Слипоны женские</category>
+			<category id="2221" parentId="347">Эспадрильи женские</category>
+			<category id="2222" parentId="347">Шлепанцы женские</category>
+			<category id="2223" parentId="347">Вьетнамки, сланцы женские</category>
+			<category id="348" parentId="79">Обувь мужская</category>
+			<category id="2514" parentId="348">Мужские вьетнамки, сланцы</category>
+			<category id="2670" parentId="348">Оксофорды мужские</category>
+			<category id="2671" parentId="348">Дерби мужские</category>
+			<category id="1373" parentId="348">Ботинки мужские</category>
+			<category id="1375" parentId="348">Мокасины мужские</category>
+			<category id="1378" parentId="348">Шлепанцы мужские</category>
+			<category id="1379" parentId="348">Сапоги мужские</category>
+			<category id="1381" parentId="348">Туфли мужские</category>
+			<category id="2225" parentId="348">Сандали мужские</category>
+			<category id="2226" parentId="348">Слипоны мужские</category>
+			<category id="2227" parentId="348">Эспадрильи мужские</category>
+			<category id="81" parentId="9">Мужская одежда</category>
+			<category id="2421" parentId="81">Мужская спортивная одежда</category>
+			<category id="2422" parentId="2421">Мужские спортивные штаны</category>
+			<category id="2424" parentId="2421">Мужские спортивные кофты</category>
+			<category id="2436" parentId="81">Мужские чулочно-носочные изделия</category>
+			<category id="2438" parentId="2436">Мужские носки</category>
+			<category id="2440" parentId="81">Мужские брюки</category>
+			<category id="2441" parentId="2440">Мужские брюки</category>
+			<category id="372" parentId="81">Мужские джинсы, брюки</category>
+			<category id="374" parentId="372">Мужские джинсы</category>
+			<category id="373" parentId="81">Мужская верхняя одежда</category>
+			<category id="2462" parentId="373">Мужские жилеты</category>
+			<category id="1424" parentId="373">Мужские пальто</category>
+			<category id="1422" parentId="373">Мужские куртки</category>
+			<category id="2256" parentId="1422">Мужские демисезонные куртки</category>
+			<category id="2257" parentId="1422">Мужские зимние куртки</category>
+			<category id="378" parentId="81">Мужское белье и плавки купальные</category>
+			<category id="1433" parentId="378">Трусы мужские</category>
+			<category id="380" parentId="81">Мужские костюмы и пиджаки</category>
+			<category id="2457" parentId="380">Мужские костюмы</category>
+			<category id="2458" parentId="380">Мужские жилеты</category>
+			<category id="2459" parentId="380">Мужские пиджаки</category>
+			<category id="381" parentId="81">Мужские рубашки, футболки и майки</category>
+			<category id="2430" parentId="381">Мужские вышиванки</category>
+			<category id="2431" parentId="381">Мужские поло</category>
+			<category id="2432" parentId="381">Мужские рубашки</category>
+			<category id="2433" parentId="381">Мужские тенниски</category>
+			<category id="2434" parentId="381">Мужские майки</category>
+			<category id="2435" parentId="381">Мужские лонгсливы</category>
+			<category id="384" parentId="381">Мужские футболки</category>
+			<category id="382" parentId="81">Мужские кофты, свитера и кардиганы</category>
+			<category id="2446" parentId="382">Мужские гольфы (водолазки)</category>
+			<category id="2447" parentId="382">Мужские джемперы</category>
+			<category id="2448" parentId="382">Мужские кардиганы</category>
+			<category id="2449" parentId="382">Мужские кофты</category>
+			<category id="2450" parentId="382">Мужские пуловеры</category>
+			<category id="2451" parentId="382">Мужские регланы</category>
+			<category id="2452" parentId="382">Мужские свитера</category>
+			<category id="2453" parentId="382">Мужские свитшоты</category>
+			<category id="2454" parentId="382">Мужские толстовки</category>
+			<category id="2455" parentId="382">Мужские худи</category>
+			<category id="385" parentId="81">Мужские шорты и плавки</category>
+			<category id="2511" parentId="385">Мужские шорты</category>
+			<category id="2512" parentId="385">Мужские капри</category>
+			<category id="82" parentId="9">Одежда, обувь, аксессуары детские</category>
+			<category id="387" parentId="82">Аксессуары детские</category>
+			<category id="2518" parentId="387">Носки и гольфы</category>
+			<category id="2608" parentId="387">Шапки и шарфы для девочек</category>
+			<category id="2677" parentId="387">Детские носки</category>
+			<category id="2678" parentId="387">Детские колготки</category>
+			<category id="1438" parentId="387">Аксессуары детские, общее</category>
+			<category id="1439" parentId="387">Галстуки и шейные аксессуары детские</category>
+			<category id="1440" parentId="387">Головные уборы детские</category>
+			<category id="1443" parentId="387">Комплекты шарф-шапка-перчатки детские</category>
+			<category id="1445" parentId="387">Перчатки, варежки детские</category>
+			<category id="1446" parentId="387">Ремни и подтяжки детские</category>
+			<category id="1448" parentId="387">Сумки и рюкзаки детские</category>
+			<category id="1449" parentId="387">Шапки и шарфы для мальчиков</category>
+			<category id="388" parentId="82">Белье и купальники детские</category>
+			<category id="1452" parentId="388">Колготы детские</category>
+			<category id="1453" parentId="388">Комплекты детского нижнего белья</category>
+			<category id="1455" parentId="388">Носки и гольфы детские</category>
+			<category id="1457" parentId="388">Трусики детские</category>
+			<category id="391" parentId="82">Обувь детская и подростковая</category>
+			<category id="1463" parentId="391">Обувь детская и подростковая, общее</category>
+			<category id="392" parentId="82">Одежда для девочек</category>
+			<category id="2620" parentId="392">Комплекты для девочек</category>
+			<category id="2623" parentId="392">Носки для девочек</category>
+			<category id="2625" parentId="392">Трусики для девочек</category>
+			<category id="1468" parentId="392">Брюки и джинсы для девочек</category>
+			<category id="1469" parentId="392">Жилеты для девочек</category>
+			<category id="1470" parentId="392">Костюмы для девочек</category>
+			<category id="1475" parentId="392">Пиджаки и болеро для девочек</category>
+			<category id="1479" parentId="392">Юбки детские</category>
+			<category id="2535" parentId="392">Джинсовая одежда для девочек</category>
+			<category id="2536" parentId="2535">Джинсы</category>
+			<category id="2265" parentId="392">Верхняя одежда для девочек</category>
+			<category id="2267" parentId="2265">Ветровки для девочек</category>
+			<category id="2268" parentId="2265">Дождевики для девочек</category>
+			<category id="2270" parentId="2265">Жилеты для девочек</category>
+			<category id="2271" parentId="2265">Куртки для девочек</category>
+			<category id="2272" parentId="2265">Пальто для девочек</category>
+			<category id="2274" parentId="2265">Плащи для девочек</category>
+			<category id="2276" parentId="2265">Пуховики для девочек</category>
+			<category id="2277" parentId="2265">Шубы для девочек</category>
+			<category id="2278" parentId="392">Ночная и домашняя одежда для девочек</category>
+			<category id="2279" parentId="2278">Ночные рубашки для девочек</category>
+			<category id="2280" parentId="2278">Пижамы для девочек</category>
+			<category id="2287" parentId="392">Комбинезоны и полукомбинезоны для девочек</category>
+			<category id="2288" parentId="2287">Комбинезоны для девочек</category>
+			<category id="2289" parentId="2287">Полукомбинезоны для девочек</category>
+			<category id="2290" parentId="392">Купальники и пляжная одежда для девочек</category>
+			<category id="2291" parentId="2290">Купальники для девочек</category>
+			<category id="2292" parentId="2290">Плавки для девочек</category>
+			<category id="2293" parentId="2290">Парео для девочек</category>
+			<category id="2294" parentId="392">Костюмы и жакеты для девочек</category>
+			<category id="2297" parentId="2294">Костюмы для девочек</category>
+			<category id="2313" parentId="392">Спортивная одежда для девочек</category>
+			<category id="2314" parentId="2313">Спортивные брюки для девочек</category>
+			<category id="2315" parentId="2313">Спортивные костюмы для девочек</category>
+			<category id="1467" parentId="392">Блузы и туники для девочек</category>
+			<category id="2282" parentId="1467">Блузы для девочек</category>
+			<category id="2285" parentId="1467">Рубашки для девочек</category>
+			<category id="2286" parentId="1467">Туники для девочек</category>
+			<category id="1471" parentId="392">Кофты и свитера для девочек</category>
+			<category id="2529" parentId="1471">Болеро для девочек</category>
+			<category id="2538" parentId="1471">Водолазки для девочек</category>
+			<category id="2316" parentId="1471">Гольфы для девочек</category>
+			<category id="2317" parentId="1471">Пуловеры для девочек</category>
+			<category id="2318" parentId="1471">Кардиганы для девочек</category>
+			<category id="2319" parentId="1471">Кофты для девочек</category>
+			<category id="2320" parentId="1471">Джемперы для девочек</category>
+			<category id="2321" parentId="1471">Свитера для девочек</category>
+			<category id="2322" parentId="1471">Свитшоты для девочек</category>
+			<category id="2323" parentId="1471">Толстовки для девочек</category>
+			<category id="2324" parentId="1471">Худи для девочек</category>
+			<category id="1476" parentId="392">Платья, сарафаны и юбки для девочек</category>
+			<category id="2298" parentId="1476">Платья для девочек</category>
+			<category id="2299" parentId="1476">Сарафаны для девочек</category>
+			<category id="2300" parentId="1476">Юбки для девочек</category>
+			<category id="1477" parentId="392">Футболки и майки для девочек</category>
+			<category id="2301" parentId="1477">Майки для девочек</category>
+			<category id="2302" parentId="1477">Футболки для девочек</category>
+			<category id="2303" parentId="1477">Топы для девочек</category>
+			<category id="2304" parentId="1477">Футболки с длинными рукавами для девочек</category>
+			<category id="1478" parentId="392">Брюки, шорты, лосины для девочек</category>
+			<category id="2622" parentId="1478">Штаны для девочек</category>
+			<category id="2305" parentId="1478">Шорты для девочек</category>
+			<category id="2307" parentId="1478">Бриджи для девочек</category>
+			<category id="2308" parentId="1478">Капри для девочек</category>
+			<category id="2309" parentId="1478">Леггинсы для девочек</category>
+			<category id="2311" parentId="1478">Брюки для девочек</category>
+			<category id="2312" parentId="1478">Багги для девочек</category>
+			<category id="1473" parentId="1478">Лосины для девочек</category>
+			<category id="393" parentId="82">Одежда для мальчиков</category>
+			<category id="2369" parentId="393">Плавки для мальчиков</category>
+			<category id="1484" parentId="393">Легкие комбинезоны для мальчиков</category>
+			<category id="2325" parentId="393">Верхняя одежда для мальчиков</category>
+			<category id="2326" parentId="2325">Бомберы для мальчиков</category>
+			<category id="2327" parentId="2325">Ветровки для мальчиков</category>
+			<category id="2329" parentId="2325">Комплекты верхней одежды для мальчиков</category>
+			<category id="2330" parentId="2325">Куртки для мальчиков</category>
+			<category id="2331" parentId="2325">Пальто для мальчиков</category>
+			<category id="2332" parentId="2325">Парки для мальчиков</category>
+			<category id="2335" parentId="393">Ночная и домашняя одежда для мальчиков</category>
+			<category id="2336" parentId="2335">Пижамы для мальчиков</category>
+			<category id="2344" parentId="393">Комбинезоны и полукомбинезоны для мальчиков</category>
+			<category id="2345" parentId="2344">Комбинезоны для мальчиков</category>
+			<category id="2356" parentId="393">Спортивная одежда для мальчиков</category>
+			<category id="2357" parentId="2356">Спортивные кофты для мальчиков</category>
+			<category id="2358" parentId="2356">Спортивные брюки для мальчиков</category>
+			<category id="2359" parentId="2356">Спортивные костюмы для мальчиков</category>
+			<category id="1483" parentId="393">Кофты, свитера, кардиганы для мальчиков</category>
+			<category id="2675" parentId="1483">Водолазки для мальчиков</category>
+			<category id="2360" parentId="1483">Гольфы для мальчиков</category>
+			<category id="2361" parentId="1483">Джемперы для мальчиков</category>
+			<category id="2362" parentId="1483">Кардиганы для мальчиков</category>
+			<category id="2363" parentId="1483">Кофты для мальчиков</category>
+			<category id="2365" parentId="1483">Свитера для мальчиков</category>
+			<category id="2366" parentId="1483">Свитшоты для мальчиков</category>
+			<category id="2367" parentId="1483">Толстовки для мальчиков</category>
+			<category id="1486" parentId="393">Пиджаки, костюмы и комплекты для мальчиков</category>
+			<category id="2354" parentId="1486">Пиджаки для мальчиков</category>
+			<category id="2355" parentId="1486">Комплекты для мальчиков</category>
+			<category id="1481" parentId="1486">Жилеты для мальчиков</category>
+			<category id="1482" parentId="1486">Костюмы для мальчиков</category>
+			<category id="1487" parentId="393">Рубашки и футболки для мальчиков</category>
+			<category id="2339" parentId="1487">Поло для мальчиков</category>
+			<category id="2340" parentId="1487">Рубашки для мальчиков</category>
+			<category id="2341" parentId="1487">Тенниски для мальчиков</category>
+			<category id="2342" parentId="1487">Футболки с длинным рукавом для мальчиков</category>
+			<category id="2343" parentId="1487">Майки для мальчиков</category>
+			<category id="1488" parentId="1487">Футболки для мальчиков</category>
+			<category id="1489" parentId="393">Брюки и шорты для мальчиков</category>
+			<category id="2347" parentId="1489">Багги для мальчиков</category>
+			<category id="2349" parentId="1489">Бриджи для мальчиков</category>
+			<category id="2350" parentId="1489">Брюки для мальчиков</category>
+			<category id="2352" parentId="1489">Шорты для мальчиков</category>
+			<category id="1480" parentId="1489">Джинсы для мальчиков</category>
+			<category id="394" parentId="82">Одежда для малышей</category>
+			<category id="1491" parentId="394">Головные уборы для новорожденных</category>
+			<category id="1501" parentId="394">Одежда для новорожденных, общее</category>
+			<category id="2533" parentId="394">Все для крещения</category>
+			<category id="2534" parentId="2533">Текстиль для крещения</category>
+			<category id="2370" parentId="394">Верхняя одежда для малышей</category>
+			<category id="2375" parentId="2370">Плащи для малышей</category>
+			<category id="1498" parentId="2370">Куртки для малышей</category>
+			<category id="2398" parentId="394">Комбинезоны и полукомбинезоны для малышей</category>
+			<category id="2399" parentId="2398">Комбинезоны для малышей</category>
+			<category id="2400" parentId="2398">Полукомбинезоны для малышей</category>
+			<category id="2414" parentId="394">Пляжная одежда для малышей</category>
+			<category id="2415" parentId="2414">Купальники для малышей</category>
+			<category id="2416" parentId="2414">Плавки для малышей</category>
+			<category id="2417" parentId="394">Спортивная одежда для малышей</category>
+			<category id="2418" parentId="2417">Спортивные брюки для малышей</category>
+			<category id="2419" parentId="2417">Спортивные костюмы для малышей</category>
+			<category id="1494" parentId="394">Костюмы и комплекты для малышей</category>
+			<category id="2412" parentId="1494">Комплекты для малышей</category>
+			<category id="2413" parentId="1494">Костюмы для малышей</category>
+			<category id="1495" parentId="394">Кофты, джемперы, пуловеры для малышей</category>
+			<category id="2401" parentId="1495">Болеро для малышей</category>
+			<category id="2402" parentId="1495">Водолазки для малышей</category>
+			<category id="2403" parentId="1495">Джемперы для малышей</category>
+			<category id="2406" parentId="1495">Кардиганы для малышей</category>
+			<category id="2407" parentId="1495">Кофты для малышей</category>
+			<category id="2410" parentId="1495">Свитера для малышей</category>
+			<category id="1503" parentId="394">Платья и юбки для малышей</category>
+			<category id="2385" parentId="1503">Платья для малышей</category>
+			<category id="2387" parentId="1503">Туники для малышей</category>
+			<category id="2388" parentId="1503">Юбки для малышей</category>
+			<category id="1506" parentId="394">Футболки и рубашки для малышей</category>
+			<category id="2390" parentId="1506">Блузы для малышей</category>
+			<category id="2392" parentId="1506">Майки для малышей</category>
+			<category id="2393" parentId="1506">Поло для малышей</category>
+			<category id="2394" parentId="1506">Рубашки для малышей</category>
+			<category id="2395" parentId="1506">Футболки для малышей</category>
+			<category id="2396" parentId="1506">Футболки с длинными рукавами для малышей</category>
+			<category id="1490" parentId="394">Боди и человечки для малышей</category>
+			<category id="2530" parentId="1490">Боди для малышей</category>
+			<category id="2531" parentId="1490">Человечек</category>
+			<category id="2551" parentId="1490">Ползунки</category>
+			<category id="1490" parentId="394">Боди и человечки для малышей</category>
+			<category id="1504" parentId="394">Штанишки и шортики для малышей</category>
+			<category id="2380" parentId="1504">Брюки для малышей</category>
+			<category id="2381" parentId="1504">Джинсы для малышей</category>
+			<category id="2382" parentId="1504">Лосины для малышей</category>
+			<category id="2383" parentId="1504">Ползунки для малышей</category>
+			<category id="2384" parentId="1504">Шорты для малышей</category>
+			<category id="1504" parentId="394">Штанишки и шортики для малышей</category>
+			<category id="395" parentId="82">Одежда для сна и дома детская</category>
+			<category id="1509" parentId="395">Домашняя одежда детская</category>
+			<category id="1511" parentId="395">Пижамы детские</category>
+			<category id="396" parentId="82">Спортивная одежда детская</category>
+			<category id="1515" parentId="396">Спортивные костюмы детские</category>
+			<category id="1519" parentId="396">Спортивные штаны детские</category>
+			<category id="11">Техника и электроника</category>
+			<category id="106" parentId="11">Аудиотехника и аксессуары</category>
+			<category id="605" parentId="106">Наушники и гарнитуры</category>
+			<category id="107" parentId="11">Бытовая техника</category>
+			<category id="614" parentId="107">Бытовая техника для личного пользования</category>
+			<category id="2672" parentId="614">Термометр</category>
+			<category id="1926" parentId="614">Зубные электрощетки, ирригаторы</category>
+			<category id="1930" parentId="614">Приборы для укладки волос</category>
+			<category id="1932" parentId="614">Триммеры и машинки для стрижки волос</category>
+			<category id="616" parentId="107">Климатическая техника</category>
+			<category id="1941" parentId="616">Кондиционеры</category>
+			<category id="618" parentId="107">Мелкая бытовая техника для кухни</category>
+			<category id="1962" parentId="618">Блендеры</category>
+			<category id="109" parentId="11">Компьютерная техника и по</category>
+			<category id="627" parentId="109">Компьютерные аксессуары</category>
+			<category id="2071" parentId="627">Подставки для ноутбуков</category>
+			<category id="2073" parentId="627">Сумки и рюкзаки для ноутбуков</category>
+			<category id="12">Товары для детей</category>
+			<category id="115" parentId="12">Детский текстиль</category>
+			<category id="708" parentId="115">Детские одеяла</category>
+			<category id="713" parentId="115">Детское постельное белье</category>
+			<category id="118" parentId="12">Игрушки</category>
+			<category id="2515" parentId="118">Спиннеры</category>
+			<category id="749" parentId="118">Игрушечное оружие</category>
+			<category id="2601" parentId="12">Детские игрушки</category>
+			<category id="2602" parentId="2601">Развитие и творчество</category>
+			<category id="2603" parentId="2602">Различные наборы для детского творчества</category>
+			<category id="116" parentId="12">Детский транспорт и автокресла</category>
+			<category id="716" parentId="116">Автокресла детские</category>
+			<category id="2676" parentId="716">Аксесуари до колясок і автокрісел</category>
+			<category id="10">Спорт и отдых</category>
+			<category id="91" parentId="10">Зимние виды спорта</category>
+			<category id="443" parentId="91">Лыжный спорт и сноубординг</category>
+			<category id="1601" parentId="443">Балаклавы, подшлемники, маски</category>
+		</categories>
+		<offers>
+			<offer id="1132" available="true">
+				<name>Платье Dress 42 красный (M085_Red)</name>
+				<price>199,00</price>
+				<stock_quantity>2</stock_quantity>
+				<price_old>279,00</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>2493</categoryId>
+				<picture>http://mtpgroup.hol.es/gallery/3ca61be3-22a9-4984-a5ea-12c9c4c2a420.jpg</picture>
+				<picture>http://mtpgroup.hol.es/gallery/454fc682-6203-4d7e-8b68-21ba2b33584e.jpg</picture>
+				<picture>http://mtpgroup.hol.es/gallery/808df202-0b26-48a0-b719-0810ec757e7b.jpg</picture>
+				<param name="Артикул">M085_Red</param>
+				<vendor>Dress</vendor>
+				<param name="Страна">Украина</param>
+				<param name="Тип">Платье</param>
+				<param name="Цвет">красный</param>
+				<param name="Пол">Для женщин</param>
+				<param name="Сезонность">Осенне-весенняя</param>
+				<param name="Состав">100% полиэстер</param>
+				<param name="Размер">42</param>
+				<param name="Доставка/Оплата">Передоплата 100%</param>
+				<description>на размер 42 длина изделия (по спинке): 92 см</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

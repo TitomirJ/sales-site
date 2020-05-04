@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-16 11:43">
+  <shop>
+    <name>Profi Rider</name>
+    <company>Profi Rider</company>
+    <url>https://profirider.com/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+      <category id="83914121" parentId="71777018">Ремені та пояси</category>
+      <category id="83913495" parentId="16661508">Спортивні костюми</category>
+      <category id="16715121" parentId="16661508">Чоловічі куртки</category>
+      <category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+      <category id="53761682" parentId="6257850">Велосвітло</category>
+      <category id="24353170">Трекингове взуття</category>
+      <category id="19959920">Велосипеди</category>
+      <category id="18890955" parentId="14407150">Термобілизна</category>
+      <category id="17343107" parentId="17305611">Зимові штани</category>
+      <category id="17343103" parentId="16661508">Зимові штани</category>
+      <category id="17305720" parentId="17305611">Шапки</category>
+      <category id="17305707" parentId="17305611">Куртки</category>
+      <category id="17305611">Жіночий одяг</category>
+      <category id="16661555" parentId="16661508">Шапки</category>
+      <category id="16661508">Чоловічий одяг</category>
+      <category id="16617831" parentId="4122200">Спальні мішки</category>
+      <category id="16617810" parentId="4122200">Трекінгові палиці</category>
+      <category id="14693395" parentId="7196249">Чоловічі кеди</category>
+      <category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+      <category id="14693393" parentId="7196249">Чоловічі черевики</category>
+      <category id="14693063" parentId="7196244">Жіночі кросівки</category>
+      <category id="14693061" parentId="7196244">Жіночі черевики</category>
+      <category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+      <category id="14693035" parentId="14407150">Універсальні головні убори</category>
+      <category id="14408905" parentId="14407150">Шоломи</category>
+      <category id="14407588" parentId="14407150">Маски</category>
+      <category id="7196249">Чоловіче взуття</category>
+      <category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+      <category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+      <category id="6257850">Велоаксесуари</category>
+      <category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+      <category id="4122200">Рюкзаки і туризм</category>
+      <category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+      <category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+      <category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+      <category id="71777030" parentId="71777028">Рюкзаки</category>
+      <category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+      <category id="71777018">Одяг, взуття та аксесуари</category>
+      <category id="69024725" parentId="46709597">Фітнес-браслети</category>
+      <category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+      <category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+      <category id="52859360">Басейн і аквафітнес</category>
+      <category id="46709702" parentId="46709597">Наручні годинники</category>
+      <category id="46709597">Наручні годинники</category>
+      <category id="45139423" parentId="4122200">Намети і аксесуари</category>
+      <category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+      <category id="36278188" parentId="36275949">Маски</category>
+      <category id="36276195" parentId="36275949">Шоломи</category>
+      <category id="36275949">Уцінка</category>
+      <category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+      <category id="29447009" parentId="6257850">Велоінструменти</category>
+      <category id="29447008" parentId="6257850">Насоси</category>
+      <category id="29447007" parentId="6257850">Велодзвінки</category>
+      <category id="28200372" parentId="7196244">Жіночі кеди</category>
+      <category id="28164081" parentId="7196244">Жіночі сліпони</category>
+      <category id="27554175" parentId="14407150">Сноуборди</category>
+      <category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+      <category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+      <category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+      <category id="24572876" parentId="17305611">Спортивні штани</category>
+      <category id="24544864" parentId="16661508">Спортивні штани</category>
+      <category id="22851891" parentId="16661508">Футболки</category>
+      <category id="22028141" parentId="7196244">Жіночі балетки</category>
+      <category id="18029666">Sale -34% брендові куртки</category>
+      <category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+      <category id="14693027" parentId="14407150">Лижні палиці</category>
+      <category id="14407150">Зимовий спорт</category>
+      <category id="13502021" parentId="6257850">Велокомп'ютери</category>
+      <category id="7196244">Жіноче взуття</category>
+      <category id="6296093" parentId="6257850">Велосипедні сумки</category>
+      <category id="58981807">Ігрові види спорту</category>
+      <category id="66636889">Прогулянки й активний відпочинок</category>
+      <category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+      <category id="65449525" parentId="65446905">Спортивні окуляри</category>
+      <category id="65447344" parentId="65446905">Спортивні сумки</category>
+      <category id="65446905">Спортивні аксесуари</category>
+      <category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+      <category id="52863748" parentId="52859360">Шапочки для плавання</category>
+      <category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+      <category id="52863745" parentId="52859360">Окуляри для плавання</category>
+      <category id="46807613" parentId="36275949">Годинники</category>
+      <category id="49986322" parentId="36275949">Штани</category>
+      <category id="46711296" parentId="46709597">Смарт-годинники</category>
+      <category id="43651396" parentId="14407150">Рукавиці</category>
+      <category id="39308422" parentId="14407150">Черевики лижні</category>
+      <category id="36678205" parentId="36275949">Куртки</category>
+      <category id="36660532" parentId="36275949">Взуття</category>
+      <category id="27250069" parentId="14407150">Гірські лижі</category>
+      <category id="27094492" parentId="24353170">Жіночі кросівки</category>
+      <category id="22851904" parentId="17305611">Футболки</category>
+      <category id="24570219" parentId="17305611">Кофти</category>
+      <category id="24543418" parentId="16661508">Кофти</category>
+      <category id="22851901" parentId="16661508">Шорти</category>
+    </categories>
+  <offers>
+<offer available="true" id="1109110251">
+    <url>https://profirider.com/p1109110251-komplekt-termobilizni-viking.html</url>
+    <oldprice>1380</oldprice>
+    <price>690</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155236118_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236117_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236119_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236120_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236121_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236122_komplekt-termobilizni-viking.jpg</picture>
+    <picture>https://images.ua.prom.st/2155236123_komplekt-termobilizni-viking.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект термобілизни Viking Ryan Man L Black</name>
+    <vendor>Viking Ryan</vendor>
+    <vendorCode>Ryan_Man_L_Blk</vendorCode>
+    <description>Всесезонна термоактивна білизна створена з м’якої тканини, яка має унікальні антибактеріальні властивості. Її перевагою є чудова тривимірна еластичність, яка забезпечує щільне прилягання до фігури. Двостороння структура трикотажу з технологією плоских швів забезпечує відведення вологи, завдяки чому зберігається теплообмін і шкіра залишається сухою (внутрішній шар), а також захищає від натертостей (зовнішній шар). Білизна зроблена з тканини оптимальної товщини - пропускає повітря, виводить вологу і додає відчуття легкості.
+
+Особливості: 
+
+- Стильний дизайн
+
+- якісні матеріали
+
+- швидко сохне і відводить вологу і піт від тіла 
+
+- плоскі шви не передавлюють і не натирають 
+
+Обхват грудей: 106 см 
+
+Обхват талії: 92 см
+
+Обхват бедер: 107 см 
+
+Прання: До 40°C 
+
+Для погоди: Прохолодної
+
+Прасування: Не прасувати
+
+Активність: Середня
+</description>
+    <param name="Бренд" unit="">Viking Ryan</param>
+    <param name="Вид" unit="">Комплект</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту</param>
+    <param name="Сезон" unit="">Зимовий</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Розмір" unit="">L</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний</param>
+    <param name="Матеріал" unit="">Поліестер</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Країна виробництва" unit="">Китай</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+    <param name="Категорія" unit="">Чоловічі</param>
+    <param name="Обхват грудей" unit="">106 см</param>
+    <param name="Обхват талії" unit="">92 см</param>
+    <param name="Обхват бедер" unit="">107 см</param>
+    <param name="Прання" unit="">До 40°C</param>
+  </offer>
+  <offer available="true" id="1109110944">
+    <url>https://profirider.com/p1109110944-myach-futbolnij-tec.html</url>
+    <oldprice>171.43</oldprice>
+    <price>120</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>58981820</categoryId>
+    <picture>https://images.ua.prom.st/2155238602_myach-futbolnij-hi-tec.jpg</picture>
+    <picture>https://images.ua.prom.st/2155238603_myach-futbolnij-hi-tec.jpg</picture>
+    <picture>https://images.ua.prom.st/2155238604_myach-futbolnij-hi-tec.jpg</picture>
+    <picture>https://images.ua.prom.st/2155238605_myach-futbolnij-hi-tec.jpg</picture>
+    <picture>https://images.ua.prom.st/2155238606_myach-futbolnij-hi-tec.jpg</picture>
+    <picture>https://images.ua.prom.st/2155238607_myach-futbolnij-hi-tec.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>М’яч футбольний Hi-Tec 5</name>
+    <vendor>Hi-Tec</vendor>
+    <vendorCode>Hi_Tec_5</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Футбольний м’яч від Hi-Tec створений для тренувань. Традиційна конструкція футбольного м’яча включає в себе шестикутні зовнішні елементи, які складаються з надійного і довговічного матеріалу- термополіуретану. Дані частини скріплені машинним способом, що створює відмінні аеродинамічні характеристики м’яча.
+
+Всередині м’яч містить гумову камеру, яка гарантує пружність. Тренування або аматорські матчі з таким м’ячем будуть яскравими і результативними.
+
+Особливості:
+
+- Розмір №5;
+
+- Для тренувань і аматорських матчів.
+
+
+
+Виробник: Hi-Tec
+
+Розмір: 5
+
+Матеріал: Термополіуретан
+
+Тип: М’яч
+
+Вид: Футбольні
+
+Колір: Білий, чорний
+
+Країна виробництва: Китай
+
+Країна реєстрації бренду: Нідерланди
+</description>
+    <param name="Способ сшивки мяча">Автоматический</param>
+    <param name="Розмір" unit="">5</param>
+    <param name="Колір" unit="">Білий, чорний</param>
+    <param name="Матеріал " unit="">Термополіуретан</param>
+    <param name="Вид" unit="">Футбольні</param>
+  </offer>
+  <offer available="true" id="1109113904">
+    <url>https://profirider.com/p1109113904-shkarpetki-lizhni-relax.html</url>
+    <oldprice>620</oldprice>
+    <price>310</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155245101_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155245095_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155245097_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155245098_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155245100_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Alpine RS031B L Black-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS031B_L_Blk_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	 Висока еластичність;
+	Висота до коліна;
+	Стильний геометричний дизайн;
+	Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">43-46</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний з сірим</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109114869">
+    <url>https://profirider.com/p1109114869-shkarpetki-lizhni-relax.html</url>
+    <oldprice>620</oldprice>
+    <price>310</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155247556_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155247551_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155247554_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155247553_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155247555_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Alpine RS031B M Black-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS031B_M_Blk_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	Висока еластичність;
+	Висота до коліна;
+	Стильний геометричний дизайн;
+	Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">39-42</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний з сірим</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109116199">
+    <url>https://profirider.com/p1109116199-shkarpetki-lizhni-relax.html</url>
+    <oldprice>440</oldprice>
+    <price>220</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155248389_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155248386_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155248388_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155248390_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155248391_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Carve RS033B XL Black-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS033B_XL_Blk_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	- Висока еластичність;
+	- Висота до коліна;
+	- Стильний геометричний дизайн;
+	- Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">47-48</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний з сірим</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109117564">
+    <url>https://profirider.com/p1109117564-shkarpetki-lizhni-relax.html</url>
+    <oldprice>790</oldprice>
+    <price>395</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155249205_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249206_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249207_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249208_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249209_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Compress RS030 S Red-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS030_S_Red_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	Висока еластичність;
+	Висота до коліна;
+	Стильний геометричний дизайн;
+	Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">35-38</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Інші кольори: Чорно-сірий з червоним</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109118366">
+    <url>https://profirider.com/p1109118366-shkarpetki-lizhni-relax.html</url>
+    <oldprice>790</oldprice>
+    <price>395</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155249752_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249753_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249762_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249771_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155249786_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Compress RS030A L Green-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS030A_L_Grn_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	Висока еластичність;
+	Висота до коліна;
+	Стильний геометричний дизайн;
+	Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">43-46</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Чоловічі</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Інші кольори: Сірий з зеленим</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109119985">
+    <url>https://profirider.com/p1109119985-shkarpetki-lizhni-relax.html</url>
+    <oldprice>790</oldprice>
+    <price>395</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155250709_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155250708_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155250710_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155250711_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2155250712_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Compress RS030B M Blue-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS030B_M_Blu_Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі. Виготовлені з якісних та еластичних матеріалів, шкарпетки приємні на дотик та комфортні при тривалому носінні.
+
+Особливості: 
+
+
+	Висока еластичність;
+	Висота до коліна;
+	Стильний геометричний дизайн;
+	Якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">39-42</param>
+    <param name="Матеріал" unit="">Нейлон + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Інші кольори: Темно-сірий з блакитним</param>
+    <param name="Склад" unit="">37% Нейлон, 22% Акрил, 22% Вовна Мериноса, 17% Поліпропілен, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1109129421">
+    <url>https://profirider.com/p1109129421-lizhi-girski-elan.html</url>
+    <oldprice>10571.43</oldprice>
+    <price>7400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155258313_lizhi-girski-elan.jpg</picture>
+    <picture>https://images.ua.prom.st/2155258309_lizhi-girski-elan.jpg</picture>
+    <picture>https://images.ua.prom.st/2155258315_lizhi-girski-elan.jpg</picture>
+    <picture>https://images.ua.prom.st/2155258314_lizhi-girski-elan.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Elan Amphibio 180 Green-Black  Б/У</name>
+    <vendor>Elan</vendor>
+    <vendorCode>Amphibio_180_Grn_Blk</vendorCode>
+    <country_of_origin>Словенія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">180</param>
+    <param name="Габарити упаковки" unit="">182 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">3600</param>
+    <param name="Країна виробництва" unit="">Словенія</param>
+    <param name="Країна реєстрації бренду" unit="">Словенія</param>
+    <param name="Бренд" unit="">Elan</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 142-105-120 мм</param>
+    <param name="Радіус" unit="">18.1 м</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109131588">
+    <url>https://profirider.com/p1109131588-lizhi-girski-fisher.html</url>
+    <oldprice>8285.71</oldprice>
+    <price>5800</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155264913_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155264911_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155264917_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155264918_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155264920_lizhi-girski-fisher.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fisher Progresor 800 153 Black Б/У</name>
+    <vendor>Fisher</vendor>
+    <vendorCode>Progresor_800_153_Black</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">153</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з червоним</param>
+    <param name="Вага, г" unit="">2600</param>
+    <param name="Країна виробництва" unit="">Австрія</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Бренд" unit="">Fisher</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 122-74-103 мм</param>
+    <param name="Радіус" unit="">14 м</param>
+  </offer>
+  <offer available="true" id="1109132316">
+    <url>https://profirider.com/p1109132316-lizhi-girski-fisher.html</url>
+    <oldprice>8285.71</oldprice>
+    <price>5800</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155269141_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155269139_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155269143_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155269144_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155269145_lizhi-girski-fisher.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fisher Progresor 800 167 Black Б/У</name>
+    <vendor>Fisher</vendor>
+    <vendorCode>Progresor_800_167_Black</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">167</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з червоним</param>
+    <param name="Вага, г" unit="">2700</param>
+    <param name="Країна виробництва" unit="">Австрія</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Бренд" unit="">Fisher</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 122-74-103 мм</param>
+    <param name="Радіус" unit="">14 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109133213">
+    <url>https://profirider.com/p1109133213-lizhi-girski-fisher.html</url>
+    <oldprice>8285.71</oldprice>
+    <price>5800</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155270649_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155270647_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155270650_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155270652_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155270651_lizhi-girski-fisher.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fisher Progresor F17 150 Black Б/У</name>
+    <vendor>Fisher</vendor>
+    <vendorCode> Progresor_F17_150_Black</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">150</param>
+    <param name="Габарити упаковки" unit="">155 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна виробництва" unit="">Австрія</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Бренд" unit="">Fisher</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 117-67-99 мм</param>
+    <param name="Радіус" unit="">12 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109135055">
+    <url>https://profirider.com/p1109135055-lizhi-girski-fisher.html</url>
+    <oldprice>8285.71</oldprice>
+    <price>5800</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155273958_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155273957_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155273960_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155273962_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155273961_lizhi-girski-fisher.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fisher Progresor F17 160 Black Б/У</name>
+    <vendor>Fisher</vendor>
+    <vendorCode>Progresor_F17_160_Black</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">160</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">2700</param>
+    <param name="Країна виробництва" unit="">Австрія</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Бренд" unit="">Fisher</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-73-103 мм</param>
+    <param name="Радіус" unit="">16 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109136448">
+    <url>https://profirider.com/p1109136448-lizhi-girski-fisher.html</url>
+    <oldprice>8285.71</oldprice>
+    <price>5800</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155276053_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155276051_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155276056_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155276054_lizhi-girski-fisher.jpg</picture>
+    <picture>https://images.ua.prom.st/2155276055_lizhi-girski-fisher.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fisher Progresor F17 167 Black Б/У</name>
+    <vendor>Fisher</vendor>
+    <vendorCode>Progresor_F17_167_Black</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">167</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">2700</param>
+    <param name="Країна виробництва" unit="">Австрія</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Бренд" unit="">Fisher</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-73-103 мм</param>
+    <param name="Радіус" unit="">16 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109137189">
+    <url>https://profirider.com/p1109137189-lizhi-girski-rossignol.html</url>
+    <oldprice>8142.86</oldprice>
+    <price>5700</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155277648_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155277643_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155277647_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155277649_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155277646_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Pursuit RTL 135 White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>Pursuit_RTL_135_White</vendorCode>
+    <country_of_origin>Франція</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">135</param>
+    <param name="Габарити упаковки" unit="">140 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий</param>
+    <param name="Вага, г" unit="">2600</param>
+    <param name="Країна виробництва" unit="">Франція</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Бренд" unit="">Rossignol</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 125-70-105 мм</param>
+    <param name="Радіус" unit="">8 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109138657">
+    <url>https://profirider.com/p1109138657-lizhi-girski-rossignol.html</url>
+    <oldprice>8142.86</oldprice>
+    <price>5700</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155279791_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155279788_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155279794_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155279796_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2155279797_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Pursuit RTL 149 White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>Pursuit_RTL_149_White</vendorCode>
+    <country_of_origin>Франція</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">149</param>
+    <param name="Габарити упаковки" unit="">152 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий</param>
+    <param name="Вага, г" unit="">2700</param>
+    <param name="Країна виробництва" unit="">Франція</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Бренд" unit="">Rossignol</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 125-70-105 мм</param>
+    <param name="Радіус" unit="">10 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109140176">
+    <url>https://profirider.com/p1109140176-lizhi-girski-salomon.html</url>
+    <oldprice>9571.43</oldprice>
+    <price>6700</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155281501_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155281500_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155281514_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155281517_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155281513_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon S Max 155 Orange Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>S_Max_155_Orange</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">155</param>
+    <param name="Габарити упаковки" unit="">157 х 12 х 20 см</param>
+    <param name="Колір" unit="">Помаранчевий</param>
+    <param name="Вага, г" unit="">2400</param>
+    <param name="Країна виробництва" unit="">Болгарія</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Бренд" unit="">Salomon</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-105 мм</param>
+    <param name="Радіус" unit="">12 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109141403">
+    <url>https://profirider.com/p1109141403-lizhi-girski-salomon.html</url>
+    <oldprice>9571.43</oldprice>
+    <price>6700</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155283245_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155283244_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155283247_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155283248_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155283249_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon S Max 160 Orange Б/У S_Max_160_Orange</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>S_Max_160_Orange</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">160</param>
+    <param name="Габарити упаковки" unit="">162 х 12 х 20 см</param>
+    <param name="Колір" unit="">Помаранчевий</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна виробництва" unit="">Болгарія</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Бренд" unit="">Salomon</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-104 мм</param>
+    <param name="Радіус" unit="">13 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109141842">
+    <url>https://profirider.com/p1109141842-lizhi-girski-salomon.html</url>
+    <oldprice>9571.43</oldprice>
+    <price>6700</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2155284518_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155284517_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155284520_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155284521_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2155284522_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon S Max 170 Orange Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>S_Max_170_Orange</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе:
+
+
+	Налаштування кріплень;
+	парафінування. 
+
+
+ Всі роботи виконує кваліфікований майстер.
+
+Стан: Б/У
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">170</param>
+    <param name="Габарити упаковки" unit="">172 х 12 х 20 см</param>
+    <param name="Колір" unit="">Помаранчевий</param>
+    <param name="Вага, г" unit="">2600</param>
+    <param name="Країна виробництва" unit="">Болгарія</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Бренд" unit="">Salomon</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-102 мм</param>
+    <param name="Радіус" unit="">15 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1109154241">
+    <url>https://profirider.com/p1109154241-termoshtani-craft-zero.html</url>
+    <oldprice>700</oldprice>
+    <price>350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2155305867_termoshtani-craft-zero.jpg</picture>
+    <picture>https://images.ua.prom.st/2155305868_termoshtani-craft-zero.jpg</picture>
+    <picture>https://images.ua.prom.st/2155305869_termoshtani-craft-zero.jpg</picture>
+    <picture>https://images.ua.prom.st/2155305871_termoshtani-craft-zero.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Термоштани Craft Zero Knicker Men S Grey</name>
+    <vendor>CRAFT</vendor>
+    <vendorCode>197011_1950_S_Gry</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Всесезонна термоактивна білизна створено з м'якої тканини, яка має унікальні антибактеріальні властивості. Його перевагою є чудова тривимірна еластичність, яка забезпечує щільне прилягання до фігури. Двостороння структура трикотажу з технологією плоских швів забезпечує відведення вологи, завдяки чому зберігається теплообмін і шкіра залишається сухою (внутрішній шар), а також захищає від натертостей (зовнішній шар). Білизна зроблена з тканини оптимальної товщини - пропускає повітря, виводить вологу і додає відчуття легкості. Обтягуючий крій. Довжина 3/4.
+
+Особливості: 
+
+
+	Стильний дизайн;
+	Довжина 3/4; 
+	Швидко сохне;
+	Антибактеріальні властивості;
+	Протиалергічні властивості;
+	Стримує появу запахів.
+
+	 
+
+</description>
+    <param name="Вид" unit="">Штани</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту</param>
+    <param name="Сезон" unit="">Зимовий</param>
+    <param name="Декорування" unit="">Однотонні моделі</param>
+    <param name="Розмір" unit="">S: S</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Сірий: Сірий</param>
+    <param name="Матеріал" unit="">Поліестер</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Країна виробництва" unit="">Китай</param>
+    <param name="Країна реєстрації бренду" unit="">Швеція</param>
+    <param name="Обхват талії" unit="">76-80 см</param>
+    <param name="Обхват бедер" unit="">84-88 см</param>
+    <param name="Прання" unit="">До 40°C</param>
+    <param name="Щільність тканини" unit="">Середня</param>
+  </offer>
+  <offer available="true" id="1109156613">
+    <url>https://profirider.com/p1109156613-ryukzak-924-sports.html</url>
+    <oldprice>500</oldprice>
+    <price>350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155312091_ryukzak-924-sports.jpg</picture>
+    <picture>https://images.ua.prom.st/2155312097_ryukzak-924-sports.jpg</picture>
+    <picture>https://images.ua.prom.st/2155312102_ryukzak-924-sports.jpg</picture>
+    <picture>https://images.ua.prom.st/2155312104_ryukzak-924-sports.jpg</picture>
+    <picture>https://images.ua.prom.st/2155312108_ryukzak-924-sports.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак 924 Sports 20L Red</name>
+    <vendor>Sports</vendor>
+    <vendorCode>924_20L_Red</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Невеликий стильний рюкзак, достатньо місткий для спортивного одягу і взуття чи інших речей для прогулянок, навчання або тренувань. Вдалий вибір для міських умов.
+
+Особливості:
+
+
+	Компактний і стильний рюкзак;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">430 x 270 x 40 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">430 x 270 x 140 мм</param>
+    <param name="Колір" unit="">Red: Dark Red</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Об'єм" unit="">20 л</param>
+    <param name="Вага" unit="">0,33 кг</param>
+  </offer>
+  <offer available="true" id="1109161612">
+    <url>https://profirider.com/p1109161612-ryukzak-bag-street.html</url>
+    <oldprice>485.71</oldprice>
+    <price>340</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155329789_ryukzak-bag-street.jpg</picture>
+    <picture>https://images.ua.prom.st/2155329793_ryukzak-bag-street.jpg</picture>
+    <picture>https://images.ua.prom.st/2155329795_ryukzak-bag-street.jpg</picture>
+    <picture>https://images.ua.prom.st/2155329797_ryukzak-bag-street.jpg</picture>
+    <picture>https://images.ua.prom.st/2155329796_ryukzak-bag-street.jpg</picture>
+    <picture>https://images.ua.prom.st/2155329798_ryukzak-bag-street.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Bag Street 20L Black-Red</name>
+    <vendor>Bag Street</vendor>
+    <vendorCode>Bag_Street_20L_Blk_Red</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Невеликий стильний рюкзак, достатньо місткий для спортивного одягу і взуття чи інших речей для прогулянок, навчання або тренувань. Вдалий вибір для міських умов.
+
+Особливості:
+
+
+	Компактний і стильний рюкзак;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">400 x 350 x 40 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">400 x 350 x 200 мм</param>
+    <param name="Колір" unit="">Black: Black-Red</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,45 кг</param>
+    <param name="Об'єм" unit="">20 л</param>
+  </offer>
+  <offer available="true" id="1109161970">
+    <url>https://profirider.com/p1109161970-ryukzak-city-17l.html</url>
+    <oldprice>442.86</oldprice>
+    <price>310</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155332432_ryukzak-city-17l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155332422_ryukzak-city-17l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155332423_ryukzak-city-17l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155332425_ryukzak-city-17l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155332424_ryukzak-city-17l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак City 17L Gray</name>
+    <vendor>City</vendor>
+    <vendorCode>Cty_17L_Gry</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Невеликий стильний рюкзак, достатньо місткий для спортивного одягу і взуття чи інших речей для прогулянок, навчання або тренувань. Вдалий вибір для міських умов.
+
+Особливості:
+
+
+	Компактний і стильний рюкзак;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">430 x 270 x 40 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">430 x 270 x 140 мм</param>
+    <param name="Колір" unit="">Grey: Grey-Black</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Об'єм" unit="">17 л</param>
+    <param name="Вага" unit="">0,33 кг</param>
+  </offer>
+  <offer available="true" id="1109163515">
+    <url>https://profirider.com/p1109163515-ryukzak-golf-10l.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155336249_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155336250_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155336253_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155336251_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155336252_ryukzak-golf-10l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Golf 10L Dark Blue</name>
+    <vendor>Golf</vendor>
+    <vendorCode>Glf_10L_Dk_Blu</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Зручний міський рюкзак. Стильний дизайн. В численні кишені можна зручно скласти потрібні дрібниці. Регульовані лямки дозволяють носити рюкзак з максимальним комфортом. 
+
+Особливості: 
+
+
+	Регульована лямка,
+	стильний дизайн. 
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">35 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">35 х 32 х 13 см</param>
+    <param name="Колір" unit="">Blue: Dark Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,41 кг</param>
+    <param name="Об'єм" unit="">10 л</param>
+  </offer>
+  <offer available="true" id="1109170475">
+    <url>https://profirider.com/p1109170475-ryukzak-golf-10l.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155346860_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155346861_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155346862_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155346865_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155346870_ryukzak-golf-10l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Golf 10L Grey</name>
+    <vendor>Golf</vendor>
+    <vendorCode>Glf_10L_Gry</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Зручний міський рюкзак. Стильний дизайн. В численні кишені можна зручно скласти потрібні дрібниці. Регульовані лямки дозволяють носити рюкзак з максимальним комфортом. 
+
+Особливості: 
+
+
+	Регульована лямка,
+	стильний дизайн. 
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">35 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">35 х 32 х 13 см</param>
+    <param name="Колір" unit="">Grey: Grey</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,41 кг</param>
+    <param name="Об'єм" unit="">10 л</param>
+  </offer>
+  <offer available="true" id="1109171689">
+    <url>https://profirider.com/p1109171689-ryukzak-golf-10l.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155349051_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155349052_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155349050_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155349053_ryukzak-golf-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155349048_ryukzak-golf-10l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Golf 10L Khaki</name>
+    <vendor>Golf</vendor>
+    <vendorCode>Glf_10L_Khaki</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Зручний міський рюкзак. Стильний дизайн. В численні кишені можна зручно скласти потрібні дрібниці. Регульовані лямки дозволяють носити рюкзак з максимальним комфортом. 
+
+Особливості: 
+
+
+	Регульована лямка,
+	стильний дизайн. 
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">35 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">35 х 32 х 13 см</param>
+    <param name="Колір" unit="">Інші кольори: Khaki</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,41 кг</param>
+    <param name="Об'єм" unit="">10 л</param>
+  </offer>
+  <offer available="true" id="1109173447">
+    <url>https://profirider.com/p1109173447-ryukzak-haglofs-10l.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155356915_ryukzak-haglofs-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155356914_ryukzak-haglofs-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155356913_ryukzak-haglofs-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155356916_ryukzak-haglofs-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155356917_ryukzak-haglofs-10l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Haglofs 10L Blue</name>
+    <vendor>Haglofs</vendor>
+    <vendorCode>Hagl_10L_Blu</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Зручний міський рюкзак. Стильний дизайн. В численні кишені можна зручно скласти потрібні дрібниці. Регульовані лямки дозволяють носити рюкзак з максимальним комфортом. 
+
+Особливості: 
+
+
+	Регульована лямка,
+	стильний дизайн. 
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">35 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">35 х 32 х 13 см</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,41 кг</param>
+    <param name="Об'єм" unit="">10 л</param>
+  </offer>
+  <offer available="true" id="1109194333">
+    <url>https://profirider.com/p1109194333-ryukzak-paw-10l.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155395917_ryukzak-paw-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155395921_ryukzak-paw-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155395919_ryukzak-paw-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155395922_ryukzak-paw-10l.jpg</picture>
+    <picture>https://images.ua.prom.st/2155395923_ryukzak-paw-10l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Paw 10L Black</name>
+    <vendor>Haglofs</vendor>
+    <vendorCode>Paw_10L_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Зручний міський рюкзак. Стильний дизайн. В численні кишені можна зручно скласти потрібні дрібниці. Регульовані лямки дозволяють носити рюкзак з максимальним комфортом. 
+
+Особливості: 
+
+
+	Регульована лямка,
+	стильний дизайн. 
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">35 х 32 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">35 х 32 х 13 см</param>
+    <param name="Колір" unit="">Black: Black</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Вага" unit="">0,41 кг</param>
+    <param name="Об'єм" unit="">10 л</param>
+  </offer>
+  <offer available="true" id="1109196250">
+    <url>https://profirider.com/p1109196250-ryukzak-ronglida-sport.html</url>
+    <oldprice>414.28</oldprice>
+    <price>290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155398206_ryukzak-ronglida-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2155398199_ryukzak-ronglida-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2155398201_ryukzak-ronglida-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2155398205_ryukzak-ronglida-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2155398207_ryukzak-ronglida-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2155398208_ryukzak-ronglida-sport.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Ronglida Sport 20L Pink</name>
+    <vendor>Ronglida</vendor>
+    <vendorCode>Rong_Sport_20L_Pnk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Невеликий стильний рюкзак, достатньо місткий для спортивного одягу і взуття чи інших речей для прогулянок, навчання або тренувань. Вдалий вибір для міських умов.
+
+Особливості:
+
+
+	Компактний і стильний рюкзак;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">400 x 300 x 40 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">400 x 300 x 150 мм</param>
+    <param name="Колір" unit="">Інші кольори: Pink-Grey</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Об'єм" unit="">20 л</param>
+    <param name="Вага" unit="">0,45 кг</param>
+  </offer>
+  <offer available="true" id="1109199060">
+    <url>https://profirider.com/p1109199060-ryukzak-sanchez-casual.html</url>
+    <oldprice>271.43</oldprice>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2155400904_ryukzak-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155400903_ryukzak-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155400917_ryukzak-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155400913_ryukzak-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155400919_ryukzak-sanchez-casual.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак Sanchez Casual 12L Blue</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Cas_12L_Blu</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Невеликий стильний рюкзак, достатньо місткий для спортивного одягу і взуття чи інших речей для прогулянок, навчання або тренувань. Вдалий вибір для міських умов.
+
+Особливості:
+
+
+	Компактний і стильний рюкзак;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+	 
+
+</description>
+    <param name="Габарити упаковки" unit="">350 x 290 x 40 мм</param>
+    <param name="Об'єм рюкзака" unit="">до 35 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">350 x 290 x 160 мм</param>
+    <param name="Колір" unit="">Blue: Blue</param>
+    <param name="Призначення" unit="">Міські</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Об'єм" unit="">12 л</param>
+    <param name="Вага" unit="">0,25 кг</param>
+  </offer>
+  <offer available="true" id="1109209401">
+    <url>https://profirider.com/p1109209401-sumka-kaidaqi-black.html</url>
+    <oldprice>200</oldprice>
+    <price>140</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155411759_sumka-kaidaqi-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2155411758_sumka-kaidaqi-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2155411760_sumka-kaidaqi-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2155411762_sumka-kaidaqi-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2155411764_sumka-kaidaqi-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2155411763_sumka-kaidaqi-black.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Kaidaqi Black</name>
+    <vendor>Kaidaqi</vendor>
+    <vendorCode>Kaid_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для чоловіків</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">220 x 260 x 70 мм</param>
+    <param name="Колір" unit="">Чорний: Чорний</param>
+    <param name="Вага" unit="">270 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">5</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109213617">
+    <url>https://profirider.com/p1109213617-sumka-kaidaqi-brown.html</url>
+    <oldprice>200</oldprice>
+    <price>140</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155423891_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423888_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423889_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423890_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423893_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423892_sumka-kaidaqi-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155423894_sumka-kaidaqi-brown.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Kaidaqi Brown</name>
+    <vendor>Kaidaqi</vendor>
+    <vendorCode>Kaid_Brwn</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для чоловіків</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">270 x 260 x 70 мм</param>
+    <param name="Колір" unit="">Коричневий: Коричневий</param>
+    <param name="Вага" unit="">290 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">5</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109214191">
+    <url>https://profirider.com/p1109214191-sumka-kaidaqi-lilac.html</url>
+    <oldprice>200</oldprice>
+    <price>140</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155425759_sumka-kaidaqi-lilac.jpg</picture>
+    <picture>https://images.ua.prom.st/2155425760_sumka-kaidaqi-lilac.jpg</picture>
+    <picture>https://images.ua.prom.st/2155425765_sumka-kaidaqi-lilac.jpg</picture>
+    <picture>https://images.ua.prom.st/2155425763_sumka-kaidaqi-lilac.jpg</picture>
+    <picture>https://images.ua.prom.st/2155425766_sumka-kaidaqi-lilac.jpg</picture>
+    <picture>https://images.ua.prom.st/2155425764_sumka-kaidaqi-lilac.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Kaidaqi Lilac</name>
+    <vendor>Kaidaqi</vendor>
+    <vendorCode>Kaid_Lil</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">220 x 260 x 70 мм</param>
+    <param name="Колір" unit="">Інші: Бузковий</param>
+    <param name="Вага" unit="">270 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">5</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109215235">
+    <url>https://profirider.com/p1109215235-sumka-sanchez-brown.html</url>
+    <oldprice>114.28</oldprice>
+    <price>80</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155429379_sumka-sanchez-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155429376_sumka-sanchez-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155429377_sumka-sanchez-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155429380_sumka-sanchez-brown.jpg</picture>
+    <picture>https://images.ua.prom.st/2155429381_sumka-sanchez-brown.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Sanchez Brown</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Brwn</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">200 x 170 x 60 мм</param>
+    <param name="Колір" unit="">Інші: Коричневий з бежевим</param>
+    <param name="Вага" unit="">100 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109216510">
+    <url>https://profirider.com/p1109216510-sumka-sanchez-casual.html</url>
+    <oldprice>135.71</oldprice>
+    <price>95</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155432971_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155432967_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155432968_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155432970_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155432969_sumka-sanchez-casual.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Sanchez Casual Flowers Black-Orange-Turquoise</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Cas_Flow_1</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">250 x 250 x 60 мм</param>
+    <param name="Колір" unit="">Чорний: Чорний з принтом</param>
+    <param name="Вага" unit="">140 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Через плече</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109220215">
+    <url>https://profirider.com/p1109220215-sumka-sanchez-casual.html</url>
+    <oldprice>135.71</oldprice>
+    <price>95</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155437925_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155437923_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155437924_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155437926_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155437927_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155437928_sumka-sanchez-casual.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Sanchez Casual Flowers Black-Red</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Cas_Flow_3</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">250 x 250 x 60 мм</param>
+    <param name="Колір" unit="">Чорний: Чорний з принтом</param>
+    <param name="Вага" unit="">140 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Через плече</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109220462">
+    <url>https://profirider.com/p1109220462-sumka-sanchez-casual.html</url>
+    <oldprice>135.71</oldprice>
+    <price>95</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155439699_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155439697_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155439700_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155439701_sumka-sanchez-casual.jpg</picture>
+    <picture>https://images.ua.prom.st/2155439702_sumka-sanchez-casual.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Sanchez Casual Flowers Black-White-Green</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Cas_Flow_2</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">250 x 250 x 60 мм</param>
+    <param name="Колір" unit="">Чорний: Чорний з принтом</param>
+    <param name="Вага" unit="">140 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Через плече</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109285749">
+    <url>https://profirider.com/p1109285749-sumka-sanchez-pink.html</url>
+    <oldprice>114.28</oldprice>
+    <price>80</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155525292_sumka-sanchez-pink.jpg</picture>
+    <picture>https://images.ua.prom.st/2155525287_sumka-sanchez-pink.jpg</picture>
+    <picture>https://images.ua.prom.st/2155525288_sumka-sanchez-pink.jpg</picture>
+    <picture>https://images.ua.prom.st/2155525289_sumka-sanchez-pink.jpg</picture>
+    <picture>https://images.ua.prom.st/2155525290_sumka-sanchez-pink.jpg</picture>
+    <picture>https://images.ua.prom.st/2155525291_sumka-sanchez-pink.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Sanchez Pink Pattern</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Sanch_Pink_Pat</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">200 x 170 x 60 мм</param>
+    <param name="Колір" unit="">Інші: Різнокольоровий</param>
+    <param name="Вага" unit="">100 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109286811">
+    <url>https://profirider.com/p1109286811-sumka-shigema-black.html</url>
+    <oldprice>128.57</oldprice>
+    <price>90</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155528498_sumka-shigema-black-green.jpg</picture>
+    <picture>https://images.ua.prom.st/2155528534_sumka-shigema-black-green.jpg</picture>
+    <picture>https://images.ua.prom.st/2155528546_sumka-shigema-black-green.jpg</picture>
+    <picture>https://images.ua.prom.st/2155528544_sumka-shigema-black-green.jpg</picture>
+    <picture>https://images.ua.prom.st/2155528642_sumka-shigema-black-green.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Shigema Black-Green</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Shgm_Blk_Grn</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">350 x 220 x 120 мм</param>
+    <param name="Колір" unit="">Чорний: Чорно-зелений</param>
+    <param name="Вага" unit="">170 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+  <offer available="true" id="1109288142">
+    <url>https://profirider.com/p1109288142-sumka-shigema-black.html</url>
+    <oldprice>128.57</oldprice>
+    <price>90</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>65447344</categoryId>
+    <picture>https://images.ua.prom.st/2155530875_sumka-shigema-black-violet.jpg</picture>
+    <picture>https://images.ua.prom.st/2155530877_sumka-shigema-black-violet.jpg</picture>
+    <picture>https://images.ua.prom.st/2155530876_sumka-shigema-black-violet.jpg</picture>
+    <picture>https://images.ua.prom.st/2155530878_sumka-shigema-black-violet.jpg</picture>
+    <picture>https://images.ua.prom.st/2155530879_sumka-shigema-black-violet.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сумка Shigema Black-Violet Shgm_Blk_Vlt</name>
+    <vendor>Sanchez</vendor>
+    <vendorCode>Shgm_Blk_Vlt</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Сумка обладнана містким відділенням і різними кишенями — для вашого смартфона, планшета й інших цінних речей.
+
+Лямка легко регулюється за довжиною. 
+
+Особливості:
+
+
+	Компактна і стильна сумка;
+	Висока якість матеріалів та пошиву, низька вага;
+	Вологозахищена конструкція та матеріали.
+
+</description>
+    <param name="Категорія" unit="">Для жінок</param>
+    <param name="Вид" unit="">Сумки</param>
+    <param name="Склад" unit="">100% Поліестер</param>
+    <param name="Розміри" unit="">350 x 220 x 120 мм</param>
+    <param name="Колір" unit="">Інші: Чорно-фіолетовий</param>
+    <param name="Вага" unit="">170 г</param>
+    <param name="Матеріали" unit="">100% Поліестер</param>
+    <param name="Модель сумки" unit="">Месенджер</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Відділення" unit="">3</param>
+    <param name="Тип" unit="">Наплічна</param>
+    <param name="Комплектація" unit="">Сумка</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

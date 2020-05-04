@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-03-26 22:42:39">
+<shop>
+<name>ФОП Балацький Святослав Романович</name>
+<company>ФОП Балацький Святослав Романович</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="85776195" parentId="16661508">Нижня білизна для чоловіків</category>
+<category id="84727812" parentId="16661508">Демісезонні чоловічі куртки</category>
+<category id="84727175" parentId="84727173">Дитячі автокрісла</category>
+<category id="84727173">Коляски та автокрісла</category>
+<category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+<category id="83914121" parentId="71777018">Ремені та пояси</category>
+<category id="83913495" parentId="16661508">Спортивні костюми</category>
+<category id="16715121" parentId="16661508">Чоловічі куртки</category>
+<category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+<category id="53761682" parentId="6257850">Велосвітло</category>
+<category id="24353170">Трекингове взуття</category>
+<category id="19959920">Велосипеди</category>
+<category id="18890955" parentId="14407150">Термобілизна</category>
+<category id="17343107" parentId="17305611">Зимові штани</category>
+<category id="17343103" parentId="16661508">Зимові штани</category>
+<category id="17305720" parentId="17305611">Шапки</category>
+<category id="17305707" parentId="17305611">Куртки</category>
+<category id="17305611">Жіночий одяг</category>
+<category id="16661555" parentId="16661508">Шапки</category>
+<category id="16661508">Чоловічий одяг</category>
+<category id="16617831" parentId="4122200">Спальні мішки</category>
+<category id="16617810" parentId="4122200">Трекінгові палиці</category>
+<category id="14693395" parentId="7196249">Чоловічі кеди</category>
+<category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+<category id="14693393" parentId="7196249">Чоловічі черевики</category>
+<category id="14693063" parentId="7196244">Жіночі кросівки</category>
+<category id="14693061" parentId="7196244">Жіночі черевики</category>
+<category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+<category id="14693035" parentId="14407150">Універсальні головні убори</category>
+<category id="14408905" parentId="14407150">Шоломи</category>
+<category id="14407588" parentId="14407150">Маски</category>
+<category id="7196249">Чоловіче взуття</category>
+<category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+<category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+<category id="6257850">Велоаксесуари</category>
+<category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+<category id="4122200">Рюкзаки і туризм</category>
+<category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+<category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+<category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+<category id="71777030" parentId="71777028">Рюкзаки</category>
+<category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+<category id="71777018">Одяг, взуття та аксесуари</category>
+<category id="69024725" parentId="46709597">Фітнес-браслети</category>
+<category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+<category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+<category id="52859360">Басейн і аквафітнес</category>
+<category id="46709702" parentId="46709597">Наручні годинники</category>
+<category id="46709597">Наручні годинники</category>
+<category id="45139423" parentId="4122200">Намети і аксесуари</category>
+<category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+<category id="36278188" parentId="36275949">Маски</category>
+<category id="36276195" parentId="36275949">Шоломи</category>
+<category id="36275949">Уцінка</category>
+<category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+<category id="29447009" parentId="6257850">Велоінструменти</category>
+<category id="29447008" parentId="6257850">Насоси</category>
+<category id="29447007" parentId="6257850">Велодзвінки</category>
+<category id="28200372" parentId="7196244">Жіночі кеди</category>
+<category id="28164081" parentId="7196244">Жіночі сліпони</category>
+<category id="27554175" parentId="14407150">Сноуборди</category>
+<category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+<category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+<category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+<category id="24572876" parentId="17305611">Спортивні штани</category>
+<category id="24544864" parentId="16661508">Спортивні штани</category>
+<category id="22851891" parentId="16661508">Футболки</category>
+<category id="22028141" parentId="7196244">Жіночі балетки</category>
+<category id="18029666">Sale -34% брендові куртки</category>
+<category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+<category id="14693027" parentId="14407150">Лижні палиці</category>
+<category id="14407150">Зимовий спорт</category>
+<category id="13502021" parentId="6257850">Велокомп'ютери</category>
+<category id="7196244">Жіноче взуття</category>
+<category id="6296093" parentId="6257850">Велосипедні сумки</category>
+<category id="58981807">Ігрові види спорту</category>
+<category id="66636889">Прогулянки й активний відпочинок</category>
+<category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+<category id="65449525" parentId="65446905">Спортивні окуляри</category>
+<category id="65447344" parentId="65446905">Спортивні сумки</category>
+<category id="65446905">Спортивні аксесуари</category>
+<category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+<category id="52863748" parentId="52859360">Шапочки для плавання</category>
+<category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+<category id="52863745" parentId="52859360">Окуляри для плавання</category>
+<category id="46807613" parentId="36275949">Годинники</category>
+<category id="49986322" parentId="36275949">Штани</category>
+<category id="46711296" parentId="46709597">Смарт-годинники</category>
+<category id="43651396" parentId="14407150">Рукавиці</category>
+<category id="39308422" parentId="14407150">Черевики лижні</category>
+<category id="36678205" parentId="36275949">Куртки</category>
+<category id="36660532" parentId="36275949">Взуття</category>
+<category id="27250069" parentId="14407150">Гірські лижі</category>
+<category id="27094492" parentId="24353170">Жіночі кросівки</category>
+<category id="22851904" parentId="17305611">Футболки</category>
+<category id="24570219" parentId="17305611">Кофти</category>
+<category id="24543418" parentId="16661508">Кофти</category>
+<category id="22851901" parentId="16661508">Шорти</category>
+</categories>
+<offers>
+<offer available="true" id="804733453">
+<price>615</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1388479713_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479730_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479741_krosivki-serena-pink.jpg</picture>
+<picture>https://images.ua.prom.st/1388479742_krosivki-serena-pink.jpg</picture>
+<name>Кросівки Serena pink 41</name>
+<vendor>Serena</vendor>
+<vendorCode>LH1023r5</vendorCode>
+<description><![CDATA[Підошва: Поліуретан
+
+Верх: Екокожа
+
+Підкладка: Текстиль]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Пол">Женский</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет">Розовый</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Размер женской обуви">41</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Отделка и украшения">Пайетки</param>
+</offer>
+<offer available="true" id="1064531670">
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693061</categoryId>
+<picture>https://images.ua.prom.st/2038303989_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303987_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303986_zhinochi-chereviki-tree.jpg</picture>
+<picture>https://images.ua.prom.st/2038303988_zhinochi-chereviki-tree.jpg</picture>
+<name>Жіночі черевики Tree 38 Brown</name>
+<vendor>Tree</vendor>
+<vendorCode> 919A9_38</vendorCode>
+<description><![CDATA[ 
+
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Стиль взуття: Класичний (classic)
+
+Колір: Коричневий: Коричневий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху: Екошкіра: Екошкіра
+
+Матеріал підкладки: Штучне хутро / Текстиль
+
+Матеріал підошви: Каучук
+
+Розмір: 38
+
+Особливості: Анатомічне взуття
+
+Сезон: Зимовий
+
+Призначення: Для туризму: Для туризму
+
+Подія: Повсякденні
+
+Температурний діапазон: Від 0°C до -15°C
+
+Країна реєстрації бренду: Китай
+
+Країна-виробник товару: Китай
+
+Тип: Черевики
+
+Стать: Жіночі
+
+Устілка: Етиленвінілацетат (EVA)
+
+Тип фіксації: Шнурівки 
+]]></description>
+<param name="Стиль взуття">Класичний (classic)</param>
+<param name="Колір">Коричневий: Коричневий</param>
+<param name="Матеріал верху">Екошкіра: Екошкіра</param>
+<param name="Матеріал підкладки">Штучне хутро / Текстиль</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Розмір">38</param>
+<param name="Сезон">Зимовий</param>
+<param name="Температурний діапазон">Від 0°C до -15°C</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Призначення">Для туризму: Для туризму</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Особливості">Анатомічне взуття</param>
+<param name="Подія">Повсякденні</param>
+<param name="Країна-виробник товару">Китай</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Тип">Черевики</param>
+<param name="Стать">Жіночі</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+</offer>
+<offer available="true" id="1147692177">
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2285978089_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978090_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978345_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978428_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978517_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2285978516_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS JESTER 52-57 Black Green</name>
+<vendor>KLS</vendor>
+<vendorCode>9995019387172</vendorCode>
+<description><![CDATA[Легкий шолом для MTB виготовлений за технологією In-mold з 13 великими вентиляційними отворами, що забезпечують комфорт та безпечість протягом складних покатеньок. Нова система регулювання забезпечує щільну і надійну посадку. Використання технології In-mold гарантує оптимальний захист від ударів.  
+
+Для найкращого провітрювання та охолодження розроблена ефективна система вентиляції, яка включає 13 отворів. Передні отвори захищені антимоскітною сіткою.
+
+Система регулювання дозволяє легко коригувати розмір шолома. Додаткові регулювання доступні за допомогою м’яких ремінців. Звичайно, всі елементи підкладки знімаються для чистки та прання.
+
+Особливості:
+
+- Технологія In-Mold
+
+- Антимоскітна сітка
+
+- Сучасний дизайн
+
+- Якісні матеріали
+
+- Регулювання розміру
+
+- Низька вага шолома
+
+- Зйомний козирок в комплекті
+
+- 13 вентиляційних отворів
+
+- Антибактеріальна пом'якшуюча підкладка
+
+Розмір (обхват голови): 52-57 см
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">13</param>
+<param name="Колір">Зелений: Зелений</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">270</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">52-57 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="564762869">
+<price>290</price>
+<currencyId>UAH</currencyId>
+<categoryId>22851901</categoryId>
+<picture>https://images.ua.prom.st/2239374538_cholovichi-shorti-abercrombie.jpg</picture>
+<picture>https://images.ua.prom.st/2239374533_cholovichi-shorti-abercrombie.jpg</picture>
+<name>Чоловічі шорти Abercrombie &amp; Fitch Rensen XS Blue-Grey</name>
+<vendor>Abercrombie &amp; Fitch</vendor>
+<vendorCode> namkvdff</vendorCode>
+<description><![CDATA[
+
+Чоловічі шорти виготовлені з якісної тканини.
+
+Застібаються на блискавку та ґудзик, є кишені. Призначені для повсякденного носіння, занять спортом, туризму. Завдяки  та зручному крою шорти дуже зручні, не сковують рухів.
+
+Шорти довго зберігають форму, витримують багаторазове прання, не знебарвлюються. Чотири кишені дадуть змогу зручно зберігати корисні дрібниці. Шорти мають середню посадку, не мнуться, легко перуться, швидко сохнуть.
+
+Особливості:
+
+- Стильний дизайн
+
+- Якісні матеріали
+
+- Зручний анатомічний крій
+
+- Чотири кишені
+
+Обхват талії: 74 см
+
+Обхват стегон: 96 см
+
+Довжина зовнішнього шва: 57 см
+]]></description>
+<param name="Колір">Синій</param>
+<param name="Декорування">У клітинку</param>
+<param name="Матеріал ">Бавовна</param>
+<param name="Склад">100% бавовна</param>
+<param name="Розмір">XS</param>
+<param name="Стиль">Повсякденний (casual)</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1059850390">
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>71020745</categoryId>
+<picture>https://images.ua.prom.st/2026479820_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479818_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479819_zhinochi-uggi-ugg.jpg</picture>
+<picture>https://images.ua.prom.st/2026479821_zhinochi-uggi-ugg.jpg</picture>
+<name>Жіночі угги UGG W Bailey Button 43 Pink</name>
+<vendor>UGG</vendor>
+<vendorCode> UGG_W_Bailey_Button_43_P</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+
+Виробник: UGG
+
+Стиль взуття: Повсякденний (casual)
+
+Колір: Рожевий: Рожевий
+
+Висота каблука: Нижче 30 мм: Нижче 30 мм
+
+Матеріал верху:    Замша: Замша
+
+Матеріал підкладки: Натуральне хутро
+
+Матеріал підошви: Каучук
+
+Розмір: 43
+
+Сезон: Зимовий
+
+Висота каблука: 1 см
+
+Температурний діапазон: Від 0°C до -15°C
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: США
+]]></description>
+<param name="Стиль взуття">Повсякденний (casual) </param>
+<param name="Колір">Бежевий: Бежевий</param>
+<param name="Матеріал верху">Замша: Замша</param>
+<param name="Матеріал підкладки">Хутро</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Розмір">43</param>
+<param name="Сезон">Зимовий</param>
+<param name="Країна реєстрації бренду">США</param>
+</offer>
+<offer available="true" id="1148197681">
+<price>440</price>
+<currencyId>UAH</currencyId>
+<categoryId>85776195</categoryId>
+<picture>https://images.ua.prom.st/2287499888_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499892_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499893_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499894_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499896_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499956_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499968_trusi-shorti-head-493.jpg</picture>
+<picture>https://images.ua.prom.st/2287499969_trusi-shorti-head-493.jpg</picture>
+<name>Труси-шорти Head 493 S Blue 3 шт</name>
+<vendor>Head</vendor>
+<vendorCode>Head_493_S_3</vendorCode>
+<description><![CDATA[Зручна, комфортна модель від відомого бренду. 
+
+Комфортні труси-боксери — безсумнівно популярна нижня білизна, що ідеально підходить для щоденного носіння. Виготовлені з високоякісних матеріалів. Плоскі шви мінімізують подразнення. Модель доповнена широким еластичним поясом з логотипом бренду. Забезпечують оптимальну свободу рухів. Мають чудові вентиляційні, вологовивідні та охолоджуючі властивості. М'яка  тканина цих трусів з яскравим кольором зберігає зовнішній вигляд таким як і в день придбання навіть після великої кількості циклів прання.
+
+Крій забезпечує максимальний комфорт при носінні впродовж всього дня.
+
+Обхват талії: 73-78 см
+
+Обхват стегон: 84-90 см
+
+Особливості:
+
+- В упаковці 3 штуки
+
+- Широкий еластичний пояс з логотипом бренду
+
+- Плоскі шви.
+
+- Якісні матеріали
+
+- Стильний мінімалістичний дизай
+
+
+
+ 
+]]></description>
+<param name="Сезон">Всесезонна модель</param>
+<param name="Модель">Боксери</param>
+<param name="Моделі">Regular Fit</param>
+<param name="Декорування">Однотонні</param>
+<param name="Посадка">Середня</param>
+<param name="Розмір">S</param>
+<param name="Призначення">Для повсякденного носіння</param>
+<param name="Подія">Повсякденні</param>
+<param name="Колір">Синій: Темно-синій</param>
+<param name="Матеріал ">Бавовна + еластан</param>
+<param name="Склад">95% бавовна, 5% еластан</param>
+<param name="Особливості крою">Приталений</param>
+<param name="Кількість в упаковці, шт">3</param>
+<param name="Країна реєстрації бренду">Австрія</param>
+</offer>
+<offer available="true" id="688261321">
+<price>540</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/1073663375_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663405_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663407_krossovki-zhenskie-casual.jpg</picture>
+<picture>https://images.ua.prom.st/1073663460_krossovki-zhenskie-casual.jpg</picture>
+<name>Кроссовки женские Casual classic pink-white 39</name>
+<vendor>Casual classic</vendor>
+<vendorCode>822-3 </vendorCode>
+<description><![CDATA[Подошва: Полиуретан
+
+Верх: Экокожа Casual classic
+
+Подкладка: Текстиль
+]]></description>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Размер женской обуви">39</param>
+<param name="Пол">Женский</param>
+<param name="Цвет">Розовый</param>
+<param name="Застежка">Шнуровка</param>
+<param name="Сезон">Лето</param>
+<param name="Отделка и украшения">Без украшений</param>
+</offer>
+<offer available="true" id="813428677">
+<price>1850</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1407626780_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626890_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626781_choboti-emu-australia.jpg</picture>
+<picture>https://images.ua.prom.st/1407626782_choboti-emu-australia.jpg</picture>
+<name>Чоботи EMU Australia Delegate HI 40</name>
+<vendor>EMU Australia</vendor>
+<description><![CDATA[
+	
+		
+			
+			верх: замша / підошва: каучук / підкладка : натуральне хутро
+
+			Відсутня одна заклепка.
+			
+		
+	
+]]></description>
+<param name="Цвет">Коричневый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Зима</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="806723198">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1392426711_chereviki-nobrand-agrestic.jpg</picture>
+<picture>https://images.ua.prom.st/1392426709_chereviki-nobrand-agrestic.jpg</picture>
+<picture>https://images.ua.prom.st/1392426710_chereviki-nobrand-agrestic.jpg</picture>
+<name>Черевики Nobrand Agrestic 38 (23,5 см) </name>
+<vendor>Nobrand</vendor>
+<vendorCode>12421-2 </vendorCode>
+<description><![CDATA[верх: шкіра / підошва: каучук  / підкладка : шкіра 
+
+Забруднення з зовнішньої сторони правого черевика.
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">38</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Длина стельки (см)">23.5</param>
+<param name="Материал верха">Натуральная кожа</param>
+<param name="Материал подкладки">Натуральная кожа</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="811726857">
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1403989510_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989496_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989499_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989501_choboti-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1403989506_choboti-anna-field.jpg</picture>
+<name>Чоботи Anna Field Zena-02 38</name>
+<vendor>Anna Field</vendor>
+<description><![CDATA[верх: екошкіра / підошва: каучук / підкладка : текстиль
+
+Подряпина
+]]></description>
+<param name="Цвет">Черный</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">38</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="817007912">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1415871078_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871069_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871081_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871080_botiljoni-anna-field.jpg</picture>
+<picture>https://images.ua.prom.st/1415871079_botiljoni-anna-field.jpg</picture>
+<name>Ботильйони Anna Field 40</name>
+<vendor>Anna Field</vendor>
+<vendorCode>15AX </vendorCode>
+<description><![CDATA[верх: текстиль / підошва: каучук  / підкладка : текстиль
+
+незначні потертості на підошві
+]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="808741837">
+<price>1150</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1397142310_chereviki-kiomi-brown.jpg</picture>
+<picture>https://images.ua.prom.st/1397142308_chereviki-kiomi-brown.jpg</picture>
+<picture>https://images.ua.prom.st/1397142309_chereviki-kiomi-brown.jpg</picture>
+<name>Черевики Kiomi brown 40</name>
+<vendor>Kiomi</vendor>
+<description><![CDATA[верх: шкіра/ підошва: каучук / підкладка : хутро
+
+Незначні потертості на черевику
+]]></description>
+<param name="Цвет">Коричневый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">40</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал верха">Натуральная кожа</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Материал подкладки">Мех</param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="811738367">
+<price>1490</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1404031341_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031340_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031342_chereviki-frye-engineer.jpg</picture>
+<picture>https://images.ua.prom.st/1404031343_chereviki-frye-engineer.jpg</picture>
+<name>Черевики Frye Engineer 8R 39</name>
+<vendor>Anna Field</vendor>
+<description><![CDATA[верх: шкіра/ підошва: каучук / підкладка : шкіра
+
+Потертості, пошкодження шкіри
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">41</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Пол">Женский</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="817000234">
+<price>1190</price>
+<currencyId>UAH</currencyId>
+<categoryId>36660532</categoryId>
+<picture>https://images.ua.prom.st/1415857579_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857574_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857575_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857576_kedi-jack-and-.jpg</picture>
+<picture>https://images.ua.prom.st/1415857578_kedi-jack-and-.jpg</picture>
+<name>Кеди Jack &amp; Jones 42</name>
+<vendor>JACK &amp; JONES</vendor>
+<vendorCode>12130556 </vendorCode>
+<description><![CDATA[верх:  текстиль / підошва: каучук  / підкладка : текстиль
+
+незначні забрудненя на підошві
+]]></description>
+<param name="Цвет">Серый</param>
+<param name="Состояние">Hовое</param>
+<param name="Размер женской обуви">42</param>
+<param name="Вид обуви">Ботинки</param>
+<param name="Сезон">Весна/осень</param>
+<param name="Материал подкладки">Текстиль</param>
+<param name="Материал подошвы">Каучук</param>
+<param name="Материал верха">Текстиль</param>
+<param name="Отделка и украшения"></param>
+<param name="Застежка"></param>
+</offer>
+<offer available="true" id="844143212">
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479399883_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399858_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399891_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399893_cholovichij-godinnik-yourturn.jpg</picture>
+<picture>https://images.ua.prom.st/1479399892_cholovichij-godinnik-yourturn.jpg</picture>
+<name>Чоловічий годинник Yourturn YO152M000-N11 </name>
+<vendor>Yourturn</vendor>
+<description><![CDATA[Незначні сліди використання, дрібні подряпини на корпусі.
+
+ 
+
+Виробник: Yourturn
+
+Матеріал: Метал 
+
+Тип: Чоловічий
+
+Стиль: Фешн
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 44мм
+
+Товщина корпусу:  20мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Екошкіра
+
+Колір браслета: Хакі
+
+Основний колір циферблата: Чорний
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Мужской</param>
+<param name="Браслет/Ремешок">Искусственная кожа</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Хаки</param>
+<param name="Цвет циферблата">Черный</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="844152061">
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479411637_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411638_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411632_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411639_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<picture>https://images.ua.prom.st/1479411634_godinnik-kiomi-k4451ma0c-c11.jpg</picture>
+<name>Годинник Kiomi K4451MA0C-C11</name>
+<vendor>Kiomi</vendor>
+<description><![CDATA[Потемніння на ремінці, незначні сліди використання.
+
+ 
+
+Виробник: Kiomi
+
+Матеріал: Метал 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 37мм
+
+Товщина корпусу:  9мм
+
+Функції: Дата
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Натуральна шкіра
+
+Колір браслета: Сірий
+
+Основний колір циферблата: Сірий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Бежевый</param>
+<param name="Цвет циферблата">Бежевый</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="844158450">
+<price>250</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479417125_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417161_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417171_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417162_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417203_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1479417202_zhinochij-godinnik-kiomi.jpg</picture>
+<name>Жіночий годинник Kiomi xnwyy</name>
+<vendor>Kiomi</vendor>
+<description><![CDATA[Незначні сліди використання, подряпини на ремінці.
+
+ 
+
+Виробник: Kiomi
+
+Матеріал: Метал
+
+Тип: Жіночий 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 36мм
+
+Товщина корпусу:  8мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Натуральна шкіра
+
+Колір браслета: Сірий
+
+Основний колір циферблата: Білий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Серый</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="844160909">
+<price>990</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1479424293_zhinochij-godinnik-swatch.jpg</picture>
+<picture>https://images.ua.prom.st/1479424289_zhinochij-godinnik-swatch.jpg</picture>
+<picture>https://images.ua.prom.st/1479424301_zhinochij-godinnik-swatch.jpg</picture>
+<name>Жіночий годинник Swatch Popure PNW105</name>
+<vendor>Swatch</vendor>
+<description><![CDATA[Стан: Новий. Незначна подряпина на корпусі (видно на фото)
+
+ 
+
+Скажіть «так» елегантності! Жіночий годинник SWATCH POPURE PNW105. Має циферблат бездоганного білого кольору. Безель і корпус виконані з матового білого пластику. Конструкцію цього годинника Swatch POP доповнює двосторонній силіконовий ремінець білого кольору. Годинник SWATCH прекрасно поєднується з іншими аксесуарами. 
+
+ 
+
+Виробник: Swatch 
+
+Матеріал: Пластик
+
+Тип: Жіночі
+
+Стиль: Фешн
+
+Колір: Білий
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: пластик
+
+Діаметр корпусу: 45 мм
+
+Товщина корпусу: 12,5
+
+Водонепроникність: 3 атм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: Силікон
+
+Колір браслета: Білий
+
+Основний колір циферблата: Білий
+
+Країна-виробник товару: Швейцарія 
+
+Країна реєстрації бренду: Швейцарія 
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Пластиковое</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Силиконовый</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Цвет браслета/ремешка">Белый</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Пластик</param>
+</offer>
+<offer available="true" id="845495154">
+<price>390</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1482386774_zhinochij-godinnik-even-and-odd.jpg</picture>
+<picture>https://images.ua.prom.st/1482386776_zhinochij-godinnik-even-and-odd.jpg</picture>
+<picture>https://images.ua.prom.st/1482386773_zhinochij-godinnik-even-and-odd.jpg</picture>
+<name>Жіночий годинник Even&amp;odd ev451</name>
+<vendor>EVEN&amp;ODD</vendor>
+<description><![CDATA[Стан: Новий, незначне забруднення на ремінці (видно на фото)
+
+ 
+
+Виробник: Even&odd 
+
+Матеріал: Метал 
+
+Тип: жіночий
+
+Стиль: Класичний
+
+Колір: золотий
+
+Механізм: Кварцовий
+
+Ремінець/браслет: ремінець
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: мінеральне
+
+Діаметр корпусу: 32 мм
+
+Товщина корпусу: 8 мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: екошкіра
+
+Колір браслета: чорний
+
+Основний колір циферблата: чорний
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Німеччина
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Искусственная кожа</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Золотой</param>
+<param name="Цвет браслета/ремешка">Черный</param>
+<param name="Цвет циферблата">Черный</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="845501656">
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>46807613</categoryId>
+<picture>https://images.ua.prom.st/1482394657_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394659_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394667_zhinochij-godinnik-kiomi.jpg</picture>
+<picture>https://images.ua.prom.st/1482394669_zhinochij-godinnik-kiomi.jpg</picture>
+<name>Жіночий годинник Kiomi Watch Black K4451</name>
+<vendor>Kiomi</vendor>
+<description><![CDATA[ 
+
+Стан: Новий. Незначна подряпина на склі розміром 1 мм. її видно лише під певним кутом. Розташування подряпини показане червоним кольором на додатковому фото.
+
+ 
+
+Виробник: Kiomi 
+
+Матеріал: Метал 
+
+Тип: Жіночий 
+
+Стиль: Класичний
+
+Колір: Чорний
+
+Механізм: Кварцовий
+
+Ремінець/браслет: Браслет
+
+Тип циферблата: Аналоговий (стрілковий)
+
+Скло: Мінеральне
+
+Діаметр корпусу: 36 мм
+
+Товщина корпусу: 7 мм
+
+Точність ходу: +/- 15 секунд на місяць
+
+Матеріал ремінця/браслета: шкіра
+
+Колір браслета: Чорний
+
+Основний колір циферблата: білий
+
+Країна-виробник товару: Китай
+
+Країна реєстрації бренду: Германія
+]]></description>
+<param name="Тип механизма">Кварцевый</param>
+<param name="Циферблат">Аналоговый (Стрелочный)</param>
+<param name="Стекло">Минеральное</param>
+<param name="Пол">Женский</param>
+<param name="Браслет/Ремешок">Кожаный</param>
+<param name="Форма">Круглая</param>
+<param name="Индикация">Метки (без цифр)</param>
+<param name="Формат времени">12 часов</param>
+<param name="Тип">Классические часы</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Цвет браслета/ремешка">Черный</param>
+<param name="Цвет циферблата">Белый</param>
+<param name="Материал">Метал</param>
+</offer>
+<offer available="true" id="1149636962">
+<price>360</price>
+<currencyId>UAH</currencyId>
+<categoryId>13502021</categoryId>
+<picture>https://images.ua.prom.st/2291639429_velokompyuter-drotovij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291639202_velokompyuter-drotovij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291639331_velokompyuter-drotovij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291639430_velokompyuter-drotovij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291639469_velokompyuter-drotovij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291639478_velokompyuter-drotovij-kls.jpg</picture>
+<name>Велокомп’ютер дротовий KLS Digit 9 Grey</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019344250</vendorCode>
+<description><![CDATA[Дротовий комп’ютер на 9-ть функцій з дворядковим LCD дисплеєм, дозволяє легко читати данні, що надійшли на екран під час руху
+
+Велокомп`ютер розроблений для захоплених шанувальників велосипедного спорту з різним рівнем досвіду. Стильний мінімалістичний дизайн гармонійно поєднується з чудовим рівнем якості. 
+
+Функції: 
+
+- Поточна швидкість
+
+- Поточний шлях;
+
+- Одометр;
+
+- Автотаймер поточного шляху;
+
+- Середня швидкість;
+
+- Максимальна швидкість;
+
+- Тенденція швидкості;
+
+- Час у дорозі
+
+- Загальний час за всі поїздки (не відображається під час руху);
+
+- Годинник;
+
+Особливості: вологозахищений, кріплення можна встановити на кермо або винос керма, трьохрядковий екран, простий і надійний провідний велокомп’ютер, великий дисплей дозволяє легко прочитати дані, набір найнеобхідніших функцій дозволить не заплутатися в показниках
+
+ 
+]]></description>
+<param name="Живлення">СR2032, 3V</param>
+<param name="Тип">Дротовий</param>
+<param name="Габарити упаковки">190 х 115 х 45 мм</param>
+<param name="Функції">Загальний пробіг|Поточна швидкість|Годинник (12/24 г)|Максимальна швидкість|Автоматична функція Старт/Стоп|Швидкість та дистанція|Середня швидкість|Пробіг за день</param>
+<param name="Вага">20 г</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Колір">Сірий</param>
+<param name="Вид">Велокомп'ютери</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Теги">Водонепроникні, міцні, простий</param>
+</offer>
+<offer available="true" id="1149644291">
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>53761682</categoryId>
+<picture>https://images.ua.prom.st/2291662995_zadnij-lihtar-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291662784_zadnij-lihtar-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291662956_zadnij-lihtar-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291662957_zadnij-lihtar-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291662997_zadnij-lihtar-kls.jpg</picture>
+<name>Задній ліхтар KLS Rippy</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019339621</vendorCode>
+<description><![CDATA[Компактний задній швидко і легко кріпиться до будь-якої труби і так само легко знімається. Призначений для позначення велосипедиста на дорозі в темний час доби. Маленький і потужний KLS Rippy
+
+ стане одним із найважливіших засобів для вашої безпеки на дорозі.
+
+Особливості
+
+- Кліпсу можна закріпити на петлю підсідельної сумки чи рюкзака
+
+- Вологозахищений корпус;
+
+- Швидкоз’ємне кріплення;
+
+- Підходить на всі діаметри підседільних штирів;
+
+- Батарейки 2хAAA (1,5V) (в комплекті);
+
+- міцний та легкий корпус;
+
+- встановлення без інструментів;
+
+- Два режими (Постійний і миготливий)
+
+ 
+]]></description>
+<param name="Вага">50 г</param>
+<param name="Тип">Ліхтарі та фари</param>
+<param name="Живлення">2хAAA (1,5V) (в комплекті)</param>
+<param name="Колір">Червоний</param>
+<param name="Теги">Задній ліхтар</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Габарити упаковки">15 х 10 х 5 см</param>
+<param name="Джерело світла">1 світлодіод (0.5 Вт) з оптикою + 2 світлодіода</param>
+<param name="Світловий потік">13 / 10 Лм</param>
+<param name="Освітленість">240 / 190 Люкс</param>
+<param name="Матеріал ">Пластик</param>
+</offer>
+<offer available="true" id="1149656444">
+<price>340</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095636</categoryId>
+<picture>https://images.ua.prom.st/2291701327_pidnizhka-kls-kickback.jpg</picture>
+<picture>https://images.ua.prom.st/2291701481_pidnizhka-kls-kickback.jpg</picture>
+<picture>https://images.ua.prom.st/2291701493_pidnizhka-kls-kickback.jpg</picture>
+<picture>https://images.ua.prom.st/2291701545_pidnizhka-kls-kickback.jpg</picture>
+<picture>https://images.ua.prom.st/2291701572_pidnizhka-kls-kickback.jpg</picture>
+<name>Підніжка KLS Kickback 018 24-29 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019379658</vendorCode>
+<description><![CDATA[Коли Вам необхідно поставити велосипед, будь-де і поряд немає ніякої опори - допоможе підніжка. Компанія KLS подбала про те, щоб конструкція підніжки була максимально універсальною.
+
+Підніжка Kickback - підходить до всіх велосипедів, з діаметром коліс 24"-29".
+
+Особливості:
+
+
+
+- Проста установка під раму;
+
+- Зручна регульована конструкція;
+
+- Налаштування довжини без інструмента;
+
+- Сумісність з розміром колеса 24-29";
+]]></description>
+<param name="Тип">Підніжки</param>
+<param name="Габарити упаковки">10 х 25 х 3 см</param>
+<param name="Колір">Чорний</param>
+<param name="Теги">Недорого</param>
+<param name="Матеріал ">Алюміній; Пластик</param>
+<param name="Розмір колеса">24-29&quot;</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149657425">
+<price>355</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291708482_velozamok-kls-alert.jpg</picture>
+<picture>https://images.ua.prom.st/2291708537_velozamok-kls-alert.jpg</picture>
+<picture>https://images.ua.prom.st/2291708542_velozamok-kls-alert.jpg</picture>
+<picture>https://images.ua.prom.st/2291708589_velozamok-kls-alert.jpg</picture>
+<picture>https://images.ua.prom.st/2291708715_velozamok-kls-alert.jpg</picture>
+<picture>https://images.ua.prom.st/2291708997_velozamok-kls-alert.jpg</picture>
+<name>Велозамок KLS Alert Plus Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019389220</vendorCode>
+<description><![CDATA[Надійний велосипедний U-подібний замок від KLS.
+
+Дужка замка виготовлена із загартованої сталі, має товщину 12 мм і внутрішню висоту 24,5 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі.
+
+Інноваційне м'яке покриття корпусу дужки замка для захисту велосипеда від пошкодження
+
+Ергономічна форма для зручного використання
+
+Особливості:
+
+- Рівень захисту за шкалою KLS 9/10
+
+- Замок перевірений в тестувальній установі SGS
+
+- Відмінне співвідношення ваги до міцності
+
+- Конструкція передбачає захисну кришку циліндра для захисту від навколишнього середовища;
+
+- В комплеткі кріплення для транспортування на рамі;
+
+- ПВХ покриття для захисту рами;
+
+- Простий механізм блокування.
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Товщина скоби: 12 мм, Ширина скоби: 130 мм, Висота скоби: 245 мм</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">840 г</param>
+<param name="Габарити упаковки">16,5 х 24,5 х 5 cм</param>
+<param name="Кріплення">Кріплення на раму в комплекті</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149658500">
+<price>525</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291716958_velozamok-kls-block.jpg</picture>
+<picture>https://images.ua.prom.st/2291717046_velozamok-kls-block.jpg</picture>
+<picture>https://images.ua.prom.st/2291717079_velozamok-kls-block.jpg</picture>
+<picture>https://images.ua.prom.st/2291717082_velozamok-kls-block.jpg</picture>
+<picture>https://images.ua.prom.st/2291717165_velozamok-kls-block.jpg</picture>
+<picture>https://images.ua.prom.st/2291717167_velozamok-kls-block.jpg</picture>
+<name>Велозамок KLS Block U-Lock Grey</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019347435</vendorCode>
+<description><![CDATA[Надійний велосипедний U-подібний замок від KLS.
+
+Дужка замка виготовлена із загартованої сталі, має товщину 15 мм і внутрішню висоту 26 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі.
+
+Інноваційне м'яке покриття корпусу дужки замка для захисту велосипеда від пошкодження
+
+Ергономічна форма для зручного використання
+
+Особливості:
+
+- Рівень захисту за шкалою KLS 9/10
+
+- Замок перевірений в тестувальній установі SGS
+
+- Відмінне співвідношення ваги до міцності
+
+- Конструкція передбачає захисну кришку циліндра для захисту від навколишнього середовища;
+
+- ПВХ покриття для захисту рами;
+
+- Простий механізм блокування.
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорно-сірий</param>
+<param name="Розміри">Товщина скоби: 15 мм, Ширина скоби: 110 мм, Висота скоби: 260 мм</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">1000 г</param>
+<param name="Габарити упаковки">32 х 15 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149659515">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291724586_velozamok-kls-chainlock.jpg</picture>
+<picture>https://images.ua.prom.st/2291724455_velozamok-kls-chainlock.jpg</picture>
+<picture>https://images.ua.prom.st/2291724502_velozamok-kls-chainlock.jpg</picture>
+<picture>https://images.ua.prom.st/2291724680_velozamok-kls-chainlock.jpg</picture>
+<picture>https://images.ua.prom.st/2291724685_velozamok-kls-chainlock.jpg</picture>
+<picture>https://images.ua.prom.st/2291724741_velozamok-kls-chainlock.jpg</picture>
+<name>Велозамок KLS Chainlock 6 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019368621 </vendorCode>
+<description><![CDATA[Сталевий велосипедний захисний ланцюг з кодовим замком. Покликаний захистити Ваш велосипед від крадіжки на випадок недовготривалої відсутності.
+
+Ланцюг виготовлений із загартованої сталі, має товщину 6 мм і довжину 100 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти підбору коду і передбачає можливість зміни кодової комбінації.
+
+Текстильне покриття ланцюга для захисту велосипеда від пошкодження
+
+Ергономічна форма для зручного використання
+
+Особливості:
+
+- Відмінне співвідношення ваги до міцності
+
+- Тканинне покриття для захисту рами;
+
+- Простий механізм блокування.
+
+- Можливість зміни кодової комбінації.
+
+ 
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Товщина ланок ланцюга: 6 мм. Довжина ланцюга 100 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">745 г</param>
+<param name="Габарити упаковки">20 х 10 х 5 cм</param>
+<param name="Теги">Замок кодовий, недорого</param>
+</offer>
+<offer available="true" id="1149667343">
+<price>220</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291759395_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291758460_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291758958_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291759096_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291760570_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291761267_velozamok-kls-coil.jpg</picture>
+<name>Велозамок KLS Coil 10х1200 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019308894</vendorCode>
+<description><![CDATA[Велосипедний захисний замок тросового типу. Покликаний захистити Ваш велосипед від крадіжки на випадок недовготривалої відсутності.
+
+Серцевина троса виготовлена із загартованої сталі, має товщину 4,5 мм і довжину 120 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі (один звичайний, другий зі світлодіодним підсвічуванням).
+
+Інноваційне м'яке покриття замка для захисту велосипеда від пошкодження
+
+Для зручності транспортування в комплекті поставляється кріплення на раму.
+
+Особливості: 
+
+- Відмінне співвідношення ваги до міцності
+
+- В комплекті до замка 2 ключа (один звичайний, другий зі світлодіодним підсвічуванням).
+
+- Гумове покриття для захисту рами;
+
+- Простий механізм блокування.
+
+- Кріплення на раму в комплекті
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Зовнішня товщина: 10 мм. Довжина троса: 120 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">400 г</param>
+<param name="Габарити упаковки">20 х 15 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149668824">
+<price>225</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291768148_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291766900_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291767714_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291767760_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291769431_velozamok-kls-coil.jpg</picture>
+<picture>https://images.ua.prom.st/2291769573_velozamok-kls-coil.jpg</picture>
+<name>Велозамок KLS Coil 10х1500 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019308900</vendorCode>
+<description><![CDATA[Велосипедний захисний замок тросового типу. Покликаний захистити Ваш велосипед від крадіжки на випадок недовготривалої відсутності.
+
+Серцевина троса виготовлена із загартованої сталі, має товщину 4,5 мм і довжину 150 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі (один звичайний, другий зі світлодіодним підсвічуванням).
+
+Інноваційне м'яке покриття замка для захисту велосипеда від пошкодження
+
+Для зручності транспортування в комплекті поставляється кріплення на раму.
+
+Особливості: 
+
+- Відмінне співвідношення ваги до міцності
+
+- В комплекті до замка 2 ключа (один звичайний, другий зі світлодіодним підсвічуванням).
+
+- Гумове покриття для захисту рами;
+
+- Простий механізм блокування.
+
+- Кріплення на раму в комплекті
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Товщина серцевини троса: 4,5 мм. Зовнішня товщина: 10 мм. Довжина троса: 150 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">450 г</param>
+<param name="Габарити упаковки">20 х 15 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149670928">
+<price>795</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291773331_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291772796_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291772902_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291773095_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291773096_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291773327_velozamok-kls-fold.jpg</picture>
+<picture>https://images.ua.prom.st/2291773426_velozamok-kls-fold.jpg</picture>
+<name>Велозамок KLS Fold 30 Grey</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019340382</vendorCode>
+<description><![CDATA[Надійний велосипедний сегментний замок від KLS.
+
+Ланки замка виготовлені із загартованої сталі, мають товщину 3,5 мм і загальну довжину 85 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі.
+
+Інноваційне м'яке покриття корпусу ланок замка для захисту велосипеда від пошкодження
+
+Ергономічна форма для зручного використання.
+
+Особливості:
+
+- Рівень захисту за шкалою KLS 9/10
+
+- Замок перевірений в тестувальній установі SGS
+
+- Відмінне співвідношення ваги до міцності
+
+- В комплеткі кріплення для транспортування на рамі;
+
+- Два ключі в комплекті;
+
+- ПВХ покриття для захисту рами;
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Сірий</param>
+<param name="Розміри">Товщина ланок: 3,5 мм. Ширина скоби: 130 мм. Довжина: 85 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">1580 г</param>
+<param name="Габарити упаковки">16 х 7 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+<param name="Кріплення">Кріплення на раму в комплекті</param>
+</offer>
+<offer available="true" id="1149675248">
+<price>330</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291780412_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291780350_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291780378_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291780425_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291780433_velozamok-kls-hardcoil.jpg</picture>
+<name>Велозамок KLS Hardcoil 15х1200 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019340160</vendorCode>
+<description><![CDATA[Велосипедний захисний замок тросового типу. Покликаний захистити Ваш велосипед від крадіжки на випадок недовготривалої відсутності.
+
+Серцевина троса виготовлена із загартованої сталі, має товщину 7 мм і довжину 120 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі (один звичайний, другий зі світлодіодним підсвічуванням).
+
+Інноваційне м'яке покриття замка для захисту велосипеда від пошкодження
+
+Для зручності транспортування в комплекті поставляється кріплення на раму.
+
+Особливості: 
+
+- Відмінне співвідношення ваги до міцності
+
+- В комплекті до замка 2 ключа (один звичайний, другий зі світлодіодним підсвічуванням).
+
+- Гумове покриття для захисту рами;
+
+- Простий механізм блокування.
+
+- Кріплення на раму в комплекті
+
+ 
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Товщина серцевини троса: 7 мм. Зовнішня товщина: 15 мм. Довжина троса: 120 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">450 г</param>
+<param name="Габарити упаковки">20 х 15 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149677558">
+<price>345</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291783611_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291783570_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291783610_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291783612_velozamok-kls-hardcoil.jpg</picture>
+<picture>https://images.ua.prom.st/2291783656_velozamok-kls-hardcoil.jpg</picture>
+<name>Велозамок KLS Hardcoil 15х1500 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019340184</vendorCode>
+<description><![CDATA[Велосипедний захисний замок тросового типу. Покликаний захистити Ваш велосипед від крадіжки на випадок недовготривалої відсутності.
+
+Серцевина троса виготовлена із загартованої сталі, має товщину 7 мм і довжину 150 см. Корпус замка теж виготовлений зі спеціально загартованої сталі.
+
+Циліндр замка гарантує високий захист проти відмичок. У комплекті до замка ви отримаєте два ключі (один звичайний, другий зі світлодіодним підсвічуванням).
+
+Інноваційне м'яке покриття замка для захисту велосипеда від пошкодження
+
+Для зручності транспортування в комплекті поставляється кріплення на раму.
+
+Особливості: 
+
+- Відмінне співвідношення ваги до міцності
+
+- В комплекті до замка 2 ключа (один звичайний, другий зі світлодіодним підсвічуванням).
+
+- Гумове покриття для захисту рами;
+
+- Простий механізм блокування.
+
+- Кріплення на раму в комплекті
+]]></description>
+<param name="Тип">Замки</param>
+<param name="Колір">Чорний</param>
+<param name="Розміри">Товщина серцевини троса: 7 мм. Зовнішня товщина: 15 мм. Довжина троса: 150 см</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">500 г</param>
+<param name="Габарити упаковки">20 х 15 х 5 cм</param>
+<param name="Теги">Замок з ключем, недорого</param>
+</offer>
+<offer available="true" id="1149690748">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095490</categoryId>
+<picture>https://images.ua.prom.st/2291832298_vitiskach-lantsyuga-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291832174_vitiskach-lantsyuga-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291832286_vitiskach-lantsyuga-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291832370_vitiskach-lantsyuga-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291832447_vitiskach-lantsyuga-kls.jpg</picture>
+<name>Витискач ланцюга KLS Spike</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019308344</vendorCode>
+<description><![CDATA[Допомагає з'єднати чи роз'єднати ланцюг в необхідних для цього випадках. інструмент має зручну ергономічну ручку з матеріалу ABS та двосторонній змінний шип. Легко справляється з ланцюгом класу IG / HG / UG (shimano) а також ланцюками KMC / SRAM. В комплекті поставляється стальна скоба для утримання ланцюга, що значно спрощує роботу з витискачем
+
+Особливості:
+
+- Стильний дизайн
+
+- Якісні матеріали
+
+- Зручна ергономічна ручка з матеріалу ABS; 
+
+- Двосторонній змінний шип
+
+- Стальна скоба для утримання ланцюга в комплекті
+
+- Сумісність з усіма видами ланцюгів
+]]></description>
+<param name="Тип">Інструменти</param>
+<param name="Колір">Чорно-червоний</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага">100 г</param>
+<param name="Розміри">10 х 5 х 2 см</param>
+<param name="Габарити упаковки">12 х 8 х 3 см</param>
+</offer>
+<offer available="true" id="1149701274">
+<price>200</price>
+<currencyId>UAH</currencyId>
+<categoryId>27095636</categoryId>
+<picture>https://images.ua.prom.st/2291869080_ruchki-kerma-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291869052_ruchki-kerma-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291869053_ruchki-kerma-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291869055_ruchki-kerma-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291869056_ruchki-kerma-kls.jpg</picture>
+<name>Ручки керма KLS Advancer 17 2Density Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019374066</vendorCode>
+<description><![CDATA[М'які, двошарові велосипедні гріпси. Гріпси виготовлені двокомпонентної гуми. Конструкція 2-Density забезпечує відмінних хват. Відміннє поєднання дизайну та комфорту. Завдяки анатомічній формі ці гріпси дуже зручні у використанні, а крім того ручки мають стильний зовнішній вигляд.
+
+Особливості:
+
+- Відмінний хват;
+
+- Тривалий термін служби;
+
+- Легко встановлюються;
+
+- Стильний ергономічний дизайн;
+
+- Хороше зчеплення поверхні ручки з рукою;
+]]></description>
+<param name="Тип">Гріпси</param>
+<param name="Габарити упаковки">10 х 25 х 3 см</param>
+<param name="Колір">Чорний</param>
+<param name="Теги">Недорого</param>
+<param name="Матеріал ">Гума</param>
+<param name="Розміри">Довжина: 135 мм. Внутрішній діаметр: 22,5 мм</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149714578">
+<price>395</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291918725_termoflyaga-kls-antarctita.jpg</picture>
+<picture>https://images.ua.prom.st/2291918658_termoflyaga-kls-antarctita.jpg</picture>
+<picture>https://images.ua.prom.st/2291918756_termoflyaga-kls-antarctita.jpg</picture>
+<picture>https://images.ua.prom.st/2291918779_termoflyaga-kls-antarctita.jpg</picture>
+<picture>https://images.ua.prom.st/2291918921_termoflyaga-kls-antarctita.jpg</picture>
+<picture>https://images.ua.prom.st/2291918946_termoflyaga-kls-antarctita.jpg</picture>
+<name>Термофляга KLS Antarctita 500 Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019352255 </vendorCode>
+<description><![CDATA[Оригінальний дизайн від KLS. Подвійні стінки з повітряним прошарком і вставкою із спеціальної алюмінієвої фольги. Зручна та легка у використанні термо-фляга, яка зберігає температуру вашого напою. Для більшої зручності - широкий гумовий мундштук та пластиковий ковпачок. Допускається наповнювати флягу водою, ізотонічними напоями, а також іншими спортивними напоями без газу. Виготовлена з високоякісного BPA-free харчового пластика, має захист від протікання. Допустима температура напою - до 60°С. 
+
+Попередження:
+
+- Максимальна температура рідини 60°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Термофляга з подвійними стінками і термоізолюючим матеріалом
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Виготовлена в Італії
+
+- Додаткова кришка, що захищає загубник від пилу
+
+- Термін зберігання температури: до 2 години; 
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">500 мл</param>
+<param name="Вага">100 г</param>
+<param name="Колір">Чорно-сірий</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149715202">
+<price>395</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291922622_flyaga-kls-kalahari.jpg</picture>
+<name>Фляга KLS Kalahari 1000 ml Black-Red</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019330277 </vendorCode>
+<description><![CDATA[Оригінальний дизайн. Широка горловина пляшки дозволяє не лише ефективно мити флягу, але і дуже швидко наповнювати її рідиною. Виготовлена з високоякісного м'якого пластику BergaFlex. Можна використовувати з водою, ізотоніками і будь-якими іншими спортивними напоями без СО2, температурою до 40 градусів. Виготовлена з пластику, який не містить бісфенол;
+
+Попередження:
+
+- Максимальна температура рідини 40°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+
+- Виготовлена в Італії
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">1000 мл</param>
+<param name="Вага">117 г</param>
+<param name="Колір">Чорний</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149717518">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291934498_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291934630_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291934645_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291934669_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291934678_flyaga-kls-namib.jpg</picture>
+<name>Фляга KLS Namib 700 Grey-White</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019352132</vendorCode>
+<description><![CDATA[Фляга виконана в оригінальному дизайні KLS. Має широкий гумовий мундштук для ефективнішого використання, та зручну кришку, що легко відкривається, та герметична при закритті. Допускається наповнювати флягу водою, ізотонічними напоями, а також іншими спортивними напоями без газу. Виготовлена з високоякісного BPA-free харчового пластика, має захист від протікання. Допустима температура напою - до 60°C
+
+Попередження:
+
+- Максимальна тепература рідини 60°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+
+- Виготовлена в Італії
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">700 мл</param>
+<param name="Вага">82 г</param>
+<param name="Колір">Сіро-білий</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149718409">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291940376_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291940502_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291940608_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291940611_flyaga-kls-namib.jpg</picture>
+<picture>https://images.ua.prom.st/2291940610_flyaga-kls-namib.jpg</picture>
+<name>Фляга KLS Namib 700 Transparent Black</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019352200</vendorCode>
+<description><![CDATA[Фляга виконана в оригінальному дизайні KLS. Має широкий гумовий мундштук для ефективнішого використання, та зручну кришку, що легко відкривається, та герметична при закритті. Допускається наповнювати флягу водою, ізотонічними напоями, а також іншими спортивними напоями без газу. Виготовлена з високоякісного BPA-free харчового пластика, має захист від протікання. Допустима температура напою - до 60°C 
+
+Попередження:
+
+- Максимальна тепература рідини 60°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+
+- Виготовлена в Італії
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">700 мл</param>
+<param name="Вага">82 г</param>
+<param name="Колір">Прозорий з чорним</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149719329">
+<price>165</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291943413_flyaga-kls-sport.jpg</picture>
+<picture>https://images.ua.prom.st/2291943406_flyaga-kls-sport.jpg</picture>
+<picture>https://images.ua.prom.st/2291943475_flyaga-kls-sport.jpg</picture>
+<picture>https://images.ua.prom.st/2291943498_flyaga-kls-sport.jpg</picture>
+<picture>https://images.ua.prom.st/2291943497_flyaga-kls-sport.jpg</picture>
+<name>Фляга KLS Sport 700 White-Red</name>
+<vendor>KLS</vendor>
+<vendorCode>KLS_SPORT_700_WH-R</vendorCode>
+<description><![CDATA[Фляга виконана в оригінальному дизайні KLS. Має широкий гумовий мундштук для ефективнішого використання, та зручну кришку, що легко відкривається, та герметична при закритті. Допускається наповнювати флягу водою, ізотонічними напоями, а також іншими спортивними напоями без газу. Виготовлена з високоякісного BPA-free харчового пластика, має захист від протікання. Допустима температура напою - до 60°C 
+
+Попередження:
+
+- Максимальна тепература рідини 60°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">700 мл</param>
+<param name="Вага">75 г</param>
+<param name="Колір">Біло-червоний</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149720169">
+<price>175</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291947303_flyaga-kls-sport.jpg</picture>
+<name>Фляга KLS Sport 2018 700 ml Antracit</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019379900 </vendorCode>
+<description><![CDATA[Це сучасна пляшечка для велосипедистів з унікальним дизайном KLS. Виготовлена з високоякісного нетоксичного поліпропілену, пляшка відповідає стандартам ЄС щодо матеріалів та виробів, призначених для контакту з продуктами харчування. Широкий заливний отвір дозволяє легко наповнювати та чистити. 
+
+Спортивна пляшка з високоякісних, довговічних та нетоксичних матеріалів
+
+Відповідає стандартам ЄС щодо матеріалів та виробів, призначених для контакту з продуктами харчування
+
+Широкий заливний отвір
+
+Підходить для напоїв до 70 ° C
+
+Підходить для велосипедного спорту та різноманітних видів активного відпочинку
+
+Попередження:
+
+- Максимальна тепература рідини 70°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+
+- Виготовлена в Італії
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">700 мл</param>
+<param name="Вага">82 г</param>
+<param name="Колір">Чорний</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149720939">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>6296122</categoryId>
+<picture>https://images.ua.prom.st/2291950161_flyaga-kls-tularosa.jpg</picture>
+<picture>https://images.ua.prom.st/2291949882_flyaga-kls-tularosa.jpg</picture>
+<picture>https://images.ua.prom.st/2291949940_flyaga-kls-tularosa.jpg</picture>
+<picture>https://images.ua.prom.st/2291950128_flyaga-kls-tularosa.jpg</picture>
+<picture>https://images.ua.prom.st/2291950159_flyaga-kls-tularosa.jpg</picture>
+<name>Фляга KLS Tularosa 750 Pink</name>
+<vendor>KLS</vendor>
+<vendorCode>KLS_Tularosa_Pink</vendorCode>
+<description><![CDATA[Фляга виконана в оригінальному дизайні KLS. Має широкий гумовий мундштук для ефективнішого використання, та зручну кришку, що легко відкривається, та герметична при закритті. Допускається наповнювати флягу водою, ізотонічними напоями, а також іншими спортивними напоями без газу. Виготовлена з високоякісного харчового пластика, має захист від протікання. Допустима температура напою - до 40°С. 
+
+Попередження:
+
+- Максимальна тепература рідини 40°C;
+
+- Перед першим використанням сполосніть теплою водою.
+
+Особливості:
+
+- Виготовлена з пластику, який не містить бісфенол;
+
+- Широкий гумовий мундштук
+
+- Дозволено мити в посудомийній машині;
+
+- Гумовий загубник;
+
+- Виготовлена в Італії
+
+- Додаткова кришка, що захищає загубник від пилу
+]]></description>
+<param name="Тип">Фляги</param>
+<param name="Габарити упаковки">20 х 8 х 8 см</param>
+<param name="Матеріал ">Пластик</param>
+<param name="Об'єм">750 мл</param>
+<param name="Вага">80 г</param>
+<param name="Колір">Рожевий</param>
+<param name="Комплектація">Фляга</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+</offer>
+<offer available="true" id="1149732544">
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2291974955_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975126_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975276_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975277_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975286_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975287_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975295_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291975298_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS Blaze 018 M/L Black-Green</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019379955</vendorCode>
+<description><![CDATA[Легкий шолом з поверхневим шаром Out-Mold. Витончена аеродинамічна конструкція з відмінною вентиляцією та зйомним козирком. Ремінці, що забезпечують кріплення фастексом на підборідді мають можливість регулювання в широкому діапазоні. 
+
+Особливості: 
+
+- Регулювальна застібка зручно припасовує шолом до голови та надійно утримує шолом на місці; 
+
+- 19 отворів забезпечують відмінну вентилцію, що допомогає регулювати температуру під шоломом; 
+
+- Зручні підкладки забезпечують комфорт посадки, добре поглинають вологу та легко знімаються для прання; 
+
+- Зйомний козирок в комплекті. 
+
+ 
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">19</param>
+<param name="Колір">Чорно-зелений</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">250</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">58-61 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="1149735692">
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2291980818_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291980814_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291980832_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291981064_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291981069_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291981092_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291981110_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS Blaze 018 S/M White</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019380036</vendorCode>
+<description><![CDATA[Легкий шолом з поверхневим шаром Out-Mold. Витончена аеродинамічна конструкція з відмінною вентиляцією та зйомним козирком. Ремінці, що забезпечують кріплення фастексом на підборідді мають можливість регулювання в широкому діапазоні. 
+
+Особливості: 
+
+- Регулювальна застібка зручно припасовує шолом до голови та надійно утримує шолом на місці; 
+
+- 19 отворів забезпечують відмінну вентилцію, що допомогає регулювати температуру під шоломом; 
+
+- Зручні підкладки забезпечують комфорт посадки, добре поглинають вологу та легко знімаються для прання; 
+
+- Зйомний козирок в комплекті. 
+
+ 
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">19</param>
+<param name="Колір">Білий</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">250</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">54-57 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="1149737862">
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>20876318</categoryId>
+<picture>https://images.ua.prom.st/2291982542_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982547_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982550_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982552_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982554_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982557_sholom-velosipednij-kls.jpg</picture>
+<picture>https://images.ua.prom.st/2291982561_sholom-velosipednij-kls.jpg</picture>
+<name>Шолом велосипедний KLS Blaze 018 M/L White</name>
+<vendor>KLS</vendor>
+<vendorCode>8585019380029</vendorCode>
+<description><![CDATA[Легкий шолом з поверхневим шаром Out-Mold. Витончена аеродинамічна конструкція з відмінною вентиляцією та зйомним козирком. Ремінці, що забезпечують кріплення фастексом на підборідді мають можливість регулювання в широкому діапазоні. 
+
+Особливості: 
+
+- Регулювальна застібка зручно припасовує шолом до голови та надійно утримує шолом на місці; 
+
+- 19 отворів забезпечують відмінну вентилцію, що допомогає регулювати температуру під шоломом; 
+
+- Зручні підкладки забезпечують комфорт посадки, добре поглинають вологу та легко знімаються для прання; 
+
+- Зйомний козирок в комплекті. 
+
+ 
+]]></description>
+<param name="Вид">Дорослий</param>
+<param name="Тип">Звичайний</param>
+<param name="Кількість отворів">19</param>
+<param name="Колір">Білий</param>
+<param name="Країна реєстрації бренду">Словаччина</param>
+<param name="Вага, г">250</param>
+<param name="Матеріал ">-Зовнішня частина: 100% Пластик -Внутрішня частина: 100% Пінополістирол</param>
+<param name="Розмір">58-61 см</param>
+<param name="Габарити упаковки">30 х 24 х 20 см</param>
+<param name="Теги">Легкі</param>
+<param name="Змінні антибактеріальні вставки">Є</param>
+</offer>
+<offer available="true" id="1149806108">
+<price>420</price>
+<currencyId>UAH</currencyId>
+<categoryId>14693063</categoryId>
+<picture>https://images.ua.prom.st/2292155732_zhinochi-krosivki-baas.jpg</picture>
+<picture>https://images.ua.prom.st/2292155749_zhinochi-krosivki-baas.jpg</picture>
+<picture>https://images.ua.prom.st/2292155752_zhinochi-krosivki-baas.jpg</picture>
+<picture>https://images.ua.prom.st/2292155756_zhinochi-krosivki-baas.jpg</picture>
+<name>Жіночі кросівки Baas sport 38 Black Red</name>
+<vendor>BaaS</vendor>
+<vendorCode>L553-11_38</vendorCode>
+<description><![CDATA[Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: Стильний дизайн, якісні матеріали, анатомічна конструкція.
+]]></description>
+<param name="Отделка и украшения">Аппликация</param>
+<param name="Сезон">Осінньо-весняне</param>
+<param name="Стать">Жіночі</param>
+<param name="Стиль взуття">Спортивний (sport)</param>
+<param name="Колір">Чорний з червоним</param>
+<param name="Висота каблука">Нижче 30 мм: Нижче 30 мм</param>
+<param name="Матеріал верху">Текстиль: Текстиль</param>
+<param name="Матеріал підкладки">Текстиль</param>
+<param name="Матеріал підошви">Каучук</param>
+<param name="Розмір">38</param>
+<param name="Мембрана">Немає</param>
+<param name="Призначення">Для фітнесу: Для фітнесу</param>
+<param name="Країна реєстрації бренду">Китай</param>
+<param name="Тип">Кросівки</param>
+<param name="Устілка">Етиленвінілацетат (EVA)</param>
+<param name="Тип фіксації">Шнурівки</param>
+<param name="Температурний діапазон">Від +15°C до 0°C</param>
+</offer>
+<offer available="true" id="1149807459">
+<price>790</price>
+<currencyId>UAH</currencyId>
+<categoryId>24543418</categoryId>
+<picture>https://images.ua.prom.st/2292162793_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292162699_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292162827_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292164461_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292164656_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292164698_olimpijka-puma-country.jpg</picture>
+<picture>https://images.ua.prom.st/2292164767_olimpijka-puma-country.jpg</picture>
+<name>Олімпійка Puma Country 03 M Red</name>
+<vendor>Puma</vendor>
+<vendorCode>Pumacountry03MR</vendorCode>
+<description><![CDATA[Стильна олімпійка, з оригінальним дизайном, естетичним виконанням і високою якістю матеріалів
+
+Низ і рукава мають широкі еластичними манжети.
+
+Класична модель, застібається на блискавку. 
+
+Дві бокові кишені.
+
+М'який, вміру еластичний матеріал і анатомічний крій забезпечують свободу рухів - завдяки цьому ідеально підходить не тільки в повсякденному використанні, а й на будь-яких тренуваннях.
+
+ 
+]]></description>
+<param name="Капюшон">Без капюшона</param>
+<param name="Стиль">Спортивний (sport)</param>
+<param name="Сезон">Осінньо-весняний</param>
+<param name="Розмір">M</param>
+<param name="Матеріал ">100% Поліестер</param>
+<param name="Тип">Чоловічі спортивні кофти</param>
+<param name="Колір">Червоний</param>
+<param name="Декорування">З текстовим принтом</param>
+<param name="Особливості моделі">Без капюшону|На блискавці</param>
+<param name="Вид толстовок">Свитшот</param>
+<param name="Сезонность">Весна/осень</param>
+<param name="Рисунки и надписи">С рисунками</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

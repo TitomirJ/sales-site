@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-20 22:17:00">
+<shop>
+<name>eLook</name>
+<company>eLook</company>
+<url>https://bigsales.pro/</url>
+<currencies>
+<currency id="USD" rate="CB"/>
+<currency id="RUR" rate="CB"/>
+<currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+</currencies>
+<categories>
+<category id="70918971" parentId="42028424">Резинові Чоботи</category>
+<category id="70910573" parentId="42028424">Балетки, Туфлі</category>
+<category id="42028424" parentId="19217065">Взуття Для Дівчаток</category>
+<category id="19217065">Взуття Для Дітей Та Підлітків</category>
+<category id="42028442" parentId="19217065">Взуття Для Хлопчиків</category>
+<category id="43492076" parentId="19217065">Кімнатні Тапки Дитячі</category>
+<category id="22057376" parentId="19564805">Чоловічі Сонцезахисні Окуляри</category>
+<category id="22062908" parentId="19564805">Жіночі Сонцезахисні Окуляри</category>
+<category id="29956001" parentId="19564805">Іміджеві Окуляри - Аксесуарні</category>
+<category id="62337085" parentId="19217065">Акватапки Для Дітей</category>
+<category id="42041546" parentId="19217065">Футбольне Взуття</category>
+<category id="70910400" parentId="70910394">Босоніжки, Сандалі</category>
+<category id="70910394" parentId="42028424">Літнє Взуття</category>
+<category id="70919010" parentId="19217065">Взуття Для Немовлят</category>
+<category id="70919544" parentId="42028442">Кросівки, Кеди</category>
+<category id="70919546" parentId="42028442">Резинові Чоботи</category>
+<category id="70919980" parentId="42028442">Класичне Взуття</category>
+<category id="70910401" parentId="70910394">Шльопки, Тапки, Сабо</category>
+<category id="70977873" parentId="19217065">Взуття Для Танців</category>
+<category id="19564805">Сонцезахисні Окуляря Для Всієї Родини</category>
+<category id="70910518" parentId="42028424">Кросівки, Кеди, Сліпони, Мокасини</category>
+<category id="70919205" parentId="42028442">Літнє Взуття</category>
+</categories>
+<offers>
+<offer available="true" id="705983091">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168373881_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168373882_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Состав">верх: текстиль/ подошва: пена/ стелька: текстиль</param>
+<param name="Пол">девочка</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="705983093">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168373885_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168373886_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, Для девочек, девочка, 34 (19 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">34 (19 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="705983103">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374342_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374343_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, Для девочек, девочка, 38 (21 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">38 (21 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="705983096">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168373877_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168373878_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, Для девочек, девочка, 35 (19 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">35 (19 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="705983098">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168373879_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168373880_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, девочка, 36 (20 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">36 (20 см)</param>
+</offer>
+<offer available="true" id="705983100">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168373883_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168373884_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, Для девочек, девочка, 37 (20,5 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">37 (20,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="705983105">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374336_krossovki-rozovyj-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374337_krossovki-rozovyj-razmery.jpg</picture>
+<name>Кроссовки Розовый Размеры: 19 см, 20 см, 20,5 см, 21 см Кроссовки, Для девочек, девочка, 39 (21 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 rosa</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">39 (21 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="705983107">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374338_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374339_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см;</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Состав">верх: текстиль/ подошва: пена/ стелька: текстиль</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Для мальчиков:">Для мальчиков</param>
+</offer>
+<offer available="" id="705983110">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374340_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374341_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; Кроссовки, 34 (19,5 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">Унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">34 (19,5 см)</param>
+</offer>
+<offer available="" id="705983114">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374675_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374676_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; Кроссовки, 36 (20 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">Унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">36 (20 см)</param>
+</offer>
+<offer available="" id="705983117">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374679_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374680_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; Кроссовки, 37 (20 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">Унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">37 (20 см)</param>
+</offer>
+<offer available="" id="705983119">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374683_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374684_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; Кроссовки, 38 (20 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">Унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">38 (20 см)</param>
+</offer>
+<offer available="" id="705983122">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374681_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374682_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; 39 (21 см)</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">Унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">39 (21 см)</param>
+</offer>
+<offer available="true" id="705983112">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1168374334_krossovki-belye-razmery.jpg</picture>
+<picture>https://images.ua.prom.st/1168374335_krossovki-belye-razmery.jpg</picture>
+<name>Кроссовки Белые Размеры: 19,5 см; Кроссовки, 35 (19,5 см), верх: текстиль/ подошва: пена/ стелька: текстиль</name>
+<vendorCode>1-1 white</vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">унисекс</param>
+<param name="Цвет">Белый</param>
+<param name="Размер">35 (19,5 см)</param>
+</offer>
+<offer available="true" id="705983155">
+<price>110</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910400</categoryId>
+<picture>https://images.ua.prom.st/1168375951_sandalii-zheltyj-razmer.jpg</picture>
+<picture>https://images.ua.prom.st/1168375952_sandalii-zheltyj-razmer.jpg</picture>
+<name>Сандалии Желтый  Размер - 14.5 см</name>
+<vendorCode>2158-3 girl yell</vendorCode>
+<description><![CDATA[Силиконовые сандалики для девочек. Удобная обувь для детей в летний сезон.]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Цвет">Желтый</param>
+<param name="Состав">верх: резина/ подошва: резина/ стелька: резина</param>
+<param name="Пол">девочка</param>
+</offer>
+<offer available="true" id="896213542">
+<price>199</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/1603100716_krossovki-malomerki-sinij.jpg</picture>
+<picture>https://images.ua.prom.st/1603100722_krossovki-malomerki-sinij.jpg</picture>
+<name>Кроссовки (Маломерки) Синий Цвет Размер-19,5 см</name>
+<vendorCode>1-1 royal-blue </vendorCode>
+<description><![CDATA[Летние, легкие кроссовки для детей, материал верха - сетка, что дает возможность дышать ножке ребенка. Очень легкие и удобные, подходят для активных игор и спортивных занятий.]]></description>
+<param name="Пол">унисекс</param>
+<param name="Цвет">Синий</param>
+<param name="Состав">верх: текстиль/ подошва: пена/ стелька: текстиль</param>
+<param name="Вид обуви">Кроссовки</param>
+</offer>
+<offer available="true" id="905176735">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622410885_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1622410849_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см)</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Размеры - 26 (14,5 см), 28 (16 см)
+
+Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)
+]]></description>
+<param name="Пол">девочка</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Цвет">фиолетово-розовый</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="905176737">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см) Кроссовки, Для девочек, девочка, 27 (15,5 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">27 (15,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="905176739">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см) Кроссовки, девочка, 29 (16,5 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">29 (16,5 см)</param>
+</offer>
+<offer available="" id="905176740">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см) Кроссовки, девочка, 30 (17 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">30 (17 см)</param>
+</offer>
+<offer available="" id="905176741">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см),31,29,30 Кроссовки, девочка, 31 (17,5 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">31 (17,5 см)</param>
+</offer>
+<offer available="true" id="905176736">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см) Кроссовки, Для девочек, девочка, 26 (14,5 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">26 (14,5 см)</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="true" id="905176738">
+<price>180</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1622411172_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки фиолетовые Размеры - 26 (14,5 см), 28 (16 см) Кроссовки, девочка, 28 (16 см), фиолетово-розовый</name>
+<vendorCode>F25-1 purple</vendorCode>
+<description><![CDATA[Популярная модель обуви c героинями любимого мультфильма, обязательно понравится всем девочкам. Стелька из натуральной кожи, есть супинатор. Обратите внимание на замеры в см, модель сильно маломерит (приблизительно на два размера)]]></description>
+<param name="Размер">28 (16 см)</param>
+</offer>
+<offer available="true" id="937399596">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698185514_clipony-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/1698185277_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки. Нету одной жемчужины.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Пол">девочка</param>
+<param name="Вид обуви">Cлипоны</param>
+<param name="Для мальчиков:">Для девочек</param>
+</offer>
+<offer available="" id="937399597">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 26 (16 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">26 (16 см)</param>
+</offer>
+<offer available="" id="937399599">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 28 (17 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">28 (17 см)</param>
+</offer>
+<offer available="" id="937399601">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 29 (17,5 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">29 (17,5 см)</param>
+</offer>
+<offer available="" id="937399602">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 30 (18 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">30 (18 см)</param>
+</offer>
+<offer available="" id="937399603">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 31 (18,5 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">31 (18,5 см)</param>
+</offer>
+<offer available="true" id="937399598">
+<price>120</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/1698186582_clipony-dlya-devochki.jpg</picture>
+<name>Cлипоны для девочки 27-16,5 см Cлипоны, девочка, 27 (16,5 см), Розовый</name>
+<vendorCode>2119-1 pink</vendorCode>
+<description><![CDATA[Есть резинки для регулировки полноты ножки.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Размер">27 (16,5 см)</param>
+</offer>
+<offer available="true" id="1162066734">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326751099_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326751104_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326751102_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326751103_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размеры: 31,32,33,34,35,36</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.
+
+31 (19,5 cм)
+
+32 (20 см)
+
+33 (20,5 см)
+
+34 (21 см)
+
+35 (21,5 см)
+
+36 (22 см)
+
+ 
+]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">31 (19,5 cм)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066735">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размеры: 31,32,33,34,35,36</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">31 (19,5 cм)</param>
+</offer>
+<offer available="true" id="1162066736">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размер - 32 (20 см)</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">32 (20 см)</param>
+</offer>
+<offer available="true" id="1162066737">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размер - 33 (20,5 см)</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">33 (20,5 см)</param>
+</offer>
+<offer available="true" id="1162066738">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размер - 34 (21 см)</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">34 (21 см)</param>
+</offer>
+<offer available="true" id="1162066739">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размер - 35 (21,5 см)</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">35 (21,5 см)</param>
+</offer>
+<offer available="true" id="1162066740">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326752073_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752070_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752072_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326752071_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Белый Размер - 36 (22 см)</name>
+<vendorCode>220-3 wh-bl</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на липучках для удобного обувания.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">36 (22 см)</param>
+</offer>
+<offer available="true" id="1162066741">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326754508_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326754512_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326754529_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размеры: 21-31</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.
+
+21 (12,5 см)
+
+22 (13 см)
+
+23 (13,5 см)
+
+24 (14 см)
+
+25 (15 см)
+
+26 (15,5 см)
+
+27 (16,5 см)
+
+28 (17 см)
+
+29 (17,5 см)
+
+30 (18 см)
+
+31 (19 см)
+]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">21 (12,5 см)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066742">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размеры: 21-31</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">21 (12,5 см)</param>
+</offer>
+<offer available="true" id="1162066743">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 22 (13 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">22 (13 см)</param>
+</offer>
+<offer available="true" id="1162066744">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 23 (13,5 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">23 (13,5 см)</param>
+</offer>
+<offer available="true" id="1162066745">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 24 (14 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">24 (14 см)</param>
+</offer>
+<offer available="true" id="1162066746">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 25 (15 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">25 (15 см)</param>
+</offer>
+<offer available="true" id="1162066747">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 26 (15,5 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">26 (15,5 см)</param>
+</offer>
+<offer available="true" id="1162066748">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 27 (16,5 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">27 (16,5 см)</param>
+</offer>
+<offer available="true" id="1162066749">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 28 (17 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">28 (17 см)</param>
+</offer>
+<offer available="true" id="1162066750">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 29 (17,5 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">29 (17,5 см)</param>
+</offer>
+<offer available="true" id="1162066751">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 30 (18 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">30 (18 см)</param>
+</offer>
+<offer available="true" id="1162066752">
+<price>335</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326755946_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755935_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326755955_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 31 (19 см)</name>
+<vendorCode>H1668 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, модель на липучке и шнурках-резинках. Кроссовки декорированные блестками.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">31 (19 см)</param>
+</offer>
+<offer available="true" id="1162066754">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326761152_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326761153_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326761154_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размеры: 36,37,38,39,40,41</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.
+
+36 (23 см)
+
+37 (23,5 см)
+
+38 (24 см)
+
+39 (24,5 см)
+
+40 (25 см)
+
+41 (26 см)
+
+ 
+
+ 
+]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">36 (23 см)</param>
+<param name="Пол">девочка/женщина</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066755">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размеры: 36,37,38,39,40,41</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">36 (23 см)</param>
+</offer>
+<offer available="true" id="1162066756">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размер - 37 (23,5 см)</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">37 (23,5 см)</param>
+</offer>
+<offer available="true" id="1162066757">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размер - 38 (24 см)</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">38 (24 см)</param>
+</offer>
+<offer available="true" id="1162066758">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размер - 39 (24,5 см)</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">39 (24,5 см)</param>
+</offer>
+<offer available="true" id="1162066759">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размер - 40 (25 см)</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">40 (25 см)</param>
+</offer>
+<offer available="true" id="1162066760">
+<price>465</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326762752_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762751_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<picture>https://images.ua.prom.st/2326762753_krossovki-dlya-devochkizhenschiny.jpg</picture>
+<name>Кроссовки для девочки/женщины Белый Размер - 41 (26 см)</name>
+<vendorCode>200-5 white</vendorCode>
+<description><![CDATA[Стильная, классическая и очень популярная модель белых кроссовок. На ножке смотрятся акуратно, удобные, не тяжелые. Модель на шнурках для плотной фиксации.]]></description>
+<param name="Цвет">Белый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">41 (26 см)</param>
+</offer>
+<offer available="true" id="1162066761">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326764016_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326764017_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326764024_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размеры: 27,28,29,30,31</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.
+
+27 (17 см)
+
+28 (17,5 см)
+
+29 (18 см)
+
+30 (18,7 см)
+
+31 (19,5 см)
+
+ 
+]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">27 (17 см)</param>
+<param name="Цвет">Разноцветный</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+</offer>
+<offer available="true" id="1162066762">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326767244_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767242_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767245_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размеры: 27,28,29,30,31</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">27 (17 см)</param>
+</offer>
+<offer available="true" id="1162066763">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326767244_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767242_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767245_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 28 (17,5 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">28 (17,5 см)</param>
+</offer>
+<offer available="true" id="1162066764">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326767244_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767242_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767245_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 29 (18 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">29 (18 см)</param>
+</offer>
+<offer available="true" id="1162066765">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326767244_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767242_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767245_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 30 (18,7 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">30 (18,7 см)</param>
+</offer>
+<offer available="true" id="1162066766">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326767244_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767242_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326767245_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 31 (19,5 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 green-purple</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">31 (19,5 см)</param>
+</offer>
+<offer available="true" id="1162066767">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326771438_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326771448_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326771461_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размеры: 27,29,30,31</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 pink</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.
+
+27 (17 см)
+
+29 (18 см)
+
+30 (18,7 см)
+
+31 (19,5 см)
+]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">27 (17 см)</param>
+<param name="Цвет">Разноцветный</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+</offer>
+<offer available="true" id="1162066768">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326772333_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772336_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772334_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размеры: 27,29,30,31</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 pink</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">27 (17 см)</param>
+</offer>
+<offer available="true" id="1162066769">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326772333_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772336_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772334_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 29 (18 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 pink</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">29 (18 см)</param>
+</offer>
+<offer available="true" id="1162066770">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326772333_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772336_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772334_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 30 (18,7 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 pink</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">30 (18,7 см)</param>
+</offer>
+<offer available="true" id="1162066771">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326772333_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772336_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326772334_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Разноцветный Размер - 31 (19,5 см)</name>
+<vendor>Paliament</vendor>
+<vendorCode>A103-3 pink</vendorCode>
+<description><![CDATA[Очень легкие кроссовки за счёт подошвы из пенки. Верх на шнурках, задник закрытий текстильный + липучка. Стильный фасон, приятный запах, комфорт и хорошее качество.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Пена</param>
+<param name="Размер детской обуви">31 (19,5 см)</param>
+</offer>
+<offer available="true" id="1162066772">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326774015_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326774016_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326774021_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размеры: 26,27,28,29,30,31</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.
+
+26 (17 см)
+
+27 (17,5 см)
+
+28 (18,3 см)
+
+29 (19 см)
+
+30 (19,5 см)
+
+31 (20 см)
+]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (17 см)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066773">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размеры: 26,27,28,29,30,31</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (17 см)</param>
+</offer>
+<offer available="true" id="1162066774">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 27 (17,5 см)</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">27 (17,5 см)</param>
+</offer>
+<offer available="true" id="1162066775">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 28 (18,3 см)</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">28 (18,3 см)</param>
+</offer>
+<offer available="true" id="1162066776">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 29 (19 см)</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">29 (19 см)</param>
+</offer>
+<offer available="true" id="1162066777">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 30 (19,5 см)</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">30 (19,5 см)</param>
+</offer>
+<offer available="true" id="1162066778">
+<price>375</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326776346_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776345_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326776347_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Розовый Размер - 31 (20 см)</name>
+<vendorCode>H2592-2 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор. Красивый розово цвет с перламутровым переливом. Подошва декорированная блестками. Модель на липучках.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">31 (20 см)</param>
+</offer>
+<offer available="true" id="1162066779">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326777815_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326777849_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326777865_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326777866_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размеры: 31,32,33,34,35,36</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).
+
+31 (19,5 см)
+
+32 (20,5 см)
+
+33 (21 см)
+
+34 (21,5 см)
+
+35 (22,5 см)
+
+36 (23 см)
+
+ 
+]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">31 (19,5 см)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066780">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размеры: 31,32,33,34,35,36</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">31 (19,5 см)</param>
+</offer>
+<offer available="true" id="1162066781">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размер - 32 (20,5 см)</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">32 (20,5 см)</param>
+</offer>
+<offer available="true" id="1162066782">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размер - 33 (21 см)</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">33 (21 см)</param>
+</offer>
+<offer available="true" id="1162066783">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размер - 34 (21,5 см)</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">34 (21,5 см)</param>
+</offer>
+<offer available="true" id="1162066784">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размер - 35 (22,5 см)</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">35 (22,5 см)</param>
+</offer>
+<offer available="true" id="1162066785">
+<price>425</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910518</categoryId>
+<picture>https://images.ua.prom.st/2326779986_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779994_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779996_krossovki-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326779997_krossovki-dlya-devochki.jpg</picture>
+<name>Кроссовки для девочки Бежевый Размер - 36 (23 см)</name>
+<vendorCode>LA043 beige</vendorCode>
+<description><![CDATA[Кроссовки легкие, на популярной массивной подошве. Есть липучки для удобного обувания. Внимание, возможно присутсвие легких следов проклейки (индивидуально по каждому размеру).]]></description>
+<param name="Цвет">Бежевый</param>
+<param name="Материал подошвы">Полиуретан</param>
+<param name="Размер детской обуви">36 (23 см)</param>
+</offer>
+<offer available="true" id="1162066786">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326782375_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326782385_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326782388_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размеры: 26,27,28,29,30,31</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.
+
+27 (16 см)
+
+28 (17 см)
+
+29 (17,5 см)
+
+30 (18,5 см)
+
+31 (19,2 см)
+
+ 
+]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">27 (16 см)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-лето</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066787">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326783252_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783253_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783254_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размеры: 26,27,28,29,30,31</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">27 (16 см)</param>
+</offer>
+<offer available="true" id="1162066788">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326783252_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783253_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783254_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 28 (17 см)</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">28 (17 см)</param>
+</offer>
+<offer available="true" id="1162066789">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326783252_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783253_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783254_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 29 (17,5 см)</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">29 (17,5 см)</param>
+</offer>
+<offer available="true" id="1162066790">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326783252_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783253_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783254_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 30 (18,5 см)</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">30 (18,5 см)</param>
+</offer>
+<offer available="true" id="1162066791">
+<price>495</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326783252_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783253_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326783254_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 31 (19,2 см)</name>
+<vendor>Apawwa</vendor>
+<vendorCode>N7-1 pink</vendorCode>
+<description><![CDATA[Трендовый в 2020 году дизайн обуви. Стильные, акуратные балетки хорошего качества.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">31 (19,2 см)</param>
+</offer>
+<offer available="true" id="1162066792">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326785322_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326785323_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размеры: 21,22,23,24,25,26</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.
+
+21 (12,5 см)
+
+22 (13 см)
+
+23 (13,5 см)
+
+24 (14,5 см)
+
+25 (15 см)
+
+26 (15,5 см)
+]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">21 (12,5 см)</param>
+<param name="Пол">девочка</param>
+<param name="Сезон">весна-лето</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066793">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размеры: 21,22,23,24,25,26</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">21 (12,5 см)</param>
+</offer>
+<offer available="true" id="1162066794">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 22 (13 см)</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">22 (13 см)</param>
+</offer>
+<offer available="true" id="1162066795">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 23 (13,5 см)</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">23 (13,5 см)</param>
+</offer>
+<offer available="true" id="1162066796">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 24 (14,5 см)</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">24 (14,5 см)</param>
+</offer>
+<offer available="true" id="1162066797">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 25 (15 см)</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">25 (15 см)</param>
+</offer>
+<offer available="true" id="1162066798">
+<price>295</price>
+<currencyId>UAH</currencyId>
+<categoryId>70910573</categoryId>
+<picture>https://images.ua.prom.st/2326786380_tufli-dlya-devochki.jpg</picture>
+<picture>https://images.ua.prom.st/2326786381_tufli-dlya-devochki.jpg</picture>
+<name>Туфли для девочки Розовый Размер - 26 (15,5 см)</name>
+<vendorCode>F27-1 pink</vendorCode>
+<description><![CDATA[Стелька из натуральной кожи, есть супинатор, милый дизайн по доступной цене.]]></description>
+<param name="Цвет">Розовый</param>
+<param name="Вид обуви">Туфли</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (15,5 см)</param>
+</offer>
+<offer available="true" id="1162066799">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326794995_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326794996_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326794994_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размеры: 32,33,34,35,36,37</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания.
+
+33 (20,5 см)
+
+34 (21 см)
+
+35 (21,5 см)
+
+36 (22 см)
+
+37 (23 см)]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">32 (20 см)</param>
+<param name="Цвет">Черно-оранжевый</param>
+<param name="Пол">мальчик</param>
+<param name="Сезон">весна-лето</param>
+<param name="Вид обуви">Кроссовки</param>
+</offer>
+<offer available="true" id="1162066800">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размеры: 32,33,34,35,36,37</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">32 (20 см)</param>
+</offer>
+<offer available="true" id="1162066801">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 33 (20,5 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">33 (20,5 см)</param>
+</offer>
+<offer available="true" id="1162066802">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 34 (21 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">34 (21 см)</param>
+</offer>
+<offer available="true" id="1162066803">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 35 (21,5 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">35 (21,5 см)</param>
+</offer>
+<offer available="true" id="1162066804">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 36 (22 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">36 (22 см)</param>
+</offer>
+<offer available="true" id="1162066805">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326796351_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796344_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326796350_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 37 (23 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-or</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">37 (23 см)</param>
+</offer>
+<offer available="true" id="1162066806">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797283_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797284_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-серый Размеры: 32,33,34,35,36,37</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания.
+
+32 (20 см)
+
+33 (20,5 см)
+
+34 (21 см)
+
+35 (21,5 см)
+
+36 (22 см)
+
+37 (23 см)
+]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">32 (20 см)</param>
+<param name="Цвет">Черно-серый</param>
+<param name="Пол">мальчик</param>
+<param name="Сезон">весна-лето</param>
+<param name="Вид обуви">Кроссовки</param>
+</offer>
+<offer available="true" id="1162066807">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-серый Размеры: 32,33,34,35,36,37</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">32 (20 см)</param>
+</offer>
+<offer available="true" id="1162066808">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 33 (20,5 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">33 (20,5 см)</param>
+</offer>
+<offer available="true" id="1162066809">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 34 (21 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">34 (21 см)</param>
+</offer>
+<offer available="true" id="1162066810">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 35 (21,5 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">35 (21,5 см)</param>
+</offer>
+<offer available="true" id="1162066811">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 36 (22 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">36 (22 см)</param>
+</offer>
+<offer available="true" id="1162066812">
+<price>385</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326797671_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326797668_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Черно-оранжевый Размер - 37 (23 см)</name>
+<vendor>Lilin</vendor>
+<vendorCode>A701-4 black-grey</vendorCode>
+<description><![CDATA[Полностью текстильные кроссовки, легкие, хороший вариант для физкультуры и на каждый день. Без застежек для удобного обувания. Обратите внимание, цвет подошвы отличается от фотографии, в реальности подошва яркого, насыщенного зеленого цвета.]]></description>
+<param name="Материал верха">Текстиль</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">37 (23 см)</param>
+</offer>
+<offer available="true" id="1162066813">
+<price>449</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919544</categoryId>
+<picture>https://images.ua.prom.st/2326800752_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326800753_krossovki-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326800755_krossovki-dlya-malchika.jpg</picture>
+<name>Кроссовки для мальчика Бело-синий Размеры: 25-35</name>
+<vendorCode>200-90K white</vendorCode>
+<description><![CDATA[Стильные кроссовки для мальчика на трендовой в сезоне 2020 массивной подошве. Модель на шнурках-резинках и липучке. Разрисованная подошва не требует ежедневного мытья.
+
+25 (15,5 см)
+
+26 (16 см)
+
+27 (17 см)
+
+28 (17,5 см)
+
+29 (18,5 см)
+
+30 (19 см)
+
+31 (20 см)
+
+32 (20,5 см)
+
+33 (21 см)
+
+34 (22 см)
+
+35 (22,5 см)
+
+36 (23 см)
+
+ 
+]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">25 (15,5 см)</param>
+<param name="Цвет">Бело-синий</param>
+<param name="Пол">мальчик</param>
+<param name="Сезон">весна-осень</param>
+<param name="Вид обуви">Кроссовки</param>
+<param name="Материал верха">Эко кожа, эко замша</param>
+</offer>
+<offer available="true" id="1162066826">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326804020_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326804017_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326804018_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размеры: 21,22,23,24,25,26</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытыми передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длине стельки (не по швам).
+
+21 (13,7 см)
+
+22 (14,3 см)
+
+23 (15 см)
+
+24 (15,5 см)
+
+25 (16,5 см)
+
+26 (17,2 см)
+]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">21 (13,7 см)</param>
+<param name="Цвет">Сине-салатовый</param>
+<param name="Пол">мальчик</param>
+<param name="Сезон">лето</param>
+<param name="Материал верха">Эко кожа</param>
+</offer>
+<offer available="true" id="1162066827">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размеры: 21,22,23,24,25,26</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">21 (13,7 см)</param>
+</offer>
+<offer available="true" id="1162066828">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размер - 22 (14,3 см)</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">22 (14,3 см)</param>
+</offer>
+<offer available="true" id="1162066829">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размер - 23 (15 см)</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">23 (15 см)</param>
+</offer>
+<offer available="true" id="1162066830">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размер - 24 (15,5 см)</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">24 (15,5 см)</param>
+</offer>
+<offer available="true" id="1162066831">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размер - 25 (16,5 см)</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">25 (16,5 см)</param>
+</offer>
+<offer available="true" id="1162066832">
+<price>320</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326802628_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802630_sandalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326802629_sandalii-dlya-malchika.jpg</picture>
+<name>Сандалии для мальчика Сине-салатовый Размер - 26 (17,2 см)</name>
+<vendorCode>A1878-2 blue-green</vendorCode>
+<description><![CDATA[Модель с открытими передником и задником. Стелька из натуральной кожи, есть супинатор. Модель на трёх липучках для удобного застебания. Замеры сделаны по полной длинне стельки (не по швам).]]></description>
+<param name="Вид обуви">Сандалии</param>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (17,2 см)</param>
+</offer>
+<offer available="true" id="1162066833">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758049_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758046_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758047_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размеры: 26,27,28,29,30,31</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытым передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.
+
+26 (15,7 см)
+
+27 (16,3 см)
+
+28 (16,9 см)
+
+29 (17,6 см)
+
+30 (18,2 см)
+
+31 (18,9 см)
+]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (15,7 см)</param>
+<param name="Цвет">Сине-белый</param>
+<param name="Пол">мальчик</param>
+<param name="Сезон">лето</param>
+<param name="Вид обуви">Cандалии</param>
+<param name="Материал верха">Эко кожа, текстиль</param>
+</offer>
+<offer available="true" id="1162066834">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размеры: 26,27,28,29,30,31</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">26 (15,7 см)</param>
+</offer>
+<offer available="true" id="1162066835">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размер - 27 (16,3 см)</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">27 (16,3 см)</param>
+</offer>
+<offer available="true" id="1162066836">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размер - 28 (16,9 см)</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">28 (16,9 см)</param>
+</offer>
+<offer available="true" id="1162066837">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размер - 29 (17,6 см)</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">29 (17,6 см)</param>
+</offer>
+<offer available="true" id="1162066838">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размер - 30 (18,2 см)</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">30 (18,2 см)</param>
+</offer>
+<offer available="true" id="1162066839">
+<price>349</price>
+<currencyId>UAH</currencyId>
+<categoryId>70919205</categoryId>
+<picture>https://images.ua.prom.st/2326758335_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758334_candalii-dlya-malchika.jpg</picture>
+<picture>https://images.ua.prom.st/2326758346_candalii-dlya-malchika.jpg</picture>
+<name>Cандалии для мальчика Сине-салатовый Размер - 31 (18,9 см)</name>
+<vendor>Jong Golf</vendor>
+<vendorCode>B283-1 blue-green</vendorCode>
+<description><![CDATA[Модель с прорезиненным закрытим передником - отличная защита от ударов детской ножки. Стелька из натуральной кожи, есть супинатор. Модель на двух липучках.]]></description>
+<param name="Материал подошвы">Резина</param>
+<param name="Размер детской обуви">31 (18,9 см)</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

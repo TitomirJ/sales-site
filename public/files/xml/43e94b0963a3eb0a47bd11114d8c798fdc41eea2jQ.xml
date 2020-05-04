@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-22">
+	 <shop>
+		      <name>БТ-Сервис</name>
+		      <company>БТ-Сервис</company>
+		      <url>https://bt-service.ua</url>
+		      <currencies>
+			      <currency id="UAH" rate="1"/>
+		      </currencies>
+		<categories>
+				<category id="28994" parentId="33972">Очистители, увлажнители воздуха</category>
+				<category id="28849" parentId="33972">Осушители воздуха</category>
+				<category id="26986" parentId="33968">Кондиционеры</category>
+				<category id="28638" parentId="33971">Бойлеры - накопительные водонагреватели</category>
+				<category id="28641" parentId="33970">Котлы</category>
+				<category id="36482" parentId="36471">Бытовые, вытяжные вентиляторы</category>
+				<category id="62767" parentId="59247">Системы обратного осмоса</category>
+				<category id="33259" parentId="33970">Тепловые насосы</category>
+				<category id="43911" parentId="36471">Промышленные вентиляторы</category>
+				<category id="28639" parentId="59247">Кулеры для воды</category>
+				<category id="62772" parentId="59247">Проточные фильтры для воды</category>
+				<category id="28782" parentId="33968">Мульти сплит-сиситемы</category>
+				<category id="36483" parentId="36471">Приточно-вытяжные установки с рекуперацией тепла</category>
+				<category id="33976" parentId="33971">Проточные водонагреватели</category>
+				<category id="62768" parentId="59247">Комплексная очистка воды от железа, марганца, нитратов, жесткости</category>
+				<category id="28642" parentId="33970">Обогреватели</category>
+				<category id="62771" parentId="59247">Системы умягчения воды</category>
+				<category id="33973" parentId="33971">Газовые колонки</category>
+				<category id="33978" parentId="33970">Насосы</category>
+				<category id="56915" parentId="33971">Гелиосистемы для горячего водоснабжения</category>
+				<category id="28640" parentId="33970">Тепловые завесы</category>
+				<category id="62769" parentId="59247">Ультрафиолетовые установки обеззараживания воды</category>
+				<category id="54387" parentId="33970">Автоматика и регуляторы</category>
+				<category id="54388" parentId="33970">Теплый пол электрический</category>
+				<category id="48880" parentId="33970">Буферные емкости, теплоаккумуляторы</category>
+				<category id="70791" parentId="0">Снятые с производства</category>
+</categories>
+<offers>
+		<offer id="28856" available="true">
+				<url>https://bt-service.ua/cooper-and-hunter-ch-d025wd.html</url>
+				<price>45220</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>28849</categoryId>
+				<picture>https://bt-service.ua/images/prices/88/000047789_b.jpg</picture>
+				<name>Осушитель воздуха Cooper&amp;Hunter CH-D025WD</name>
+				<vendor>Cooper&amp;Hunter</vendor>
+				<description>Производитель:  Cooper&amp;Hunter; Питание:  1~ 220 V / 50 Hz; Рабочий диапазон температур:  от 10 до 42  град. С; Фильтры:  фильтр грубой очистки  ; Размер (ВхШхГ):  750х890х255  мм</description>
+				<param name="Производитель">Cooper&amp;Hunter</param>
+<param name="Влагоудаление">60.00 л/сут.</param>
+<param name="Тип">конденсационный</param>
+<param name="Питание">1~ 220 V / 50 Hz</param>
+<param name="Потребляемая мощность (max)">тепловая мощность - 1600	Вт, потребляемая мощность - 920/1260 Вт.</param>
+<param name="Рабочий диапазон температур">от 10 до 42 град. С</param>
+<param name="Расход воздуха">450.00 м3/ч.</param>
+<param name="Управление и индикация">цветной цифровой жидкокристаллический дисплей </param>
+<param name="Фильтры">фильтр грубой очистки </param>
+<param name="Уровень шума">46 дБ.</param>
+<param name="Хладагент">R407</param>
+<param name="Системы защиты">функция авторестарта - автоматически вводит режим осушения предустановленный до выключения осушителя; функция авторазморозки - при необходимости автоматически будет включен нагреватель, не позволяя системе замерзнуть </param>
+<param name="Размер (ВхШхГ)">750х890х255 мм</param>
+<param name="Вес">50кг.</param>
+<param name="Цвет">белый </param>
+<param name="Дополнительно">оснащены роторными компрессорами Hitachi, Toshiba, работают тихо и эффективно; 4 варианта установки: настенный, на ножки, на колесики (крепеж в комплекте), а также скрытый монтаж; вертикальный и горизонтальный поток осушенного воздуха   </param>
+<param name="Страна производитель">Китай</param>
+<param name="Гарантия">24мес. официальной гарантии</param>
+<country>Китай</country>
+<keywords>Осушитель воздуха Cooper&amp;Hunter CH-D025WD, гарантия, цена, кредит, бесплатная доставка</keywords>
+				<sales_notes></sales_notes>
+				<promotions></promotions>
+				<manufacturer_warranty>от производителя</manufacturer_warranty>
+		</offer>
+</offers>
+</shop>
+</yml_catalog>

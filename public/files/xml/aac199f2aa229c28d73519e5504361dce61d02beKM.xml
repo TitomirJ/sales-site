@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-28 18:32">
+<shop>
+	<name>marketplus</name>
+	<company>Маркет+</company>
+	<url>http://marketplus.com.ua/</url>
+	<currencies>
+		<currency id="UAH" rate="1"/>
+	</currencies>
+	<categories>
+		<category id="2">Компьютеры и ноутбуки</category>
+		<category id="22" parentId="2">Аксессуары для ноутбуков и ПК</category>
+		<category id="222" parentId="22">Аксессуары для ноутбуков</category>
+	</categories>
+	<offers>
+		<offer id="AJ_Marvel001" available="true">
+			<price>160</price>
+			<currencyId>UAH</currencyId>
+			<categoryId>222</categoryId>
+			<picture>https://i1.rozetka.ua/goods/5577424/21365541_images_5577424416.jpg</picture>
+			<vendor>ZF</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Наклейки на ноутбук ZF Cartoon Marvel супергерои 50 шт (AJ_Marvel001)</name>
+			<description><![CDATA[Материал: PVC printing<br/>Размер: от 4 см до 11 см<br/>Водоустойчивые<br/>Количество: 50 шт]]></description>
+			<param name="Категория">Наклейки</param>
+			<param name="Совместимость">универсальные</param>
+			<param name="Дополнительные характеристики">Материал: PVC printing Размер: от 4 см до 11 см Водоустойчивые Количество: 50 шт</param>
+			<param name="Цвет">Multicolor</param>
+		</offer>
+	</offers>
+</shop>
+</yml_catalog>

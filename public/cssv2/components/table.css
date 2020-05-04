@@ -1,0 +1,161 @@
+/*
+    Общие стили для таблиц
+ */
+table {
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+thead {
+    border-bottom: 1px solid #415049;
+}
+
+table th:first-child {
+    border-radius: 5px 0 0 0;
+    -moz-border-radius: 5px 0 0 0;
+    -webkit-border-radius: 5px 0 0 0;
+}
+
+table th:last-child {
+    border-radius: 0 5px 0 0;
+    -moz-border-radius: 0 5px 0 0;
+    -webkit-border-radius: 0 5px 0 0;
+}
+
+table tr:last-child td:first-child {
+    border-radius:  0 0 0 5px;
+    -moz-border-radius: 0 0 0 5px;
+    -webkit-border-radius: 0 0 0 5px;
+}
+
+table tr:last-child td:last-child {
+    border-radius: 0 0 5px 0;
+    -moz-border-radius: 0 0 5px 0;
+    -webkit-border-radius: 0 0 5px 0;
+}
+
+/*
+    Стили для таблицы которая на мин. версии часть head будет переноситься на левую сторону
+    а body направую. Каждая карточка будет отдельно.
+
+    задать Врапперу всей таблицы Класс .sm-table
+*/
+.sm-table table {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.sm-table caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+}
+
+.sm-table tr {
+    background-color: rgba(248, 248, 248, 0.2);
+    padding: .35em;
+}
+
+.sm-table th,
+.sm-table td {
+    padding: .625em;
+    text-align: center;
+}
+
+.sm-table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 850px) {
+    .sm-table table {
+        border: 0;
+    }
+
+    .sm-table caption {
+        font-size: 1.3em;
+    }
+
+    .sm-table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+    }
+
+    .sm-table tbody tr {
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        -webkit-box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+        -moz-box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+        box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+    }
+
+    .sm-table tr {
+        display: block;
+        margin-bottom: .625em;
+    }
+
+    .sm-table td {
+        border-bottom: 1px solid #ddd;
+        display: block;
+        font-size: .8em;
+        text-align: right;
+    }
+
+    .sm-table td::before {
+        /*
+        * aria-label has no advantage, it won't be read inside a table
+        content: attr(aria-label);
+        */
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .sm-table td:last-child {
+        border-bottom: 0;
+    }
+}
+/* for badges in table */
+.sm-table  span.badge {
+    display: inline-block;
+    float: none;
+    margin-left: auto;
+}
+
+/*
+    Стили для Обычной таблицы. Добавить враперу класс .normal-table
+*/
+.normal-table table {
+    width: 100%;
+}
+
+.normal-table th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+/*.normal-table tr:nth-child(even){background-color: #f2f2f2}*/
+
+/*для скрпита открытия таблицы во весь экран*/
+.fullscreen-table {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    left: 0;
+    top: 0px;
+    z-index: 10000;
+    background: #c6c6c6;
+}

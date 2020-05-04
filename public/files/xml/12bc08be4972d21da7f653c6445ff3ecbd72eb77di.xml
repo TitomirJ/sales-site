@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-17 14:37">
+  <shop>
+    <name>Profi Rider</name>
+    <company>Profi Rider</company>
+    <url>https://profirider.com/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+      <category id="83914121" parentId="71777018">Ремені та пояси</category>
+      <category id="83913495" parentId="16661508">Спортивні костюми</category>
+      <category id="16715121" parentId="16661508">Чоловічі куртки</category>
+      <category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+      <category id="53761682" parentId="6257850">Велосвітло</category>
+      <category id="24353170">Трекингове взуття</category>
+      <category id="19959920">Велосипеди</category>
+      <category id="18890955" parentId="14407150">Термобілизна</category>
+      <category id="17343107" parentId="17305611">Зимові штани</category>
+      <category id="17343103" parentId="16661508">Зимові штани</category>
+      <category id="17305720" parentId="17305611">Шапки</category>
+      <category id="17305707" parentId="17305611">Куртки</category>
+      <category id="17305611">Жіночий одяг</category>
+      <category id="16661555" parentId="16661508">Шапки</category>
+      <category id="16661508">Чоловічий одяг</category>
+      <category id="16617831" parentId="4122200">Спальні мішки</category>
+      <category id="16617810" parentId="4122200">Трекінгові палиці</category>
+      <category id="14693395" parentId="7196249">Чоловічі кеди</category>
+      <category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+      <category id="14693393" parentId="7196249">Чоловічі черевики</category>
+      <category id="14693063" parentId="7196244">Жіночі кросівки</category>
+      <category id="14693061" parentId="7196244">Жіночі черевики</category>
+      <category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+      <category id="14693035" parentId="14407150">Універсальні головні убори</category>
+      <category id="14408905" parentId="14407150">Шоломи</category>
+      <category id="14407588" parentId="14407150">Маски</category>
+      <category id="7196249">Чоловіче взуття</category>
+      <category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+      <category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+      <category id="6257850">Велоаксесуари</category>
+      <category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+      <category id="4122200">Рюкзаки і туризм</category>
+      <category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+      <category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+      <category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+      <category id="71777030" parentId="71777028">Рюкзаки</category>
+      <category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+      <category id="71777018">Одяг, взуття та аксесуари</category>
+      <category id="69024725" parentId="46709597">Фітнес-браслети</category>
+      <category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+      <category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+      <category id="52859360">Басейн і аквафітнес</category>
+      <category id="46709702" parentId="46709597">Наручні годинники</category>
+      <category id="46709597">Наручні годинники</category>
+      <category id="45139423" parentId="4122200">Намети і аксесуари</category>
+      <category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+      <category id="36278188" parentId="36275949">Маски</category>
+      <category id="36276195" parentId="36275949">Шоломи</category>
+      <category id="36275949">Уцінка</category>
+      <category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+      <category id="29447009" parentId="6257850">Велоінструменти</category>
+      <category id="29447008" parentId="6257850">Насоси</category>
+      <category id="29447007" parentId="6257850">Велодзвінки</category>
+      <category id="28200372" parentId="7196244">Жіночі кеди</category>
+      <category id="28164081" parentId="7196244">Жіночі сліпони</category>
+      <category id="27554175" parentId="14407150">Сноуборди</category>
+      <category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+      <category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+      <category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+      <category id="24572876" parentId="17305611">Спортивні штани</category>
+      <category id="24544864" parentId="16661508">Спортивні штани</category>
+      <category id="22851891" parentId="16661508">Футболки</category>
+      <category id="22028141" parentId="7196244">Жіночі балетки</category>
+      <category id="18029666">Sale -34% брендові куртки</category>
+      <category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+      <category id="14693027" parentId="14407150">Лижні палиці</category>
+      <category id="14407150">Зимовий спорт</category>
+      <category id="13502021" parentId="6257850">Велокомп'ютери</category>
+      <category id="7196244">Жіноче взуття</category>
+      <category id="6296093" parentId="6257850">Велосипедні сумки</category>
+      <category id="58981807">Ігрові види спорту</category>
+      <category id="66636889">Прогулянки й активний відпочинок</category>
+      <category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+      <category id="65449525" parentId="65446905">Спортивні окуляри</category>
+      <category id="65447344" parentId="65446905">Спортивні сумки</category>
+      <category id="65446905">Спортивні аксесуари</category>
+      <category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+      <category id="52863748" parentId="52859360">Шапочки для плавання</category>
+      <category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+      <category id="52863745" parentId="52859360">Окуляри для плавання</category>
+      <category id="46807613" parentId="36275949">Годинники</category>
+      <category id="49986322" parentId="36275949">Штани</category>
+      <category id="46711296" parentId="46709597">Смарт-годинники</category>
+      <category id="43651396" parentId="14407150">Рукавиці</category>
+      <category id="39308422" parentId="14407150">Черевики лижні</category>
+      <category id="36678205" parentId="36275949">Куртки</category>
+      <category id="36660532" parentId="36275949">Взуття</category>
+      <category id="27250069" parentId="14407150">Гірські лижі</category>
+      <category id="27094492" parentId="24353170">Жіночі кросівки</category>
+      <category id="22851904" parentId="17305611">Футболки</category>
+      <category id="24570219" parentId="17305611">Кофти</category>
+      <category id="24543418" parentId="16661508">Кофти</category>
+      <category id="22851901" parentId="16661508">Шорти</category>
+    </categories>
+  <offers>
+<offer available="true" id="1110362931">
+    <url>https://profirider.com/p1110362931-kurtka-cholovicha-black.html</url>
+    <oldprice>7000</oldprice>
+    <price>4200</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>16715121</categoryId>
+    <picture>https://images.ua.prom.st/2158652460_kurtka-cholovicha-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2158652462_kurtka-cholovicha-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2158652463_kurtka-cholovicha-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2158652461_kurtka-cholovicha-black.jpg</picture>
+    <picture>https://images.ua.prom.st/2158652464_kurtka-cholovicha-black.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Куртка чоловіча Black Diamond M’s Forge Hoody S Black</name>
+    <vendor>Black Diamond</vendor>
+    <vendorCode>BDQT06_015_S</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Чоловіча куртка Black Diamond для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: 
+
+
+	Стильний дизайн; 
+	Дуже легка і тепла;
+	Якісні матеріали.
+	Утеплювач з натурального качиного пуху (100%)
+
+</description>
+    <param name="Сезон" unit="">Осінньо-зимовий</param>
+    <param name="Стиль" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал верху" unit="">Штучні матеріали: Нейлон</param>
+    <param name="Матеріал підкладки" unit="">Нейлон</param>
+    <param name="Довжина" unit="">Середня</param>
+    <param name="Температурний режим" unit="">Для середніх температур</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Температурний діапазон" unit="">Від +10°C до -5°C</param>
+    <param name="Модель" unit="">Regular Fit</param>
+    <param name="Посадка" unit="">Середня</param>
+    <param name="Довжина рукава" unit="">З довгими рукавами</param>
+    <param name="Декорування" unit="">Однотонні моделі</param>
+    <param name="Розмір" unit="">S: S</param>
+    <param name="Колір" unit="">Чорний: Чорний</param>
+    <param name="Матеріал " unit="">Нейлон</param>
+    <param name="Склад" unit="">Верх: 100% Нейлон; Утеплювач: 100% Пух; Підкладка: 100% Нейлон</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Матеріал наповнювача" unit="">Пух</param>
+    <param name="Застібка" unit="">Змійка</param>
+  </offer>
+  <offer available="true" id="1110376356">
+    <url>https://profirider.com/p1110376356-kurtka-cholovicha-marmot.html</url>
+    <oldprice>5650</oldprice>
+    <price>3390</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>16715121</categoryId>
+    <picture>https://images.ua.prom.st/2158660291_kurtka-cholovicha-marmot.jpg</picture>
+    <picture>https://images.ua.prom.st/2158660289_kurtka-cholovicha-marmot.jpg</picture>
+    <picture>https://images.ua.prom.st/2158660292_kurtka-cholovicha-marmot.jpg</picture>
+    <picture>https://images.ua.prom.st/2158660300_kurtka-cholovicha-marmot.jpg</picture>
+    <picture>https://images.ua.prom.st/2158660303_kurtka-cholovicha-marmot.jpg</picture>
+    <picture>https://images.ua.prom.st/2158660302_kurtka-cholovicha-marmot.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Куртка чоловіча Marmot Zeus Jacket S Sunset Orange</name>
+    <vendor>Marmot</vendor>
+    <vendorCode>MRT72380_9185_S</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Чоловіча куртка Black Diamond для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: 
+
+
+	Стильний дизайн; 
+	Дуже легка і тепла;
+	Якісні матеріали.
+	Утеплювач з натурального качиного пуху (100%)
+
+</description>
+    <param name="Сезон" unit="">Осінньо-зимовий</param>
+    <param name="Стиль" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал верху" unit="">Штучні матеріали: Поліестер</param>
+    <param name="Матеріал підкладки" unit="">Поліестер</param>
+    <param name="Довжина" unit="">Середня</param>
+    <param name="Температурний режим" unit="">Для середніх температур</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Температурний діапазон" unit="">Від +10°C до -5°C</param>
+    <param name="Модель" unit="">Regular Fit</param>
+    <param name="Посадка" unit="">Середня</param>
+    <param name="Довжина рукава" unit="">З довгими рукавами</param>
+    <param name="Декорування" unit="">Однотонні моделі</param>
+    <param name="Розмір" unit="">S: S</param>
+    <param name="Колір" unit="">Помаранчевий: Помаранчевий</param>
+    <param name="Матеріал " unit="">Нейлон</param>
+    <param name="Склад" unit="">Верх: 100% Поліестер; Утеплювач: 100% Пух; Підкладка: 100% Поліестер</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Матеріал наповнювача" unit="">Пух</param>
+    <param name="Застібка" unit="">Змійка</param>
+  </offer>
+  <offer available="true" id="1110389827">
+    <url>https://profirider.com/p1110389827-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7166.67</oldprice>
+    <price>4300</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158671052_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158671043_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158671048_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158671049_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158671051_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158671050_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 80 27,5 Black-Orange</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_80_27,5_Blk_Orng</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Orange</param>
+    <param name="Жорсткість черевиків" unit="">80</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">27,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110462973">
+    <url>https://profirider.com/p1110462973-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7166.67</oldprice>
+    <price>4300</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158819179_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158819169_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158819176_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158819175_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158819177_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158819178_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 80 28,5 Black-Orange</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_80_28,5_Blk_Orng</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Orange</param>
+    <param name="Жорсткість черевиків" unit="">80</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">28,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110464507">
+    <url>https://profirider.com/p1110464507-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7166.67</oldprice>
+    <price>4300</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158820590_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158820580_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158820582_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158820585_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158820583_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158820584_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 80 29,5 Black-Orange</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_80_29,5_Blk_Orng</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Orange</param>
+    <param name="Жорсткість черевиків" unit="">80</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">29,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110466169">
+    <url>https://profirider.com/p1110466169-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7166.67</oldprice>
+    <price>4300</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158824731_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158824672_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158824730_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158824728_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158824727_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158824729_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 80 30,5 Black-Orange</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_80_29,5_Blk_Orng</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Orange</param>
+    <param name="Жорсткість черевиків" unit="">80</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">30,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110466482">
+    <url>https://profirider.com/p1110466482-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7666.67</oldprice>
+    <price>4600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158826140_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158826141_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158826135_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158826138_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158826142_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158826139_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 90 26,5 Black-Green</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_90_26,5_Blk_Grn</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Green</param>
+    <param name="Жорсткість черевиків" unit="">90</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">26,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110467574">
+    <url>https://profirider.com/p1110467574-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7666.67</oldprice>
+    <price>4600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158830033_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158830012_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158830030_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158830031_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158830034_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158830035_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 90 27,5 Black-Green</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_90_27,5_Blk_Grn</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Green</param>
+    <param name="Жорсткість черевиків" unit="">90</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">27,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110467968">
+    <url>https://profirider.com/p1110467968-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7666.67</oldprice>
+    <price>4600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2158831486_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158831475_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158831481_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158831482_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158831480_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2158831483_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 90 30,5 Black-Green</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_90_30,5_Blk_Grn</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 80 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Green</param>
+    <param name="Жорсткість черевиків" unit="">90</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">30,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1110962680">
+    <url>https://profirider.com/p1110962680-shkarpetki-lizhni-relax.html</url>
+    <oldprice>700</oldprice>
+    <price>350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2160261425_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160261429_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160261430_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160261433_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160261441_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Extreme RS032B L Black-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS032B_L_Blk-Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">43-46</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний з сірим</param>
+    <param name="Склад" unit="">32% Нейлон, 33% Вовна Мериноса, 33% Акрил, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1110963723">
+    <url>https://profirider.com/p1110963723-shkarpetki-lizhni-relax.html</url>
+    <oldprice>700</oldprice>
+    <price>350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2160262840_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160262842_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160262844_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160262846_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160262847_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Extreme RS032 L Black-Red</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS032_L_Blk-Red</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">43-46</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Інші кольори: Червоно-чорний</param>
+    <param name="Склад" unit="">32% Нейлон, 33% Вовна Мериноса, 33% Акрил, 2% Еластан</param>
+  </offer>
+  <offer available="true" id="1110966035">
+    <url>https://profirider.com/p1110966035-shkarpetki-lizhni-relax.html</url>
+    <oldprice>440</oldprice>
+    <price>220</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2160264663_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160264788_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160264789_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160264790_shkarpetki-lizhni-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160264792_shkarpetki-lizhni-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Relax Carve RS033 L Black-Grey</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RS033_L_Blk-Gry</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали.
+
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Розмір" unit="">43-46</param>
+    <param name="Матеріал" unit="">Акрил + нейлон + вовна + еластан</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту: Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Чорний: Чорний з сірим</param>
+    <param name="Склад" unit="">43% Нейлон, 40% Бавовна, 11% Акрил, 5% Вовна Мериноса, 1% Еластан</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

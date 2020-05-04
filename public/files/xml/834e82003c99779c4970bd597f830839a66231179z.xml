@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog
+SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-23 11:19">
+	<shop>
+		<name>Skidka.ua</name>
+		<company>Skidka.ua</company>
+		<url>https://skidka.ua</url>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="2641">Смартфоны, ТВ и электроника</category>
+			<category id="2697" parentId="2641">Телевизоры</category>
+			<category id="2643" parentId="2641">Мобильные телефоны</category>
+			<category id="330" parentId="2641">Планшеты</category>
+			<category id="3225" parentId="2641">Аудиотехника</category>
+			<category id="2649" parentId="3225">Наушники</category>
+			<category id="2717" parentId="3225">Музыкальные центры и магнитолы</category>
+			<category id="271" parentId="3225">Акустические системы</category>
+			<category id="2796" parentId="3225">Аудио, домашние кинотеатры</category>
+			<category id="2647" parentId="3225">Диктофоны</category>
+			<category id="3226" parentId="2641">Видеотехника</category>
+			<category id="2695" parentId="3226">Медиаплееры</category>
+			<category id="2694" parentId="3226">Видеокамеры</category>
+			<category id="2652" parentId="2641">Аксессуары для мобильных телефонов и смартфонов</category>
+			<category id="2664" parentId="2652">Универсальные мобильные батареи</category>
+			<category id="2704" parentId="2652">Карты памяти</category>
+			<category id="2655" parentId="2652">Защитные пленки и стекла</category>
+			<category id="2660" parentId="2652">Зарядные устройства</category>
+			<category id="2661" parentId="2652">Кабели синхронизации</category>
+			<category id="2662" parentId="2652">Держатели</category>
+			<category id="2666" parentId="2652">Моноподы для селфи и аксессуары</category>
+			<category id="2653" parentId="2652">Bluetooth-гарнитуры</category>
+			<category id="2691" parentId="2652">Аккумуляторы для мобильных телефонов</category>
+			<category id="2671" parentId="2652">Аксессуары для электронных книг</category>
+			<category id="2696" parentId="2641">Аксессуары для ТВ</category>
+			<category id="2699" parentId="2696">Подставки, крепления для ТВ</category>
+			<category id="2698" parentId="2696">Универсальные пульты ДУ</category>
+			<category id="2702" parentId="2696">ТВ-антенны и ресиверы</category>
+			<category id="2700" parentId="2696">Кабели и переходники</category>
+			<category id="2701" parentId="2696">3D и VR очки</category>
+			<category id="2642" parentId="2641">Портативная техника</category>
+			<category id="2648" parentId="2642">Электронные книги</category>
+			<category id="2665" parentId="2642">Смарт-часы</category>
+			<category id="2676" parentId="2642">Мобильная связь и интернет</category>
+			<category id="2677" parentId="2676">Мобильный интернет</category>
+			<category id="3595" parentId="2642">Фитнес-браслеты</category>
+			<category id="3224" parentId="2641">Фототехника</category>
+			<category id="2693" parentId="3224">Фотоаппараты</category>
+			<category id="2706" parentId="3224">Объективы</category>
+			<category id="2712" parentId="3224">Аккумуляторы для фото- и видеокамер</category>
+			<category id="2715" parentId="3224">Аккумуляторы и батарейки</category>
+			<category id="2709" parentId="3224">Вспышки</category>
+			<category id="2713" parentId="3224">Зарядные устройства для фото- и видеокамер</category>
+			<category id="2711" parentId="3224">Светофильтры, бленды и крышки для объективов</category>
+			<category id="2708" parentId="3224">Сумки и чехлы фото/видео</category>
+			<category id="2710" parentId="3224">Штативы</category>
+			<category id="233">Компьютеры и ноутбуки</category>
+			<category id="234" parentId="233">Ноутбуки</category>
+			<category id="291" parentId="233">Компьютеры, неттопы, моноблоки</category>
+			<category id="268" parentId="233">Мониторы</category>
+			<category id="259" parentId="233">Комплектующие для компьютеров и ноутбуков</category>
+			<category id="266" parentId="259">Видеокарты</category>
+			<category id="263" parentId="259">Жесткие диски и дисковые массивы</category>
+			<category id="262" parentId="259">Процессоры</category>
+			<category id="273" parentId="259">SSD</category>
+			<category id="285" parentId="259">ТВ-тюнеры</category>
+			<category id="260" parentId="259">Оперативная память</category>
+			<category id="261" parentId="259">Материнские платы</category>
+			<category id="265" parentId="259">Блоки питания</category>
+			<category id="269" parentId="259">Корпуса</category>
+			<category id="270" parentId="259">Системы охлаждения</category>
+			<category id="264" parentId="259">Оптические приводы</category>
+			<category id="267" parentId="259">Звуковые карты</category>
+			<category id="375" parentId="259">Аккумуляторы для ноутбуков</category>
+			<category id="313" parentId="233">Аксессуары для компьютерной техники</category>
+			<category id="314" parentId="313">Сумки, рюкзаки и чехлы для ноутбуков</category>
+			<category id="324" parentId="313">Подставки и столики для ноутбуков</category>
+			<category id="374" parentId="313">Блоки питания для ноутбуков</category>
+			<category id="328" parentId="313">Расходные материалы</category>
+			<category id="316" parentId="313">Аксессуары для ПК</category>
+			<category id="315" parentId="313">Аксессуары для ноутбуков</category>
+			<category id="286" parentId="313">Стабилизаторы напряжения для компьютеров</category>
+			<category id="317" parentId="313">Сетевые фильтры, адаптеры и удлинители</category>
+			<category id="288" parentId="313">Аккумуляторы для ИБП</category>
+			<category id="3248" parentId="313">Аксессуары для мониторов</category>
+			<category id="321" parentId="313">Аксессуары для планшетов</category>
+			<category id="325" parentId="321">Чехлы и клавиатуры для планшетов</category>
+			<category id="327" parentId="313">Эргономика рабочего места</category>
+			<category id="329" parentId="233">Графические планшеты</category>
+			<category id="3229" parentId="233">Периферийные устройства</category>
+			<category id="323" parentId="3229">Веб-камеры</category>
+			<category id="276" parentId="3229">Клавиатуры</category>
+			<category id="278" parentId="3229">Комплект: клавиатура + мышь</category>
+			<category id="277" parentId="3229">Мышки</category>
+			<category id="290" parentId="3229">Флеш память USB</category>
+			<category id="3227" parentId="233">Оргтехника</category>
+			<category id="333" parentId="3227">3D-устройства</category>
+			<category id="332" parentId="3227">Аксессуары для проекторов</category>
+			<category id="307" parentId="3227">Биндеры (брошюровщики)</category>
+			<category id="272" parentId="3227">Источники бесперебойного питания</category>
+			<category id="306" parentId="3227">Ламинаторы</category>
+			<category id="235" parentId="3227">МФУ/Принтеры</category>
+			<category id="236" parentId="3227">Проекторы</category>
+			<category id="289" parentId="3227">Сканеры</category>
+			<category id="303" parentId="3227">Телефонные аппараты</category>
+			<category id="304" parentId="3227">Факсы</category>
+			<category id="331" parentId="3227">Шредеры</category>
+			<category id="257" parentId="3227">Экраны для проекторов</category>
+			<category id="292" parentId="233">Сетевое оборудование</category>
+			<category id="297" parentId="292">IP-телефония</category>
+			<category id="300" parentId="292">KVM-переключатели и кабели</category>
+			<category id="301" parentId="292">Антенны и кабели</category>
+			<category id="295" parentId="292">Беспроводные точки доступа</category>
+			<category id="294" parentId="292">Коммутаторы</category>
+			<category id="293" parentId="292">Маршрутизаторы</category>
+			<category id="299" parentId="292">Разное</category>
+			<category id="296" parentId="292">Сетевые адаптеры</category>
+			<category id="280" parentId="233">Товары для геймеров</category>
+			<category id="283" parentId="280">Аксессуары к игровым приставкам</category>
+			<category id="281" parentId="280">Игровые консоли и детские приставки</category>
+			<category id="282" parentId="280">Игровые манипуляторы и аксессуары для консолей</category>
+			<category id="275" parentId="280">Игровые поверхности</category>
+			<category id="237" parentId="233">Программное обеспечение</category>
+			<category id="242" parentId="237">Игры</category>
+			<category id="335" parentId="233">Серверное оборудование</category>
+			<category id="348" parentId="335">HDD для серверов</category>
+			<category id="358" parentId="335">Оперативная память для серверов</category>
+			<category id="356" parentId="335">Сетевые карты для серверов</category>
+			<category id="1">Бытовая техника</category>
+			<category id="137" parentId="1">Крупная бытовая техника</category>
+			<category id="161" parentId="137">Холодильники</category>
+			<category id="158" parentId="137">Плиты</category>
+			<category id="160" parentId="137">Стиральные машины</category>
+			<category id="163" parentId="137">Морозильные камеры</category>
+			<category id="159" parentId="137">Посудомоечные машины</category>
+			<category id="165" parentId="137">Винные шкафы</category>
+			<category id="164" parentId="137">Сушильные машины</category>
+			<category id="99" parentId="1">Климатическая техника</category>
+			<category id="104" parentId="99">Кондиционеры</category>
+			<category id="106" parentId="99">Вентиляторы</category>
+			<category id="124" parentId="99">Водонагреватели</category>
+			<category id="103" parentId="124">Бойлеры</category>
+			<category id="126" parentId="124">Газовые проточные (колонки)</category>
+			<category id="127" parentId="124">Электрические накопительные</category>
+			<category id="125" parentId="124">Электрические проточные водонагреватели</category>
+			<category id="3159" parentId="99">Котлы</category>
+			<category id="128" parentId="3159">Котлы газовые</category>
+			<category id="131" parentId="3159">Котлы твердотопливные</category>
+			<category id="130" parentId="3159">Котлы электрические</category>
+			<category id="102" parentId="99">Увлажнители воздуха</category>
+			<category id="135" parentId="99">Осушители воздуха</category>
+			<category id="107" parentId="99">Обогреватели</category>
+			<category id="108" parentId="107">Инфракрасные обогреватели</category>
+			<category id="122" parentId="107">Керамические панели</category>
+			<category id="112" parentId="107">Конвекторы</category>
+			<category id="116" parentId="112">Электрические конвекторы</category>
+			<category id="109" parentId="107">Масляные радиаторы</category>
+			<category id="111" parentId="107">Тепловентиляторы</category>
+			<category id="123" parentId="107">Тепловые завесы</category>
+			<category id="88" parentId="1">Встраиваемая техника</category>
+			<category id="90" parentId="88">Встраиваемые варочные поверхности</category>
+			<category id="91" parentId="90">Варочные поверхности газовые</category>
+			<category id="93" parentId="90">Варочные поверхности комбинированные</category>
+			<category id="92" parentId="90">Варочные поверхности электрические</category>
+			<category id="95" parentId="88">Встраиваемые духовые шкафы</category>
+			<category id="3146" parentId="88">Встраиваемые кофемашины</category>
+			<category id="3147" parentId="88">Встраиваемые микроволновые печи</category>
+			<category id="3148" parentId="88">Встраиваемые морозильные камеры</category>
+			<category id="3149" parentId="88">Встраиваемые посудомоечные машины</category>
+			<category id="3150" parentId="88">Встраиваемые стиральные машины</category>
+			<category id="3151" parentId="88">Встраиваемые холодильники</category>
+			<category id="94" parentId="88">Вытяжки</category>
+			<category id="98" parentId="88">Вытяжные вентиляторы</category>
+			<category id="3152" parentId="88">Шкафы для подогрева посуды</category>
+			<category id="138" parentId="1">Профессиональная техника</category>
+			<category id="139" parentId="138">Холодильные шкафы</category>
+			<category id="57" parentId="1">Техника для кухни</category>
+			<category id="82" parentId="57">Мультиварки</category>
+			<category id="70" parentId="57">Микроволновые печи</category>
+			<category id="72" parentId="57">Кофеварки</category>
+			<category id="66" parentId="57">Блендеры</category>
+			<category id="69" parentId="57">Электрочайники</category>
+			<category id="73" parentId="57">Мясорубки</category>
+			<category id="64" parentId="57">Соковыжималки</category>
+			<category id="78" parentId="57">Грили и электрошашлычницы</category>
+			<category id="71" parentId="57">Кухонные комбайны</category>
+			<category id="75" parentId="57">Бутербродницы и вафельницы</category>
+			<category id="65" parentId="57">Хлебопечки</category>
+			<category id="67" parentId="57">Миксеры</category>
+			<category id="81" parentId="57">Блинницы</category>
+			<category id="87" parentId="57">Вакуумные упаковщики</category>
+			<category id="62" parentId="57">Весы кухонные</category>
+			<category id="74" parentId="57">Йогуртницы и мороженицы</category>
+			<category id="59" parentId="57">Кофемолки</category>
+			<category id="60" parentId="57">Ломтерезки</category>
+			<category id="77" parentId="57">Мультипечи и аэрогрили</category>
+			<category id="79" parentId="57">Настольные плиты</category>
+			<category id="68" parentId="57">Пароварки</category>
+			<category id="76" parentId="57">Сушилки для овощей и фруктов</category>
+			<category id="61" parentId="57">Тостеры</category>
+			<category id="63" parentId="57">Фритюрницы</category>
+			<category id="58" parentId="57">Электрические печи</category>
+			<category id="32" parentId="1">Красота, здоровье, уход</category>
+			<category id="40" parentId="32">Весы напольные</category>
+			<category id="45" parentId="32">Зубные щетки и ирригаторы</category>
+			<category id="46" parentId="32">Косметические приборы</category>
+			<category id="41" parentId="32">Массажеры</category>
+			<category id="37" parentId="32">Машинки для стрижки и триммеры</category>
+			<category id="44" parentId="32">Приборы для маникюра и педикюра</category>
+			<category id="39" parentId="32">Приборы для укладки волос</category>
+			<category id="47" parentId="32">Тонометры</category>
+			<category id="35" parentId="32">Фены</category>
+			<category id="34" parentId="32">Электробритвы</category>
+			<category id="33" parentId="32">Эпиляторы</category>
+			<category id="13" parentId="1">Товары по уходу за домом и одеждой</category>
+			<category id="1583" parentId="13">Гладильные доски</category>
+			<category id="27" parentId="13">Машинки для стрижки катышков</category>
+			<category id="14" parentId="13">Пароочистители</category>
+			<category id="15" parentId="13">Пылесосы</category>
+			<category id="24" parentId="13">Роботы-пылесосы</category>
+			<category id="21" parentId="13">Утюги и гладильные системы</category>
+			<category id="29" parentId="13">Швейная техника и аксессуары</category>
+			<category id="30" parentId="29">Швейная техника</category>
+			<category id="10" parentId="1">Прочая мелкая бытовая техника</category>
+			<category id="179" parentId="1">Фильтры для воды</category>
+			<category id="3194" parentId="179">Картриджи для фильтров</category>
+			<category id="3200" parentId="3194">Картридж проточного фильтра</category>
+			<category id="3214" parentId="179">Проточные фильтры</category>
+			<category id="3215" parentId="179">Системы обратного осмоса</category>
+			<category id="3216" parentId="179">Фильтры - кувшины</category>
+			<category id="3217" parentId="179">Фильтры на кран</category>
+			<category id="3230" parentId="1">Аксессуары и комплектующие для бытовой техники</category>
+			<category id="5" parentId="3230">Аксессуары для кухонной техники</category>
+			<category id="4" parentId="3230">Аксессуары для мелкой бытовой техники</category>
+			<category id="97" parentId="3230">Аксессуары к вбт</category>
+			<category id="162" parentId="3230">Аксессуары к кбт</category>
+			<category id="129" parentId="3230">Аксессуары к климатической технике</category>
+			<category id="7" parentId="3230">Аксессуары к товарам по уходу за домом и одеждой</category>
+			<category id="8" parentId="3230">Аксессуары к товарам по уходу за телом</category>
+			<category id="2808">Сантехника и ремонт</category>
+			<category id="2809" parentId="2808">Сантехника, комплектующие и аксессуары для ванной</category>
+			<category id="2880" parentId="2809">Аксессуары для ванной</category>
+			<category id="2832" parentId="2809">Аксессуары к кухонным мойкам</category>
+			<category id="2811" parentId="2809">Керамика</category>
+			<category id="2815" parentId="2811">Биде</category>
+			<category id="2816" parentId="2811">Пьедесталы</category>
+			<category id="2812" parentId="2811">Раковины</category>
+			<category id="2814" parentId="2811">Унитазы</category>
+			<category id="2818" parentId="2809">Комплектующие</category>
+			<category id="2852" parentId="2809">Кухонные мойки</category>
+			<category id="2864" parentId="2809">Полотенцесушители</category>
+			<category id="2865" parentId="2809">Радиаторы отопления</category>
+			<category id="2853" parentId="2809">Сифоны</category>
+			<category id="2851" parentId="2809">Смесители</category>
+			<category id="3228" parentId="2808">Мебель и оборудование для ванн</category>
+			<category id="2854" parentId="3228">Ванны, боксы, душевые</category>
+			<category id="2858" parentId="2854">Ванны</category>
+			<category id="2859" parentId="2854">Душевые гарнитуры</category>
+			<category id="2860" parentId="2854">Душевые кабины, стенки, двери и перегородки</category>
+			<category id="2861" parentId="2860">Душевые кабины и стенки</category>
+			<category id="2855" parentId="2860">Душевые поддоны</category>
+			<category id="2838" parentId="3228">Инсталляционные системы</category>
+			<category id="2840" parentId="2838">Кнопки для смыва</category>
+			<category id="2833" parentId="3228">Мебель для ванной комнаты</category>
+			<category id="2835" parentId="2833">Зеркала для ванной комнаты</category>
+			<category id="2834" parentId="2833">Тумбы</category>
+			<category id="3170" parentId="3228">Сушилки для рук</category>
+			<category id="1427" parentId="2808">Теплый пол</category>
+			<category id="2409">Спорт и увлечения</category>
+			<category id="2410" parentId="2409">Активный отдых, туризм и хобби</category>
+			<category id="2435" parentId="2410">Аксессуары для активного отдыха и туризма</category>
+			<category id="2440" parentId="2435">Посуда для отдыха и туризма</category>
+			<category id="2441" parentId="2435">Фонари и аксессуары</category>
+			<category id="2517" parentId="2410">Ножи и мультиинструменты</category>
+			<category id="2518" parentId="2517">Мультиинструменты</category>
+			<category id="2519" parentId="2517">Ножи</category>
+			<category id="2411" parentId="2410">Радиоуправляемые модели</category>
+			<category id="2418" parentId="2411">Квадрокоптеры</category>
+			<category id="2452" parentId="2410">Рыбалка</category>
+			<category id="2453" parentId="2452">Катушки</category>
+			<category id="2454" parentId="2452">Спиннинги и удилища</category>
+			<category id="2419" parentId="2410">Туризм и кемпинг</category>
+			<category id="2428" parentId="2419">Биотуалеты</category>
+			<category id="2431" parentId="2419">Газовые и мультитопливные туристические системы</category>
+			<category id="2427" parentId="2419">Мангалы, барбекю, гриль</category>
+			<category id="2422" parentId="2419">Рюкзаки и гермомешки</category>
+			<category id="2426" parentId="2419">Термопродукция</category>
+			<category id="2523" parentId="2409">Спортивные товары</category>
+			<category id="2549" parentId="2523">Зимние виды спорта</category>
+			<category id="2553" parentId="2549">Санки и снегокаты</category>
+			<category id="1313">Товары для дома</category>
+			<category id="1722" parentId="1313">Безопасность дома</category>
+			<category id="1730" parentId="1722">Видеонаблюдение</category>
+			<category id="1740" parentId="1730">Аксессуары для видеонаблюдения</category>
+			<category id="1731" parentId="1730">Камеры видеонаблюдения</category>
+			<category id="1734" parentId="1731">AHD видеокамеры</category>
+			<category id="1732" parentId="1731">IP-камеры</category>
+			<category id="1743" parentId="1722">Домофоны</category>
+			<category id="1744" parentId="1743">Видеодомофоны</category>
+			<category id="1745" parentId="1743">Панели вызова</category>
+			<category id="1723" parentId="1722">Сигнализация</category>
+			<category id="1728" parentId="1723">Аксессуары для сигнализаций</category>
+			<category id="1319" parentId="1313">Мебель</category>
+			<category id="1323" parentId="1319">Офисные кресла и стулья</category>
+			<category id="1642" parentId="1313">Посуда</category>
+			<category id="1643" parentId="1642">Приготовление пищи</category>
+			<category id="1648" parentId="1643">Гусятницы</category>
+			<category id="1645" parentId="1643">Кастрюли, ковши</category>
+			<category id="1647" parentId="1643">Крышки для посуды</category>
+			<category id="1646" parentId="1643">Наборы посуды для приготовления пищи</category>
+			<category id="1644" parentId="1643">Сковороды</category>
+			<category id="1695" parentId="1642">Ножи, ножницы, топорики</category>
+			<category id="1697" parentId="1695">Наборы ножей</category>
+			<category id="1696" parentId="1695">Ножи кухонные</category>
+			<category id="1653" parentId="1642">Кухонные принадлежности</category>
+			<category id="1673" parentId="1653">Другой кухонный инвентарь</category>
+			<category id="1662" parentId="1653">Измельчители, прессы</category>
+			<category id="1658" parentId="1653">Кухонные наборы</category>
+			<category id="1719" parentId="1642">Посуда для духовок и микроволновок</category>
+			<category id="1720" parentId="1719">Формы для выпечки</category>
+			<category id="1701" parentId="1642">Посуда для чая и кофе</category>
+			<category id="1705" parentId="1701">Гейзерные кофеварки</category>
+			<category id="1709" parentId="1701">Заварочные чайники и кофейники</category>
+			<category id="1710" parentId="1709">Заварочные чайники</category>
+			<category id="1703" parentId="1701">Френч-прессы</category>
+			<category id="1702" parentId="1701">Чайники для плиты</category>
+			<category id="1675" parentId="1642">Сервировка стола</category>
+			<category id="843" parentId="1675">Столовые приборы</category>
+			<category id="1676" parentId="1675">Столовые сервизы</category>
+			<category id="1682" parentId="1675">Тарелки и салатники</category>
+			<category id="1686" parentId="1642">Хранение продуктов</category>
+			<category id="1694" parentId="1686">Термосы и бутылки</category>
+			<category id="1590" parentId="1313">Хозяйственные товары</category>
+			<category id="1601" parentId="1590">Бытовая химия</category>
+			<category id="1620" parentId="1601">Средства для мытья посуды</category>
+			<category id="1622" parentId="1620">Моющие средства</category>
+			<category id="1581" parentId="1313">Инвентарь для дома и офиса</category>
+			<category id="1450" parentId="1581">Освещение</category>
+			<category id="1772" parentId="1450">Уличное освещение</category>
+			<category id="1584" parentId="1581">Сушки для одежды</category>
+			<category id="1428" parentId="1313">Умный дом</category>
+			<category id="1442" parentId="1428">Управление электроприборами</category>
+			<category id="1443" parentId="1442">Умные розетки</category>
+			<category id="464">Товары для детей</category>
+			<category id="531" parentId="464">Прогулки и активный отдых</category>
+			<category id="542" parentId="531">Электротранспорт</category>
+			<category id="547" parentId="464">Детские игрушки</category>
+			<category id="585" parentId="547">Машинки, модели техники и оружие</category>
+			<category id="586" parentId="585">Радиоуправляемые игрушки</category>
+			<category id="1751">Дача, сад, огород</category>
+			<category id="1752" parentId="1751">Садовая техника</category>
+			<category id="1753" parentId="1752">Газонокосилки</category>
+			<category id="1757" parentId="1752">Садовые измельчители</category>
+			<category id="1754" parentId="1752">Триммеры и мотокосы</category>
+			<category id="1758" parentId="1752">Цепные пилы</category>
+			<category id="1781" parentId="1751">Садовый инвентарь</category>
+			<category id="1783" parentId="1781">Опрыскиватели</category>
+			<category id="1782" parentId="1781">Ручной садовый инструмент</category>
+			<category id="2097">Инструменты и автотовары</category>
+			<category id="2259" parentId="2097">Автотовары</category>
+			<category id="2260" parentId="2259">Автозвук</category>
+			<category id="2262" parentId="2260">Головные устройства</category>
+			<category id="2286" parentId="2259">Автокосметика</category>
+			<category id="2287" parentId="2259">Автоэлектроника</category>
+			<category id="2289" parentId="2287">GPS навигаторы</category>
+			<category id="2293" parentId="2287">Видеорегистраторы</category>
+			<category id="19" parentId="2287">Ручные/Автомобильные пылесосы</category>
+			<category id="2098" parentId="2097">Инструменты и оборудование</category>
+			<category id="2132" parentId="2098">Оборудование</category>
+			<category id="1582" parentId="2132">Лестницы, стремянки, подмости</category>
+			<category id="2136" parentId="2132">Промышленные пылесосы</category>
+			<category id="2133" parentId="2132">Сварочное оборудование</category>
+			<category id="2135" parentId="2132">Точильные станки</category>
+			<category id="2137" parentId="2132">Универсальные мойки</category>
+			<category id="2205" parentId="2098">Ручной инструмент</category>
+			<category id="2215" parentId="2205">Режущий инструмент</category>
+			<category id="2213" parentId="2205">Шарнирно-губцевый инструмент</category>
+			<category id="2099" parentId="2098">Электроинструменты</category>
+			<category id="2100" parentId="2099">Дрели и миксеры</category>
+			<category id="2113" parentId="2099">Измерительная техника</category>
+			<category id="2116" parentId="2099">Клеевые пистолеты и аксессуары</category>
+			<category id="2109" parentId="2099">Краскопульты</category>
+			<category id="2115" parentId="2099">Многофункциональные инструменты</category>
+			<category id="2114" parentId="2099">Отбойные молотки</category>
+			<category id="2120" parentId="2099">Паяльное оборудование</category>
+			<category id="2121" parentId="2120">Паяльники</category>
+			<category id="2123" parentId="2121">Электрические паяльники</category>
+			<category id="2106" parentId="2099">Перфораторы</category>
+			<category id="2104" parentId="2099">Пилы и плиткорезы</category>
+			<category id="2108" parentId="2099">Фрезеры</category>
+			<category id="2102" parentId="2099">Шлифовальные и полировальные машины (Болгарки)</category>
+			<category id="2101" parentId="2099">Шуруповерты и электроотвертки</category>
+			<category id="2103" parentId="2099">Электролобзики</category>
+			<category id="2105" parentId="2099">Электрорубанки</category>
+			<category id="2241" parentId="2098">Электромонтажное оборудование</category>
+			<category id="2243" parentId="2241">Низковольтное оборудование</category>
+			<category id="2253" parentId="2241">Стабилизаторы напряжения</category>
+			<category id="3012">Красота и здоровье</category>
+			<category id="3013" parentId="3012">Косметика и парфюмерия</category>
+			<category id="3017" parentId="3013">Косметика</category>
+			<category id="3018" parentId="3017">Косметика по уходу</category>
+			<category id="3023" parentId="3018">Уход за полостью рта</category>
+			<category id="3161" parentId="3012">Маникюрные наборы</category>
+			<category id="602">Одежда, обувь и аксессуары</category>
+			<category id="1287" parentId="602">Сумки и аксессуары</category>
+			<category id="1288" parentId="1287">Аксессуары для детей</category>
+			<category id="1890">Офис, школа, книги</category>
+			<category id="1891" parentId="1890">Канцелярия</category>
+			<category id="1892" parentId="1891">Бумажная продукция</category>
+			<category id="1896" parentId="1892">Бумага офисная</category>
+			<category id="1950" parentId="1891">Калькуляторы</category>
+			<category id="384">Подарки и товары для праздников</category>
+			<category id="390" parentId="384">Искусcтвенные сосны и ели</category>
+			<category id="391" parentId="390">Искусственные елки</category>
+			<category id="394" parentId="384">Новогодний декор</category>
+			<category id="411" parentId="394">Мишура, дождик, бусы</category>
+			<category id="416" parentId="411">Декоративные новогодние гирлянды</category>
+			<category id="2028">Товары для бизнеса</category>
+			<category id="2029" parentId="2028">Торговое оборудование</category>
+			<category id="2047" parentId="2029">Аксессуары для торгового оборудования</category>
+			<category id="2032" parentId="2029">Сканеры штрих-кодов</category>
+			<category id="3164">Услуги</category>
+		</categories>
+		<offers>
+			<offer id="big17925" available="true">
+				<url>https://skidka.ua/morozilnye-kamery/liebherr-gn-2723.html?utm_source=big&amp;utm_medium=cpc&amp;utm_term=gn_2723&amp;utm_campaign=morozilnye_kamery</url>
+				<price>19059</price>
+				<price_old>20399.00</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>163</categoryId>
+				<picture>https://skidka.ua/upload/iblock/55c/55cbeff9baf527072d5d1715b9ef98e1.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/a36/a360fe1d82f0d463aa51bc3cc68e0448.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/c4e/c4e7c8506742932bab4d45aa0f79427b.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/efc/efcad0ca5282526d6c02c2f91a243e65.jpg</picture>
+				<picture>https://skidka.ua/upload/iblock/548/548cc7d0341867778acb3e42dafcfb0c.jpg</picture>
+				<name><![CDATA[Морозильная камера Liebherr GN 2723]]></name>
+				<vendor>Liebherr</vendor>
+				<stock_quantity>3</stock_quantity>
+				<description><![CDATA[Морозильная камера Liebherr GN 2723&amp;nbsp;– однокамерный морозильник, объемом 224 л. Его современный дизайн и корпус белого цвета позволяют гармонично разместить аппарат при любом кухонном дизайне. Электронное управление предельно простое, и разобраться в нем не составит труда. Внутреннее пространство морозильной камеры тщательно продумано и позволяет оптимально использовать весь имеющийся объем. Контейнеры с прозрачной фронтальной стенкой дают возможность посмотреть на содержимое, не выдвигая ящики. Режим быстрой и глубокой заморозки при температуре поможет заморозить продукты на длительное время. Низкий уровень шума морозильной техники Liebherr обеспечит комфортную эксплуатацию. Морозильная камера , благодаря применению новых технологий и инновационных решений, потребляет минимальное количество электроэнергии, значительно экономя затраты на эксплуатацию.]]></description>
+				<param name="Производитель"><![CDATA[Liebherr]]></param>
+				<param name="Дополнительные характеристики"><![CDATA[Производительность замораживания – 18 кг/сутки. Потребление электроэнергии – 288.4 кВт•ч в год. Поддержание температуры в случае отключения электроэнергии – 43 час.]]></param>
+				<param name="Вес"><![CDATA[н.д.]]></param>
+				<param name="Габариты (ВхШхГ)"><![CDATA[1644х600х630 мм]]></param>
+				<param name="Гарантия, мес"><![CDATA[36 мес]]></param>
+				<param name="Дисплей"><![CDATA[Есть]]></param>
+				<param name="Класс энергопотребления"><![CDATA[А+]]></param>
+				<param name="Общий объем, л"><![CDATA[250-299]]></param>
+				<param name="Система размораживания"><![CDATA[No Frost]]></param>
+				<param name="Страна-производитель"><![CDATA[Болгария]]></param>
+				<param name="Тип"><![CDATA[Камера]]></param>
+				<param name="Тип управления"><![CDATA[Электронное]]></param>
+				<param name="Дополнительные функции"><![CDATA[No Frost (Frost Free), динамическая вентиляция, система FrostSafe с закрытыми прозрачными выдвижными ящиками, лоток для трав и ягод, перенавешиваемая дверь, эргономичная ручка со встроенным механизмом открывания, возможность установки вплотную к стене или]]></param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

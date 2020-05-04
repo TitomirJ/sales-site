@@ -1,0 +1,2625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-28 17:47">
+  <shop>
+    <name>Profi Rider</name>
+    <company>Profi Rider</company>
+    <url>https://profirider.com/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+      <category id="83914121" parentId="71777018">Ремені та пояси</category>
+      <category id="83913495" parentId="16661508">Спортивні костюми</category>
+      <category id="16715121" parentId="16661508">Чоловічі куртки</category>
+      <category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+      <category id="53761682" parentId="6257850">Велосвітло</category>
+      <category id="24353170">Трекингове взуття</category>
+      <category id="19959920">Велосипеди</category>
+      <category id="18890955" parentId="14407150">Термобілизна</category>
+      <category id="17343107" parentId="17305611">Зимові штани</category>
+      <category id="17343103" parentId="16661508">Зимові штани</category>
+      <category id="17305720" parentId="17305611">Шапки</category>
+      <category id="17305707" parentId="17305611">Куртки</category>
+      <category id="17305611">Жіночий одяг</category>
+      <category id="16661555" parentId="16661508">Шапки</category>
+      <category id="16661508">Чоловічий одяг</category>
+      <category id="16617831" parentId="4122200">Спальні мішки</category>
+      <category id="16617810" parentId="4122200">Трекінгові палиці</category>
+      <category id="14693395" parentId="7196249">Чоловічі кеди</category>
+      <category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+      <category id="14693393" parentId="7196249">Чоловічі черевики</category>
+      <category id="14693063" parentId="7196244">Жіночі кросівки</category>
+      <category id="14693061" parentId="7196244">Жіночі черевики</category>
+      <category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+      <category id="14693035" parentId="14407150">Універсальні головні убори</category>
+      <category id="14408905" parentId="14407150">Шоломи</category>
+      <category id="14407588" parentId="14407150">Маски</category>
+      <category id="7196249">Чоловіче взуття</category>
+      <category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+      <category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+      <category id="6257850">Велоаксесуари</category>
+      <category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+      <category id="4122200">Рюкзаки і туризм</category>
+      <category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+      <category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+      <category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+      <category id="71777030" parentId="71777028">Рюкзаки</category>
+      <category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+      <category id="71777018">Одяг, взуття та аксесуари</category>
+      <category id="69024725" parentId="46709597">Фітнес-браслети</category>
+      <category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+      <category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+      <category id="52859360">Басейн і аквафітнес</category>
+      <category id="46709702" parentId="46709597">Наручні годинники</category>
+      <category id="46709597">Наручні годинники</category>
+      <category id="45139423" parentId="4122200">Намети і аксесуари</category>
+      <category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+      <category id="36278188" parentId="36275949">Маски</category>
+      <category id="36276195" parentId="36275949">Шоломи</category>
+      <category id="36275949">Уцінка</category>
+      <category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+      <category id="29447009" parentId="6257850">Велоінструменти</category>
+      <category id="29447008" parentId="6257850">Насоси</category>
+      <category id="29447007" parentId="6257850">Велодзвінки</category>
+      <category id="28200372" parentId="7196244">Жіночі кеди</category>
+      <category id="28164081" parentId="7196244">Жіночі сліпони</category>
+      <category id="27554175" parentId="14407150">Сноуборди</category>
+      <category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+      <category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+      <category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+      <category id="24572876" parentId="17305611">Спортивні штани</category>
+      <category id="24544864" parentId="16661508">Спортивні штани</category>
+      <category id="22851891" parentId="16661508">Футболки</category>
+      <category id="22028141" parentId="7196244">Жіночі балетки</category>
+      <category id="18029666">Sale -34% брендові куртки</category>
+      <category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+      <category id="14693027" parentId="14407150">Лижні палиці</category>
+      <category id="14407150">Зимовий спорт</category>
+      <category id="13502021" parentId="6257850">Велокомп'ютери</category>
+      <category id="7196244">Жіноче взуття</category>
+      <category id="6296093" parentId="6257850">Велосипедні сумки</category>
+      <category id="58981807">Ігрові види спорту</category>
+      <category id="66636889">Прогулянки й активний відпочинок</category>
+      <category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+      <category id="65449525" parentId="65446905">Спортивні окуляри</category>
+      <category id="65447344" parentId="65446905">Спортивні сумки</category>
+      <category id="65446905">Спортивні аксесуари</category>
+      <category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+      <category id="52863748" parentId="52859360">Шапочки для плавання</category>
+      <category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+      <category id="52863745" parentId="52859360">Окуляри для плавання</category>
+      <category id="46807613" parentId="36275949">Годинники</category>
+      <category id="49986322" parentId="36275949">Штани</category>
+      <category id="46711296" parentId="46709597">Смарт-годинники</category>
+      <category id="43651396" parentId="14407150">Рукавиці</category>
+      <category id="39308422" parentId="14407150">Черевики лижні</category>
+      <category id="36678205" parentId="36275949">Куртки</category>
+      <category id="36660532" parentId="36275949">Взуття</category>
+      <category id="27250069" parentId="14407150">Гірські лижі</category>
+      <category id="27094492" parentId="24353170">Жіночі кросівки</category>
+      <category id="22851904" parentId="17305611">Футболки</category>
+      <category id="24570219" parentId="17305611">Кофти</category>
+      <category id="24543418" parentId="16661508">Кофти</category>
+      <category id="22851901" parentId="16661508">Шорти</category>
+    </categories>
+  <offers>
+<offer available="true" id="1116533940">
+    <url>https://profirider.com/p1116533940-kurtka-cholovicha-peak.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>16715121</categoryId>
+    <picture>https://images.ua.prom.st/2177108977_kurtka-cholovicha-peak.jpg</picture>
+    <picture>https://images.ua.prom.st/2177108975_kurtka-cholovicha-peak.jpg</picture>
+    <picture>https://images.ua.prom.st/2177108986_kurtka-cholovicha-peak.jpg</picture>
+    <picture>https://images.ua.prom.st/2177108983_kurtka-cholovicha-peak.jpg</picture>
+    <picture>https://images.ua.prom.st/2177108995_kurtka-cholovicha-peak.jpg</picture>
+    <picture>https://images.ua.prom.st/2177109005_kurtka-cholovicha-peak.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Куртка чоловіча Peak Performance XS Black уцінка Б/У</name>
+    <vendor>peak performance</vendor>
+    <vendorCode>Peak_Perf_XS_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Чоловіча куртка Peak Performance для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Дана модель призначена для екстремально низьких температур та обладнана мембраною GoreTex для захисту від вологи ззовні.
+
+На куртці присутні потертості зі сторони підкладки, а також на світловідбиваючій смужці.
+
+Особливості: 
+
+- Стильний дизайн; 
+
+- Дуже тепла;
+
+- Якісні матеріали;
+
+- Утеплювач з натурального качиного пуху (80%);
+
+- Мембрана GoreTex.
+</description>
+    <param name="Сезон" unit="">Зимовий</param>
+    <param name="Стиль" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал верху" unit="">Штучні матеріали: Поліамід</param>
+    <param name="Матеріал підкладки" unit="">Поліамід</param>
+    <param name="Довжина" unit="">Середня</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Температурний діапазон" unit="">Від -3°C до -30°C</param>
+    <param name="Модель" unit="">Regular Fit</param>
+    <param name="Посадка" unit="">Середня</param>
+    <param name="Довжина рукава" unit="">З довгими рукавами</param>
+    <param name="Декорування" unit="">Однотонні моделі</param>
+    <param name="Розмір" unit="">XS</param>
+    <param name="Колір" unit="">Чорний</param>
+    <param name="Матеріал " unit="">Поліамід</param>
+    <param name="Склад" unit="">Верх: 100% Поліамід; Утеплювач: 100% Пух; Підкладка: 100% Поліамід</param>
+    <param name="Країна реєстрації бренду" unit="">Данія</param>
+    <param name="Матеріал наповнювача" unit="">Пух</param>
+  </offer>
+  <offer available="true" id="1116544063">
+    <url>https://profirider.com/p1116544063-kurtka-cholovicha-regatta.html</url>
+    <oldprice>1583.33</oldprice>
+    <price>950</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>16715121</categoryId>
+    <picture>https://images.ua.prom.st/2177116937_kurtka-cholovicha-regatta.jpg</picture>
+    <picture>https://images.ua.prom.st/2177116939_kurtka-cholovicha-regatta.jpg</picture>
+    <picture>https://images.ua.prom.st/2177116940_kurtka-cholovicha-regatta.jpg</picture>
+    <picture>https://images.ua.prom.st/2177116942_kurtka-cholovicha-regatta.jpg</picture>
+    <picture>https://images.ua.prom.st/2177116947_kurtka-cholovicha-regatta.jpg</picture>
+    <picture>https://images.ua.prom.st/2177116949_kurtka-cholovicha-regatta.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Куртка чоловіча Regatta NEVADO II XL Grey Б/У</name>
+    <vendor>Regatta</vendor>
+    <vendorCode>RMN118_XL_Gry</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Чоловіча куртка NEVADO II для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: 
+
+
+	Стильний дизайн; 
+	Дуже легка і комфортна;
+	Якісні матеріали.
+
+	 
+
+</description>
+    <param name="Сезон" unit="">Осінньо-зимовий</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Матеріал верху" unit="">Штучні матеріали: Поліестер</param>
+    <param name="Матеріал підкладки" unit="">Поліестер</param>
+    <param name="Довжина" unit="">Середня</param>
+    <param name="Температурний режим" unit="">Для середніх температур</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Температурний діапазон" unit="">Від +10°C до -5°C</param>
+    <param name="Модель" unit="">Regular Fit</param>
+    <param name="Посадка" unit="">Середня</param>
+    <param name="Довжина рукава" unit="">З довгими рукавами</param>
+    <param name="Декорування" unit="">Однотонні моделі</param>
+    <param name="Розмір" unit="">XL</param>
+    <param name="Колір" unit="">Сірий: Темно-сірий</param>
+    <param name="Матеріал " unit="">Поліестер</param>
+    <param name="Склад" unit="">Верх: 100% Поліестер; Підкладка: 100% Поліестер</param>
+    <param name="Країна реєстрації бренду" unit="">Великобританія</param>
+  </offer>
+  <offer available="true" id="1116557479">
+    <url>https://profirider.com/p1116557479-ryukzak-sport-50l.html</url>
+    <oldprice>542.85</oldprice>
+    <price>380</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>6255387</categoryId>
+    <picture>https://images.ua.prom.st/2177132549_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132651_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132653_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132652_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132654_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132658_ryukzak-b-sport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177132657_ryukzak-b-sport.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Рюкзак B Sport 50L Camo</name>
+    <vendor>B Sport</vendor>
+    <vendorCode>BSport_50L_Cam</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Місткий і практичний рюкзак. В рюкзак B Sport ви можете вмістити продукти, спальник, змінне взуття, дощовик, одяг і багато всього потрібного на природі.
+
+Рюкзак зроблений з щільного матеріалу. Він має зручні широкі лямки для зручного розподілу ваги при ходьбі. Є дві кишені на замку для швидкого доступу до часто використовуваних предметів. На бічних частинах є додаткові сітчасті кишені та стяжки для регулювання об'єму рюкзака або кріплення речей.
+
+Особливості:
+
+- Регулювання розміру за допомогою змійки на дні;
+
+- Висока якість матеріалів та пошиву, низька вага;
+
+- Вологозахищена конструкція та матеріали.
+
+ 
+</description>
+    <param name="Габарити упаковки" unit="">66 х 33 х 5 см</param>
+    <param name="Об'єм рюкзака" unit="">Від 35 до 65 літрів</param>
+    <param name="Вид" unit="">М'який</param>
+    <param name="Матеріал " unit="">100% Поліестер</param>
+    <param name="Наявність поясного ременя" unit="">Немає</param>
+    <param name="Сумісність з питною системою" unit="">Немає</param>
+    <param name="Розміри" unit="">66 х 33 х 18 см</param>
+    <param name="Вага" unit="">1 кг</param>
+    <param name="Об'єм, л" unit="">50</param>
+    <param name="Колір" unit="">Інші кольори: Green Camo</param>
+    <param name="Призначення" unit="">Для пішого і гірського туризму</param>
+    <param name="Тип" unit="">Рюкзаки</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+    <param name="Регулювання наплічних лямок по вертикалі" unit="">Є</param>
+  </offer>
+  <offer available="true" id="1116570207">
+    <url>https://profirider.com/p1116570207-zhinochi-krosivki-vico.html</url>
+    <price>790</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693063</categoryId>
+    <picture>https://images.ua.prom.st/2177136308_zhinochi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177136309_zhinochi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177136318_zhinochi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177136326_zhinochi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177136361_zhinochi-krosivki-vico.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі кросівки Vico Sport 40 Grey</name>
+    <vendor>Vico</vendor>
+    <vendorCode>R3002F2</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Отделка и украшения">Аппликация</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Стиль взуття" unit="">Спортивний (sport)</param>
+    <param name="Колір" unit="">Сірий</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Матеріал верху" unit="">Текстиль: Текстиль</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">40</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Кросівки</param>
+    <param name="Температурний діапазон" unit="">Від +18°C до +8°C</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+  </offer>
+  <offer available="true" id="1116587871">
+    <url>https://profirider.com/p1116587871-cholovichi-krosivki-vico.html</url>
+    <price>490</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693394</categoryId>
+    <picture>https://images.ua.prom.st/2177150056_cholovichi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177149997_cholovichi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177149998_cholovichi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177150000_cholovichi-krosivki-vico.jpg</picture>
+    <picture>https://images.ua.prom.st/2177150032_cholovichi-krosivki-vico.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Чоловічі кросівки Vico Classic 44 Brown</name>
+    <vendor>Vico</vendor>
+    <vendorCode>16N05B</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Стиль взуття" unit="">Спортивний (sport)</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Колір" unit="">Коричневий: Коричневий</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">44</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Призанчення" unit="">Для туризму: Для туризму</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Температурний діапазон" unit="">Від +18°C до +8°C</param>
+    <param name="Тип" unit="">Кросівки</param>
+    <param name="Стать" unit="">Чоловічі</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+  </offer>
+  <offer available="true" id="1116590419">
+    <url>https://profirider.com/p1116590419-cholovichi-chereviki-and.html</url>
+    <price>550</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693393</categoryId>
+    <picture>https://images.ua.prom.st/2177157682_cholovichi-chereviki-v-and-t.jpg</picture>
+    <picture>https://images.ua.prom.st/2177157683_cholovichi-chereviki-v-and-t.jpg</picture>
+    <picture>https://images.ua.prom.st/2177157681_cholovichi-chereviki-v-and-t.jpg</picture>
+    <picture>https://images.ua.prom.st/2177157685_cholovichi-chereviki-v-and-t.jpg</picture>
+    <picture>https://images.ua.prom.st/2177157684_cholovichi-chereviki-v-and-t.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Чоловічі черевики V&amp;T Offroad 43 Camel Brown</name>
+    <vendor>V&amp;T Offroad</vendor>
+    <vendorCode>M1120_43</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На черевиках присутні малопомітні потертості.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+
+ 
+</description>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Колір" unit="">Коричневий: Коричневий</param>
+    <param name="Стиль взуття" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Штучне хутро</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">43</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Тип фіксації" unit="">Шнурівка</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+  </offer>
+  <offer available="true" id="1116593811">
+    <url>https://profirider.com/p1116593811-cholovichi-chereviki-vila.html</url>
+    <price>550</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693393</categoryId>
+    <picture>https://images.ua.prom.st/2177165342_cholovichi-chereviki-vila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177165341_cholovichi-chereviki-vila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177165339_cholovichi-chereviki-vila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177165340_cholovichi-chereviki-vila.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Чоловічі черевики Vila Giulia 42 Green Б/У</name>
+    <vendor>Vila Giulia</vendor>
+    <vendorCode>82_955</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На лівому черевику присутня незначна потертість.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+
+ 
+</description>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Колір" unit="">Зелений: Темно-зелений</param>
+    <param name="Стиль взуття" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">42</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Тип фіксації" unit="">Шнурівка</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+  </offer>
+  <offer available="true" id="1116596833">
+    <url>https://profirider.com/p1116596833-zhinochi-kedi-coral.html</url>
+    <price>240</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>28200372</categoryId>
+    <picture>https://images.ua.prom.st/2177177805_zhinochi-kedi-coral.jpg</picture>
+    <picture>https://images.ua.prom.st/2177177806_zhinochi-kedi-coral.jpg</picture>
+    <picture>https://images.ua.prom.st/2177177804_zhinochi-kedi-coral.jpg</picture>
+    <picture>https://images.ua.prom.st/2177177807_zhinochi-kedi-coral.jpg</picture>
+    <picture>https://images.ua.prom.st/2177177808_zhinochi-kedi-coral.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі кеди Coral tree 38 White-Pink Б/У</name>
+    <vendor>Coral</vendor>
+    <vendorCode>FC201-11_38</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>
+
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На лівому кеді присутня малопомітна подряпинка.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Сезон" unit="">Весняно-літня</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Тип" unit="">Кеди</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Температурний діапазон" unit="">Від +18°C до +8°C</param>
+    <param name="Колір" unit="">Білий: Білий з рожевим</param>
+    <param name="Стиль взуття" unit="">Повсякденний (casual)</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Розмір" unit="">38</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+  </offer>
+  <offer available="true" id="1116602585">
+    <url>https://profirider.com/p1116602585-zhinochi-krosivki-gofin.html</url>
+    <price>330</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693063</categoryId>
+    <picture>https://images.ua.prom.st/2177197726_zhinochi-krosivki-gofin.jpg</picture>
+    <picture>https://images.ua.prom.st/2177197727_zhinochi-krosivki-gofin.jpg</picture>
+    <picture>https://images.ua.prom.st/2177197728_zhinochi-krosivki-gofin.jpg</picture>
+    <picture>https://images.ua.prom.st/2177197724_zhinochi-krosivki-gofin.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі кросівки Gofin 37 Blue</name>
+    <vendor>Gofin</vendor>
+    <vendorCode>L013_5_37</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості: 
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Сезон" unit="">Весняно-осінній</param>
+    <param name="Стиль взуття" unit="">Спортивний (sport)</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Країна реєстрації бренду:" unit="">Китай</param>
+    <param name="Колір" unit="">Синій</param>
+    <param name="Матеріал верху" unit="">Текстиль: Текстиль</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Поліуретан</param>
+    <param name="Розмір" unit="">37</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+  </offer>
+  <offer available="true" id="1116606206">
+    <url>https://profirider.com/p1116606206-zhinochi-krosivki-hvp.html</url>
+    <price>280</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693063</categoryId>
+    <picture>https://images.ua.prom.st/2177217483_zhinochi-krosivki-hvp.jpg</picture>
+    <picture>https://images.ua.prom.st/2177217478_zhinochi-krosivki-hvp.jpg</picture>
+    <picture>https://images.ua.prom.st/2177217499_zhinochi-krosivki-hvp.jpg</picture>
+    <picture>https://images.ua.prom.st/2177217502_zhinochi-krosivki-hvp.jpg</picture>
+    <picture>https://images.ua.prom.st/2177217500_zhinochi-krosivki-hvp.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі кросівки HVP Sport 36 Dark Grey Б/У</name>
+    <vendor>HVP Sport</vendor>
+    <vendorCode>LD02A_9_36</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому кросівку присутні незначні сліди клею.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+	 
+
+</description>
+    <param name="Сезон" unit="">Весняно-осінній</param>
+    <param name="Стиль взуття" unit="">Спортивний (sport)</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Країна реєстрації бренду:" unit="">Китай</param>
+    <param name="Колір" unit="">Сірий: Темно-сірий</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Поліуретан</param>
+    <param name="Розмір" unit="">36</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+  </offer>
+  <offer available="true" id="1116609038">
+    <url>https://profirider.com/p1116609038-zhinochi-sliponi-fashion.html</url>
+    <price>190</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>28164081</categoryId>
+    <picture>https://images.ua.prom.st/2177237687_zhinochi-sliponi-fashion.jpg</picture>
+    <picture>https://images.ua.prom.st/2177237682_zhinochi-sliponi-fashion.jpg</picture>
+    <picture>https://images.ua.prom.st/2177237685_zhinochi-sliponi-fashion.jpg</picture>
+    <picture>https://images.ua.prom.st/2177237689_zhinochi-sliponi-fashion.jpg</picture>
+    <picture>https://images.ua.prom.st/2177237688_zhinochi-sliponi-fashion.jpg</picture>
+    <picture>https://images.ua.prom.st/2177237690_zhinochi-sliponi-fashion.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі сліпони Fashion Attitude 39 Navy Б/У</name>
+    <vendor>Fashion Attitude</vendor>
+    <vendorCode>1748_39</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому сліпоні відсутній один зі стразів у декоруванні.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Сезон" unit="">Літнє</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Температурний діапазон" unit="">Від +18°C до +8°C</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Стиль взуття" unit="">Повсякденний (casual)</param>
+    <param name="Колір" unit="">Синій: Темно-синій</param>
+    <param name="Матеріал верху" unit="">Текстиль: Текстиль</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">41</param>
+    <param name="Країна-виробник товару" unit="">Китай</param>
+  </offer>
+  <offer available="true" id="1116617132">
+    <url>https://profirider.com/p1116617132-zhinochi-chereviki-mix.html</url>
+    <price>330</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177267023_zhinochi-chereviki-mix.jpg</picture>
+    <picture>https://images.ua.prom.st/2177267011_zhinochi-chereviki-mix.jpg</picture>
+    <picture>https://images.ua.prom.st/2177267024_zhinochi-chereviki-mix.jpg</picture>
+    <picture>https://images.ua.prom.st/2177267025_zhinochi-chereviki-mix.jpg</picture>
+    <picture>https://images.ua.prom.st/2177267026_zhinochi-chereviki-mix.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики  Mix 41 Beige Б/У</name>
+    <vendor>Mix</vendor>
+    <vendorCode>88_1_41</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому черевику присутні невеликі кольорові дефекти.
+
+Особливості: 
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Бежевий</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Штучне хутро</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">41</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+  </offer>
+  <offer available="true" id="1116620134">
+    <url>https://profirider.com/p1116620134-zhinochi-chereviki-sandic.html</url>
+    <price>480</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177273800_zhinochi-chereviki-sandic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177273799_zhinochi-chereviki-sandic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177273801_zhinochi-chereviki-sandic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177273803_zhinochi-chereviki-sandic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177273802_zhinochi-chereviki-sandic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177273805_zhinochi-chereviki-sandic.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики  Sandic 41 Blue Б/У</name>
+    <vendor>Sandi</vendor>
+    <vendorCode>SDS1167_4_41</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому черевику присутня малопомітна потертість.
+
+Особливості: 
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Блакитний</param>
+    <param name="Матеріал верху" unit="">Нубук: Нубук</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">41</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+  </offer>
+  <offer available="true" id="1116622116">
+    <url>https://profirider.com/p1116622116-zhinochi-chereviki-allways.html</url>
+    <price>450</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177280193_zhinochi-chereviki-allways.jpg</picture>
+    <picture>https://images.ua.prom.st/2177280189_zhinochi-chereviki-allways.jpg</picture>
+    <picture>https://images.ua.prom.st/2177280191_zhinochi-chereviki-allways.jpg</picture>
+    <picture>https://images.ua.prom.st/2177280190_zhinochi-chereviki-allways.jpg</picture>
+    <picture>https://images.ua.prom.st/2177280194_zhinochi-chereviki-allways.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Allways Camel 37 Beige Б/У</name>
+    <vendor>Allways</vendor>
+    <vendorCode>1639_2_37</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На лівому черевику присутня малопомітна потертість.
+
+Особливості: 
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Бежевий</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">37</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">31 - 50 мм: 31 - 50 мм</param>
+  </offer>
+  <offer available="true" id="1116622661">
+    <url>https://profirider.com/p1116622661-zhinochi-chereviki-awards.html</url>
+    <price>470</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177283557_zhinochi-chereviki-awards.jpg</picture>
+    <picture>https://images.ua.prom.st/2177283558_zhinochi-chereviki-awards.jpg</picture>
+    <picture>https://images.ua.prom.st/2177283560_zhinochi-chereviki-awards.jpg</picture>
+    <picture>https://images.ua.prom.st/2177283601_zhinochi-chereviki-awards.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Awards Fashion 40 Pink</name>
+    <vendor>Awards</vendor>
+    <vendorCode>782_3_40</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Рожевий: Рожевий</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Штучна вовна</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">40</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+  </offer>
+  <offer available="true" id="1116628153">
+    <url>https://profirider.com/p1116628153-zhinochi-chereviki-fanco.html</url>
+    <price>430</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177296124_zhinochi-chereviki-fanco.jpg</picture>
+    <picture>https://images.ua.prom.st/2177296122_zhinochi-chereviki-fanco.jpg</picture>
+    <picture>https://images.ua.prom.st/2177296125_zhinochi-chereviki-fanco.jpg</picture>
+    <picture>https://images.ua.prom.st/2177296128_zhinochi-chereviki-fanco.jpg</picture>
+    <picture>https://images.ua.prom.st/2177296127_zhinochi-chereviki-fanco.jpg</picture>
+    <picture>https://images.ua.prom.st/2177296126_zhinochi-chereviki-fanco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Fanco Nat 40 Pink Б/У</name>
+    <vendor>Fanco</vendor>
+    <vendorCode>HLD926_40</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Присутні малопомітні потертості.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Рожевий: Рожевий</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">40</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+  </offer>
+  <offer available="true" id="1116628496">
+    <url>https://profirider.com/p1116628496-zhinochi-chereviki-farfala.html</url>
+    <price>430</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177298971_zhinochi-chereviki-farfala.jpg</picture>
+    <picture>https://images.ua.prom.st/2177298963_zhinochi-chereviki-farfala.jpg</picture>
+    <picture>https://images.ua.prom.st/2177298968_zhinochi-chereviki-farfala.jpg</picture>
+    <picture>https://images.ua.prom.st/2177298967_zhinochi-chereviki-farfala.jpg</picture>
+    <picture>https://images.ua.prom.st/2177298970_zhinochi-chereviki-farfala.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Farfala 41 Black</name>
+    <vendor>Farfala</vendor>
+    <vendorCode>2624_41</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Чорний</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">41</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Змійка</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Вище 71 мм: Вище 71 мм</param>
+  </offer>
+  <offer available="true" id="1116628835">
+    <url>https://profirider.com/p1116628835-zhinochi-chereviki-kylie.html</url>
+    <price>380</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177302532_zhinochi-chereviki-kylie.jpg</picture>
+    <picture>https://images.ua.prom.st/2177302534_zhinochi-chereviki-kylie.jpg</picture>
+    <picture>https://images.ua.prom.st/2177302530_zhinochi-chereviki-kylie.jpg</picture>
+    <picture>https://images.ua.prom.st/2177302533_zhinochi-chereviki-kylie.jpg</picture>
+    <picture>https://images.ua.prom.st/2177302535_zhinochi-chereviki-kylie.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Kylie Rain Marino 38 Navy Б/У</name>
+    <vendor>Kylie</vendor>
+    <vendorCode>K1771601_38</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На лівому черевику присутня незначна подряпинка.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Синій: Темно-синій</param>
+    <param name="Матеріал верху" unit="">Екозамша: Екозамша</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">38</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для повсякденного носіння</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Вставка, що розтягується</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+  </offer>
+  <offer available="true" id="1116629449">
+    <url>https://profirider.com/p1116629449-zhinochi-chereviki-lemon.html</url>
+    <price>450</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177305888_zhinochi-chereviki-lemon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177305887_zhinochi-chereviki-lemon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177305886_zhinochi-chereviki-lemon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177305910_zhinochi-chereviki-lemon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Lemon Tree 37 Black Б/У</name>
+    <vendor>Lemon Tree</vendor>
+    <vendorCode>7360_37</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На лівому черевику присутня незначна подряпинка.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Чорний</param>
+    <param name="Матеріал верху" unit="">Екозамша: Екозамша</param>
+    <param name="Матеріал підкладки" unit="">Штучна вовна</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">37</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+  </offer>
+  <offer available="true" id="1116630688">
+    <url>https://profirider.com/p1116630688-zhinochi-chereviki-teambo.html</url>
+    <price>450</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693061</categoryId>
+    <picture>https://images.ua.prom.st/2177312419_zhinochi-chereviki-teambo.jpg</picture>
+    <picture>https://images.ua.prom.st/2177312420_zhinochi-chereviki-teambo.jpg</picture>
+    <picture>https://images.ua.prom.st/2177312421_zhinochi-chereviki-teambo.jpg</picture>
+    <picture>https://images.ua.prom.st/2177312428_zhinochi-chereviki-teambo.jpg</picture>
+    <picture>https://images.ua.prom.st/2177312452_zhinochi-chereviki-teambo.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Жіночі черевики Teambo 40 Black Б/У</name>
+    <vendor>Teambo</vendor>
+    <vendorCode>16-009_40 </vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому черевику присутня незначна подряпинка.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Колір" unit="">Чорний</param>
+    <param name="Матеріал верху" unit="">Еконубук: Еконубук</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">40</param>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Температурний діапазон" unit="">Від +15°C до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Призначення" unit="">Для туризму: Для туризму</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип" unit="">Черевики</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+    <param name="Стать" unit="">Жіночі</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+  </offer>
+  <offer available="true" id="1116631558">
+    <url>https://profirider.com/p1116631558-cholovichi-krosivki-forsport.html</url>
+    <price>290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693394</categoryId>
+    <picture>https://images.ua.prom.st/2177315522_cholovichi-krosivki-forsport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177315523_cholovichi-krosivki-forsport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177315525_cholovichi-krosivki-forsport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177315524_cholovichi-krosivki-forsport.jpg</picture>
+    <picture>https://images.ua.prom.st/2177315526_cholovichi-krosivki-forsport.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Чоловічі кросівки Forsport 43 Black Б/У</name>
+    <vendor>Forsport</vendor>
+    <vendorCode>A902_43</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>
+Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На правому кросівку присутня незначна подряпинка.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+</description>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Стиль взуття" unit="">Спортивний (sport)</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Колір" unit="">Чорний: Чорний з білим</param>
+    <param name="Висота каблука" unit="">Нижче 30 мм: Нижче 30 мм</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">43</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Призанчення" unit="">Для бігу: Для бігу</param>
+    <param name="Подія" unit="">Повсякденні</param>
+    <param name="Температурний діапазон" unit="">Від +10°C  до 0°C</param>
+    <param name="Тип" unit="">Кросівки</param>
+    <param name="Стать" unit="">Чоловічі</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+    <param name="Тип фіксації" unit="">Шнурівки</param>
+  </offer>
+  <offer available="true" id="1116631931">
+    <url>https://profirider.com/p1116631931-cholovichi-chereviki-bellamila.html</url>
+    <price>370</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693393</categoryId>
+    <picture>https://images.ua.prom.st/2177319154_cholovichi-chereviki-bellamila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177319151_cholovichi-chereviki-bellamila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177319152_cholovichi-chereviki-bellamila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177319153_cholovichi-chereviki-bellamila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177319158_cholovichi-chereviki-bellamila.jpg</picture>
+    <picture>https://images.ua.prom.st/2177319161_cholovichi-chereviki-bellamila.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Чоловічі черевики Bellamila 42 Brown Б/У</name>
+    <vendor>Bellamila</vendor>
+    <vendorCode>9553_42</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Взуття для тих, хто слідкує за модою і не хоче йти на компроміс в комфорті. Торгова марка завжди намагається задовольняти всі потреби своїх клієнтів, пропонуючи сучасний дизайн, приділяючи велику увагу зручності і функціональності.
+
+Серед відмінних рис виробництва — застосування найсучасніших технологій і використання найбільш якісних матеріалів.
+
+На черевиках присутні незначні подряпинки.
+
+Особливості:
+
+
+	Стильний дизайн,
+	якісні матеріали,
+	анатомічна конструкція.
+
+
+ 
+</description>
+    <param name="Сезон" unit="">Осінньо-весняне</param>
+    <param name="Колір" unit="">Коричневий: Коричневий</param>
+    <param name="Стиль взуття" unit="">Класичний (classic)</param>
+    <param name="Матеріал верху" unit="">Екошкіра: Екошкіра</param>
+    <param name="Матеріал підкладки" unit="">Текстиль</param>
+    <param name="Матеріал підошви" unit="">Каучук</param>
+    <param name="Розмір" unit="">42</param>
+    <param name="Температурний діапазон" unit="">Від +10°C  до 0°C</param>
+    <param name="Країна реєстрації бренду" unit="">Китай</param>
+    <param name="Особливості" unit="">Анатомічне взуття</param>
+    <param name="Тип фіксації" unit="">Шнурівка</param>
+    <param name="Устілка" unit="">Етиленвінілацетат (EVA)</param>
+  </offer>
+  <offer available="true" id="1116632504">
+    <url>https://profirider.com/p1116632504-maska-girskolizhna-axon.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177322853_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177322850_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177322852_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177322851_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177322854_maska-girskolizhna-axon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Axon Avalanche 2 Black</name>
+    <vendor>Axon</vendor>
+    <vendorCode>90505_2_BLK</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Ремінець із зручним регулюванням надійно фіксує маску на шоломі.
+
+Особливості:
+
+- Регульовані лямки;
+
+- Технологія Антифог;
+
+- Подвійні лінзи;
+
+- Сумісність із шоломом.
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S1</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Фіолетовий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1116634933">
+    <url>https://profirider.com/p1116634933-maska-girskolizhna-axon.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177327960_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177327958_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177327959_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177327956_maska-girskolizhna-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177327961_maska-girskolizhna-axon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Axon Avalanche 3 Black</name>
+    <vendor>Axon</vendor>
+    <vendorCode>90505_3_BLK</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Ремінець із зручним регулюванням надійно фіксує маску на шоломі.
+
+Особливості:
+
+- Регульовані лямки;
+
+- Технологія Антифог;
+
+- Подвійні лінзи;
+
+- Сумісність із шоломом.
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1116639509">
+    <url>https://profirider.com/p1116639509-maska-girskolizhna-relax.html</url>
+    <oldprice>1833.33</oldprice>
+    <price>1100</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177338029_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177338036_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177338034_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177338035_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177338042_maska-girskolizhna-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Relax Cruiser Black</name>
+    <vendor>Relax</vendor>
+    <vendorCode>HTG29E</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1116639793">
+    <url>https://profirider.com/p1116639793-maska-girskolizhna-relax.html</url>
+    <oldprice>2150</oldprice>
+    <price>1290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177339797_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177339799_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177339801_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177339804_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2177339805_maska-girskolizhna-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Relax Feelin Black</name>
+    <vendor>Relax</vendor>
+    <vendorCode> HTG49D</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Темний</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1116640874">
+    <url>https://profirider.com/p1116640874-maska-girskolizhna-woosh.html</url>
+    <oldprice>1816.66</oldprice>
+    <price>1090</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177345786_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177345788_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177345787_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177345790_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177345792_maska-girskolizhna-woosh.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Woosh W93-2 Lime</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>W93_2_Lim</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Сферична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Lime</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+  <offer available="true" id="1116642674">
+    <url>https://profirider.com/p1116642674-maska-girskolizhna-woosh.html</url>
+    <oldprice>1816.66</oldprice>
+    <price>1090</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177350034_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177350036_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177350038_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177350045_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177350058_maska-girskolizhna-woosh.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Woosh W93-3 Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>W93_3_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Сферична</param>
+    <param name="Захист лінзи" unit="">S3</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+  <offer available="true" id="1116643523">
+    <url>https://profirider.com/p1116643523-maska-girskolizhna-woosh.html</url>
+    <oldprice>2150</oldprice>
+    <price>1290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177352132_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177352133_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177352135_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177352140_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177352138_maska-girskolizhna-woosh.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Woosh W95-1 Lime</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>W95_1_Lim</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Lime</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+  <offer available="true" id="1116644163">
+    <url>https://profirider.com/p1116644163-maska-girskolizhna-woosh.html</url>
+    <oldprice>1300</oldprice>
+    <price>780</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2177353915_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177353913_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177353917_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177353918_maska-girskolizhna-woosh.jpg</picture>
+    <picture>https://images.ua.prom.st/2177353919_maska-girskolizhna-woosh.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Woosh W97-2 Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>W97_2_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Сферична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Помаранчевий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+  <offer available="true" id="1116647538">
+    <url>https://profirider.com/p1116647538-snoubord-rossignol-circuit.html</url>
+    <oldprice>7828.57</oldprice>
+    <price>5480</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27554175</categoryId>
+    <picture>https://images.ua.prom.st/2177728294_snoubord-rossignol-circuit.jpg</picture>
+    <picture>https://images.ua.prom.st/2177728476_snoubord-rossignol-circuit.jpg</picture>
+    <picture>https://images.ua.prom.st/2177728479_snoubord-rossignol-circuit.jpg</picture>
+    <picture>https://images.ua.prom.st/2177728475_snoubord-rossignol-circuit.jpg</picture>
+    <picture>https://images.ua.prom.st/2177728477_snoubord-rossignol-circuit.jpg</picture>
+    <picture>https://images.ua.prom.st/2177728478_snoubord-rossignol-circuit.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сноуборд Rossignol Circuit Amptek Wide 161 Black</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>CircAmpWid_161_Blk</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Дошка Circuit Amptek розроблена для тих, хто хоче швидко прогресувати, розвивати свої навички, легко переходити на наступний рівень катання, що досягається завдяки оптимальній жорсткості, легкості і слухняності дошки. Форма AmpTek AutoTurn забезпечує невимушене катання і дозволяє уникати неконтрольованих зарізань при гарній хватці кантів.
+
+Високі рокери на носку і хвості сноуборду сприяють легкому спливанню в глибокому снігу, а стандартний прогин між закладними забезпечує безпрецедентну стабільність. Створена, щоб зробити катання швидше, краще, легше.
+
+Особливості: 
+
+- Підійде як чоловікам, так і жінкам;
+
+- Неперевершена якість та надійність від Rossignol;
+
+- Універсальність: підходить як для підготовлених трас, фрістайлу, так і для фрірайду.
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма дошки" unit="">Twin-Tip</param>
+    <param name="Рівень катання" unit="">Новачок</param>
+    <param name="Стиль катання" unit="">Freestyle</param>
+    <param name="Контактна довжина" unit="">117 см</param>
+    <param name="Ширина талії" unit="">25,2 см</param>
+    <param name="Тип сердечника" unit="">Деревина</param>
+    <param name="Довжина" unit="">161 см</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Габарити упаковки" unit="">161 х 30 х 15 см</param>
+    <param name="Прогин" unit="">Camber</param>
+    <param name="Колір" unit="">Чорний</param>
+  </offer>
+  <offer available="true" id="1116682580">
+    <url>https://profirider.com/p1116682580-lizhi-girski-atomic.html</url>
+    <oldprice>8428.57</oldprice>
+    <price>5900</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177424945_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177424942_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177424943_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177424941_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177424944_lizhi-girski-atomic.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Atomic Redster XR 149 Black-White Б/У</name>
+    <vendor>ATOMIC</vendor>
+    <vendorCode>Redster_XR_149_Blk_Wht</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">149</param>
+    <param name="Габарити упаковки" unit="">153 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2300</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 122-70-103 мм;   Радіус: 10.4 м</param>
+  </offer>
+  <offer available="true" id="1116688898">
+    <url>https://profirider.com/p1116688898-lizhi-girski-atomic.html</url>
+    <oldprice>8428.57</oldprice>
+    <price>5900</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177677739_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677740_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677742_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677741_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677743_lizhi-girski-atomic.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Atomic Redster XR 156 Black-White Б/У</name>
+    <vendor>ATOMIC</vendor>
+    <vendorCode>Redster_XR_156_Blk_Wht</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">156</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2440</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 124-70-105 мм;   Радіус: 10.9 м</param>
+  </offer>
+  <offer available="true" id="1116689319">
+    <url>https://profirider.com/p1116689319-lizhi-girski-atomic.html</url>
+    <oldprice>8428.57</oldprice>
+    <price>5900</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177677504_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677501_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677502_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677505_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677507_lizhi-girski-atomic.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Atomic Redster XR 162 Black-White Б/У</name>
+    <vendor>ATOMIC</vendor>
+    <vendorCode>Redster_XR_162_Blk_Wht</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">162</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-73-100 мм;   Радіус: 14.5 м</param>
+  </offer>
+  <offer available="true" id="1116691392">
+    <url>https://profirider.com/p1116691392-lizhi-girski-atomic.html</url>
+    <oldprice>8428.57</oldprice>
+    <price>5900</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177677980_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677979_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677981_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677983_lizhi-girski-atomic.jpg</picture>
+    <picture>https://images.ua.prom.st/2177677984_lizhi-girski-atomic.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Atomic Redster XR 170 Black-White Б/У</name>
+    <vendor>ATOMIC</vendor>
+    <vendorCode>Redster_XR_170_Blk_Wht</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">170</param>
+    <param name="Габарити упаковки" unit="">175 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2670</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 122-73-102 мм;   Радіус: 15.5 м</param>
+  </offer>
+  <offer available="true" id="1116699750">
+    <url>https://profirider.com/p1116699750-lizhi-girski-fischer.html</url>
+    <oldprice>9142.86</oldprice>
+    <price>6400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177451215_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177451216_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177451214_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177451220_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177451218_lizhi-girski-fischer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fischer RC4 155 Black-Green Б/У</name>
+    <vendor>Fischer</vendor>
+    <vendorCode>RC4_155_Blk_Grn</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">155</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">3000</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 119-68-101 мм;   Радіус: 12 м</param>
+  </offer>
+  <offer available="true" id="1116710184">
+    <url>https://profirider.com/p1116710184-lizhi-girski-fischer.html</url>
+    <oldprice>9142.86</oldprice>
+    <price>6400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177458143_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177458145_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177458146_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177458147_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177458149_lizhi-girski-fischer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fischer RC4 165 Black-Green Б/У</name>
+    <vendor>Fischer</vendor>
+    <vendorCode>RC4_165_Blk_Grn</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">165</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">3100</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 113-68-95 мм;   Радіус: 16,5 м</param>
+  </offer>
+  <offer available="true" id="1116713748">
+    <url>https://profirider.com/p1116713748-lizhi-girski-fischer.html</url>
+    <oldprice>9142.86</oldprice>
+    <price>6400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177461308_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177461323_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177461324_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177461327_lizhi-girski-fischer.jpg</picture>
+    <picture>https://images.ua.prom.st/2177461328_lizhi-girski-fischer.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Fischer RC4 170 Black-Green Б/У</name>
+    <vendor>Fischer</vendor>
+    <vendorCode>RC4_170_Blk_Grn</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">170</param>
+    <param name="Габарити упаковки" unit="">175 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">3150</param>
+    <param name="Країна реєстрації бренду" unit="">Австрія</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 114-68-96 мм;   Радіус: 17 м</param>
+  </offer>
+  <offer available="true" id="1116718454">
+    <url>https://profirider.com/p1116718454-lizhi-girski-head.html</url>
+    <oldprice>4857.14</oldprice>
+    <price>3400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177475528_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177475524_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177475527_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177475530_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177475529_lizhi-girski-head.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Head Absolut Joy SLR 148 White-Pink Б/У</name>
+    <vendor>Head</vendor>
+    <vendorCode>SLR_148_Wht_Pnk</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Жіночі</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">148</param>
+    <param name="Габарити упаковки" unit="">150 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з рожевим</param>
+    <param name="Вага, г" unit="">2250</param>
+    <param name="Країна реєстрації бренду" unit="">Нідерланди</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 127-78-107 мм;   Радіус: 11 м</param>
+  </offer>
+  <offer available="true" id="1116721777">
+    <url>https://profirider.com/p1116721777-lizhi-girski-head.html</url>
+    <oldprice>4857.14</oldprice>
+    <price>3400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177675260_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675259_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675262_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675263_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675278_lizhi-girski-head.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Head Absolut Joy SLR 153 White-Pink Б/У</name>
+    <vendor>Head</vendor>
+    <vendorCode>SLR_153_Wht_Pnk</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Жіночі</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">153</param>
+    <param name="Габарити упаковки" unit="">155 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з рожевим</param>
+    <param name="Вага, г" unit="">2320</param>
+    <param name="Країна реєстрації бренду" unit="">Нідерланди</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 128-78-108 мм;   Радіус: 11,8 м</param>
+  </offer>
+  <offer available="true" id="1116724008">
+    <url>https://profirider.com/p1116724008-lizhi-girski-head.html</url>
+    <oldprice>4857.14</oldprice>
+    <price>3400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177675511_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675510_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675509_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675513_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177675512_lizhi-girski-head.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Head Absolut Joy SLR 158 White-Pink Б/У</name>
+    <vendor>Head</vendor>
+    <vendorCode>SLR_158_Wht_Pnk</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Жіночі</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">158</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з рожевим</param>
+    <param name="Вага, г" unit="">2400</param>
+    <param name="Країна реєстрації бренду" unit="">Нідерланди</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 128-79-108 мм;   Радіус: 12,7 м</param>
+  </offer>
+  <offer available="true" id="1116725802">
+    <url>https://profirider.com/p1116725802-lizhi-girski-head.html</url>
+    <oldprice>4857.14</oldprice>
+    <price>3400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177674736_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177674738_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177674737_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177674735_lizhi-girski-head.jpg</picture>
+    <picture>https://images.ua.prom.st/2177674739_lizhi-girski-head.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Head Absolut Joy SLR 163 White-Pink Б/У</name>
+    <vendor>Head</vendor>
+    <vendorCode>SLR_163_Wht_Pnk</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Жіночі</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">163</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з рожевим</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Нідерланди</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 129-79-109 мм;   Радіус: 13,5 м</param>
+  </offer>
+  <offer available="true" id="1116727261">
+    <url>https://profirider.com/p1116727261-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177492943_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177492938_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177492940_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177492941_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177493564_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Experience 80 160 Black-Red Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>Exp80_160_Blk_Red</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">160</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з червоним</param>
+    <param name="Вага, г" unit="">2600</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 125-80-114 мм;   Радіус: 14 м</param>
+  </offer>
+  <offer available="true" id="1116730757">
+    <url>https://profirider.com/p1116730757-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177501055_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177501051_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177501052_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177501053_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177501056_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Experience 80 168 Black-Orange Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode> Exp80_168_Blk_Orng</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">168</param>
+    <param name="Габарити упаковки" unit="">173 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з помаранчевим</param>
+    <param name="Вага, г" unit="">2650</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 125-80-114 мм;   Радіус: 15 м</param>
+  </offer>
+  <offer available="true" id="1116732415">
+    <url>https://profirider.com/p1116732415-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177504181_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177504180_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177504179_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177504182_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177504184_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Experience E80 144 Black-Orange Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>ExpE80_144_Blk_Orng</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">144</param>
+    <param name="Габарити упаковки" unit="">150 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з помаранчевим</param>
+    <param name="Вага, г" unit="">2350</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 125-80-114 мм;   Радіус: 11 м</param>
+  </offer>
+  <offer available="true" id="1116750815">
+    <url>https://profirider.com/p1116750815-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177567277_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177567276_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177567279_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177567278_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177567285_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol P400 149 Black-White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>P400_149_Blk_Wht</vendorCode>
+    <country_of_origin>Іспанія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">149</param>
+    <param name="Габарити упаковки" unit="">152 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2580</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 126-74-110 мм;   Радіус: 11 м</param>
+  </offer>
+  <offer available="true" id="1116752716">
+    <url>https://profirider.com/p1116752716-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177680335_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680330_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680333_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680336_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680338_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol P400 156 Black-White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>P400_156_Blk_Wht</vendorCode>
+    <country_of_origin>Іспанія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">156</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2700</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 126-74-110 мм;   Радіус: 12 м</param>
+  </offer>
+  <offer available="true" id="1116753294">
+    <url>https://profirider.com/p1116753294-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177573141_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177573140_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177573142_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177573156_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177573157_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol P400 163 Black-White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>P400_163_Blk_Wht</vendorCode>
+    <country_of_origin>Іспанія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">163</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2880</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 126-74-110 мм;   Радіус: 13 м</param>
+  </offer>
+  <offer available="true" id="1116760834">
+    <url>https://profirider.com/p1116760834-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177680114_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680113_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680115_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680116_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177680117_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol P400 170 Black-White Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>P400_170_Blk_Wht</vendorCode>
+    <country_of_origin>Іспанія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">170</param>
+    <param name="Габарити упаковки" unit="">173 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2730</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 126-74-110 мм;   Радіус: 14 м</param>
+  </offer>
+  <offer available="true" id="1116763210">
+    <url>https://profirider.com/p1116763210-lizhi-girski-rossignol.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177590050_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177590049_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177590048_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177590053_lizhi-girski-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2177590058_lizhi-girski-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Rossignol Temptation 75X 152 White-Pink Б/У</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>75X_152_Wht_Pnk</vendorCode>
+    <country_of_origin>Іспанія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Жіночі</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">152</param>
+    <param name="Габарити упаковки" unit="">155 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з рожевим</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 122-75-111 мм;   Радіус: 12 м</param>
+  </offer>
+  <offer available="true" id="1116769420">
+    <url>https://profirider.com/p1116769420-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177600023_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177600022_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177600038_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177600034_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177600045_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon R13 165 Black-Blue Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>R13_165_Blk_Blu</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">165</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з синім</param>
+    <param name="Вага, г" unit="">3650</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-70-104 мм;   Радіус: 12 м</param>
+  </offer>
+  <offer available="true" id="1116771068">
+    <url>https://profirider.com/p1116771068-lizhi-girski-salomon.html</url>
+    <oldprice>9142.86</oldprice>
+    <price>6400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177604362_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177604352_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177604349_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177604358_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177604361_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon SL 165 Black-Blue Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>SL165_Blk_Blu</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">165</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з синім</param>
+    <param name="Вага, г" unit="">3130</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-70-104 мм;   Радіус: 13 м</param>
+  </offer>
+  <offer available="true" id="1116773053">
+    <url>https://profirider.com/p1116773053-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177609531_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177609527_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177609530_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177609532_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177609534_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon SX 150 Black-Blue Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>SX150_Blk_Blu</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">150</param>
+    <param name="Габарити упаковки" unit="">155 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з синім</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-106 мм;   Радіус: 11 м</param>
+  </offer>
+  <offer available="true" id="1116791910">
+    <url>https://profirider.com/p1116791910-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177637588_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177637599_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177637600_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177637602_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177637605_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon SX 165 Black-Blue Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>SX165_Blk_Blu</vendorCode>
+    <country_of_origin>Болгарія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">165</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з синім</param>
+    <param name="Вага, г" unit="">2680</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-103 мм;   Радіус: 14 м</param>
+  </offer>
+  <offer available="true" id="1116793231">
+    <url>https://profirider.com/p1116793231-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177640830_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177640826_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177640828_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177640829_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177640833_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon X24 162 Black-White Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>X24_162_Blk_Wht</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">162</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2880</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-73-104 мм;   Радіус: 13 м</param>
+  </offer>
+  <offer available="true" id="1116793740">
+    <url>https://profirider.com/p1116793740-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177645318_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177645320_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177645319_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177645321_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177645322_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon XR 150 Black-White Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>XR150_Blk_Wht</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">150</param>
+    <param name="Габарити упаковки" unit="">155 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2350</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-106 мм;   Радіус: 11 м</param>
+  </offer>
+  <offer available="true" id="1116795551">
+    <url>https://profirider.com/p1116795551-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177648702_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177648703_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177648704_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177648706_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177648716_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon XR 155 Black-White Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>XR155_Blk_Wht</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">155</param>
+    <param name="Габарити упаковки" unit="">160 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2430</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-105 мм;   Радіус: 12 м</param>
+  </offer>
+  <offer available="true" id="1116797340">
+    <url>https://profirider.com/p1116797340-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177652779_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177652780_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177652775_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177652781_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177652776_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon XR 160 Black-White Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>XR160_Blk_Wht</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">160</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2460</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-104 мм;   Радіус: 13 м</param>
+  </offer>
+  <offer available="true" id="1116800605">
+    <url>https://profirider.com/p1116800605-lizhi-girski-salomon.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177663682_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177663680_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177663684_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177663681_lizhi-girski-salomon.jpg</picture>
+    <picture>https://images.ua.prom.st/2177663683_lizhi-girski-salomon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Salomon XR 165 Black-White Б/У</name>
+    <vendor>Salomon</vendor>
+    <vendorCode>XR165_Blk_Wht</vendorCode>
+    <country_of_origin>Австрія</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">165</param>
+    <param name="Габарити упаковки" unit="">170 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2600</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 120-72-103 мм;   Радіус: 14 м</param>
+  </offer>
+  <offer available="true" id="1116801380">
+    <url>https://profirider.com/p1116801380-lizhi-girski-volkl.html</url>
+    <oldprice>7557.14</oldprice>
+    <price>5290</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177668176_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177668175_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177668179_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177668177_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177668178_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Code 7.4 163 Black-White Б/У</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Code74_163_Blk_Wht</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">163</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорно-білий</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм;   Радіус: 14,5 м</param>
+  </offer>
+  <offer available="true" id="1116803832">
+    <url>https://profirider.com/p1116803832-lizhi-girski-volkl.html</url>
+    <oldprice>8428.57</oldprice>
+    <price>5900</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2177673004_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177673002_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177673003_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177673006_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2177673005_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl RTM76 161 Black-Blue Б/У</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>RTM76_161_Blk_Blu</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Присутні незначні потертості.
+
+Перед відправкою клієнту лижі проходять передпродажну підготовку яка включає в себе налаштування кріплень та парафінування.
+
+Всі роботи виконує кваліфікований майстер.
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Призначення" unit="">Унісекс</param>
+    <param name="Стан" unit="">Б/У</param>
+    <param name="Довжина, см" unit="">161</param>
+    <param name="Габарити упаковки" unit="">165 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з синім</param>
+    <param name="Вага, г" unit="">2500</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 124-76-105 мм;   Радіус: 14,2 м</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,66 @@
+/* welcome */
+/* welcome карточки */
+.wrapper-welcome{
+    background: url(../../../images/bg-welcome.jpg);
+    background-size: cover;
+}
+h1{
+    font-weight: bold;
+    font-size: 80px;
+}
+.main-item,
+.btn-welcome {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+/* welcome карточки */
+.main-item {
+    height: 225px;
+    width: 225px;
+}
+/* расположение иконок в карточках */
+.main-header-icon {
+    top: 79px;
+    left: 0;
+}
+/* треугольники в карточках */
+.main-header-triangle {
+    width: 0;
+    height: 0;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-top: 145px solid #ddd;
+}
+/* увеличение иконок */
+.icon-item-zoom {
+    -webkit-transform: scale(5.5);
+       -moz-transform: scale(5.5);
+        -ms-transform: scale(5.5);
+         -o-transform: scale(5.5);
+            transform: scale(5.5);
+}
+/* Иконка ракеты */
+.rocket-icon {
+    -webkit-transform: scale(5.5) rotate(-45deg);
+       -moz-transform: scale(5.5) rotate(-45deg);
+        -ms-transform: scale(5.5) rotate(-45deg);
+         -o-transform: scale(5.5) rotate(-45deg);
+            transform: scale(5.5) rotate(-45deg);
+    margin-top: 10px;
+    margin-left: -4px;
+}
+/* welcome кнопка */
+.btn-welcome {
+    line-height: 29px;
+    margin-top: -10px;
+    width: 86%;
+    color: white!important;
+    font-weight: bold;
+    border: 2px solid #25ecbb;
+}
+.btn-welcome:hover{
+    background: #25ecbb;
+}
+/* end welcome */

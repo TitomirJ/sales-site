@@ -1,0 +1,22 @@
+.edit-content {
+  width: 100%;
+}
+@media (min-width:540px) and (max-width:720px) {
+  .edit-content {
+    width: 75%;
+  }
+}
+@media (min-width:720px) and (max-width:2560px) {
+  .edit-content {
+    width: 55%;
+  }
+}
+
+.border-2 {
+  border:1px solid
+}
+/* styling inputs */
+input,
+textarea {
+  background: #c6d5e2!important;
+}

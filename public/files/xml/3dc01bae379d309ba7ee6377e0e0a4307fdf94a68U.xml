@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-24 10:06">
+  <shop>
+    <name>Profi Rider</name>
+    <company>Profi Rider</company>
+    <url>https://profirider.com/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83981160" parentId="14407150">Черевики для сноубордів</category>
+      <category id="83914121" parentId="71777018">Ремені та пояси</category>
+      <category id="83913495" parentId="16661508">Спортивні костюми</category>
+      <category id="16715121" parentId="16661508">Чоловічі куртки</category>
+      <category id="71020433" parentId="7196244">Жіночі в'єтнамки, сланці</category>
+      <category id="53761682" parentId="6257850">Велосвітло</category>
+      <category id="24353170">Трекингове взуття</category>
+      <category id="19959920">Велосипеди</category>
+      <category id="18890955" parentId="14407150">Термобілизна</category>
+      <category id="17343107" parentId="17305611">Зимові штани</category>
+      <category id="17343103" parentId="16661508">Зимові штани</category>
+      <category id="17305720" parentId="17305611">Шапки</category>
+      <category id="17305707" parentId="17305611">Куртки</category>
+      <category id="17305611">Жіночий одяг</category>
+      <category id="16661555" parentId="16661508">Шапки</category>
+      <category id="16661508">Чоловічий одяг</category>
+      <category id="16617831" parentId="4122200">Спальні мішки</category>
+      <category id="16617810" parentId="4122200">Трекінгові палиці</category>
+      <category id="14693395" parentId="7196249">Чоловічі кеди</category>
+      <category id="14693394" parentId="7196249">Чоловічі кросівки</category>
+      <category id="14693393" parentId="7196249">Чоловічі черевики</category>
+      <category id="14693063" parentId="7196244">Жіночі кросівки</category>
+      <category id="14693061" parentId="7196244">Жіночі черевики</category>
+      <category id="14693037" parentId="14407150">Аксесуари для зимового спорту</category>
+      <category id="14693035" parentId="14407150">Універсальні головні убори</category>
+      <category id="14408905" parentId="14407150">Шоломи</category>
+      <category id="14407588" parentId="14407150">Маски</category>
+      <category id="7196249">Чоловіче взуття</category>
+      <category id="6296122" parentId="6257850">Велосипедні фляги і кріплення</category>
+      <category id="6295695" parentId="6257850">Велосипедні рукавиці</category>
+      <category id="6257850">Велоаксесуари</category>
+      <category id="6255387" parentId="4122200">Рюкзаки та гермомішки</category>
+      <category id="4122200">Рюкзаки і туризм</category>
+      <category id="71020745" parentId="7196244">Жіночі чоботи, уги</category>
+      <category id="71020303" parentId="7196244">Жіночі ботильйони</category>
+      <category id="71306067" parentId="7196244">Жіночі босоніжки</category>
+      <category id="71777030" parentId="71777028">Рюкзаки</category>
+      <category id="71777023" parentId="71777018">Сумки та аксесуари</category>
+      <category id="71777018">Одяг, взуття та аксесуари</category>
+      <category id="69024725" parentId="46709597">Фітнес-браслети</category>
+      <category id="66636894" parentId="66636889">Дитячі роликові ковзани</category>
+      <category id="58981820" parentId="58981807">М'ячі для командних ігор</category>
+      <category id="52859360">Басейн і аквафітнес</category>
+      <category id="46709702" parentId="46709597">Наручні годинники</category>
+      <category id="46709597">Наручні годинники</category>
+      <category id="45139423" parentId="4122200">Намети і аксесуари</category>
+      <category id="44812370" parentId="4122200">Мати й килимки для фітнесу</category>
+      <category id="36278188" parentId="36275949">Маски</category>
+      <category id="36276195" parentId="36275949">Шоломи</category>
+      <category id="36275949">Уцінка</category>
+      <category id="29447011" parentId="6257850">Дитяче велокрісло</category>
+      <category id="29447009" parentId="6257850">Велоінструменти</category>
+      <category id="29447008" parentId="6257850">Насоси</category>
+      <category id="29447007" parentId="6257850">Велодзвінки</category>
+      <category id="28200372" parentId="7196244">Жіночі кеди</category>
+      <category id="28164081" parentId="7196244">Жіночі сліпони</category>
+      <category id="27554175" parentId="14407150">Сноуборди</category>
+      <category id="27095636" parentId="6257850">Комплектуючі для велосипедів</category>
+      <category id="27095490" parentId="6257850">Аксесуари для велосипедів</category>
+      <category id="27095096" parentId="24353170">Чоловічі кросівки</category>
+      <category id="24572876" parentId="17305611">Спортивні штани</category>
+      <category id="24544864" parentId="16661508">Спортивні штани</category>
+      <category id="22851891" parentId="16661508">Футболки</category>
+      <category id="22028141" parentId="7196244">Жіночі балетки</category>
+      <category id="18029666">Sale -34% брендові куртки</category>
+      <category id="18019249" parentId="16661508">-60% Курточки Planks </category>
+      <category id="14693027" parentId="14407150">Лижні палиці</category>
+      <category id="14407150">Зимовий спорт</category>
+      <category id="13502021" parentId="6257850">Велокомп'ютери</category>
+      <category id="7196244">Жіноче взуття</category>
+      <category id="6296093" parentId="6257850">Велосипедні сумки</category>
+      <category id="58981807">Ігрові види спорту</category>
+      <category id="66636889">Прогулянки й активний відпочинок</category>
+      <category id="71777028" parentId="71777023">Сумки та рюкзаки</category>
+      <category id="65449525" parentId="65446905">Спортивні окуляри</category>
+      <category id="65447344" parentId="65446905">Спортивні сумки</category>
+      <category id="65446905">Спортивні аксесуари</category>
+      <category id="20876318" parentId="6257850">Велосипедні шоломи</category>
+      <category id="52863748" parentId="52859360">Шапочки для плавання</category>
+      <category id="52863872" parentId="52859360">Аксесуари для плавання</category>
+      <category id="52863745" parentId="52859360">Окуляри для плавання</category>
+      <category id="46807613" parentId="36275949">Годинники</category>
+      <category id="49986322" parentId="36275949">Штани</category>
+      <category id="46711296" parentId="46709597">Смарт-годинники</category>
+      <category id="43651396" parentId="14407150">Рукавиці</category>
+      <category id="39308422" parentId="14407150">Черевики лижні</category>
+      <category id="36678205" parentId="36275949">Куртки</category>
+      <category id="36660532" parentId="36275949">Взуття</category>
+      <category id="27250069" parentId="14407150">Гірські лижі</category>
+      <category id="27094492" parentId="24353170">Жіночі кросівки</category>
+      <category id="22851904" parentId="17305611">Футболки</category>
+      <category id="24570219" parentId="17305611">Кофти</category>
+      <category id="24543418" parentId="16661508">Кофти</category>
+      <category id="22851901" parentId="16661508">Шорти</category>
+    </categories>
+  <offers>
+<offer available="true" id="1111236052">
+    <url>https://profirider.com/p1111236052-sholom-girskolizhnij-relax.html</url>
+    <oldprice>4333.33</oldprice>
+    <price>2600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2160593616_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593678_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593725_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593727_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593731_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593732_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593733_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2160593734_sholom-girskolizhnij-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Relax Stealth RH24A Visor M Black</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RH24A_Vis_M_Blk</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Особливості шолома:
+
+
+	сучасний дизайн;
+	фіксатор гумки маски на задній частині шолома;
+	вуха анатомічної форми;
+	система вентиляції забезпечує максимально комфортний терморежим;
+	застібка забезпечує швидке одягання і зняття шолома;
+	застібка підборіддя, що гарантує належне регулювання шолома;
+	хороші аеродинамічні властивості, досягнуті продуманою формою шолома; 
+	вбудований візор категорії S2 для захисту очей;
+	додатковий прозорий візор в комплекті.
+
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">M</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Вага" unit="">500 г</param>
+  </offer>
+  <offer available="true" id="1112842685">
+    <url>https://profirider.com/p1112842685-maska-girskolizhna-giro.html</url>
+    <oldprice>4000</oldprice>
+    <price>2400</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2165609686_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609687_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609688_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609689_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609690_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609692_maska-girskolizhna-giro.jpg</picture>
+    <picture>https://images.ua.prom.st/2165609691_maska-girskolizhna-giro.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Giro Axis Black</name>
+    <vendor>Giro</vendor>
+    <vendorCode>7094243</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description> 
+
+
+
+Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі.
+
+Особливості:
+
+- Регульовані лямки;
+
+- Технологія Антифог;
+
+- Подвійні лінзи;
+
+- Сумісність із шоломом.
+
+- Лінзи від Zeiss, всесвітнього лідера у виробництві високоякісної оптики.
+
+- В комплекті додаткова лінза із захистом S1
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Циліндрична</param>
+    <param name="Захист лінзи" unit="">S3, S1</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Black</param>
+    <param name="Колір лінзи" unit="">Рожевий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">США</param>
+  </offer>
+  <offer available="true" id="1113417520">
+    <url>https://profirider.com/p1113417520-lizhi-girski-volkl.html</url>
+    <oldprice>10714.28</oldprice>
+    <price>7500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2167178366_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167178357_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167178358_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167178359_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167178363_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167178364_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Deacon 7.4 149 Blue-White</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Dc_7_4_149_Blu_Wht</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VOLKL - один з найбільших лижних брендів в світі.
+
+Єдина компанія, яка виробляє гірські лижі на території Німеччини.
+
+Велика ширина моделі Deacon 7.4 в поєднанні з системою кріплень Marker 6562S1MC і інноваційною конструкцією 3D RIDGE ідеально підходять для повсякденного катання.
+
+Розширений лижний профіль - Extended Tip і Tail Rocker - дозволяє легко різати дугу на будь-якому схилі. Конструкція iPT WIDERIDE XL на 30% ширше інших типів, встановлює новий стандарт в передачі керуючого зусилля. Кріплення встановлюється безпосередньо до лижі через монтажні рейки, порожнисті в серцевині лижі.
+
+Абсолютна точність і прямий контроль над лижами. Незамінний в складних умовах на схилі - горби, спуск, м'який сніг - ви зможете відчути максимальний комфорт. 
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Довжина, см" unit="">149</param>
+    <param name="Габарити упаковки" unit="">149 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з блакитним</param>
+    <param name="Вага, г" unit="">2390</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм; </param>
+    <param name="Радіус" unit="">12,2 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1113418396">
+    <url>https://profirider.com/p1113418396-lizhi-girski-volkl.html</url>
+    <oldprice>10714.28</oldprice>
+    <price>7500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2167185990_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167185993_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167185994_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167185996_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167185997_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167186006_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Deacon 7.4 156 Blue-White</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Dc_7_4_156_Blu_Wht</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VOLKL - один з найбільших лижних брендів в світі.
+
+Єдина компанія, яка виробляє гірські лижі на території Німеччини.
+
+Велика ширина моделі Deacon 7.4 в поєднанні з системою кріплень Marker 6562S1MC і інноваційною конструкцією 3D RIDGE ідеально підходять для повсякденного катання.
+
+Розширений лижний профіль - Extended Tip і Tail Rocker - дозволяє легко різати дугу на будь-якому схилі. Конструкція iPT WIDERIDE XL на 30% ширше інших типів, встановлює новий стандарт в передачі керуючого зусилля. Кріплення встановлюється безпосередньо до лижі через монтажні рейки, порожнисті в серцевині лижі.
+
+Абсолютна точність і прямий контроль над лижами. Незамінний в складних умовах на схилі - горби, спуск, м'який сніг - ви зможете відчути максимальний комфорт. 
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Довжина, см" unit="">156</param>
+    <param name="Габарити упаковки" unit="">156 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з блакитним</param>
+    <param name="Вага, г" unit="">2430</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм; </param>
+    <param name="Радіус" unit="">13,1 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1113419426">
+    <url>https://profirider.com/p1113419426-lizhi-girski-volkl.html</url>
+    <oldprice>10714.28</oldprice>
+    <price>7500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2167189416_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167189417_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167189419_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167189420_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167189422_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167189425_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Deacon 7.4 163 Blue-White</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Dc_7_4_163_Blu_Wht</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VOLKL - один з найбільших лижних брендів в світі.
+
+Єдина компанія, яка виробляє гірські лижі на території Німеччини.
+
+Велика ширина моделі Deacon 7.4 в поєднанні з системою кріплень Marker 6562S1MC і інноваційною конструкцією 3D RIDGE ідеально підходять для повсякденного катання.
+
+Розширений лижний профіль - Extended Tip і Tail Rocker - дозволяє легко різати дугу на будь-якому схилі. Конструкція iPT WIDERIDE XL на 30% ширше інших типів, встановлює новий стандарт в передачі керуючого зусилля. Кріплення встановлюється безпосередньо до лижі через монтажні рейки, порожнисті в серцевині лижі.
+
+Абсолютна точність і прямий контроль над лижами. Незамінний в складних умовах на схилі - горби, спуск, м'який сніг - ви зможете відчути максимальний комфорт. 
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Довжина, см" unit="">163</param>
+    <param name="Габарити упаковки" unit="">163 х 12 х 20 см</param>
+    <param name="Колір" unit="">Білий з блакитним</param>
+    <param name="Вага, г" unit="">2560</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм; </param>
+    <param name="Радіус" unit="">14,5 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1113423145">
+    <url>https://profirider.com/p1113423145-lizhi-girski-volkl.html</url>
+    <oldprice>10714.28</oldprice>
+    <price>7500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2167196684_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167196679_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167196678_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167196681_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167196680_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Deacon Prime 135 Black-Green</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Dc_Prim_135_Blk_Grn</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VOLKL - один з найбільших лижних брендів в світі.
+
+Єдина компанія, яка виробляє гірські лижі на території Німеччини.
+
+Велика ширина моделі Deacon Prime в поєднанні з системою кріплень Marker 6562S1MC і інноваційною конструкцією 3D RIDGE ідеально підходять для повсякденного катання.
+
+Розширений лижний профіль - Extended Tip і Tail Rocker - дозволяє легко різати дугу на будь-якому схилі. Конструкція iPT WIDERIDE XL на 30% ширше інших типів, встановлює новий стандарт в передачі керуючого зусилля.
+
+Кріплення встановлюється безпосередньо до лижі через монтажні рейки, порожнисті в серцевині лижі. Абсолютна точність і прямий контроль над лижами. Незамінний в складних умовах на схилі - горби, спуск, м'який сніг - ви зможете відчути максимальний комфорт. 
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Довжина, см" unit="">135</param>
+    <param name="Габарити упаковки" unit="">157 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">2220</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм; </param>
+    <param name="Радіус" unit="">9,5 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1113427798">
+    <url>https://profirider.com/p1113427798-lizhi-girski-volkl.html</url>
+    <oldprice>10714.28</oldprice>
+    <price>7500</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>27250069</categoryId>
+    <picture>https://images.ua.prom.st/2167207255_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167207256_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167207257_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167207258_lizhi-girski-volkl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167207259_lizhi-girski-volkl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Лижі гірські Volkl Deacon Prime 142 Black-Green</name>
+    <vendor>Volkl</vendor>
+    <vendorCode>Dc_Prim_142_Blk_Grn</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VOLKL - один з найбільших лижних брендів в світі.
+
+Єдина компанія, яка виробляє гірські лижі на території Німеччини.
+
+Велика ширина моделі Deacon Prime в поєднанні з системою кріплень Marker 6562S1MC і інноваційною конструкцією 3D RIDGE ідеально підходять для повсякденного катання.
+
+Розширений лижний профіль - Extended Tip і Tail Rocker - дозволяє легко різати дугу на будь-якому схилі. Конструкція iPT WIDERIDE XL на 30% ширше інших типів, встановлює новий стандарт в передачі керуючого зусилля.
+
+Кріплення встановлюється безпосередньо до лижі через монтажні рейки, порожнисті в серцевині лижі. Абсолютна точність і прямий контроль над лижами. Незамінний в складних умовах на схилі - горби, спуск, м'який сніг - ви зможете відчути максимальний комфорт. 
+
+ 
+</description>
+    <param name="Матеріал виготовлення" unit="">50% Деревина 50% Пластик</param>
+    <param name="Комплектація" unit="">Лижі, кріплення</param>
+    <param name="Довжина, см" unit="">142</param>
+    <param name="Габарити упаковки" unit="">142 х 12 х 20 см</param>
+    <param name="Колір" unit="">Чорний з зеленим</param>
+    <param name="Вага, г" unit="">2300</param>
+    <param name="Країна реєстрації бренду" unit="">Німеччина</param>
+    <param name="Додаткові характеристики" unit="">Геометрія: 118-74-103 мм; </param>
+    <param name="Радіус" unit="">10,8 м</param>
+    <param name="Тип" unit="">Гірські</param>
+    <param name="Призначення" unit="">Унісекс</param>
+  </offer>
+  <offer available="true" id="1113428023">
+    <url>https://profirider.com/p1113428023-maska-girskolizhna-relax.html</url>
+    <oldprice>1316.66</oldprice>
+    <price>790</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2167208837_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167208838_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167208839_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167208840_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167208842_maska-girskolizhna-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Relax Jet HTG60A White</name>
+    <vendor>Relax</vendor>
+    <vendorCode>HTG60A_Wht</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Сферична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">White</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1113430046">
+    <url>https://profirider.com/p1113430046-maska-girskolizhna-relax.html</url>
+    <oldprice>1316.66</oldprice>
+    <price>790</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14407588</categoryId>
+    <picture>https://images.ua.prom.st/2167214247_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167214248_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167214260_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167214259_maska-girskolizhna-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167214249_maska-girskolizhna-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Маска гірськолижна Relax Jet HTG60C Lime</name>
+    <vendor>Relax</vendor>
+    <vendorCode>HTG60C_Lim</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Маска з широким кутом огляду. 
+
+Двошарова лінза, яка використовує технологію Antifog. Не пропускає ультрафіолетові промені, захищаючи очі. М’яка подушка дозволяє масці комфортно сидіти на голові. Сумісна з шоломом. 
+
+Еластичний ущільнювач по периметру маски захищає від вітру і снігу. Вентиляційні отвори на лінзі запобігають її запотіванню. Ремінець із зручним регулюванням надійно фіксує маску на шоломі. 
+
+Особливості:
+
+
+	 Регульовані лямки;
+	 Технологія Антифог;
+	 Подвійні лінзи;
+	 Сумісність із шоломом.
+
+</description>
+    <param name="Габарити упаковки" unit="">200х100х90 мм</param>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Форма лінзи" unit="">Сферична</param>
+    <param name="Захист лінзи" unit="">S2</param>
+    <param name="Покриття Anti fog" unit="">Є</param>
+    <param name="Використання з шоломом" unit="">Так</param>
+    <param name="Технології" unit="">Anti Fog</param>
+    <param name="Колір оправи" unit="">Lime</param>
+    <param name="Колір лінзи" unit="">Жовтий</param>
+    <param name="Матеріал лінзи" unit="">Полікарбонат</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1113430454">
+    <url>https://profirider.com/p1113430454-sholom-girskolizhnij-relax.html</url>
+    <oldprice>4333.33</oldprice>
+    <price>2600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167215712_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215711_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215713_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215714_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215715_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215716_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167215761_sholom-girskolizhnij-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Relax Stealth RH24I Visor M White</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RH24I_M</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Окружність голови: 56-58 см 
+
+Особливості шолома:
+
+
+	сучасний дизайн;
+	фіксатор гумки маски на задній частині шолома;
+	вуха анатомічної форми;
+	система вентиляції забезпечує максимально комфортний терморежим;
+	застібка забезпечує швидке одягання і зняття шолома;
+	застібка підборіддя, що гарантує належне регулювання шолома;
+	хороші аеродинамічні властивості, досягнуті продуманою формою шолома; 
+	вбудований візор категорії S2 для захисту очей;
+	додатковий прозорий візор в комплекті.
+
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">M</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">White</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Вага" unit="">500 г</param>
+  </offer>
+  <offer available="true" id="1113438952">
+    <url>https://profirider.com/p1113438952-girskolizhni-chereviki-dalbello.html</url>
+    <oldprice>7666.67</oldprice>
+    <price>4600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>39308422</categoryId>
+    <picture>https://images.ua.prom.st/2167221405_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2167221410_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2167221411_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2167221412_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2167221414_girskolizhni-chereviki-dalbello.jpg</picture>
+    <picture>https://images.ua.prom.st/2167221417_girskolizhni-chereviki-dalbello.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Гірськолижні черевики Dalbello Pantera 90 28,5 Black-Green</name>
+    <vendor>Dalbello</vendor>
+    <vendorCode>Pantera_90_28,5_Blk_Grn</vendorCode>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Dalbello - італійський виробник гірськолижних черевиків, добре відомий шанувальникам зимових видів спорту.
+
+Компанія заснована в 1974 р Алессандро і Джованною Даль Белло. Молода сімейна пара повернулася в Італію після декількох років роботи на одній зі швейцарських фабрик по виробництву гірськолижних черевиків, і мріяла втілити в життя власні ідеї. За майже півстолітню історію бренд Dalbello виріс з невеликого сімейного підприємства в одного з лідерів галузі. Спортсмени, які використовують черевики Dalbello щорічно отримують нагороди на міжнародних змаганнях. У 2014 р компанія не тільки відзначила своє 40-річчя, а й відсвяткувала ще одну подію - продаж 13-мільйонної пари гірськолижних черевиків.
+
+Pantera 90 - черевики для гірськолижного спорту від Dalbello, розроблені для чоловіків з використанням просунутих технологій. Комфортні черевики з міцною фіксацією ноги. Відмінний вибір для лижників, які хочуть поліпшити свої навички без особливих зусиль, але з більшим комфортом.
+
+Особливості:
+
+
+	Максимально комфортна внутрішня конструкція черевика; 
+	 Міцні алюмінієві кліпси з функцією мікро-налаштування;
+	Регулювання жорсткості;
+	 Переключення режимів ходіння-катання.
+
+</description>
+    <param name="Габарити упаковки" unit="">40 х 40 х 17 см</param>
+    <param name="Тип" unit="">Чоловічі</param>
+    <param name="Рівень катання" unit="">Середній</param>
+    <param name="Кліпси" unit="">Є, 3 шт</param>
+    <param name="Силовий ремінь" unit="">Є, 40 мм</param>
+    <param name="Переключення &quot;ходіння-катання&quot;" unit="">Є</param>
+    <param name="Колір" unit="">Black-Green</param>
+    <param name="Жорсткість черевиків" unit="">90</param>
+    <param name="Технології" unit="">Contour 4 Drive &amp; Control Technology, TruFit Sport</param>
+    <param name="Кантинг" unit="">Нема</param>
+    <param name="Вага" unit="">4 кг/пара</param>
+    <param name="Ширина колодки" unit="">103</param>
+    <param name="Розмір" unit="">28,5</param>
+    <param name="Матеріали" unit="">Зовнішня частина: 100% Пластик Внутрішня м’яка частина: 100% Поліолефін Кліпси: 100% Алюміній</param>
+    <param name="Країна реєстрації бренду" unit="">Італія</param>
+  </offer>
+  <offer available="true" id="1113442779">
+    <url>https://profirider.com/p1113442779-sholom-girskolizhnij-axon.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167226019_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167226021_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167226020_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167226022_sholom-girskolizhnij-axon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Axon M713101 Freeride L-XL (59-61) Black</name>
+    <vendor>Axon</vendor>
+    <vendorCode>M713101LXL</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Обхват голови 59-61 см
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">L-XL</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Додаткові характеристики" unit="">Обхват голови 59-61 см</param>
+  </offer>
+  <offer available="true" id="1113444592">
+    <url>https://profirider.com/p1113444592-sholom-girskolizhnij-axon.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167230707_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167230704_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167230705_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167230706_sholom-girskolizhnij-axon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Axon M713303 Patrol L-XL Black</name>
+    <vendor>Axon</vendor>
+    <vendorCode>M713303_LXL_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Обхват голови 59-61 см
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">L-XL</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Додаткові характеристики" unit="">Обхват голови 59-61 см</param>
+  </offer>
+  <offer available="true" id="1113444778">
+    <url>https://profirider.com/p1113444778-sholom-girskolizhnij-axon.html</url>
+    <oldprice>1650</oldprice>
+    <price>990</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167231832_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167231833_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167231834_sholom-girskolizhnij-axon.jpg</picture>
+    <picture>https://images.ua.prom.st/2167231835_sholom-girskolizhnij-axon.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Axon M713401 Elite L-XL Black</name>
+    <vendor>Axon</vendor>
+    <vendorCode>M713401_LXL_Blk</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Обхват голови 59-61 см
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">L-XL</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Додаткові характеристики" unit="">Обхват голови 59-61 см</param>
+  </offer>
+  <offer available="true" id="1113445216">
+    <url>https://profirider.com/p1113445216-sholom-girskolizhnij-relax.html</url>
+    <oldprice>4333.33</oldprice>
+    <price>2600</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167234348_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234349_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234347_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234346_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234350_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234331_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234351_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167234352_sholom-girskolizhnij-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Relax Stealth RH24J Visor L Black</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RH24J_Vis_L_Blk</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Окружність голови: 58-60 см 
+
+Особливості шолома:
+
+
+	сучасний дизайн;
+	фіксатор гумки маски на задній частині шолома;
+	вуха анатомічної форми;
+	система вентиляції забезпечує максимально комфортний терморежим;
+	застібка забезпечує швидке одягання і зняття шолома;
+	застібка підборіддя, що гарантує належне регулювання шолома;
+	хороші аеродинамічні властивості, досягнуті продуманою формою шолома; 
+	вбудований візор категорії S2 для захисту очей;
+	додатковий прозорий візор в комплекті.
+
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">L</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+  </offer>
+  <offer available="true" id="1113445782">
+    <url>https://profirider.com/p1113445782-sholom-girskolizhnij-relax.html</url>
+    <oldprice>2250</oldprice>
+    <price>1350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167236601_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167236604_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167236608_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167236607_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167236610_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167236612_sholom-girskolizhnij-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Relax Wild M Green</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RH17U_Grn-M</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Окружність голови: 56-58 см 
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">M</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Green</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Вага" unit="">400 г</param>
+  </offer>
+  <offer available="true" id="1113448053">
+    <url>https://profirider.com/p1113448053-sholom-girskolizhnij-relax.html</url>
+    <oldprice>2250</oldprice>
+    <price>1350</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167239389_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167239388_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167239392_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167239391_sholom-girskolizhnij-relax.jpg</picture>
+    <picture>https://images.ua.prom.st/2167239393_sholom-girskolizhnij-relax.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Relax Wild RH17P L Black</name>
+    <vendor>Relax</vendor>
+    <vendorCode>RH17P_L_Blk</vendorCode>
+    <country_of_origin>Чехія</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Окружність голови: 58-60 см
+
+Особливості шолома:
+
+
+	 сучасний дизайн;
+	 фіксатор гумки маски на задній частині шолома;
+	 вуха анатомічної форми;
+	 система вентиляції забезпечує максимально комфортний терморежим;
+	 застібка забезпечує швидке одягання і зняття шолома;
+	 застібка підборіддя, що гарантує належне регулювання шолома;
+	 хороші аеродинамічні властивості, досягнуті продуманою формою шолома.
+
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">L</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">Black</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Чехія</param>
+    <param name="Вага" unit="">500 г</param>
+  </offer>
+  <offer available="true" id="1113449468">
+    <url>https://profirider.com/p1113449468-sholom-girskolizhnij-rossignol.html</url>
+    <oldprice>3216.66</oldprice>
+    <price>1930</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14408905</categoryId>
+    <picture>https://images.ua.prom.st/2167241168_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241162_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241163_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241164_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241165_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241166_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241180_sholom-girskolizhnij-rossignol.jpg</picture>
+    <picture>https://images.ua.prom.st/2167241181_sholom-girskolizhnij-rossignol.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шолом гірськолижний Rossignol Attraxion 8 L-XL White</name>
+    <vendor>Rossignol</vendor>
+    <vendorCode>RK2H400LXL</vendorCode>
+    <country_of_origin>Китай</country_of_origin>
+    <description>Цей стильний і надійний шолом підійде будь-кому.
+
+Міцна конструкція з використанням пластику ABS забезпечують захист на великих швидкостях.
+
+Маска застібається ззаду шолома.
+
+Підкладки для вух зроблені з матеріалу, що прекрасно вбирає вологу.
+
+Система вентиляції забезпечує необхідний температурний баланс.
+
+Зручна застібка допомагає легко знімати і одягати шолом.
+
+Застібка на підборідді забезпечує правильну посадку шолома.
+
+Спеціально розроблена форма гарантує гарну аеродинаміку.
+
+Окружність голови: 59-62 см 
+
+Особливості шолома:
+
+- сучасний дизайн;
+
+- фіксатор гумки маски на задній частині шолома;
+
+- вуха анатомічної форми;
+
+- система вентиляції забезпечує максимально комфортний терморежим;
+
+- застібка забезпечує швидке одягання і зняття шолома;
+
+- застібка підборіддя, що гарантує належне регулювання шолома;
+
+- хороші аеродинамічні властивості, досягнуті продуманою формою шолома;
+
+ 
+</description>
+    <param name="Тип" unit="">Унісекс</param>
+    <param name="Габарити упаковки" unit="">29 х 24 х 22 см</param>
+    <param name="Розмір" unit="">M</param>
+    <param name="Run System (регулювання розміру)" unit="">Є</param>
+    <param name="Матеріал" unit="">ABS Пластик, Пінополістирол</param>
+    <param name="Колір" unit="">White</param>
+    <param name="Кліпса для маски" unit="">Є</param>
+    <param name="Конструкція" unit="">In Mold</param>
+    <param name="Країна реєстрації бренду" unit="">Франція</param>
+  </offer>
+  <offer available="true" id="1113457871">
+    <url>https://profirider.com/p1113457871-balaklava-woosh-black.html</url>
+    <oldprice>214.28</oldprice>
+    <price>150</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693035</categoryId>
+    <picture>https://images.ua.prom.st/2167254012_balaklava-woosh-l.jpg</picture>
+    <picture>https://images.ua.prom.st/2167254008_balaklava-woosh-l.jpg</picture>
+    <picture>https://images.ua.prom.st/2167254011_balaklava-woosh-l.jpg</picture>
+    <picture>https://images.ua.prom.st/2167254013_balaklava-woosh-l.jpg</picture>
+    <picture>https://images.ua.prom.st/2167254014_balaklava-woosh-l.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Балаклава Woosh L Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>Wsh_L_Blk</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Балаклава Woosh - це стильний і незамінний для будь-якого сноубордиста або лижника аксесуар.
+
+Ідеальна для носіння під шоломом.
+
+Балаклава має відмінну функціональність. 
+
+ 
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Габарити упаковки" unit="">18 х 14 х 2 см</param>
+    <param name="Вид" unit="">Зимові</param>
+    <param name="Розмір" unit="">L</param>
+    <param name="Матеріал" unit="">100% Поліестер</param>
+    <param name="Особливості" unit="">Відведення вологи / Захист від холоду</param>
+    <param name="Ступінь захисту від УФ-випромінювання" unit="">Немає</param>
+    <param name="Ступінь морозостійкості" unit="">Немає</param>
+    <param name="Тип" unit="">Балаклави</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+    <param name="Теги" unit="">Чорні</param>
+  </offer>
+  <offer available="true" id="1113460060">
+    <url>https://profirider.com/p1113460060-balaklava-woosh-black.html</url>
+    <oldprice>214.28</oldprice>
+    <price>150</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693035</categoryId>
+    <picture>https://images.ua.prom.st/2167257695_balaklava-woosh-m.jpg</picture>
+    <picture>https://images.ua.prom.st/2167257711_balaklava-woosh-m.jpg</picture>
+    <picture>https://images.ua.prom.st/2167257712_balaklava-woosh-m.jpg</picture>
+    <picture>https://images.ua.prom.st/2167257714_balaklava-woosh-m.jpg</picture>
+    <picture>https://images.ua.prom.st/2167257721_balaklava-woosh-m.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Балаклава Woosh M Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>Wsh_M_Blk</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Балаклава Woosh - це стильний і незамінний для будь-якого сноубордиста або лижника аксесуар.
+
+Ідеальна для носіння під шоломом.
+
+Балаклава має відмінну функціональність. 
+
+ 
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Габарити упаковки" unit="">18 х 14 х 2 см</param>
+    <param name="Вид" unit="">Зимові</param>
+    <param name="Розмір" unit="">M</param>
+    <param name="Матеріал" unit="">100% Поліестер</param>
+    <param name="Особливості" unit="">Відведення вологи / Захист від холоду</param>
+    <param name="Ступінь захисту від УФ-випромінювання" unit="">Немає</param>
+    <param name="Ступінь морозостійкості" unit="">Немає</param>
+    <param name="Тип" unit="">Балаклави</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+    <param name="Теги" unit="">Чорні</param>
+    <param name="Стать" unit="">Універсальна</param>
+  </offer>
+  <offer available="true" id="1113460467">
+    <url>https://profirider.com/p1113460467-balaklava-woosh-black.html</url>
+    <oldprice>214.28</oldprice>
+    <price>150</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693035</categoryId>
+    <picture>https://images.ua.prom.st/2167258312_balaklava-woosh-s.jpg</picture>
+    <picture>https://images.ua.prom.st/2167258375_balaklava-woosh-s.jpg</picture>
+    <picture>https://images.ua.prom.st/2167258376_balaklava-woosh-s.jpg</picture>
+    <picture>https://images.ua.prom.st/2167258378_balaklava-woosh-s.jpg</picture>
+    <picture>https://images.ua.prom.st/2167258381_balaklava-woosh-s.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Балаклава Woosh S Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>Wsh_S_Blk</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Балаклава Woosh - це стильний і незамінний для будь-якого сноубордиста або лижника аксесуар.
+
+Ідеальна для носіння під шоломом.
+
+Балаклава має відмінну функціональність. 
+
+ 
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Габарити упаковки" unit="">18 х 14 х 2 см</param>
+    <param name="Вид" unit="">Зимові</param>
+    <param name="Розмір" unit="">S</param>
+    <param name="Матеріал" unit="">100% Поліестер</param>
+    <param name="Особливості" unit="">Відведення вологи / Захист від холоду</param>
+    <param name="Ступінь захисту від УФ-випромінювання" unit="">Немає</param>
+    <param name="Ступінь морозостійкості" unit="">Немає</param>
+    <param name="Тип" unit="">Балаклави</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+    <param name="Теги" unit="">Чорні</param>
+  </offer>
+  <offer available="true" id="1113462251">
+    <url>https://profirider.com/p1113462251-balaklava-woosh-black.html</url>
+    <oldprice>214.28</oldprice>
+    <price>150</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>14693035</categoryId>
+    <picture>https://images.ua.prom.st/2167261803_balaklava-woosh-xl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167261808_balaklava-woosh-xl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167261809_balaklava-woosh-xl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167261811_balaklava-woosh-xl.jpg</picture>
+    <picture>https://images.ua.prom.st/2167261814_balaklava-woosh-xl.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Балаклава Woosh XL Black</name>
+    <vendor>Woosh</vendor>
+    <vendorCode>Wsh_XL_Blk</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Балаклава Woosh - це стильний і незамінний для будь-якого сноубордиста або лижника аксесуар.
+
+Ідеальна для носіння під шоломом.
+
+Балаклава має відмінну функціональність. 
+
+ 
+</description>
+    <param name="Сезон">Зима</param>
+    <param name="Габарити упаковки" unit="">18 х 14 х 2 см</param>
+    <param name="Вид" unit="">Зимові</param>
+    <param name="Розмір" unit="">XL</param>
+    <param name="Матеріал" unit="">100% Поліестер</param>
+    <param name="Особливості" unit="">Відведення вологи / Захист від холоду</param>
+    <param name="Ступінь захисту від УФ-випромінювання" unit="">Немає</param>
+    <param name="Ступінь морозостійкості" unit="">Немає</param>
+    <param name="Тип" unit="">Балаклави</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+    <param name="Теги" unit="">Чорні</param>
+  </offer>
+  <offer available="true" id="1113464374">
+    <url>https://profirider.com/p1113464374-shkarpetki-lizhni-martes.html</url>
+    <oldprice>100</oldprice>
+    <price>50</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2167266835_shkarpetki-lizhni-martes.jpg</picture>
+    <picture>https://images.ua.prom.st/2167266837_shkarpetki-lizhni-martes.jpg</picture>
+    <picture>https://images.ua.prom.st/2167266843_shkarpetki-lizhni-martes.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Martes Gorne 40-43 Dark Grey</name>
+    <vendor>Martes</vendor>
+    <vendorCode>GRN_40_43_DK_GRY</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі.
+
+Особливості:
+
+- Стильний дизайн,
+
+- якісні матеріали.
+
+ 
+</description>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Розмір" unit="">40-43</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Сезон" unit="">Зима</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Сірий</param>
+    <param name="Матеріал " unit="">Бавовна + поліестер</param>
+    <param name="Склад" unit="">63% бавовна, 37% поліестер</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+  <offer available="true" id="1113466147">
+    <url>https://profirider.com/p1113466147-shkarpetki-lizhni-martes.html</url>
+    <oldprice>100</oldprice>
+    <price>50</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>18890955</categoryId>
+    <picture>https://images.ua.prom.st/2167269351_shkarpetki-lizhni-martes.jpg</picture>
+    <picture>https://images.ua.prom.st/2167269353_shkarpetki-lizhni-martes.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Шкарпетки лижні Martes Gorne 40-43 Grey</name>
+    <vendor>Martes</vendor>
+    <vendorCode>GRN_40_43_GRY</vendorCode>
+    <country_of_origin>Польща</country_of_origin>
+    <description>Універсальні теплі шкарпетки підійдуть в холодну пору як для щоденного носіння, так і для спортсменів, що бажають зберегти ноги в теплі.
+
+Особливості:
+
+- Стильний дизайн,
+
+- якісні матеріали.
+
+ 
+</description>
+    <param name="Категорія" unit="">Унісекс</param>
+    <param name="Вид" unit="">Шкарпетки</param>
+    <param name="Вага" unit="">45 г</param>
+    <param name="Розмір" unit="">40-43</param>
+    <param name="Призначення" unit="">Для гірськолижного спорту</param>
+    <param name="Температурний режим" unit="">Для низьких температур</param>
+    <param name="Сезон" unit="">Зима</param>
+    <param name="Декорування" unit="">З геометричним принтом</param>
+    <param name="Стиль" unit="">Спортивний</param>
+    <param name="Колір" unit="">Сірий</param>
+    <param name="Матеріал " unit="">Бавовна + поліестер</param>
+    <param name="Склад" unit="">63% бавовна, 37% поліестер</param>
+    <param name="Країна реєстрації бренду" unit="">Польща</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>

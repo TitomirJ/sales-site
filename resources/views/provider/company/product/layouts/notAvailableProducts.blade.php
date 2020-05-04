@@ -1,0 +1,120 @@
+<tr class="font-weight-bold bor-bottom">
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-nowrap dark-link">
+            <div class="wrapper-checkbox">
+                <input type="checkbox" class="css-checkbox"  id="click-all-notavail-products">
+                <label for="click-all-notavail-products" class="css-label radGroup1"></label>
+            </div>
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            фото
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            артикул
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            название товара
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            цена
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            в наличии
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            статус
+        </div>
+    </td>
+    <td scope="col" class="align-middle">
+        <div class="d-block text-center text-uppercase text-nowrap">
+            действие
+        </div>
+    </td>
+</tr>
+@forelse($not_av_products as $p)
+    <tr class="prod-tr-string">
+        <td scope="col" class="text-center align-middle">
+            <div class="wrapper-checkbox">
+                <input type="checkbox"  form="action-form-not-avil-product" name="product_id[]" value="{{$p->id}}" id="avai-{{$p->id}}" class="css-checkbox form-check-input">
+                <label for="avai-{{$p->id}}" class="form-check-label css-label radGroup1"></label>
+            </div>
+        </td>
+        <?
+        $gallery_array = json_decode($p->gallery);
+        ?>
+        <td scope="col" class="text-center align-middle">
+            <div>
+                <img src="{{$gallery_array[0]->public_path}}" alt="{{$p->name}}" style="max-width: 70px;">
+            </div>
+        </td>
+        <td scope="col" class="text-center align-middle">
+            <?
+            $str = $p->code;
+            $result = substr($str, strpos($str, '-') + 1, strlen($str));
+            ?>
+            {{$result}}
+        </td>
+        <td scope="col" class="text-center align-middle">{{$p->name}}</td>
+        <td scope="col" class="text-center align-middle">
+            <div class="d-flex align-items-center">
+
+                <div class="m-auto">
+                    {{$p->price}} грн
+                    <div class="old-price">
+                        @if($p->old_price == true)
+                            {{$p->old_price}} грн
+                        @endif
+                    </div>
+                </div>
+
+                {{--Иконки в наличии или нет--}}
+                {{--@if($p->status_available == 1)--}}
+                {{--<i class="fa fa-check-circle" aria-hidden="true" style="color:#1ebc01;"></i>--}}
+                {{--@else--}}
+                {{--<i class="fa fa-times-circle" aria-hidden="true" style="color:#dc3545;"></i>--}}
+                {{--@endif--}}
+            </div>
+        </td>
+        <td scope="col" class="text-center align-middle">
+            <form class="form-change-status-avail" action="{{ asset('company/product/'.$p->id.'/available') }}" method="POST">
+                {{ csrf_field() }}
+                <label class="switch mb-0">
+                    <input type="checkbox" class="" {{ ($p->status_available == 1)? 'checked': '' }}>
+                    <span class="slider round change-status-avail" action="reload-all-products" myUrl="{{ asset('/company/products?type=1&page=1') }}"></span>
+                </label>
+            </form>
+
+        </td>
+        <td scope="col" class="text-center align-middle">
+            <i class="fa fa-shopping-basket text-danger" aria-hidden="true"></i>
+            Выведен с маркетплеса
+        </td>
+        <td scope="col" class="text-center align-middle">
+
+            @include("provider.company.product.layouts.layouts.dropdownButtonsMenu")
+
+        </td>
+    </tr>
+
+@empty
+
+    <tr>
+        <td scope="col" colspan="8" class="text-center">Товары не найдены</td>
+    </tr>
+@endforelse
+    <tr>
+        <td scope="col" colspan="8" class="text-center container-fluid not-avil-products-pagination"  not-avail-product-current-page="{{ $not_av_products->currentPage() }}" type="3">{{ $not_av_products->links() }}</td>
+    </tr>
+

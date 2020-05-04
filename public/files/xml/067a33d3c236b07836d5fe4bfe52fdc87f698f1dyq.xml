@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-01-23 10:36">
+  <shop>
+    <name>Интернет-магазин onStyles</name>
+    <company>Интернет-магазин onStyles</company>
+    <url>https://onstyles.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="RUR" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="83454691">Одежда для девочек</category>
+      <category id="27664294" parentId="27661590">БЕЛЬЕВЫЕ ИЗДЕЛИЯ: колготки, носочки, пижамы, боди, термобелье</category>
+      <category id="28303405" parentId="27661590">Майки и Футболки</category>
+      <category id="83455302" parentId="83454691">ОДЕЖДА ДЛЯ МАЛЬЧИКОВ</category>
+      <category id="20075661">Зимние аксессуары для всей семьи: шарфы, палантины, хомуты, шапки, перчатки </category>
+      <category id="19217065">Обувь для детей и подростков</category>
+      <category id="27661590" parentId="83454691">Одежда для девочек</category>
+      <category id="73714725">Подушки Для Путешествий: ДЕТКАМ И ВЗРОСЛЫМ</category>
+      <category id="70918971" parentId="42028424">Резиновые Сапоги</category>
+      <category id="70910573" parentId="42028424">Балетки и Туфли</category>
+      <category id="59181214" parentId="42028424">Зимняя обувь </category>
+      <category id="46637276" parentId="19217065">РАССПРОДАЖА. ОБУВЬ НИЖЕ СЕБЕСТОИМОСТИ.</category>
+      <category id="43492076" parentId="19217065">Комнатные тапки для деток</category>
+      <category id="42028442" parentId="19217065">Обувь Для Мальчиков</category>
+      <category id="42028424" parentId="19217065">Обувь Для Девочек</category>
+      <category id="40706930" parentId="20075661">Палантины - Пончо</category>
+      <category id="17019370" parentId="20075661">Шарфы и палантины</category>
+      <category id="16914599" parentId="20075661">Снуды и Хомуты </category>
+      <category id="19564805">Солнцезащитные очки для всей семьи </category>
+      <category id="29956001" parentId="19564805">Имиджевые очки - Аксессуарные</category>
+      <category id="22062908" parentId="19564805">Женские солнцезащитные очки</category>
+      <category id="22057376" parentId="19564805">Мужские солнцезащитные очки</category>
+      <category id="23507455" parentId="20075661">Варежки, перчатки, рукавички для женщин и мужчин</category>
+      <category id="70919205" parentId="42028442">Летняя Обувь</category>
+      <category id="70919793" parentId="42028442">Демисезонная Обувь: Ботинки, Полуботинки</category>
+      <category id="70918988" parentId="42028424">Демисезонная Обувь: Ботинки, Полуботинки, Сапоги</category>
+      <category id="70910518" parentId="42028424">Кроссовки, Кеды, Слипоны, Мокасины</category>
+      <category id="77622365" parentId="42037842">Не на видалення</category>
+      <category id="70910401" parentId="70910394">Шлепки, Тапки, Сабо</category>
+      <category id="70910400" parentId="70910394">Босоножки и Сандалии </category>
+      <category id="70919544" parentId="42028442">Кроссовки и Кеды</category>
+      <category id="70919980" parentId="42028442">Классическая Обувь</category>
+      <category id="70919546" parentId="42028442">Резиновые Сапоги</category>
+      <category id="62337085" parentId="19217065">Акватапки Для Детей</category>
+      <category id="42041546" parentId="19217065">Футбольная Обувь</category>
+      <category id="70977873" parentId="19217065">Обувь Для Танцев</category>
+      <category id="70919010" parentId="19217065">Обувь Для Младенцев</category>
+      <category id="45995854" parentId="19217065">Детские Носки</category>
+      <category id="42037842" parentId="19217065">Нет В Наличии</category>
+      <category id="59182404" parentId="42028442">Зимняя Обувь</category>
+      <category id="70910394" parentId="42028424">Летняя обувь </category>
+      <category id="28321938" parentId="20075661">Осенне-Весенние Шарфики</category>
+      <category id="43302774" parentId="20075661">Детские Зимние Аксессуары: Комлекты, шапки, рукавички</category>
+      <category id="27662423" parentId="27661590">ВЕРХНЯЯ ОДЕЖДА (комбенизоны зимние, куртки, плащи, парки, жилетки, пальто)</category>
+      <category id="27663542" parentId="27661590">КОСТЮМЫ И КОМПЛЕКТЫ: спортивные, класические, нарядные</category>
+      <category id="27662470" parentId="27661590">Платья,туники,сарафаны</category>
+      <category id="27663657" parentId="27661590">Кофты, свитера, джемперы, пуловеры, кардиганы, батники, толстовки, свитшоты, гольфы</category>
+      <category id="27662615" parentId="27661590">Штаны, брюки, джинсы, юбки, лосины, шорты для девочек</category>
+    </categories>
+  <offers>
+<offer available="true" group_id="612321211" id="1112916818">
+    <url>https://onstyles.com.ua/p1112916818-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828554_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828556_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размеры: 24-34</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916819">
+    <url>https://onstyles.com.ua/p1112916819-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 24 (15,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">24 (15,5 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916820">
+    <url>https://onstyles.com.ua/p1112916820-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 25 (16 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">25 (16 см)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916821">
+    <url>https://onstyles.com.ua/p1112916821-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 26 (17 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">26 (17 см)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916822">
+    <url>https://onstyles.com.ua/p1112916822-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 27 (17,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">27 (17,5 см)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916823">
+    <url>https://onstyles.com.ua/p1112916823-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 28 (18 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">28 (18 см)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916824">
+    <url>https://onstyles.com.ua/p1112916824-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 29 (19 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">29 (19 см)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916825">
+    <url>https://onstyles.com.ua/p1112916825-akvatapki-detskie-lupilu.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-lupilu.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-lupilu.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Lupilu  Германия  Размер - 30 (20 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">30 (20 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916826">
+    <url>https://onstyles.com.ua/p1112916826-akvatapki-detskie-peperts.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-peperts.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-peperts.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Peperts  Германия  Размер - 31 (19,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">31 (19,5 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916827">
+    <url>https://onstyles.com.ua/p1112916827-akvatapki-detskie-peperts.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-peperts.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-peperts.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Peperts  Германия  Размер - 32 (21 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">32 (21 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916828">
+    <url>https://onstyles.com.ua/p1112916828-akvatapki-detskie-peperts.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-peperts.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-peperts.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Peperts  Германия  Размер - 33 (22 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">33 (22 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321211" id="1112916829">
+    <url>https://onstyles.com.ua/p1112916829-akvatapki-detskie-peperts.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165828655_akvatapki-detskie-peperts.jpg</picture>
+    <picture>https://images.ua.prom.st/2165828651_akvatapki-detskie-peperts.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  детские  Peperts  Германия  Размер - 34 (22,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap dblue-green</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">34 (22,5 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916830">
+    <url>https://onstyles.com.ua/p1112916830-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829200_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размеры: 24-36</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916831">
+    <url>https://onstyles.com.ua/p1112916831-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 24 (15,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">24 (15,5 cм)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916832">
+    <url>https://onstyles.com.ua/p1112916832-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 25 (16 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">25 (16 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916833">
+    <url>https://onstyles.com.ua/p1112916833-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 26 (17 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">26 (17 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916834">
+    <url>https://onstyles.com.ua/p1112916834-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 27 (17,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">27 (17,5 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916835">
+    <url>https://onstyles.com.ua/p1112916835-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 28 (18,3 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">28 (18,3 cм)</param>
+    <param name="Колір" unit="">Сине-мятный</param>
+    <param name="Стать" unit="">унисекс</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916837">
+    <url>https://onstyles.com.ua/p1112916837-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 29 (19 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">29 (19 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916838">
+    <url>https://onstyles.com.ua/p1112916838-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 30 (20 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">30 (20 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916839">
+    <url>https://onstyles.com.ua/p1112916839-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 31 (19,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">31 (19,5 cм)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916840">
+    <url>https://onstyles.com.ua/p1112916840-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 32 (20 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">32 (20 cм)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916841">
+    <url>https://onstyles.com.ua/p1112916841-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 33 (21 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">33 (21 cм)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916842">
+    <url>https://onstyles.com.ua/p1112916842-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 34 (22 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">34 (22 cм)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916843">
+    <url>https://onstyles.com.ua/p1112916843-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 35 (22,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">35 (22,5 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321212" id="1112916844">
+    <url>https://onstyles.com.ua/p1112916844-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165829267_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 36 (23 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap grey</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">36 (23 см)</param>
+    <param name="Колір" unit="">Серый</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916845">
+    <url>https://onstyles.com.ua/p1112916845-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907576_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907567_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907572_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907593_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размеры: 24-36</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916846">
+    <url>https://onstyles.com.ua/p1112916846-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 24 (15,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">24 (15,5 cм)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916847">
+    <url>https://onstyles.com.ua/p1112916847-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 25 (16 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">25 (16 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916848">
+    <url>https://onstyles.com.ua/p1112916848-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 26 (17 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">26 (17 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916849">
+    <url>https://onstyles.com.ua/p1112916849-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 27 (17,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">27 (17,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916850">
+    <url>https://onstyles.com.ua/p1112916850-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 28 (18 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">28 (18 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916851">
+    <url>https://onstyles.com.ua/p1112916851-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 29 (19 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">29 (19 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916852">
+    <url>https://onstyles.com.ua/p1112916852-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Lupilu  Германия  Размер - 30 (20 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">30 (20 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916853">
+    <url>https://onstyles.com.ua/p1112916853-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 31 (19,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">31 (19,5 cм)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916854">
+    <url>https://onstyles.com.ua/p1112916854-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 32 (20 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">32 (20 cм)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916855">
+    <url>https://onstyles.com.ua/p1112916855-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 33 (21 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">33 (21 cм)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916856">
+    <url>https://onstyles.com.ua/p1112916856-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 34 (22 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">34 (22 cм)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916857">
+    <url>https://onstyles.com.ua/p1112916857-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 35 (22,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">35 (22,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321213" id="1112916858">
+    <url>https://onstyles.com.ua/p1112916858-akvatapki-dlya-malchika.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907657_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907660_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907663_akvatapki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907668_akvatapki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  мальчика  Peperts  Германия  Размер - 36 (23 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap blue new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">36 (23 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916859">
+    <url>https://onstyles.com.ua/p1112916859-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907135_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907125_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907132_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размеры: 24-32</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916860">
+    <url>https://onstyles.com.ua/p1112916860-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 24 (15,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">24 (15,5 cм)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916861">
+    <url>https://onstyles.com.ua/p1112916861-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 25 (16 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">25 (16 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916862">
+    <url>https://onstyles.com.ua/p1112916862-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 26 (17 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">26 (17 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916863">
+    <url>https://onstyles.com.ua/p1112916863-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 27 (17,5 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">27 (17,5 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916864">
+    <url>https://onstyles.com.ua/p1112916864-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 28 (18 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">28 (18 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916865">
+    <url>https://onstyles.com.ua/p1112916865-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 29 (19 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">29 (19 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916866">
+    <url>https://onstyles.com.ua/p1112916866-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 30 (20 см)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">30 (20 см)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="" group_id="612321214" id="1112916867">
+    <url>https://onstyles.com.ua/p1112916867-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Lupilu  Германия  Размер - 31 (19,5 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">31 (19,5 cм)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321214" id="1112916868">
+    <url>https://onstyles.com.ua/p1112916868-akvatapki-dlya-devochki.html</url>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>62337085</categoryId>
+    <picture>https://images.ua.prom.st/2165907217_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907224_akvatapki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165907234_akvatapki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Акватапки  для  девочки  Peperts  Германия  Размер - 32 (20 cм)</name>
+    <vendor>Lupilu</vendor>
+    <vendorCode>CoralTap pink new</vendorCode>
+    <description><![CDATA[Аквашузы от немецкого производителя - отличное преспособление для морского отдыха, в частности на галечном пляже. Защищает от порезов и ударов на коралловых рифах и камянистых пляжах. Полностью из 100% полиэстра, быстро сохнут.]]></description>
+    <param name="Розмір" unit="">32 (20 cм)</param>
+    <param name="Колір" unit="">Розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: текстиль/ стелька: текстиль/ подошва: резина</param>
+    <param name="Сезон" unit="">всесезон</param>
+    <param name="Вид взуття" unit="">Акватапки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916869">
+    <url>https://onstyles.com.ua/p1112916869-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906594_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906590_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906566_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906584_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906605_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размеры: 31-35</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916870">
+    <url>https://onstyles.com.ua/p1112916870-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 31 (20,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">31 (20,5 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916871">
+    <url>https://onstyles.com.ua/p1112916871-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 32 (21 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">32 (21 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916872">
+    <url>https://onstyles.com.ua/p1112916872-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 33 (21,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">33 (21,5 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916873">
+    <url>https://onstyles.com.ua/p1112916873-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 34 (22 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">34 (22 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="" group_id="612321215" id="1112916874">
+    <url>https://onstyles.com.ua/p1112916874-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 35 (22,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">35 (22,5 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321215" id="1112916875">
+    <url>https://onstyles.com.ua/p1112916875-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906691_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906814_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906811_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906636_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906642_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 36 (23,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 black-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">36 (23,5 см)</param>
+    <param name="Колір" unit="">Черно-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916876">
+    <url>https://onstyles.com.ua/p1112916876-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165905813_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905799_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905807_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905770_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905788_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размеры: 32-36</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="" group_id="612321216" id="1112916877">
+    <url>https://onstyles.com.ua/p1112916877-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 31 (20,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">31 (20,5 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916878">
+    <url>https://onstyles.com.ua/p1112916878-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 32 (21 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">32 (21 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916879">
+    <url>https://onstyles.com.ua/p1112916879-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 33 (21,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">33 (21,5 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916880">
+    <url>https://onstyles.com.ua/p1112916880-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 34 (22 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">34 (22 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916881">
+    <url>https://onstyles.com.ua/p1112916881-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 35 (22,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">35 (22,5 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321216" id="1112916882">
+    <url>https://onstyles.com.ua/p1112916882-botinki-dlya-devochki.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70918988</categoryId>
+    <picture>https://images.ua.prom.st/2165906089_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906087_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165906088_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905860_botinki-dlya-devochki.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905955_botinki-dlya-devochki.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  девочки  Crivit  Германия  Размер - 36 (23,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-pink</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">36 (23,5 см)</param>
+    <param name="Колір" unit="">Серо-розовый</param>
+    <param name="Стать" unit="">девочка</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321217" id="1112916883">
+    <url>https://onstyles.com.ua/p1112916883-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165904962_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905007_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165904995_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165904946_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165904944_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размеры: 32,33</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-blue</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Колір" unit="">Серо-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321217" id="1112916884">
+    <url>https://onstyles.com.ua/p1112916884-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165905366_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905369_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905373_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905356_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905362_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 32 (21 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-blue</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">32 (21 см)</param>
+    <param name="Колір" unit="">Серо-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321217" id="1112916885">
+    <url>https://onstyles.com.ua/p1112916885-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165905366_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905369_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905373_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905356_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165905362_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 33 (21,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 grey-blue</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">33 (21,5 см)</param>
+    <param name="Колір" unit="">Серо-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916886">
+    <url>https://onstyles.com.ua/p1112916886-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165902251_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165902208_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165902273_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165902284_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165902543_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки для мальчика Crivit Германия Размеры: 31,32,33,34,36</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916887">
+    <url>https://onstyles.com.ua/p1112916887-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 31 (20,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">31 (20,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916888">
+    <url>https://onstyles.com.ua/p1112916888-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 32 (21 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">32 (21 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916889">
+    <url>https://onstyles.com.ua/p1112916889-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 33 (21,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">33 (21,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916890">
+    <url>https://onstyles.com.ua/p1112916890-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 34 (22 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">34 (22 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="" group_id="612321218" id="1112916891">
+    <url>https://onstyles.com.ua/p1112916891-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 35 (22,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">35 (22,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  <offer available="true" group_id="612321218" id="1112916892">
+    <url>https://onstyles.com.ua/p1112916892-botinki-dlya-malchika.html</url>
+    <price>689</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>70919793</categoryId>
+    <picture>https://images.ua.prom.st/2165903358_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903350_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903353_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903318_botinki-dlya-malchika.jpg</picture>
+    <picture>https://images.ua.prom.st/2165903320_botinki-dlya-malchika.jpg</picture>
+    <pickup>false</pickup>
+    <delivery>true</delivery>
+    <name>Ботинки  для  мальчика  Crivit  Германия  Размер - 36 (23,5 см)</name>
+    <vendor>Crivit Sports</vendor>
+    <vendorCode>Сrivit 301892 blue-green</vendorCode>
+    <description><![CDATA[Немецкое качество по отличной цене. Ботинки отлично подойдут на каждый день, для туризма, лесных и горных прогулок, на холодную осень или европейскую зиму. 
+Дышащие, водоотталкивающие и ветронепроницаемые ботинки, благодаря встроенной мембране S-TEX.
+    Прочная, профилированная подошва для устойчивости на любой поверхности;
+    Съемная стелька анатомической формы;
+    Лучшая видимость благодаря отражающим элементам 3M Scotchlite ™;
+    Приятный комфорт при ношении благодаря дышащей сетчатой ​​подкладке;
+    Оптимальная посадка.]]></description>
+    <param name="Розмір" unit="">36 (23,5 см)</param>
+    <param name="Колір" unit="">Темно-синий</param>
+    <param name="Стать" unit="">мальчик</param>
+    <param name="Матеріал" unit="">верх: мембрана S-Tex/ внутри: текстильная сетка/ стелька: текстиль/ подошва: TPR</param>
+    <param name="Сезон" unit="">осень-зима</param>
+    <param name="Вид взуття" unit="">Ботинки</param>
+  </offer>
+  </offers>
+</shop>
+</yml_catalog>
